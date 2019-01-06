@@ -1,0 +1,26 @@
+2	be	v	*bheue-
+4	of	i	*apo-
+5	a	a	*oi-no-
+8	have	v	*kap-
+10	it	p	*ko-
+13	for	i	*per-
+18	do	v	*dhe-
+22	at	i	*ad-
+23	but	c	*ambhi-
+34	what	d	*kwo-
+37	can	v	*gno-
+39	get	v	*ghend-
+45	make	v	*mag-
+52	time	n	*da-
+60	some	d	*sem-
+67	see	v	*sed-
+70	come	v	*gwa-
+75	other	j	*al-
+80	two	m	*dwo-
+83	want	v	*eue-
+84	way	n	*wegh-
+90	day	n	*agh-, *dyeu-
+93	no	a	*aiw-, *ne-
+94	man	n	*man-, *men-, *ner-, *wi-ro-
+98	give	v	*ghabh-
+100	well	r	*wel-
