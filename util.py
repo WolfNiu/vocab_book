@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # In[1]:
@@ -20,6 +20,61 @@ from nltk.tokenize import word_tokenize
 import logging
 from gensim.models import KeyedVectors
 import itertools
+from collections import namedtuple
+from selenium.webdriver.chrome.options import Options as ChromeOptions
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.proxy import Proxy, ProxyType
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+
+
+# In[2]:
+
+
+def get_driver(browser="chrome", headless=False, extensions=None, proxy=None, user_agent=None):
+    if browser == "chrome":
+        options = ChromeOptions()
+        if headless:
+            options.add_argument("-headless")
+        if extensions is not None:
+            if not isinstance(extensions, list):
+                extensions = [extensions]
+            for ext in extensions:
+                options.add_extension(ext)
+        driver = webdriver.Chrome(chrome_options=options)
+    elif browser == "firefox":
+        profile = webdriver.FirefoxProfile()
+        if headless:
+            options = FirefoxOptions()
+            options.add_argument("--headless")
+        else:
+            options = None
+        if proxy is not None:
+            ip = proxy['ip']
+            port = int(proxy['port'])
+            profile.set_preference("network.proxy.type", 1)
+            profile.set_preference("network.proxy.http", ip)
+            profile.set_preference("network.proxy.http_port", port)
+            profile.set_preference("network.proxy.ssl", ip)
+            profile.set_preference("network.proxy.ssl_port", port)
+        if user_agent is not None:
+            profile.set_preference("general.useragent.override", user_agent)
+        
+        profile.update_preferences()
+        
+        driver = webdriver.Firefox(
+            firefox_profile=profile, 
+            firefox_options=options,
+            executable_path='./geckodriver',
+            proxy=proxy)
+    elif browser == "safari":
+        driver = webdriver.Safari()
+    else:
+        print(f"Error: unknown browser {browser}")
+        raise
+        
+    return driver
 
 
 # In[1]:

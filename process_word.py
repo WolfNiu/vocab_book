@@ -1,13 +1,12 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[10]:
 
 
 """
 Todo:
-    • (failed due to recursion limit) for each root without "-", search for its roots (if they are within vocab) 
-        and add them to its own entry
+    • debug and see why all_roots is [] most of the time!
 """
 
 from bs4 import BeautifulSoup
@@ -20,6 +19,7 @@ from pprint import pprint
 import itertools
 import sys
 from fuzzywuzzy import fuzz
+from tqdm import tqdm
 from pattern.en import lemma, comparative, superlative
 
 
@@ -255,7 +255,7 @@ replace_dict = {
     "preschooler": "preschool",
     "densely": "dense",
     "guidebook": ["guide", "book"],
-    "airliner": "airine",
+    "airliner": "airline",
     "nonstick": ["non-", "stick"],
     "ethnically": "ethnic",
     "battleground": ["battle", "ground"],
@@ -291,7 +291,7 @@ replace_dict = {
     "democratically": "democrat",
     "terminally": "terminal",
     "mountainside": ["mountain", "side"],
-    "boisolids": ["bio-", "solid"],
+    "biosolids": ["bio-", "solid"],
     "airlock": ["air", "lock"],
     "sculptural": "sculpture",
     "streetlight": ["street", "light"],
@@ -360,7 +360,7 @@ replace_dict = {
     "songbird": ["song", "bird"],
     "sportswriter": ["sport", "write", "-er"],
     "truckload": ["truck", "load"],
-    "corsstalk": ["cross", "talk"],
+    "crosstalk": ["cross", "talk"],
     "framer": ["frame", "-er"],
     "graphical": "graphic",
     "schoolwork": ["school", "work"],
@@ -469,14 +469,17 @@ replace_dict = {
 Why are there two "mm"s?
 """
 abbreviations = [
-    "PM", "mm", "PC", "GI", "IQ", "HMO", "GDP", "PHD", "DJ", 
+    "PM", "mm", "PC", "GI", "IQ", "HMO", "GDP", "PhD", "DJ", 
     "MBA", "ANOVA", "mmm", "MP", "IPO", "APR", "ICU", "mm", "MRI",
     "CPA", "CFC", "ADHD"
 ]
 
 special_words = [
+    "mike",
+    "IPod",
+    "y''all",
     "Qaeda", # Al-Qaeda 是“基地”组织
-    "chechen",
+    "Chechen",
     "Salvadoran",
     "shh",
     "ahh",
@@ -550,20 +553,18 @@ if debugging:
     word_freq_lst = word_freq_lst[start:end]
 
 word_roots_dict = {}
-for (i, line) in enumerate(word_freq_lst):
-    if i % 100 == 0 and i > 0:
-        print("Processed %d words" % i)
-    
-    split = line.split("\t")
+for i in tqdm(range(len(word_freq_lst))):
+    split = word_freq_lst[i].split("\t")
     assert len(split) == 3
     word = split[1]
     if "-" in word: # if it is a compound word with "-"
-        roots = list(set(list(itertools.chain(*([find_roots(subword) for subword in word.split("-")])))))
+        roots = list(
+            set(list(itertools.chain(*([find_roots(subword) for subword in word.split("-")])))))
     else:
         roots = find_roots(word)
     
-    if word in roots:
-        roots.remove(word)
+#     if word in roots:
+#         roots.remove(word)
 
     word_roots_dict[word] = roots
 
