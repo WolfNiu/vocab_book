@@ -1,0 +1,10 @@
+the	1	547
+be	2	100	*bheue-
+and	3	-1
+of	4	-1	*apo-
+a	5	-1	*oi-no-
+in	6	-1
+to	7	-1
+have	8	-1	*kap-
+it	10	-1	*ko-
+I	11	-1

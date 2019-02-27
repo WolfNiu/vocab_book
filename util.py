@@ -262,14 +262,15 @@ def read_lines(filename):
     
     return [line.strip() for line in lines]
 
-def write_lines(filename, lines):
+def write_lines(filename, lines, mode='w'):
     """
     Write a list to a file line by line 
     """
-    with open(filename, 'w', encoding="utf-8") as fp:
+    with open(filename, mode, encoding="utf-8") as fp:
         for line in lines:
             print(line, file=fp)
-    print("Done writing to file %s." % filename)
+    action = 'writing' if mode == 'w' else 'appending'
+    print(f"Done {action} to file {filename}.")
 
 
 # In[10]:
