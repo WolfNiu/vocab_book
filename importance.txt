@@ -1,151 +1,26 @@
-the	1	-1
-be	2	-1	*bheue-
-and	3	-1
-of	4	-1	*apo-
-a	5	-1	*oi-no-
-in	6	-1
-to	7	-1
-have	8	-1	*kap-
-it	10	-1	*ko-
+the	1	0
+be	2	105	*bheue-
+and	3	0
+of	4	32	*apo-
+a	5	0	*oi-no-
+in	6	161
+to	7	15
+have	8	285	*kap-
+it	10	0	*ko-
 I	11	-1
-that	12	-1
-for	13	-1	*per-
-you	14	-1
+that	12	100
+for	13	10	*per-
+you	14	0
 he	15	-1	*ko-
-with	16	-1
-on	17	-1	*oi-no-
-do	18	-1	*dhe-
-say	19	-1
-this	20	-1
+with	16	16
+on	17	80	*oi-no-
+do	18	631	*dhe-
+say	19	180
+this	20	15
 they	21	-1	*ko-
-at	22	-1	*ad-
-but	23	-1	*ambhi-
+at	22	0	*ad-
+but	23	22	*ambhi-
 we	24	-1
 his	25	-1	*ko-
-from	26	-1	*per-
-not	28	-1	*ne-
-n't	29	-1
-by	30	-1	*ambhi-
-she	31	-1	*ko-
-or	32	-1
-as	33	-1
-what	34	-1	*kwo-
-go	35	-1
-their	36	-1	*ko-
-can	37	-1	*gno-
-who	38	-1	*kwo-
-get	39	-1	*ghend-
-if	40	-1
-would	41	-1
-her	42	-1	*ko-
-all	43	-1
-my	44	-1
-make	45	-1	*mag-
-about	46	-1	*ambhi-
-know	47	-1	*gno-
-will	48	-1
-up	50	-1
-one	51	-1	*oi-no-
-time	52	-1	*da-
-there	53	-1
-year	54	-1
-so	55	-1
-think	56	-1
-when	57	-1	*kwo-
-which	58	-1	*kwo-
-them	59	-1
-some	60	-1	*sem-
-me	61	-1
-people	62	-1
-take	63	-1
-out	64	-1
-into	65	-1
-just	66	-1
-see	67	-1	*sed-
-him	68	-1	*ko-
-your	69	-1
-come	70	-1	*gwa-
-could	71	-1	*gno-
-now	72	-1
-than	73	-1
-like	74	-1
-other	75	-1	*al-
-how	76	-1	*kwo-
-then	77	-1
-its	78	-1	*ko-
-our	79	-1
-two	80	-1	*dwo-
-more	81	-1
-these	82	-1
-want	83	-1	*eue-
-way	84	-1	*wegh-
-look	85	-1
-first	86	-1	*per-
-also	87	-1
-new	88	-1
-because	89	-1
-day	90	-1	*agh-,	*dyeu-
-use	92	-1
-no	93	-1	*aiw-,	*ne-
-man	94	-1	*man-,	*men-,	*ner-,	*wi-ro-
-find	95	-1
-here	96	-1	*ko-
-thing	97	-1
-give	98	-1	*ghabh-
-many	99	-1
-well	100	-1	*wel-
-only	101	-1	*oi-no-
-those	102	-1
-tell	103	-1
-very	105	-1	*were-o-
-even	107	-1
-back	108	-1
-any	109	-1	*oi-no-
-good	110	-1
-woman	111	-1	*man-,	*men-,	*ner-,	*wi-ro-
-through	112	-1	*tere-
-us	113	-1
-life	114	-1	*leip-
-child	115	-1
-work	117	-1	*werg-
-down	118	-1
-may	119	-1	*magh-,	*meg-
-after	120	-1	*apo-
-should	121	-1
-call	122	-1	*gal-
-world	123	-1	*al-,	*wi-ro-
-over	124	-1
-school	125	-1	*segh-,	*skel-
-still	126	-1	*stel-
-try	127	-1
-last	130	-1	*lois-,	*‌‌lē-
-ask	131	-1
-need	132	-1
-too	133	-1
-feel	134	-1
-three	135	-1
-state	137	-1	*sta-
-never	138	-1	*aiw-,	*ne-
-become	139	-1	*gwa-
-between	140	-1	*ambhi-,	*dwo-
-high	141	-1
-really	142	-1	*reg-
-something	143	-1
-most	144	-1
-another	145	-1
-much	146	-1	*meg-
-family	147	-1
-own	148	-1	*aik-
-leave	150	-1	*leip-,	*leubh-
-put	151	-1
-old	152	-1	*al-
-while	153	-1	*kweie-
-mean	154	-1	*medhyo-,	*mei-,	*men-
-keep	156	-1
-student	157	-1
-why	158	-1	*kwo-
-let	159	-1	*‌‌lē-
-great	160	-1
-same	161	-1	*sem-
-big	162	-1
-group	163	-1
+from	26	0	*per-
+not	28	0	*ne-

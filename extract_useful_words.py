@@ -36,7 +36,7 @@ for entry in tqdm(entries):
 def get_num_related(word, verbose=False):
     driver.get(f'https://www.merriam-webster.com/thesaurus/{word}')
     
-    hwords = driver.find_element_by_xpath("//h1[@class='hword']")
+    hword = driver.find_element_by_xpath("//h1[@class='hword']")
     if hword.text != word: # if the word is not the main entry
         print(f"Couldn't find main entry for {word}.")
         print(f"The main entry shown is {hword.text}\n")
@@ -69,7 +69,7 @@ def get_num_related(word, verbose=False):
     return num_related
 
 
-# In[ ]:
+# In[5]:
 
 
 intermediate_file = 'intermediate_importance.pkl'
@@ -80,7 +80,7 @@ else:
     new_vocab = OrderedDict()
 
 
-# In[ ]:
+# In[6]:
 
 
 for i, (word, lst) in tqdm(enumerate(list(vocab.items()))):
