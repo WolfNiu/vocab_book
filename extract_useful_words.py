@@ -20,26 +20,6 @@ driver = get_driver(browser='chrome', headless=True)
 # In[3]:
 
 
-def get_num_related(word):
-    driver.get(f'https://www.merriam-webster.com/thesaurus/{word}')
-    elems = driver.find_elements_by_xpath(
-        '//a[starts-with(@href, "/dictionary/")]')
-
-    related_words = [
-        elem.text.strip()
-        for elem in elems]
-    
-    in_vocab_words = [
-        related_word
-        for related_word in set(related_words[1:-1])
-        if all([token in vocab for token in related_word.split()])]
-    num_related = len(in_vocab_words)
-    return num_related
-
-
-# In[4]:
-
-
 entries = read_lines('roots.txt')
 vocab = OrderedDict()
 for entry in tqdm(entries):
@@ -50,7 +30,46 @@ for entry in tqdm(entries):
         vocab[word] = [lst[0]] + lst[2:]
 
 
-# In[7]:
+# In[4]:
+
+
+def get_num_related(word, verbose=False):
+    driver.get(f'https://www.merriam-webster.com/thesaurus/{word}')
+    
+    hwords = driver.find_element_by_xpath("//h1[@class='hword']")
+    if hword.text != word: # if the word is not the main entry
+        print(f"Couldn't find main entry for {word}.")
+        print(f"The main entry shown is {hword.text}\n")
+        return 0
+    
+    elems = driver.find_elements_by_xpath(
+        '//a[starts-with(@href, "/dictionary/")]')    
+    related_words = [
+        elem.text.strip()
+        for elem in elems]
+    
+    if verbose:
+        print(len(related_words))
+        print(related_words[1:-1])
+    
+    in_vocab_words = [
+        related_word
+        for related_word in set(related_words[1:-1])
+        if all([(token in vocab) 
+                for token 
+                in related_word.replace('(', '').replace(')', '').split()])]
+    num_related = len(in_vocab_words)
+    
+    if verbose:
+        print("")
+        print(num_related)
+        print(in_vocab_words)
+    
+    
+    return num_related
+
+
+# In[ ]:
 
 
 intermediate_file = 'intermediate_importance.pkl'
@@ -61,7 +80,7 @@ else:
     new_vocab = OrderedDict()
 
 
-# In[6]:
+# In[ ]:
 
 
 for i, (word, lst) in tqdm(enumerate(list(vocab.items()))):
@@ -75,6 +94,10 @@ for i, (word, lst) in tqdm(enumerate(list(vocab.items()))):
     
     if i % 25 == 0 and i > 0: # store intermediate result every ? iterations
         dump_pickle("intermediate_importance.pkl", new_vocab)
+        updated_entries = [
+            '\t'.join([k] + v) 
+            for k, v in new_vocab.items()] 
+        write_lines('importance.txt', updated_entries)
 
 updated_entries = [
     '\t'.join([k] + v) 
