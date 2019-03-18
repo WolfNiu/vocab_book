@@ -48,7 +48,7 @@ cool	1458	366	*gel-
 soft	1381	360
 bear	1628	358	*bher-
 end	279	357	*ant-
-strain	3691	357	*stere-
+strain	3691	357	stringere
 dark	860	355
 hold	214	354	*kel-
 full	504	353	*bhel-,	*pele-
@@ -1026,7 +1026,7 @@ grant	1921	123	*kerd-
 consume	3031	123	*em-
 cluster	3228	123
 decrease	3400	123	*ker-
-distress	5256	123
+distress	5256	123	stringere
 jam	5543	123
 jerk	5782	123
 energetic	7253	123	*werg-
@@ -1199,7 +1199,7 @@ dupe	17151	114
 vex	18450	114	*wegh-
 subject	670	113	*ye-
 strange	1589	113
-stress	1744	113
+stress	1744	113	stringere
 impress	3081	113	*per-
 crawl	3874	113
 burning	4080	113
@@ -1617,7 +1617,7 @@ style	971	96
 rich	1079	96	*reg-
 initiate	3557	96	*ei-
 trap	3573	96
-strict	3590	96
+strict	3590	96	stringere
 scramble	4370	96
 encouraging	4414	96
 junk	5195	96
@@ -1735,7 +1735,7 @@ thud	13159	92
 impeccable	13267	92	*ped-
 postulate	13427	92	*prek-
 esoteric	14258	92
-distressing	14390	92
+distressing	14390	92	stringere
 nutty	15000	92
 botch	18657	92
 white	302	91
@@ -1752,7 +1752,7 @@ cutting	5542	91
 distraction	6259	91
 tricky	6485	91
 dodge	7043	91
-constrain	7886	91	*stere-
+constrain	7886	91	stringere
 fasten	8090	91
 groove	8480	91
 flare	8626	91
@@ -1824,7 +1824,7 @@ verdict	4285	89	*deik-,	*were-o-
 collar	4597	89	*kwel-
 roar	5342	89
 magical	5655	89	*magh-
-restrain	6933	89
+restrain	6933	89	stringere
 crater	6992	89
 unwanted	7045	89	*eue-
 arouse	7277	89	*ere-
@@ -2492,7 +2492,7 @@ problematic	5632	73	*gwele-,	*per-
 terminal	5864	73
 composite	6838	73
 fetch	6853	73	*ped-
-stressful	7281	73
+stressful	7281	73	stringere
 reap	7738	73
 bail	8112	73
 growl	8926	73
@@ -2541,7 +2541,7 @@ pierce	6949	72	*per-
 staple	7118	72
 veto	7421	72
 pardon	7979	72	*do-,	*per-
-restricted	8995	72
+restricted	8995	72	stringere
 greedy	9096	72	*gher-
 revolt	9161	72	*wel-
 hairy	9947	72
@@ -2849,7 +2849,7 @@ pill	3455	66
 obstacle	3603	66	*sta-
 experienced	4379	66	*per-
 fever	4418	66
-constraint	4703	66	*stere-
+constraint	4703	66	stringere
 distinctive	4775	66
 prevail	4795	66	*wal-
 balloon	4827	66	*bhel-
@@ -3044,7 +3044,7 @@ fugitive	8907	63
 authoritative	9371	63	*aug-
 overt	9424	63	*apo-,	*wer-
 derail	10858	63	*reg-
-strained	11042	63
+strained	11042	63	stringere
 gruesome	11713	63
 fraught	12030	63	*aik-
 feeble	12618	63
@@ -3108,7 +3108,7 @@ ooze	11334	62
 strut	11772	62	*ster-
 misuse	12387	62
 quintessential	12565	62
-unrestricted	13724	62
+unrestricted	13724	62	stringere
 awash	14261	62	*wed-
 unfounded	14618	62	*gheu-
 underpinning	14775	62
@@ -3549,7 +3549,7 @@ screw	4802	55	*sker-
 clarify	5113	55	*dhe-,	*kele-
 exile	5341	55
 breakthrough	5379	55	*tere-
-restraint	5486	55
+restraint	5486	55	stringere
 tempt	5665	55
 summon	5771	55	*men-
 contempt	6373	55
@@ -3658,7 +3658,7 @@ malicious	13519	54	*mel-
 geek	13748	54
 misgiving	13773	54	*ghabh-
 commencement	14037	54	*ei-
-strait	14191	54
+strait	14191	54	stringere
 entangle	14787	54
 misinterpret	14922	54	*per-
 instinctive	14977	54
@@ -3723,7 +3723,7 @@ consortium	8235	53
 aroma	8488	53
 apparel	9127	53	*pere-
 tutor	9296	53
-stringent	9407	53
+stringent	9407	53	stringere
 notch	9699	53
 admirable	10735	53
 principally	10745	53	*kap-,	*per-
@@ -3868,7 +3868,7 @@ perfection	6604	51	*dhe-,	*per-
 contention	6653	51	*ten-
 proliferation	6685	51	*al-,	*bher-
 delighted	6710	51
-prestige	6797	51
+prestige	6797	51	stringere
 deepen	6832	51
 appealing	7146	51	*pel-
 frenzy	7409	51
@@ -3899,7 +3899,7 @@ circumstantial	13766	51
 leisurely	13798	51
 alluring	14646	51
 pivot	15913	51
-constrict	16547	51
+constrict	16547	51	stringere
 corrosive	16761	51
 bereft	16772	51
 indeterminate	16777	51
@@ -4158,7 +4158,7 @@ circus	6131	47	*sker-
 deprive	6290	47	*per-
 hose	6316	47	*(s)keu-
 passport	6332	47	*per-,	*pete-
-prestigious	6551	47
+prestigious	6551	47	stringere
 refine	6701	47
 verge	6741	47	*wer-
 transcend	6761	47
@@ -5008,7 +5008,7 @@ rife	14492	39
 crusader	14820	39
 liking	14863	39
 naturalistic	15239	39	*gene-
-restrained	15271	39
+restrained	15271	39	stringere
 detectable	15927	39	*(s)teg-
 wrongful	16495	39	*wer-
 incessantly	16948	39
@@ -6046,7 +6046,7 @@ tribe	2971	29	*bheue-
 medication	3176	29	*med-
 highlight	3399	29	*legwh-,	*leuk-
 civilization	3524	29	*kei-
-restrict	3574	29
+restrict	3574	29	stringere
 possession	3628	29	*poti-,	*sed-
 database	3673	29
 innovation	3690	29
@@ -7135,7 +7135,7 @@ investigate	1816	21
 requirement	1899	21
 grandfather	2974	21
 framework	2993	21	*per-
-restriction	3153	21
+restriction	3153	21	stringere
 script	3315	21	*skribh-
 corridor	3507	21	*kers-
 architecture	3541	21	*teks-
@@ -7539,7 +7539,7 @@ example	855	18	*em-
 writer	983	18
 partner	1052	18	*pere-
 possibility	1199	18
-district	1272	18
+district	1272	18	stringere
 colleague	1527	18	*leg-
 invite	1610	18
 teaching	1647	18	*deik-
@@ -9187,7 +9187,7 @@ syndrome	4322	6
 waist	4348	6	*aug-
 actively	4356	6	*ag-
 consequently	4406	6
-strictly	4595	6
+strictly	4595	6	stringere
 likelihood	4649	6
 atop	4651	6
 plaintiff	4996	6	*plak-
@@ -10610,7 +10610,7 @@ fiancee	14003	0	*bheidh-
 automation	14015	0	*men-
 anatomical	14024	0	*tem-
 choreographer	14035	0
-distressed	14040	0
+distressed	14040	0	stringere
 vested	14041	0	*eu-
 methodically	14058	0
 cooling	14080	0
@@ -10751,7 +10751,7 @@ ranked	15231	0
 inexplicably	15246	0
 repayment	15250	0	*pag-
 icing	15269	0
-restraining	15277	0
+restraining	15277	0	stringere
 conceptually	15279	0
 discouraging	15291	0	*kerd-
 grading	15292	0
@@ -12939,7 +12939,7 @@ curiously	8670	-1
 dresser	8672	-1	*reg-
 mystical	8681	-1
 metallic	8682	-1
-restrictive	8685	-1
+restrictive	8685	-1	stringere
 pudding	8686	-1
 intuition	8687	-1
 granddaughter	8691	-1
@@ -13730,7 +13730,7 @@ resurrection	10437	-1
 acoustic	10438	-1
 earthly	10439	-1	*er-
 decipher	10440	-1
-stressor	10441	-1
+stressor	10441	-1	stringere
 caravan	10442	-1
 innate	10443	-1	*gene-
 finalist	10445	-1
@@ -16974,7 +16974,7 @@ commercialize	18848	-1
 mass-produced	18849	-1
 pancreatic	18850	-1
 polka	18851	-1	*pele-
-strainer	18852	-1	*stere-
+strainer	18852	-1	stringere
 externalize	18853	-1
 Scotch	18855	-1
 gumbo	18856	-1
@@ -17064,7 +17064,7 @@ trawler	18952	-1
 deliverance	18953	-1
 CFC	18954	-1
 aftershock	18955	-1	*apo-
-stricture	18956	-1
+stricture	18956	-1	stringere
 triathlon	18957	-1
 manhunt	18958	-1
 sleeveless	18959	-1	*sleubh-
