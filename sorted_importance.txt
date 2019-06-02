@@ -6211,7 +6211,7 @@ extensively	7100	28
 massage	7172	28	*mag-
 insurgent	7425	28	*reg-
 mid	7471	28	*medhyo-
-contradictory	7561	28
+contradictory	7561	28	*deik-
 systematically	7671	28
 novice	7704	28
 ordeal	7842	28	*da-
