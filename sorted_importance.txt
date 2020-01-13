@@ -9077,7 +9077,7 @@ grower	6056	7
 dial	6177	7	*dyeu-
 marital	6333	7
 coffin	6352	7
-vegetation	6367	7
+vegetation	6367	7	*weg-
 fairy	6461	7	*bha-
 cleaner	6667	7
 sermon	6705	7	*ser-
@@ -13075,7 +13075,7 @@ ballroom	9233	-1	*bhel-,	*gwele-
 bladder	9238	-1	*bhle-
 retrospective	9242	-1	*spek-
 herbal	9248	-1
-vegetarian	9249	-1
+vegetarian	9249	-1	*weg-
 china	9255	-1
 on-site	9258	-1	*tkei-
 lava	9269	-1	*leue-
@@ -14126,7 +14126,7 @@ revolver	11305	-1	*wel-
 sweatshirt	11306	-1	*sker-
 campfire	11322	-1
 Taiwanese	11324	-1
-veggie	11325	-1
+veggie	11325	-1	*weg-
 verification	11366	-1	*dhe-,	*were-o-
 shallot	11367	-1
 tenuous	11376	-1	*ten-
@@ -16471,7 +16471,7 @@ southward	17377	-1	*sawel-
 hardball	17381	-1	*bhel-,	*gwele-
 box-office	17385	-1	*dhe-,	*op-
 autoimmune	17388	-1	*mei-
-vegetative	17390	-1
+vegetative	17390	-1	*weg-
 PDA	17392	-1
 resale	17396	-1
 ugliness	17398	-1
@@ -17434,7 +17434,7 @@ superconducting	19585	-1
 underserved	19586	-1
 parse	19588	-1	*pere-
 replant	19589	-1	*plat-
-vegan	19591	-1
+vegan	19591	-1	*weg-
 fucker	19592	-1
 minutia	19596	-1	*mei-
 dichotomous	19597	-1
