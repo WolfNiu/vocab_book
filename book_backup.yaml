@@ -1,0 +1,178 @@
+abstain:
+  exp: "hold away\u2014\u2014\u6D53\u6D53\u5730\u7981\u6B32\u5373\u89C6\u611F\u3002"
+  figure: "A(\u7537)\u53CC\u817F\u5939\u7D27\uFF0C\u770B\u7740\u4E00\u4E2A\u5927\u7F8E\
+    \u5973\uFF0C\u8868\u73B0\u51FA\u5F3A\u5FCD\u7684\u72B6\u6001\u3002"
+  freq: '14293'
+  meaning: If you abstain from something, usually something you want to do, you deliberately
+    do not do it.
+  pos: INTRANSITIVE VERB
+  related:
+  - abstinence
+  roots:
+    abs: ab-
+    tain: '*ten-'
+  sent: Abstain from sex or use condoms.
+  use: '0'
+bid:
+  exp: "bid\u662Foffer, proclaim\u7684\u611F\u89C9\uFF0C\u4E5F\u5C31\u662F\u8BA9\u522B\
+    \u4EBAbe aware of how much you intend to pay\u3002"
+  figure: ''
+  freq: '4107'
+  meaning: A bid for something or a bid to do something is an attempt to obtain it
+    or do it.
+  pos: COUNTABLE NOUN
+  related: []
+  roots:
+    bid:
+      exp: "\u5982\u679C\u4E0D\u770B*bheudh-\u91CC\u9762\u90A3\u4E9Bh\u7684\u8BDD\uFF0C\
+        \u90A3bid=beud\u662F\u5F88\u660E\u663E\u7684\u4E8B\u3002"
+      root: '*bheudh-'
+  sent: '...Sydney''s successful bid for the 2000 Olympic Games.'
+  use: '64'
+charm:
+  exp: "charm\u6700\u5F00\u59CB\u662F\u5492\u8BED\u7684\u610F\u601D\uFF0C\u540E\u6765\
+    \u624D\u53D1\u5C55\u51FA\u8FF7\u4EBA\u7684\u611F\u89C9\u3002\u800C\u5492\u8BED\
+    \u4E5F\u7ECF\u5E38\u662F\u88AB\u541F\u5531\u51FA\u6765\u7684\u3002"
+  figure: ''
+  freq: '4822'
+  meaning: Charm is the quality of being pleasant or attractive.
+  pos: VARIABLE NOUN
+  related: []
+  roots:
+    char: '*kan-'
+  sent: '"Snow White and the Seven Dwarfs," the 1937 Disney classic, has lost none
+    of its original charm.'
+  use: '73'
+contend:
+  exp: "\u6597\u4E89\u5C31\u662F\u4E00\u79CD\u5251\u62D4\u5F29\u5F20\u7684\u611F\u89C9\
+    \uFF0C\u6240\u4EE5\u662Fto stretch\u3002\u4E4B\u6240\u4EE5\u5176\u884D\u751F\u8BCD\
+    contention\u8868\u793A\u3010\u8BBA\u70B9\u3011\uFF0C\u662F\u56E0\u4E3A\u8FD9\u662F\
+    \u53CC\u65B9\u4E89\u5435\u662F\u5404\u81EA\u629B\u51FA\u7684\u4E1C\u897F\u3002"
+  figure: "A\u548CB\u4ECE\u4E24\u8FB9\u62FD\u4E00\u4E2A\u6BEF\u5B50\uFF0C\u5404\u81EA\
+    \u5927\u558A\u3010\u6211\u7684\uFF01\u3011"
+  freq: '3587'
+  meaning: If you have to contend with a problem or difficulty, you have to deal with
+    it or overcome it.
+  pos: INTRANSITIVE VERB
+  related:
+  - contentious
+  - contender
+  - contention
+  roots:
+    con: com-
+    tend: '*ten-'
+  sent: It is time, once again, to contend with racism.
+  use: '81'
+detain:
+  exp: "hold down\u2014\u2014\u5C31\u662F\u4E00\u79CD\u628A\u4EBA\u6263\u4E0B\u6765\
+    \u7684\u611F\u89C9\u3002"
+  figure: ''
+  freq: '7694'
+  meaning: When people such as the police detain someone, they keep them in a place
+    under their control.
+  pos: TRANSITIVE VERB
+  related:
+  - detainee
+  roots:
+    de: de-
+    tain: '*ten-'
+  sent: Police have detained two suspects in connection with the attack.
+  use: '-1'
+forbid:
+  exp: "to command against --> \u7981\u6B62"
+  figure: ''
+  freq: '4750'
+  meaning: If you forbid someone to do something, or if you forbid an activity, you
+    order that it must not be done.
+  pos: TRANSITIVE VERB
+  related: []
+  roots:
+    bid: beodan
+    for: for-
+  sent: They'll forbid you to marry.
+  use: '73'
+intense:
+  exp: "\u62C9\u7D27\u5230\u6781\u9650\uFF0C\u6240\u4EE5\u662F\u5F3A\u70C8\u7684\u3001\
+    \u5267\u70C8\u7684\u3002"
+  figure: ''
+  freq: '2315'
+  meaning: Intense is used to describe something that is very great or extreme in
+    strength or degree.
+  pos: ADJECTIVE
+  related: []
+  roots:
+    in: in-
+    tense: '*ten-'
+  sent: He was sweating from the intense heat.
+  use: '-1'
+mince:
+  exp: "\u5207\u6210\u5C0F\u5757"
+  figure: ''
+  freq: '8326'
+  meaning: If you mince food such as meat or vegetables, you cut or grind it up into
+    very small pieces, usually in a machine.
+  pos: TRANSITIVE VERB
+  related: []
+  roots:
+    min: '*mei-'
+  sent: Perhaps I'll buy lean meat and mince it myself.
+  use: '12'
+noble:
+  exp: "\u8D35\u65CF\u90FD\u5F88wellknown\u4E5F\u5C31\u662Ffamous\u3002"
+  figure: ''
+  freq: '5731'
+  meaning: If you say that someone is a noble person, you admire and respect them
+    because they are unselfish and morally good.
+  pos: ADJECTIVE
+  related: []
+  roots:
+    'no': '*kno-'
+  sent: He was an upright and noble man who was always willing to help in any way
+    he could.
+  use: '261'
+retain:
+  exp: "hold\uFF0C\u6240\u4EE5\u662Fcontinue\u3002\u8FD9\u91CC\u7684re-\u4E3B\u8981\
+    \u662Fonce more\u7684\u611F\u89C9\u3002"
+  figure: ''
+  freq: '2748'
+  meaning: To retain something means to continue to have that thing.
+  pos: TRANSITIVE VERB
+  related:
+  - retainer
+  roots:
+    re: re-
+    tain: '*ten-'
+  sent: The interior of the shop still retains a nineteenth-century atmosphere.
+  use: '-1'
+stark:
+  exp: "stiff\u786E\u5B9A\u662F\u4E00\u79CDhard, harsh\u7684\u611F\u89C9\uFF0C\u6240\
+    \u4EE5\u80FD\u8868\u793Aharsh and unpleasant\u3002"
+  figure: ''
+  freq: '6687'
+  meaning: Stark choices or statements are harsh and unpleasant.
+  pos: ADJECTIVE
+  related:
+  - starkly
+  roots:
+    star: '*ster-'
+  sent: Companies face a stark choice if they want to stay competitive.
+  use: '202'
+startle:
+  exp: "startle\u7684\u672C\u610F\u662Fmove agitatedly, runt to and fro\uFF0C\u4E5F\
+    \u5C31\u662F\u5FEB\u901F\u5411\u524D\u8DD1\u7684\u611F\u89C9\uFF0C\u50CF\u6781\
+    \u4E86\u52A8\u7269\u53D7\u60CA\u65F6\u7684\u6837\u5B50\u3002\u800Cstart\u7684\u672C\
+    \u610F\u4E5F\u662Fmove suddenly\u3002"
+  figure: ''
+  freq: '5530'
+  meaning: If something sudden and unexpected startles you, it surprises and frightens
+    you slightly.
+  pos: TRANSITIVE VERB
+  related:
+  - startling
+  - startlingly
+  - startled
+  roots:
+    le: -le
+    start: start
+  sent: The telephone startled him.
+  use: '74'

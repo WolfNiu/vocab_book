@@ -1,0 +1,431 @@
+# TODO: Each root has a meaning to itself, and possibly also a parent. We need to design the data structure to reflect that.
+'con-': with, together
+'cern': '*krei-'
+'*krei-': to sieve
+'*stere-': to spread
+'*ag': to drive, draw out or forth, move
+'*deik-':
+  meaning: to show; pronounce solemnly
+  exp: 其实这个词根的衍生里有我们很熟悉的teach(546,36)和judge(1119,106)。根据字母互换规律*deik-=teach, *deik-=judge。这里要特别注意的是d=j，因为j会发/dʒ/的音(e.g. joke)，和/d/的音很相近。这样的话我们就扩展了t=d=s=z这一组互换，成了t=d=s=z，而d和j单独可互换。从*deik-来的常用词还有dictionary[=dict(=*deik-)+ion(=-ion)+ary(=-ary)]——词典的作用就是show people the meaning(s) of words and phrases.
+'*weid-': to see
+'dis-':
+  meaning:
+    - lack of, not
+    - opposite of, do the opposite of
+    - apart, away
+  exp: dis- 的前两个意思前两个意思其实差不多，都表示否定。第三个意思要着重体会那种away的感觉。比如discard。
+'guise': style, appearance
+'de-': 
+'via': way, road
+'*wegh-': 
+  'meaning': to go, move, transport in a vehicle
+  'exp': 和这个词根相关的最常用词就是way(84,308)了，二者可互换，意思上也相通。而away(270,42)=a(=a-:off,from) + way，也就是不继续走这条路的感觉。这里给个小测验，看大家能不能自己把always(206,50)这个词拆开并且解释清楚，如果能的话，再试试subway(5452，-1)？另外weigh(2527, -1)和weight(957,202)也是从这个词根来的。transport in a vehicle的载体往往就是“重物”。学理工科的同学肯定对vector(10374,-1)这个词特别熟。其中的vect就和*wegh-可互换。什么是vector呢？就是从一个点指向另一个点，所以这词造得真是再形象不过了。另外为了理解这个词根，我们也被迫认识了vehicle(1300,34)。其中veh=*wegh-。再让我斗胆assume你认识wave(1405,30)这个词。它和*weigh-也可互换。古人对wave最朴素的认知就是“它在动(move)”。怎么样，现在是不是觉得它既表示“波浪”又表示“挥手”合理多了？
+'in-': 
+  meaning:
+    - '*ne-'
+    - '*en'
+'*ne-': not
+'*en': in
+'*leuk-': light, brightness
+'-able': able
+'cred': 
+  meaning: to believe
+  parent: '*kerd-'
+  exp: 古人一般会认为心脏(heart)和思考有关系，所以才会从heart发展到to believe的意思。也确实是——如果你被女朋友甩了，肯定是喊“心痛”而不是“头疼”。
+'*kerd-': heart
+'en-':
+  meaning:
+    - in, into
+    - near, at, in, on, within
+lud: to play
+'*tem-':
+  meaning: to cut
+  exp: 这个词根最常用的词其实是temple(3648,9)。这里的tem是一种"事先分出来的预留地"的感觉，也就是"place reserved or cut out"，比较难想。
+"*dhes-":
+  'meaning': root forming words for religious concepts
+  'exp': 由于宗教一直伴随人类，直到近现代才逐渐让位给科学思想，因此很多概念都和宗教相关。比如"公平", fair (1493,429) 和"狂热" enthusiasm (3752,78)。有人可能奇怪：狂热很好理解，因为信教的人往往缺乏理性思考能力；但公平又和宗教有什么关系呢？其实看看《独立宣言》的第一句就明白了：We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, ... 这句话两次提到人是被"创造"出来的。是谁造的呢？总不能是Google，所以我们只能认为它指的是神。当然了，有些神造人还是很不平等的，比如女娲，一开始还有点工匠精神，一个人一个人捏；后来嫌烦，一把扔出去一堆泥点子变人，导致了阶级的产生。另外宗教往往伴随着仪式、庆典，所以像feast盛宴 (5993,132), festival节日 (3729,11)这样的词也是从这个词根来的。
+  'exchange': 这里要注意f=ph=dh=th。f和ph可互换很好理解，因为二者相同；dh=th也容易记，因为t=d(清浊辅音可互换)。比较难记的是ph=dh，因为它不属于Grimm, Verner，也不属于chain shift。只能更记。
+'*aim-':
+  meaning: to copy
+  exp: 从to copy就能看出image(556,187)这个词造得非常好，因为它抓住了image的本质：copy。所谓图像，就是对现实生活中事物的copy。有了这个作基础，imagine(912,86)这样的词就不难理解了。当然从copy到图像是一种引申的用法，而这个词根的本意也在一些单词里有所体现，比如imitate(6238,57)——所谓模仿，其实就是copy的感觉。这也从侧面体现了理解词根原创意思的重要性：如果直接看"模仿"和"图像"这两个概念，很难在二者之间建立联系。但如果知道二者都是从to copy这个概念来的，就很容易理解了。
+  exchange: ai-->i，不解释。
+'*dlegh-':
+  meaning: to engage oneself, be or become fixed
+  exp: 要理解这个词根，就要从它衍生出的最常用词play(200,201)说起。古人所定义的"玩儿"其实本意就是occupy or busy oneself——让自己忙于某事。而如果你很投入于一件事，它往往就会给你带来快感，于是乎它就发展成现在"玩儿"的感觉了。同时，to engage oneself还有一种让自己身陷其中的感觉，于是它就发展出了to pledge的引申义，这个我们后面讲pledge这个词的时候会提到。
+'*dheu-':
+  meaning: dust, vapor, smoke
+  exp: 这个PIE root除了其本意外，还有confuse, deceive的引申义——也就是被迷雾蒙蔽了双眼的那种感觉。比如dull(5156,384)用的就是本意，被dust遮住了，所以灰蒙蒙的比较无聊；而dumb(4712,126)则用的是deceive的感觉——特别容易受骗。
+'*mori-':
+  meaning: body of water
+  exp: 简单粗暴的词根——即使有引申义联系也很明显：sea, lake... 组成的常用词有marine(4964,9)和submarine(6890,14)。
+'*kan-':
+   meaning: to sing
+   exp: 这个词根从基本的"吟唱"的意思引申为"掐诀念咒"，所以这个词根有"迷惑"的意思，比如charm(4822,73)。同时，从to sing也发展出一个更general的概念，就是to pronounce，比如accent(4181,50)。有意思的是hen(8085,-1)这个词也是从*kan-来的。按理说to sing应该是公鸡的事，但恰恰古人认为母鸡和to sing联系更紧密。
+'*leikw-':
+  meaning: to leave
+  exp: 在词根中to leave一般会表现出一种"差、缺、留下"的感觉。有人可能会奇怪，这"留下"和"缺"不是两码事儿嘛！可在英文里，它偏偏还就是一码事。因为to leave behind, to leave sth. to someone，就表示把什么东西"留下"。比如eleven(4319,-1) = e(=*ain:one) + lev(*leikw-:to leave)，大概就是"去掉十还留下一"的意思；twelve(3247,-1)呢，当然就是去掉十还留下二了(是不是以前都没意识到这两个词共用一个词根？)。还有个常用词loan(1711,11)。什么是借钱呢，就是人家把钱先留你这儿，过段时间再收回。
+  exchange: 由于kw是两个辅音相连，所以衍生词和哪个互换都是有可能的。比如eleven互换的是w，因为w=v；而relic互换的则是k，因为c=k。
+'*keu-':
+  meaning: to see, observe, perceive
+  exp: 和*keu-最相关的常用词就是show(177,237)。联系很明显，不解释。
+  exchange: 对于show来说，k=sh，是个不太常用的互换。
+  related:
+    - showy
+    - sideshow
+'*(s)teg-':
+  meaning: to cover
+  exp: "和*(s)teg-相关的最常用词是protect(750,41)=pro(=*per-: forward-->in front of, before) + tect(=*(s)teg-: to cover)。什么是保护呢？就是挡在人家前面。"
+  exchange: g=ct是一对超常用互换。
+  related:
+    - protection
+    - unprotected
+    - protective
+    - protectionist
+path:
+  meaning: to suffer
+  exp: 其中一个分支从贬义suffer衍变成了中性的feeling。比如sympathy(4312,36)=sym(=syn-:together)+path(feeling)。
+  related:
+    - sympathetic
+    - sympathizer
+    - sympathize
+misc:
+  meaning: to mix
+  exp: 跟这个词相关的最常用词就是mix(1773,80)，不解释。
+  exchange: 按说mix的词根从发音上看应该是mics而不是misc，但偏偏这里c和s就调了个个儿。而且这还是一种挺常见的现象，我们之后会不断见到。
+  related:
+    - mixed
+    - mixture
+    - mixer
+"*mregh-u-":
+  meaning: short
+  exp: 这个PIE的后续发展之诡异，已经让记它的成本大大增加。是否值得，就由各位看官评说吧。它的本意short对应一个超常用词brief(2165,-1)。这里m=b，gh=f。之后发展出的一个看似不搭界的感觉是upper arm，也就是上肢，比如embrace(2495,-1)=em(=en-:in) + brace(:the arms)。short和上肢能有什么关系呢？说到底还是由于智人从猿进化，变得能够起立行走了。这么一站，上肢慢慢退化，就变得更短。从这里你就能看出造词的人脑洞还是相当大的。从short出来的另外一个分支则表示"pleasing, agreeable, pleasant, sweet, exciting feelings of enjoyment and gladness"，比如大家圣诞节祝的"Merry(7564,18) Christmas"用的就是这个感觉。那short和快乐又能有什么联系呢？听好：快乐往往是short-lasting的。于是古人对好景不长的一声感叹，化作了我们用词根记单词的小小障碍。最后送大家一个无聊的词pretzel(16418,-1)=pretz(=brachio-:upper arm) + el(=-el)。这个椒盐卷饼之所以和arm有关系，就因为丫长得像folded arms。好吧，我服了。。。
+  related:
+    - briefly
+    - briefcase
+    - briefing
+    - merrily
+"*gwher-":
+  meaning: to heat, warm
+  exp: 最著名的两个词是warm(1363,201)和brand(2593,-1)。warm和wher可互换，不解释。brand之所以和品牌有关系，是因为它本来是指牲口屁股上烙的印记。其中br也是和wher互换，其中b=w，因为b=v=w。
+"*bhrug-":
+  meaning: to enjoy
+  exp: 这个词根要想弄明白，所需的脑洞还是比较大的，因为需要把三个概念放在一起想："享受(enjoy)"、"农业(agriculture)"，以及"发挥效用(perform)"。大概的思路就是种的粮食很有用，吃起来很享受。用了这个基础，就不难理解function(1449,102)和fruit(1672,90)这两个词了——前者和"perform"有关，后者和"argiculture"有关。另外fruitful(12035,85)的释义是"Something that is fruitful produces good and useful results."，也很好的说明了agriculture和be of use这两个概念之间的联系。
+  related:
+    - functional
+    - fruitless
+    - fruity
+    - fruitful
+    - fruition
+"*ghos-ti-":
+  meaning: stranger, guest, host
+  exp: 这个词根释义中的三个词互相联系很紧：guest一般就是stranger，而host和guest正好对应。由这个词根发展出的超常用词中，host (1853, 34), hotel(1005,22)和guest(1317, 32)都很好理解。只是guest的字母互换需要看回到PIE root本身——它打头的字母是gh。根据缩略法，g和h留哪个都可以，于是guest就留了g。稍微没那么直接的是hospital(648,-1)。其实它理论上也是一个接客(guest)的地方，只不过主要接病人而已。至于后面会列举的非常用词hospice(10564,-1)要求则更高，需要是临终关怀才行。
+  related:
+    - hostess
+    - hospitalize
+    - hospitalization
+    - hospice
+"*ned-":
+  meaning: to bind, tie
+  exp: 和这个词根相关的超常用词都很好理解，没什么可解释的：net(2906,155), connect(1645,68)
+  related:
+    - connection
+    - disconnect
+    - connector
+    - reconnect
+    - connectivity
+"*pekw-":
+  meaning: to cook, ripen
+  exp: 这个词根只要记它的popular form "coct"即可。衍生出的超常用词有cook(1426,68)和kitchen(1055,0)。其中kitch和coct可互换。
+  related:
+    - cooker
+"*swen-":
+  meaning: to sound
+  exp: sound(703,243)本身就是个超常用词。
+"*ters-":
+  meaning: to dry
+  exp: 与*ters-相关的超常用词是territory(2198,-1)，表示"领地"。地表除了陆地就是海洋，而人一般都住陆地上，于是to dry能衍生出领地的感觉。另外我们还能顺便学个后缀，就是-ory，经常表示"place"，比如factory(2151,-1), laboratory(3156,-1), auditorium(9808,-1)等等。另外一个从*ters-衍生出来的是thirsty(10573,-1)。这词很诡异：虽说不常用，但很多很多中国学生都认识。它和to dry的联系很明显——"口渴(thirsty)"的极端版本就是"口干(dry)舌燥"。
+  related:
+    - territorial
+    - thirst
+"*deu-":
+  meaning: to do, perform; show favor, revere
+  exp: 如果觉得词根释义中一下有四个词太复杂，可以总结一下它们的共同点：都是好词(好吧，to do可能中性一点)。只要能理解其positive的感觉就已经成功了一半。*deu-的最常用form是bene-，表示well。比如benefit(815,79) = bene(=bene-:well) + fit(=fac:to do)。后面fac的那个词根我们后面细讲，现在只需混个脸儿熟。所以整个词其实就是good deed的感觉。我在UVa读本科的时候，打篮球如果传了个好球啥的就会被队友夸good deed。*deu-衍生出的第二个超常用词是beautiful(995,160)。
+  related:
+    - beneficiary
+    - benefactor
+    - beauty
+"*dheigw-":
+  meaning: to stick, fix
+  exp: 与这个词根相关的有超常用词dig(2484,-1)和fix(1865,414)。dig基本不用说，因为stick就表示穿刺，而挖掘(dig)则是用铲子"穿刺"土地表面。fix的意思上没有问题，不过dh=f是一个很不常见的字母互换，建议硬记。
+"*kweie-":
+  meaning: to rest, be quiet
+  exp: 这个词根衍生出的词基本分为两个系列，一个是quiet系列，包括quiet(1442,199)这个词本身，一般来说比较好理解。大家可能会觉得，quite(562,110), quiet和quit(2546,-1)这三词长得很像。这么想就对了，因为它们都是从同一个词根来的。quit很好理解，和rest有关。而quite比较难想：be quiet是一种free, clear的感觉，后来就表示"干净利落"、"一通到底"的那种感觉——这正是quite要表达的。另一个是while系列，比较难理解。为什么a while中的while(153,81)会和to rest有关呢？首先to rest就是休息，换句话说就是whatever the progress is，它都会维持现状。所以for a while就是借了"维持现状"的那种感觉，进而表示了a space of time。
+  related:
+    - meanwhile
+    - worthwhile
+    - awhile
+    - erstwhile
+    - whilst
+"*sek-":
+  meaning: to cut
+  exp: 这个词根衍生出的超常用词有section(821,43)和skin(1022,155)。section无论意思和互换都好理解——所谓"部分"，就是分割(cut)之后的单位。而skin用了缩略法，把e缩没了。从意思上说，skin的本意其实是"剥皮"，这就和to cut有很大关系了。
+  related:
+    - skinny
+    - skinless
+    - cross-section
+    - sectional
+"*(s)mer-":
+  meaning: to remember
+  exp: 超常用词有memory(894,29)和remember(380,26)。remember中的re-表示again，就是再一次记起的意思。之后我们学其它的时候会发现很多表示write down的词都和*(s)mer-有关系(比如memoir)。这也好理解，written down吗，就是为了以后方便回忆。注意这词根有俩意思，另一个表示to get a share of something，比如merit(4549,41)，但这个意思并不常用，就不赘述了。
+  related:
+    - memorize
+    - memorial
+    - memorable
+    - memorialize
+    - memoir
+"*bhendh-":
+  meaning: to bind
+  exp: 超常用词有bind(2519,-1)和band(1284,169)，都没啥好解释的。band除了本意"a flat, narrow strip of cloth"之外，最常用的意思就是"乐队"。这个意思揭示了bind的引申义：group，也就是"大家绑(bind)在一起"的感觉。
+  related:
+    - binding
+    - binder
+    - headband
+"*dhwer-":
+  meaning: door, doorway
+  exp: 最常用的当然是door(344,34)本身啦，其次是foreign(690,45)。foreign中for和dhwer-中的wer可互换。从意思上来讲，foreign就是out of doors的感觉。同理，forest(1112,8)也借的是the outside的感觉。这也算说得过去——毕竟树都长外边儿。可见，这个词根是从door这个原始意思衍生出了outside的感觉，因为出了门就是外边了。有的人可能会不服气——那进了门还是里边儿呢！这词为什么不能表示里边？对此我只能回答，我们研究词根的含意只关心它"是怎么发展的"，而不是"有可能怎么发展"。古人从door只想到了outside，而不是inside，我们也只能跟着这么想才能更方便的记词。
+  related:
+    - foreigner
+    - next-door
+    - doorway
+    - outdoor
+    - outdoors
+    - doorstep
+    - forestry
+    - forester
+    - deforestation
+"*rei-":
+  meaning: to run, flow
+  exp: 最常用词是run(202,461)，不解释。
+  related:
+    - running
+    - runner
+    - runway
+    - runner-up
+    - rerun
+    - run-up
+    - runny
+    - run-in
+"*skribh-":
+  meaning: to cut, separate, sift
+  exp: 最常用的词是describe(569,72) = de(=de-:down) + scribe。这里的scribe其实是to write的意思，而最早的书写其实就是刻在树啊、石头啊之类的上面。我们之后会看到很多词都用的是to write这个引申义。
+  related:
+    - description
+    - descriptive
+"*sē-":
+  meaning: to sow
+  exp: 和这个词根相关的有两个超常用词。一个是season(507,61)，本来的意思是time of sowing，也就是播种的时节；另一个是seed(1933,58)，没什么可解释的。
+  related:
+    - seedy
+    - seasoning
+    - seasoned
+    - seasonal
+    - seedling
+"*wekw-":
+  meaning: to speak
+  exp: 最常用词为voice(466,73)，无须解释。
+"*au-":
+  meaning: to perceive
+  exp: 最常用词是audience(1078,2)。由于听也是一种感知(perceive)方式，这个词根经常被用来表示listen, hear。而audience正是和听有关。另外一个词虽说没那么常用，但大多数读者应该也认识——audio(6063,-1)。
+"*merg-":
+  meaning: boundary, border
+  exp: 最常用的词是mark(1692,229)，是"标记"的感觉，也就是把一个重要的事物的boundary圈出来，以表示突出。
+  related:
+    - unmarked
+    - markedly
+    - marking
+    - marked
+    - marker
+    - landmark
+    - earmark
+"*stel-":
+  meaning: to put, stand, put in order
+  exp: 超常用词still(126,195)。put有"放在那儿不动"的感觉，比如stay put就是让猫啊、狗子啊呆在那儿别动的指令。这样still就很好理解了。还有个大家安装软件常用的词install(2528,-1)。这个词的英文释义已经说得很明显和put有关了：If you install a piece of equipment, you put it somewhere so that it is ready to be used.
+  related:
+    - stillness
+    - installation
+"*(s)keu-":
+  meaning: to cover, conceal
+  exp: 超常用词hide(1261,184)，h和k可互换，比较难想。另一个常用词是sky(1150,21)，字母互换很容易看出来。这个词本来表示的是云彩，也就是盖(cover)在我们头顶上的东西。顺便提一句：中文这个词很奇怪，明明大部分时间是白色，却起个名字叫云"彩"——也不知道"彩"在哪里。
+  related:
+    - hidden
+    - hideout
+    - hiding
+"*bhreu-":
+  meaning: to boil, bubble, effervesce, burn
+  exp: "代表词是bread(2131,-1)。首先bread里有很多小孔(boil)，其次它也是bake出来的，和boil, burn也都有联系。另外这个PIE root的释义中的effervesce也来源于相同的词根，表示(of a liquid) give off bubbles，也就是冒泡儿。但搞笑的是它不在20K的词频里，所以我们在这儿拆一下好了：effervesce = ef(=ex-: out) + ferv(=*bhreu-)。另外更搞笑的是boil(4300,42)居然不是从这个词根来的，这个我们讲到*bhel-=to blow, swell的时候会再提到。当然了，我严重怀疑这两个词根也是近亲。"
+"*dem-":
+  meaning: house, household
+  exp: 最常用词是大家都认识的dangerous(1465,71)和danger(1554,37)。这个词也属于"因为常用，所以难讲"的范畴。这个PIE root先从household发展出了lord, master的意思(因为这帮一般是有产者)，随后又衍生出了being in the control of someone的感觉。而"被控制"又是很危险的，所以danger就表示"危险"啦~ 你看，绕了多大一个圈子。另外还有三个超常用词domestic(1556,59), dominate(2332,-1)和dominant(3204,68)，在书中会讲到。这里提及就是让不认识的读者羞愧一下。
+"*dheigh-":
+  meaning: to form, build
+  exp: 最最难讲的词根之一。涉及的超常用词是figure(553,303)。注意这里的dh和f可互换，不过我并不知道为什么(只能猜是d和p长得比较像，而ph=f)，只能硬记。figure本来是指绘画，而画的则一般是形状(form)。这个词根的另外一个分支比较难想，其中的代表词是lady(1526,47)。这个词里面的dy=*deigh-，借的是把面揉出形状(form)的感觉。可见以前女孩子一般都是在做diary(5833,-1)，而diary也和lady是同源词，在书中就不赘述了。
+  related:
+    - figurative
+    - figurine
+    - landlady
+"*kae-id-":
+  meaning: to strike
+  exp: strike由于表示hit forcibly，所以*kea-id-还能表示to cut。超常用词是decide(457,167) = de(=de-:off) + cide(=*kae-id-)。用"切下去"表示"决定"，和中文里的"一锤定音"是一个感觉。用英文表达这样的感觉就是resolve difficulties at a stroke，其中at a stroke是by a single action having immediate effect的意思。另外一般来说如果你把人家一棒子打死，或者一劈两半，对方也就活不了了，因此*kae-id-还衍生出一个后缀-cide，表示killer。从这个意思上发展出来的常用词是suicide(2294,-1)，其中sui来源于一个不太常用的PIE root *s(w)e-，表示one's own。不过在记忆的时候就算不认识*s(w)e-，只看cide那部分基本也就明白是啥意思了。
+  related:
+    - decision
+    - indecision
+    - decisivie
+    - decisiviely
+    - suicidal
+"*segh-":
+  meaning: to hold
+  exp: 这个词根从hold(不动)的感觉发展出了steadfastness, toughness的意思，于是也可以表示serious, grave, strict, austere——总之一点都不活泼、端着架子也不动换就对了。这里面的代表词是severe(2350,-1)。注意gh=v，因为gh可以发/f/的音(比如cough(6242,0))，而f=v。另外一个超常用词是school(125,58)，其中ch=gh，而e被缩掉了。school的最早的意思是leisure——这个很讲道理，因为大家有了闲工夫，才能坐那儿不动(hold)讨论学术。如果还需要下地干活儿不就hold不住了么。
+  related:
+    - severely
+    - severity
+    - scholar
+    - scholastic
+    - scholarship
+    - scholarly
+    - schooling
+    - preschool
+    - schoolgirl
+    - schoolboy
+    - old-school
+"*sleg-":
+  meaning: be slack, be languid
+  exp: 释义中的slack(7102,101)本自也从这个词根来。我们现在用的办公软件之一Slack就是以此命名的，可见这个软件的本意是让大家放轻松聊天。同样，languid(19638,123)虽说不常用，但也从这个词根来。其中lang=leg。当然啦，这个词用谐音"懒鬼的"也不是不能记。这个词根涉及的超常用词包括release(1124,282), sleep(1176,63)和relax(2883,70)。release=re(=re-:back) + lease(=*sleg-)，释放本身就是一种放松。sleep就不用说了，只是这里g和p可互换——很可能是因为gh=ph=f。relax=re(=re-:back) + lax(=*sleg-)，其中lax=leg。
+  related:
+    - sleepy
+    - asleep
+    - relaxation
+    - sleeping
+    - sleepless
+    - sleeper
+"*yeug-":
+  meaning: to join
+  exp: 超常用词的代表就是释义里的join(506,126)，从这个词可以看到y=j的互换，因为读音相近。除此之外还有joint(2238,-1)和adjust(2320,-1)。其中joint不用解释；adjust=ad(=ad-:to) + just(=*yeug-)——"调整、适应"其实就是join things together的感觉。还有个不那么常用的词yoga(8010,-1)。因为这在中文里属于音译的外来词，因此我们完全不需要单独去背。之所以和to join相关，是因为发明瑜伽的人认为它是联结(join)个人意识与宇宙的纽带。
+  related:
+    - adjustment
+    - adjustable
+    - adjuster
+    - jointly
+"*no-men-":
+  meaning: name
+  exp: 无脑词根，衍生出的词一般来说不用想就能明白。最常用的是name(299,336)。另外作为单词书的基础，还需要知道几个不太常用的词：noun(14183,-1)，pronoun(17639,-1)，synonym(17535,-1)，以及acronym(13949,-1)。pronoun = pro(=pro-:forward, forth, toward the front) + noun(=*no-men-). 所谓代词就是代替人的名字(name)的词。synonym = syn(=syn-:together with, jointly; alike; at the same time) + nym(=*no-men-)。所谓同义词就是有同样(same)名字(name)的词。acronym = acro(=acro-:highest, topmost, at the extremities) + nym(=*no-men-)。由于每个单词的topmost letter就是第一个字母，所以acronym就表示"首字母缩写"。比如The United States of America的acronym就是USA。
+  related:
+    - nameless
+    - unnamed
+    - namely
+    - synonymous
+"okw-":
+  meaning: to see
+  exp: 在字母互换上比较难的词根。涉及的常用词有两个，一个是window(608,0)，另一个是eye(243,232)。window=wind(:wind) + ow(=*okw-:to see)，最开始只是表示个能看(see)东西也能通风(wind)的口儿。字母互换方面从*okw-到ow显然是省略了k。而eye就更过分了，kw直接一起省掉。
+  related:
+    - eyelid
+    - eye-catching
+    - wide-eyed
+    - eyewitness
+    - eyesight
+    - eyeball
+    - eyebrow
+    - eyelash
+    - eyeglass
+    - walleye
+    - blue-eyed
+    - black-eyed
+    - windowsill
+    - windowless
+"*teks-":
+  meaning: to weave, to fabricate, to make
+  exp: 这个词根的本意是to weave。什么是weave呢？是把一堆线join together，也就是text(1296,15)要表达的感觉——把一堆字组合在一起。另一个超常用词是context(1433,22)=con(con-:with,together) + text(=*teks-)，指周围的大环境，以及"上下文"。大环境和目标形成了一个整体，确实也是join together的感觉。另外，编织的东西一般都有纹理，而tissue(2711,-1)借的就是这种感觉，比如muscle tissue。其中tis=teks，k在这里是被省略的。weave的另一个特性是会造出新东西(to fabricate, to make)，涉及这种感觉的超常用词是technology(586,-1)=tech(=*teks) + logy(=-logy:theory, science)；technical(2081,-1)也是同理。最后顺便提一个词toilet(4026,55)=toil(=*teks-)。它比上面几个词都不常用，但是全民皆会。这个词发展过程比较复杂，在这里写只是图一乐，没什么用。首先从weave发展出了dressing的感觉，之后引申成了dressing room。后来dressing room经常有马桶，于是toilet这个词就对dressing的含义弃之不顾，转而去表示马桶和厕所了。
+  related:
+    - textual
+    - contextual
+    - technological
+    - technologist
+    - technicality
+    - biotechnology
+    - nanotechnology
+"*bheid-":
+  meaning: to split
+  exp: 很有意思的词根。通过split这个概念，衍生出了biting——用牙把食物撕开(split)和woodworking——用斧头把木头劈开这两种感觉，之后在书中都会涉及。这个词根衍生出的超常用词是bit(956,158)，借的是bite的那层意思，也就是把食物咬成了小块。当然bite(3179,58)本身也来源于这个词根。boat(1237,67)则明显借的是woodworking那层意思，因为船一般都是木头做的。另一个大家都认识的常用词是pizza(3956,-1)，就和bite有关，因为pizza就是用来吃的。当然对pizza这个词的来源目前还有争论，也有说是从pie(3352,0)来的。
+  related:
+    - biting
+    - tidbit
+    - boater
+    - sailboat
+"*dhghem-":
+  meaning: earth
+  exp: 最常用词是human(400,49)。有很多人一见到这词估计就联想到女娲那去了，觉得人是土捏的。其实这个词的来源很简单：human住地(earth)上，gods住天上。最后注意，在字母互换上，我们只看这个PIE root的后三个字母hem就好——hem=hum。
+  related:
+    - humanity
+    - humanities
+    - humankind
+    - humanly
+    - humanize
+    - humanism
+    - humanist
+    - humanistic
+    - humanitarian
+    - superhuman
+    - inhuman
+"*bheidh-":
+  meaning: to trust, confide, persuade
+  exp: 超常用词是federal(494,-1)，faith(1333,70)，confidence(1882,50)。federal=fed(=*bheidh-)，注意这里的互换是f=b,e=ei,d=d，最后所有h可省。联邦是基于信任建立起来的，所以和trust有关。faith本来就表示信任，不解释。confidence=con(=com-:with,together) + fid(=*bheidh)，表示信心，也不用解释。
+  related:
+    - federation
+    - unfaithful
+    - faithful
+    - confide
+    - confident
+    - self-confidence
+    - federalism
+    - confidant
+    - confidential
+    - confidentiality
+    - confidently
+"*bhle-":
+  meaning: to blow, swell, overflow
+  exp: 最常用词当然是blow(1421,315)，不解释。另外一个比较常用的是flavor(3164,86)——味儿要想传得比较远就需要有风吹(blow)。注意这里的字母互换是f=b。另一个常用词是inflation(3225,20)=in(=*en:in) + fl(=*bhle-)——通货膨胀当然就是被吹(blow)起来的感觉。综上，*bhle-给人的感觉就是在空气中传播或者是吹得鼓起来。最后，*bhel-的其中一个意思是这个PIE root的变体，也表示to blow, swell，所以我们就把这一部分并入这个词条了；而*bhel-的其它意思，比如to shine flash, burn，我们会单开一个词条。*bhel-涉及的超常用词是ball(915,62)，还有常用词balloon(4827,66)，都是一看就是吹(blow)起来的感觉。因此*bhle-是有rounded这层意思的。还有胖肚肚belly(3842,87)和bowl(1843,124)也是一样。因为blow是吹起来的，所以会给人一种欣欣向荣的感觉。比如我们形容很嫩的肌肤就可以用"吹弹可破"(当然也有可能是水肿)。因此*bhel-就衍生出了to thrive, bloom的感觉。比如blood(693,67)——没血你也就站不起来了。还有flower(1498,77)，明显和bloom有关。包括bloom(6680,65)自己，也属于同源词，虽说没那么常用。
+  related:
+    - blown
+    - full-blown
+    - bloody
+    - bleed
+    - bleeding
+    - blooming
+    - baseball
+    - football
+    - full-time
+    - bloodshed
+    - sunflower
+    - bloodless
+    - eyeball
+    - ballgame
+    - snowball
+    - oddball
+    - softball
+    - meatball
+    - hardball
+    - ballpark
+    - fireball
+    - inflatable
+    - inflate
+    - inflationary
+    - flavorful
+    - blower
+    - flowery
+    - cauliflower
+    - cold-blooded
+    - overblown
+"*bhel-":
+  meaning: to shine, flash, burn
+  exp: 这个词根涉及的超常用词中有很多是颜色，因为我们毕竟会用"闪(shine)着什么颜色"的表达方法。而且这些颜色也都和火有关，于是也就和burn有关。比如black(254,249)和blue(845,194)，一个是烧过了的颜色(焦黑)，另一个是火焰的颜色。而一旦blind(2739,-1)，也就看不到这些颜色了。最后还有大家耳熟能详的flash(3533,241)也是同源词。
+  related:
+    - blue-chip

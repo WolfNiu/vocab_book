@@ -1,0 +1,17 @@
+{
+    "concern": {
+        "pos": "n",
+        "chn": "担心",
+        "freq": 718,
+        "num_connections": 172,
+        "meaning": "Concern is worry about a situation.",
+        "sent": "The group has expressed concern about reports of political violence in Africa.",
+        "roots": {
+            "con": "con-",
+            "cern": "cern",
+        },
+        "“筛选到一起”和“担心”有什么联系呢？你担心的事其实就是你所关注的事，而关注就是“集中注意”的感觉，所以才和“筛选到一起”相关。",
+        "related": ["unconcerned"],
+    },
+
+}

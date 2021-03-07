@@ -27,55 +27,90 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.proxy import Proxy, ProxyType
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+from selenium.webdriver.chrome.options import Options
+import sys
+from fake_useragent import UserAgent
 
 
 # In[2]:
 
 
-def get_driver(browser="chrome", headless=False, extensions=None, proxy=None, user_agent=None):
-    if browser == "chrome":
-        options = ChromeOptions()
-        if headless:
-            options.add_argument("-headless")
-        if extensions is not None:
-            if not isinstance(extensions, list):
-                extensions = [extensions]
-            for ext in extensions:
-                options.add_extension(ext)
-        driver = webdriver.Chrome(chrome_options=options)
-    elif browser == "firefox":
-        profile = webdriver.FirefoxProfile()
-        if headless:
-            options = FirefoxOptions()
-            options.add_argument("--headless")
-        else:
-            options = None
-        if proxy is not None:
-            ip = proxy['ip']
-            port = int(proxy['port'])
-            profile.set_preference("network.proxy.type", 1)
-            profile.set_preference("network.proxy.http", ip)
-            profile.set_preference("network.proxy.http_port", port)
-            profile.set_preference("network.proxy.ssl", ip)
-            profile.set_preference("network.proxy.ssl_port", port)
-        if user_agent is not None:
-            profile.set_preference("general.useragent.override", user_agent)
-        
-        profile.update_preferences()
-        
-        driver = webdriver.Firefox(
-            firefox_profile=profile, 
-            firefox_options=options,
-            executable_path='./geckodriver',
-            proxy=proxy)
-    elif browser == "safari":
-        driver = webdriver.Safari()
-    else:
-        print(f"Error: unknown browser {browser}")
-        raise
-        
-    return driver
+# def get_driver(browser="chrome", headless=False, extensions=None, proxy=None, user_agent=None):
+#     if browser == "chrome":
+#         options = ChromeOptions()
+#         if headless:
+#             options.add_argument("-headless")
+#         if extensions is not None:
+#             if not isinstance(extensions, list):
+#                 extensions = [extensions]
+#             for ext in extensions:
+#                 options.add_extension(ext)
+#         driver = webdriver.Chrome(chrome_options=options)
+#     elif browser == "firefox":
+#         profile = webdriver.FirefoxProfile()
+#         if headless:
+#             options = FirefoxOptions()
+#             options.add_argument("--headless")
+#         else:
+#             options = None
+#         if proxy is not None:
+#             ip = proxy['ip']
+#             port = int(proxy['port'])
+#             profile.set_preference("network.proxy.type", 1)
+#             profile.set_preference("network.proxy.http", ip)
+#             profile.set_preference("network.proxy.http_port", port)
+#             profile.set_preference("network.proxy.ssl", ip)
+#             profile.set_preference("network.proxy.ssl_port", port)
+#         if user_agent is not None:
+#             profile.set_preference("general.useragent.override", user_agent)
+#
+#         profile.update_preferences()
+#
+#         driver = webdriver.Firefox(
+#             firefox_profile=profile,
+#             firefox_options=options,
+#             executable_path='./geckodriver',
+#             proxy=proxy)
+#     elif browser == "safari":
+#         driver = webdriver.Safari()
+#     else:
+#         print(f"Error: unknown browser {browser}")
+#         raise
+#
+#     return driver
 
+
+def get_chromedriver_path():
+    platform = sys.platform
+    if platform == 'darwin':
+        os = 'mac'
+    elif platform == 'linux':
+        os = 'linux'
+    else:
+        print("Unrecognized os")
+        raise
+    print(f'Identified os as {os.capitalize()}.\n')
+    chromedriver_path = f'./chromedriver_{os}64'
+    return chromedriver_path
+
+
+def get_driver(headless=False):
+    executable_path = get_chromedriver_path()
+    user_agent = UserAgent(verify_ssl=False)
+
+    options = Options()
+    options.add_argument('--no-sandbox') # for Linux
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument(f'user-agent={user_agent.random}')
+
+    if headless:
+        options.add_argument("-headless")
+    driver = webdriver.Chrome(
+        executable_path=executable_path,
+        options=options)
+
+#     driver.implicitly_wait(15)
+    return driver
 
 # In[1]:
 

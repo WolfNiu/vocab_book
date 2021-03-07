@@ -3229,7 +3229,7 @@
 3229	host	v	*ghos-ti-, *poti-
 3230	wound	n	
 3231	dependent	j	*(s)pen-
-3232	shower	n	*keu-
+3232	shower	n	
 3233	institutional	j	*sta-
 3234	depict	v	*peig-
 3235	operating	n	
@@ -5175,7 +5175,7 @@
 5175	remedy	n	*med-
 5176	manuscript	n	*man-, *skribh-
 5177	inability	n	
-5178	smash	v	*meik-
+5178	smash	v	
 5179	hopeful	j	
 5180	disagreement	n	*ad-, *gwere-
 5181	fancy	j	
@@ -7830,7 +7830,7 @@
 7830	plummet	v	
 7831	maze	n	
 7832	militant	j	
-7833	depiction	n	
+7833	depiction	n	*peig-	
 7834	humiliation	n	*dhghem-
 7835	kindness	n	*gene-
 7836	interest	v	*es-
@@ -18174,7 +18174,7 @@
 18174	recklessly	r	*reg-
 18175	banter	n	
 18176	canning	n	
-18177	smashed	j	*meik-
+18177	smashed	j	
 18178	rainstorm	n	
 18179	unicorn	n	*ker-, *oi-no-
 18180	uncooked	j	
@@ -19003,7 +19003,7 @@
 19003	iteration	n	
 19004	scuff	v	
 19005	un-american	j	
-19006	tiled	j	
+19006	tiled	j	*(s)teg-	
 19007	dame	n	*dem-
 19008	foursome	n	*kwetwer-
 19009	mortuary	n	*mer-
@@ -19918,7 +19918,7 @@
 19918	regalia	n	*reg-
 19919	divisional	j	
 19920	innovate	v	
-19921	promiscuity	n	
+19921	promiscuity	n	*meik-
 19922	store-bought	j	
 19923	unevenly	r	
 19924	undemocratic	j	

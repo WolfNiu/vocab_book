@@ -1,0 +1,4219 @@
+- word: concern
+  freq: 718
+  use: 172
+  pos: UNCOUNTABLE NOUN
+  meaning: Concern is worry about a situation.
+  sent: The group has expressed concern about reports of political violence in Africa.
+  roots:
+    con: con-
+    cern: cern
+  exp: to sieve就是"筛"的意思。那"筛选到一起"和"担心"有什么联系呢？你担心的其实就是你所关注的事，而不需要关注的部分已经被你自动过滤掉了。
+- word: strategy
+  freq: 847
+  use: 62
+  pos: VARIABLE NOUN
+  meaning: A strategy is a general plan or set of plans intended to achieve something, especially over a long period.
+  sent: The energy secretary will present the strategy tomorrow afternoon.
+  roots:
+    strat: '*stere-'
+    eg: '*ag-'
+  exp: strategy代表了在战略上的部署。to spread是指把队伍分散派出，而move则代表了队伍的移动。
+- word: indicate
+  freq: 786
+  use: 27
+  pos: TRANSITIVE VERB
+  meaning: If one thing indicates another, the first thing shows that the second is true or exists.
+  sent: A survey of retired people has indicated that most are independent and enjoying
+    life.
+  roots:
+    in: '*en'
+    dic: '*deik-'
+  exp: ‘*deik-’这个词根本身就表示to show，而indicate也是show的感觉("... shows that the the second thing is true...")，不解释。
+- word: guise
+  freq: 10869
+  use: 78
+  pos: COUNTABLE NOUN
+  meaning: You use guise to refer to the outward appearance or form of someone or something, which is often temporary or different from their real nature.
+  sent: He turned up at an Easter party in the guise of a white rabbit.
+  roots:
+    guise: '*weid-'
+  exp: guise就是指大家表面上能看到(see)的那部分。这里要特别注意w=kw=k=g这一组互换。
+- word: disguise
+  freq: 7490
+  use: 109
+  pos: VARIABLE NOUN
+  meaning: If you are in disguise, you are not wearing your usual clothes or you have
+    altered your appearance in other ways, so that people will not recognize you.
+  sent: You'll have to travel in disguise.
+  roots:
+    dis: dis-(3)
+    guise: guise
+  exp: 这个词直接用guise这个词记就好。所谓伪装，就是拿掉自己平时的appearance，换上一个大家不熟悉的。
+  related:
+    - disguised
+- word: devious
+  freq: 19115
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe someone as devious you do not like them because you think they are dishonest and like to keep things secret, often in a complicated way.
+  sent: Newman was certainly devious, prepared to say one thing in print and something quite different in private.
+  roots:
+    de: de- | off
+    vi: via | way, road
+  exp: off the road，给人一种不走正道儿的感觉。所以和"当面一套，背后一套"有关。
+- word: illustrate
+  freq: 2368
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you say that something illustrates a situation that you are drawing
+    attention to, you mean that it shows that the situation exists.
+  sent: The example of the United States illustrates this point.
+  roots:
+    il: in-(2)
+    lu: '*leuk-'
+    str: -ster
+    ous: -ous
+  exp: 这个词和它的中文释义一起看会很有意思：“说明”的“明”字，就是light, brightness的感觉。
+  related:
+    - illustration
+    - illustrator
+    - illustrated
+    - illustrious
+    - illustrative
+- word: credible
+  freq: 6077
+  use: 49
+  pos: ADJECTIVE
+  meaning: Credible means able to be trusted or believed.
+  sent: Her claims seem credible to many.
+  roots:
+    cred: cred
+    ible: -able
+  exp:
+    顺便提一句，creditble的衍生词incredible，以及unbelievable是市面上各种单词书最喜欢讲的两个词。为什么呢？太容易拆了，能让人产生“词根真他妈好学”的误会。但是一路下来我们应该已经发现，其实有很多词是拆不工整的：有些会莫名其妙多出几个字母，有些拆出来也不知道这些词根和单词的意思有什么联系，还有些甚至索性就有一部分完全不知道词根来源。作为英语学习者，了解这些词根学“丑恶”的一面当然就比不了解强。如果一本书只展现好的一面，就好像是找女朋友只根据用美颜修过的照片一样，最后谁哭谁知道。
+  related:
+    - incredible:
+      roots:
+        in: in-(1)
+        credible: credible
+    - credibility
+- word: courage
+  freq: 3355
+  use: 35
+  pos: UNCOUNTABLE NOUN
+  meaning: Courage is the quality shown by someone who decides to do something difficult
+    or dangerous, even though they may be afraid.
+  sent: General Lewis Mackenzie has impressed everyone with his authority and personal
+    courage.
+  roots:
+    cour: '*kerd-'
+    age: -age
+  exp: 勇气由心生
+  related:
+    - encourage:
+      roots:
+        en: en-(1)
+        courage: courage
+      exp: 注入勇气即为鼓励。
+      related:
+        - encouraging
+        - encouragement
+    - discourage:
+      related:
+        - discouraging
+    - courageous
+- word: anatomy
+  freq: 8308
+  use: 28
+  pos: UNCOUNTABLE NOUN
+  meaning: Anatomy is the study of the structure of the bodies of people or animals.
+  sent: '...a course in anatomy.'
+  roots:
+    ana: ana-
+    tom: '*tem- | to cut'
+  exp: 解剖当然和cut(切)有关。
+  related:
+    - anatomical
+- word: collusion
+  freq: 17096
+  use: 8
+  pos: NOUN
+  meaning: Collusion is secret or illegal cooperation, especially between countries
+    or organizations.
+  sent: He found no evidence of collusion between record companies and retailers.
+  roots:
+    col: com- | together
+    lus: lud | to play
+  exp: 共谋就是一种玩儿鬼把戏的感觉，所以和play有关。而且不是一个人play，而是play together。
+- word: ludicrous
+  freq: 11294
+  use: 78
+  pos: ADJECTIVE
+  meaning: If you describe something as ludicrous, you are emphasizing that you think
+    it is foolish, unreasonable, or unsuitable.
+  sent: It was ludicrous to suggest that the visit could be kept secret.
+  roots:
+    lud: lud | to play
+  exp: 像玩笑一样，所以和play有关。从这个解释我们反过来也可以对"玩笑"的"玩"字有更深的理解。
+- word: accentuate
+  freq: 11144
+  use: 78
+  pos: TRANSITIVE VERB
+  meaning: To accentuate something means to emphasize it or make it more noticeable.
+  sent: His shaven head accentuates his large round face.
+  roots:
+    ac: ad- | to
+    cent: '*kan- | to sing'
+    ate: -ate
+  exp: 古代的很多文字需要吟唱出来(比如诗、经)，而读诗的特点就在于要有抑扬顿挫，读出节奏感，这样就发展出了"重读"的意思。而重读又会起强调的作用，所以是会有使某事物更明显的感觉。
+- word: deposit
+  freq: 4744
+  use: 101
+  pos: COUNTABLE NOUN
+  meaning: A deposit is a sum of money which is part of the full price of something,
+    and which you pay when you agree to buy it.
+  sent: The initial deposit required to open an account is a minimum 100 dollars.
+  roots:
+    de: de- | away
+    pos: pos | to put, place
+  exp: literally meaning "lay away for safekeeping". 衍生词里deposition可能需要查词典才能明白意思，但愿你能想明白。
+  related:
+    - deposition
+    - depositor
+- word: integrate
+  freq: 3459
+  use: 45
+  pos: RECIPROCAL VERB
+  meaning: If someone integrates into a social group, or is integrated into it, they
+    behave in such a way that they become part of the group or are accepted into it.
+  sent: He didn't integrate successfully into the Italian way of life.
+  roots:
+    in: in- | not
+    teg: '*tag- | to touch, handle'
+    ate: -ate
+  exp: in + teg表示untouch。因为没人碰过，所以是"完整"的感觉。所以integrate就是to render (something) whole, bring together the parts of。
+  related:
+    - integral
+    - integrity
+    - integrated
+    - integration
+    - integrative
+    - distintegrate
+    - disintegration
+- word: accolade
+  freq: 15754
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If someone is given an accolade, something is done or said about them which
+    shows how much people admire them.
+  sent: The Nobel Prize has become the ultimate accolade in the sciences.
+  roots:
+    ac: ad- | to
+    col: '*kwel- | revolve, move round; sojourn, dwell'
+  exp: col是从revolve发展出了neck的意思，因为毕竟脖子是个圆周。而荣誉一般就是往脖子上挂个花环奖章啥的。对，当初造词人的想象力就是这么丰富。
+  fig: A低头被授予一个花环
+- word: adorn
+  freq: 8158
+  use: 57
+  pos: TRANSITIVE VERB
+  meaning: If something adorns a place or an object, it makes it look more beautiful.
+  sent: His watercolor designs adorn a wide range of books.
+  roots:
+    ad: ad- | to
+    orn: '*ar- | to fit together'
+  exp: make everything fit together --> make it look more beautiful.
+  related:
+    - adornment
+- word: harmony
+  freq: 4722
+  use: 80
+  pos: UNCOUNTABLE NOUN
+  meaning: If people are living in harmony with each other, they are living together
+    peacefully rather than fighting or arguing.
+  sent: '...the notion that mankind should dominate nature rather than live in harmony
+    with it.'
+  roots:
+    harm: '*ar- | to fit together'
+  exp: 和声就是make musical notes fit together.
+  related:
+    - harmonious
+    - harmonic
+    - philharmonic
+    - harmonize
+    - harmonica
+- word: encroach
+  freq: 15920
+  use: 13
+  pos: INTRANSITIVE VERB
+  meaning: If one thing encroaches on another, the first thing spreads or becomes
+    stronger, and slowly begins to restrict the power, range, or effectiveness of
+    the second thing.
+  sent: The new institutions do not encroach on political power.
+  roots:
+    en: en- | in
+    croach: croc | hook
+  exp: 这个词不容易想。hook在这里指的是to catch with a hook。如果是光明正大的获取，其实直接拿就行了，用不着大老远拿个钩子。所以这个词是有seize wrongfully的感觉的，也就是"侵占"表达的感觉。
+  related:
+      encroachment
+- word: crooked
+  freq: 8473
+  use: 82
+  pos: ADJECTIVE
+  meaning: If you describe something as crooked, especially something that is usually
+    straight, you mean that it is bent or twisted.
+  sent: '...the crooked line of his broken nose.'
+  roots:
+    crook: hook
+    ed: -ed
+  exp: hook都是弯的(除了姜太公同款)。
+  related:
+    crook
+- word: stow
+  freq: 12625
+  use: 82
+  pos: TRANSITIVE VERB
+  meaning: If you stow something somewhere, you carefully put it there until it is
+    needed.
+  sent: Luke stowed his camera bags into the trunk.
+  roots:
+    stow: '*sta- | to stand, make or be firm'
+  exp: 把什么东西固定在什么地方——所以是"存储"的感觉。
+- word: bestow
+  freq: 9648
+  use: 71
+  pos: TRANSITIVE VERB
+  meaning: To bestow something on someone means to give or present it to them.
+  sent: The United States bestowed honorary citizenship upon England's World War II
+    prime minister, Sir Winston Churchill.
+  roots:
+    be: be- | about, around; thoroughly, completely; to make, cause, seem; to provide with; at, on, to, for;
+    stow: stow | to place
+  exp: place on someone's hand --> 赠予
+- word: gallop
+  freq: 12443
+  use: 71
+  pos: INTRANSITIVE VERB
+  meaning: When a horse gallops, it runs very fast so that all four legs are off the
+    ground at the same time. If you gallop a horse, you make it gallop.
+  sent: The horses galloped away.
+  roots:
+    gal: well
+    lop: leap
+  exp: 其实就是to run well的感觉。至于为什么这里g和w可互换，我也没想明白。
+- word: wobble
+  freq: 13004
+  use: 71
+  pos: INTRANSITIVE VERB
+  meaning: If something or someone wobbles, they make small movements from side to
+    side, for example, because they are unsteady.
+  roots:
+      wob: "*wegh- | to go, move, transport in a vehicle"
+  exp: "*wegh-主要体现了make small movements的感觉"
+- word: perplex
+  freq: 15957
+  use: 71
+  pos: TRANSITIVE VERB
+  meaning: If something perplexes you, it confuses and worries you because you do
+    not understand it or because it causes you difficulty.
+  sent: It perplexed him because he was tackling it the wrong way.
+  roots:
+    per: per- | forward
+    plex: "*plek- | to plait | *pel- | to fold"
+  exp: "to plait就是编辫子，所以从to fold的感觉来。回到perplex，什么样的事物会cause you
+  difficulty呢？当然是比较复杂的事物，是一种所有多西叠在一起，缠在一起的感觉。还记得complicated和complex吗？都是*plek-这个词根来的，而且都是同样的感觉。"
+  related:
+    - perplexing
+    - perplexed
+- word: coherent
+  freq: 7112
+  use: 68
+  pos: ADJECTIVE
+  meaning: If something is coherent, it is well planned, so that it is clear and sensible
+    and all its parts go well with each other.
+  sent: He has failed to work out a coherent strategy for modernizing the service.
+  roots:
+    co: co- | together
+    her: haerere | to adhere, stick
+    end: -ent
+  exp: 从"all its parts go well with each other"就能体会出那种stick (together)，粘在一起的感觉。
+  related:
+    - incoherent
+    - coherence
+- word: disgust
+  freq: 7591
+  use: 68
+  pos: UNCOUNTABLE NOUN
+  meaning: Disgust is a feeling of very strong dislike or disapproval.
+  sent: He spoke of his disgust at the incident.
+  roots:
+    dis: dis- | opposite of
+    gust: "*geus- | to taste; to choose"
+  exp: disgust其实就是not tasty的感觉。有很多人可能会奇怪，为啥taste和choose共用一个词根。想想"尝试"这个中文词就明白了。古人很早就会用"浅尝辄止"，也不一定非要表示去尝个具体的食物嘛。另外容易被忽略的一点是：choose, choice这两个词其实都和这个PIE root可互换。
+  related:
+    - disgusting
+    - disgusted
+- word: gusto
+  freq: 17472
+  use: 45
+  pos: NOUN
+  meaning: If you do something with gusto, you do it with energetic and enthusiastic enjoyment.
+  sent: Hers was a minor part, but she played it with gusto.
+  roots:
+    gust: "*geus- | to taste; to choose"
+  exp: 其实就是把品尝美食和energetic, enthusiastic的感觉联系起来了。
+- word: revoke
+  freq: 12938
+  use: 45
+  pos: TRANSITIVE VERB
+  meaning: When people in authority revoke something such as a license, a law, or
+    an agreement, they cancel it.
+  sent: The government revoked her husband's license to operate migrant labor crews.
+  roots:
+    re: re- | back
+    voke: "*wekw- | to speak"
+  exp: 本来说出来的话又被收回了。
+  related:
+    - irrevocably
+- word: wither
+  freq: 12216
+  use: 45
+  pos: INTRANSITIVE VERB
+  meaning: If someone or something withers, they become very weak.
+  sent: When he went into retirement, he visibly withered.
+  roots:
+    wither: weather
+  exp: 为什么会枯萎呢？因为exposed to weather——要不然没事谁枯萎呀。注意这可不是什么巧记；这词儿真就这么来的。
+- word: stitch
+  freq: 9967
+  use: 45
+  pos: COUNTABLE NOUN
+  meaning: If you stitch cloth, you use a needle and thread to join two pieces together
+    or to make a decoration.
+  sent: Fold the fabric and stitch the two layers together.
+  roots:
+    stitch: "*steig- | to prick, stick, pierce"
+  exp: 穿针引线。
+- word: instigate
+  freq: 16245
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: Someone who instigates an event causes it to happen.
+  sent: He did not instigate the coup or even know of it beforehand.
+  roots:
+    in: in- | in
+    stig: "*steig- | to prick, stick, pierce"
+    ate: -ate
+  exp: 中文里有"刺激"这个词，里面这个"刺"字正好说明了中英文英雄所见略同。这样由物体(刺)本身引申到其作用(刺激)的词中文里还有不少，比如"鼓动、鼓励"就是以"鼓"为根的。
+- word: altruism
+  freq: 16167
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Altruism is unselfish concern for other people's happiness and welfare.
+  sent: Fortunately, volunteers are not motivated by self-interest, but by altruism.
+  roots:
+    altr: alter | other
+    ism: -ism | implying a practice, system, doctrine, etc.
+  exp: 其实就是the practice of considering others。另外，alter和other其实读音也很像——有没有很惊喜？
+- word: collateral
+  freq: 10638
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Collateral is money or property which is used as a guarantee that someone
+    will repay a loan.
+  sent: Many people use personal assets as collateral for small business loans.
+  roots:
+    col: com- | with, together
+    lat: the side, flank of humans or animals, lateral surface
+  exp: 虽然从数据看没那么常用，但是这个词重要无比，因为它在金融领域表示贷款抵押。together+side表达出一种along the side, parallel, accompanying的感觉。可以理解为需要"伴随"着贷款而需要付出的代价。另外，下次在英语国家买牛肉的时候，见到flank steak也应该能大概猜到是那个部位了。
+  fig: 牛肉部位分解图
+- word: bilateral
+  freq: 6976
+  use: 36
+  pos: ADJECTIVE
+  meaning: Bilateral negotiations, meetings, or agreements, involve only the two groups
+    or countries that are directly concerned.
+  sent: '...bilateral talks between Britain and America.'
+  roots:
+    bi: bi- | two
+    lat: the side, flank of humans or animals, lateral surface
+  exp: two sides --> 双边。
+  related:
+    - multilateral
+- word: dementia
+  freq: 11507
+  use: 20
+  pos: VARIABLE NOUN
+  meaning: Dementia is a serious illness of the mind.
+  sent: '...a treatment for mental conditions such as dementia and Alzheimer''s disease.'
+  roots:
+    de: de- | from, away from
+    ment: "*men- | to think"
+  exp: "to drive out of one's mind的感觉。注意*men-家族最重要的一个词就是mind。理解了它和to think的关系就相当于理解了一切。"
+- word: mentor
+  freq: 4611
+  use: 33
+  pos: COUNTABLE NOUN
+  meaning: A person's mentor is someone who gives them help and advice over a period
+    of time, especially help and advice related to their job.
+  sent: She was my mentor and my friend.
+  roots:
+    ment: "*men- | to think"
+    or: person
+  exp: 指导你思想的人。在美国进入大学或是公司入职一般都会被assign一个mentor，有啥不懂的都可以向mentor扫听。另外注意这个词的发音是"慢兔儿"，而不是"慢特儿"。
+- word: prescribe
+  freq: 5449
+  use: 33
+  pos: TRANSITIVE VERB
+  meaning: If a doctor prescribes medicine or treatment for you, he or she tells you
+    what medicine or treatment to have.
+  sent: The physician examines the patient then diagnoses the disease and prescribes
+    medication.
+  roots:
+    pre: pre- | before
+    scribe: "scribere | to write || *sker- | to cut"
+  exp: 使用英语这么多年，感觉有两个词分清楚很重要，一个是prescribe，另一个是describe。describe描述是这个世界"是怎么样的"，而prescribe则给出这个世界"应该是怎么样的"。这种区分能从词根里看出来吗？prescribe中的pre-表示before，暗示了在一件事发生之前就已经write好了；而describe中的de-表示down，所以就只是单纯的write down——描述而已。
+- word: shudder
+  freq: 8045
+  use: 33
+  pos: INTRANSITIVE VERB
+  meaning: If you shudder, you shake with fear, horror, or disgust, or because you
+    are cold.
+  sent: Lloyd had urged her to eat caviar. She had shuddered at the thought.
+  roots:
+    shud: shake
+  exp: shud和shake可互换，而-er组成动词时一般表示动作的反复。所以这个词其实是在表达一种不停颤抖的感觉。
+- word: wince
+  freq: 8999
+  use: 33
+  pos: INTRANSITIVE VERB
+  meaning: If you wince, the muscles of your face tighten suddenly because you have
+    felt a pain or because you have just seen, heard, or remembered something unpleasant.
+  sent: Every time he put any weight on his left leg he winced in pain.
+  roots:
+    win: "*weng- | to bend, curve"
+  exp: 脸部表情扭曲的感觉。
+- word: wink
+  freq: 8043
+  use: 68
+  pos: INTRANSITIVE VERB
+  meaning: When you wink at someone, you look toward them and close one eye very briefly,
+    usually as a signal that something is a joke or a secret.
+  sent: Brian winked at his bride-to-be.
+  roots:
+    win: "*weng- | to bend, curve"
+  exp: 眨了一下眼 == bend了一下眼皮
+- word: devote
+  freq: 3253
+  use: 65
+  pos: TRANSITIVE VERB
+  meaning: If you devote yourself, your time, or your energy to something, you spend
+    all or most of your time or energy on it.
+  sent: He decided to devote the rest of his life to scientific investigation.
+  roots:
+    de: de- | down, away
+    vot: vovere | to vow
+  exp: 是一种dedicate by a vow, sacrifice oneself的感觉，最早适用的场景是宗教。
+  related:
+    - devotion
+    - devout
+- word: cranny
+  freq: 19456
+  use: 17
+  pos: NOUN
+  meaning: Crannies are very narrow openings or spaces in something.
+  sent: They fled like lizards into crannies in the rocks.
+  roots:
+    cran: "*krei- | to sieve, discriminate, distinguish"
+  exp: sieve就是separate的感觉，所以是narrow openings。
+- word: monochrome
+  freq: 19758
+  use: 17
+  pos: NOUN
+  meaning: A monochrome film, photograph, or television shows black, white, and shades
+    of gray, but no other colors.
+  sent: '...color and monochrome monitors.'
+  roots:
+    mono: "*men- | single, isolated"
+    chrome: chrome | color, complexion, skin
+  exp: 只有一种颜色，所以是黑白的——black-and-white的装B版说法。
+- word: recrimination
+  freq: 19608
+  use: 14
+  pos: NOUN
+  meaning: Recriminations are accusations that two people or groups make about each
+    other.
+  sent: The bitter arguments and recriminations have finally ended the relationship.
+  roots:
+    re: re- | back, again
+    crim: crime
+  exp: 把对于crime的指责还赠给对方。
+- word: despondent
+  freq: 19880
+  use: 94
+  pos: ADJECTIVE
+  meaning: If you are despondent, you are very unhappy because you have been experiencing
+    difficulties that you think you will not be able to overcome.
+  sent: He was despondent over the breakup of his marriage.
+  roots:
+    des: de- | away
+    spond: spond | to promise
+  exp: 未来没有(away)保障(promise)了，肯定够沮丧的。
+- word: dishearten
+  freq: 19234
+  use: -1
+  pos: VERB
+  meaning: to deprive of courage or enthusiasm; discourage; depress; daunt
+  roots:
+    dis: dis- | the opposite of
+    heart: "*kerd- | heart"
+  exp: 没心气的感觉，不解释。
+- word: profane
+  freq: 18421
+  use: 186
+  pos: ADJECTIVE
+  meaning: Profane behavior shows disrespect for a religion or religious things.
+  sent: '...profane language.'
+  roots:
+    pro: "*per- | forward, in front of, before"
+    fane: "*dhes- | root forming words for religious concepts"
+  exp: 在这里fane的引申义是temple。那么in front of temple为啥表示对神不敬呢？因为如果敬神的话不就让他进去了嘛。比如像我这样坚定的无神论者[atheist (12989,7)]，是肯定会在庙门口儿罚站的。我以前学这个词的时候，老师教我们联想成"泼粪"。这个记法需要发音足够差才能联想得到，应该还是对一部分人有帮助的。
+  fig: A在庙门口站着，一脸懵逼；B是庙的看守，伸出右手作stop状，不让A进，说"You shall not pass."。
+  related:
+    - profanity
+- word: feast
+  freq: 5993
+  use: 132
+  pos: COUNTABLE NOUN
+  meaning: A feast is a large and special meal.
+  sent: Lunch was a feast of meat and vegetables, cheese, yogurt and fruit, with unlimited
+    wine.
+  roots:
+    feast: "*dhes- | root forming words for religious concepts"
+  exp: 这个词的本意是religious anniversary characterized by rejoicing，也就是"宗教庆典"的意思。
+  related:
+    - festive
+- word: festoon
+  freq: 18442
+  use: 56
+  pos: NOUN
+  meaning: If something is festooned with, for example, lights, balloons, or flowers,
+    large numbers of these things are hung from it or wrapped around it, especially
+    in order to decorate it.
+  sent: The temples are festooned with lights.
+  roots:
+    fest: "*dhes- | root forming words for religious concepts"
+  exp: 这个词继承了feast盛宴的感觉，也同样和宗教庆典相关。
+- word: fanatic
+  freq: 11065
+  use: 71
+  pos: COUNTABLE NOUN
+  meaning: If you describe someone as a fanatic, you disapprove of them because you
+    consider their behavior or opinions to be very extreme, for example, in the way
+    they support particular religious or political ideas.
+  sent: I am not a religious fanatic but I am a Christian.
+  roots:
+    fan: "*dhes- | root forming words for religious concepts"
+  exp: 这个词继承了宗教的狂热属性。
+  related:
+    - fanatical
+    - fanaticism
+- word: fiesta
+  freq: 17926
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A fiesta is a time of public entertainment and parties, usually on a special
+    religious holiday, especially in Spain or Latin America.
+  roots:
+    fiest: "*dhes- | root forming words for religious concepts"
+  exp: 这个词继承了宗教的庆典属性。
+- word: atheist
+  freq: 12989
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: An atheist is a person who believes that there is no God. Compare agnostic.
+  roots:
+    a: a- | without
+    the: "*dhes- | root forming words for religious concepts"
+    ist: -ist | one who does or makes
+  exp: 这里的the表示god。认为without god的人是无神论者。
+- word: imitate
+  freq: 6238
+  use: 57
+  pos: TRANSITIVE VERB
+  meaning: If you imitate someone, you copy what they do or produce.
+  sent: '...a genuine German musical that does not try to imitate the American model.'
+  roots:
+    im: "*aim- | to copy"
+  exp: 拷贝即模仿，不解释。
+  related:
+    - imitation
+- word: emulate
+  freq: 9217
+  use: 33
+  pos: TRANSITIVE VERB
+  meaning: If you emulate something or someone, you imitate them because you admire them a great deal.
+  sent: Sons are traditionally expected to emulate their fathers.
+  roots:
+    im: "*aim- | to copy"
+  exp: 拷贝即模仿，和之前学的imitate(6238,57)差不多。
+- word: pledge
+  freq: 5262
+  use: 50
+  pos: COUNTABLE NOUN
+  meaning: When someone makes a pledge, they make a serious promise that they will do something.
+  sent: The meeting ended with a pledge to step up cooperation between the six states of the region.
+  roots:
+    pledge: "*dlegh- | to engage oneself, be or become fixed"
+  exp: engage是一种参与、从事、投身其中的感觉，所以和pledge(保证)有联系。
+- word: plight
+  freq: 7540
+  use: 39
+  pos: COUNTABLE NOUN
+  meaning: If you refer to someone's plight, you mean that they are in a difficult or distressing situation that is full of problems.
+  sent: The nation saw the plight of the farmers, whose crops had died.
+  roots:
+    pligh: "*plek- | to plait"
+  exp: 借用plait表达那种身陷复杂、盘根错节的境地的那种感觉。注意，这个词用于表示touch situation的时候是从*plek-来的；而用于表示pledge的时候则是从另一个PIE root *dlegh-(to engage oneself)来的，因此可以认为这两个plight即是homophone(读音相同的单词，比如two和too)又是homograph(拼写相同的单词，比如row [roh] "line" 和 row [rou] "fight")。
+- word: indulge
+  freq: 6951
+  use: 64
+  pos: TRANSITIVE VERB
+  meaning: If you indulge in something or if you indulge yourself, you allow yourself to have or do something that you know you will enjoy.
+  sent: Only rarely will she indulge in a glass of wine.
+  roots:
+    in: in- | in
+    dulge: "*dlegh- | to engage oneself, be or become fixed"
+  exp: 整个词的意思是let someone be engaged in something，确实是享受、放飞自我的那种感觉。
+  related:
+    - indulgence
+- word: dumbfound
+  freq: 19877
+  use: 25
+  pos: TRANSITIVE VERB
+  meaning: If someone or something dumbfounds you, they surprise you very much.
+  sent: This suggestion dumbfounded Joe.
+  roots:
+    dumb: "*dheu- | dust, vapor, smoke"
+    found: found | confound
+  exp: 这其实是dumb和confound(10779,120)的复合词。
+- word: perfume
+  freq: 6693
+  use: 15
+  pos: MASS NOUN
+  meaning: Perfume is a pleasant-smelling liquid that you can put on your skin to
+    make yourself smell nice.
+  sent: The hall smelled of her mother's perfume.
+  roots:
+    per: "*per- | forward, through"
+    fume: "*dheu- | dust, vapor, smoke"
+  exp: 有穿透力(through)的smoke——香水。
+  usage: 注意洒香水要用wear perfume。在Friends里Joey搭讪小姑娘就是先假装提鼻子闻一下，然后问"What are you wearing?"，在这里其实就是在问"What perfume are you wearing?"对方给Joey抛个媚眼，答道："Nothing."这个感觉你品，你细品。
+- word: fume
+  freq: 9831
+  use: -1
+  pos: PLURAL NOUN
+  meaning: Fumes are the unpleasant and often unhealthy smoke and gases that are produced
+    by fires or by things such as chemicals, fuel, or cooking.
+  sent: '...car exhaust fumes.'
+  roots:
+    fume: "*dheu- | dust, vapor, smoke"
+  exp: 在Plants vs. Zombies里有个植物叫Fume-shroom，现在看来是不是很形象？
+  fig: Fume-shroom喷泡泡的截图。
+- word: dummy
+  freq: 11581
+  use: 117
+  pos: COUNTABLE NOUN
+  meaning: You can use dummy to refer to things that are not real, but have been made
+    to look or behave as if they are real.
+  sent: Dummy patrol cars will be set up beside highways to frighten speeding motorists.
+  roots:
+    dum: "*dheu- | dust, vapor, smoke"
+  exp: 这里借用的是smoke"伪装"的那部分引申义。
+- word: dwell
+  freq: 7296
+  use: 61
+  pos: INTRANSITIVE VERB
+  meaning: If you dwell on something, especially something unpleasant, you think, speak, or write about it a lot or for quite a long time.
+  sent: '"I''d rather not dwell on the past," he told me.'
+  roots:
+    dwell: "*dheu- | dust, vapor, smoke"
+  exp: 这个词巨难想，咱们一步一步来。首先dwell的本意是dust, smoke，二者都有deceive(迷惑)的属性(其实中文里也有"眼前一片迷雾"的表达方法)。而迷雾会让你停在一个地方踟蹰不前，所以又引申成了"定居"的意思。可见有些词所需脑洞之大，非常人所能想象。
+  related:
+    - dwelling
+    - dweller
+- word: marinate
+  freq: 13672
+  use: 29
+  pos: VERB
+  meaning: If you marinate meat or fish, or if it marinates, you keep it in a mixture
+    of oil, vinegar, spices, and herbs before cooking it, so that it can develop a
+    special flavor.
+  sent: Marinate the chicken for at least 4 hours.
+  roots:
+    marin: "*mori- | body of water"
+  exp: 对我们中国人至关重要的动词："腌"，也就是浸在液体里。如果你发现烤鸡翅料都按照网上的食谱放了，还是不进味儿，那一定是没在冰箱里隔夜腌制。
+  related:
+    - marinade
+- word: mermaid
+  freq: 18514
+  use: 4
+  pos: COUNTABLE NOUN
+  meaning: In fairy tales and legends, a mermaid is a woman with a fish's tail instead
+    of legs, who lives in the sea.
+  roots:
+    mer: "*mori- | body of water"
+    maid: maiden | a young girl or woman
+  exp: 两部分组合起来就是maid of the sea。其实merman也是个词，但是根本不在20000词以内，可见颜值也能决定词频。
+- word: marina
+  freq: 13180
+  use: 19
+  pos: COUNTABLE NOUN
+  meaning: A marina is a small harbor for small boats that are used for leisure.
+  roots:
+    mari: "*mori- | body of water"
+  exp: 不解释。
+- word: marsh
+  freq: 6890
+  use: 14
+  pos: VARIABLE NOUN
+  meaning: A marsh is a wet, muddy area of land.
+  roots:
+    mari: "*mori- | body of water"
+  exp: 不解释。
+- word: charm
+  freq: 4822
+  use: 73
+  pos: VARIABLE NOUN
+  meaning: Charm is the quality of being pleasant or attractive.
+  sent: '"Snow White and the Seven Dwarfs," the 1937 Disney classic, has lost none
+    of its original charm.'
+  roots:
+    charm: "*kan- | to sing"
+  exp: 这里借的是*kan-那种"掐诀念咒，诱惑"的感觉，可以把人迷住——所以是attractive。
+  related:
+    - charming
+- word: chant
+  freq: 6988
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A chant is a word or group of words that is repeated over and over again.
+  sent: He was greeted by the chant of "Judas! Judas!"
+  roots:
+    chan: "*kan- | to sing"
+  exp: 这里借用的是to sing中celebrate的感觉。
+- word: enchant
+  freq: 18216
+  use: 53
+  pos: TRANSITIVE VERB
+  meaning: If you are enchanted by someone or something, they cause you to have feelings
+    of great delight or pleasure.
+  sent: Dena was enchanted by the house.
+  roots:
+    en: "*en | in"
+    chan: "*kan- | to sing"
+  exp: 和chant(6988,14)一样，这个词也是借用了to sing中诱惑的那部分意思。
+  usage: 大家玩游戏的时候如果碰到给装备"附魔"，大部分用的都是enchant这个词。
+  related:
+    - enchanting
+    - enchantment
+    - enchanted
+- word: accent
+  freq: 4181
+  use: 50
+  pos: COUNTABLE NOUN
+  meaning: Someone who speaks with a particular accent pronounces the words of a language in a distinctive way that shows which country, region, or background they come from.
+  sent: He had developed a slight southern accent.
+  roots:
+    ac: ad- | to
+    cent: "*kan- | to sing"
+  exp: 借用了*kan-里"发声"的那层含义。这个词也表示stress(强调)，因为如果你在说一些词的时候重读或者使用不同的声调，就相当于在强调这一部分内容，例如"fabrics that accent the background colors in the room"。
+  related:
+    - accentuate
+- word: incentive
+  freq: 2750
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: If something is an incentive to do something, it encourages you to do it.
+  sent: There is little or no incentive to adopt such measures.
+  roots:
+    in: "*en | in"
+    cent: "*kan- | to sing"
+  exp: 这里借用的是*kan-中诱惑的属性。
+- word: relinquish
+  freq: 9677
+  use: 50
+  pos: TRANSITIVE VERB
+  meaning: If you relinquish something such as power or control, you give it up.
+  sent: He does not intend to relinquish power.
+  roots:
+    re: re- | back
+    linqu: "leikw- | to leave"
+  exp: 其实就是leave behind的感觉。
+- word: delinquent
+  freq: 14030
+  use: 13
+  pos: ADJECTIVE
+  meaning: Someone, usually a young person, who is delinquent repeatedly commits minor
+    crimes.
+  sent: '...homes for delinquent children.'
+  roots:
+    de: de- | completely
+    linqu: "*leikw- | to leave"
+  exp: 这里面借的是to leave中neglect duty的感觉，也就是该尽的义务没尽到。比如像这个词就指的是没尽到奉公守法的义务。
+  related:
+    - delinquency
+- word: eclipse
+  freq: 7762
+  use: 95
+  pos: COUNTABLE NOUN
+  meaning: An eclipse of the sun is an occasion when the moon is between the earth
+    and the sun, so that for a short time you cannot see part or all of the sun. An
+    eclipse of the moon is an occasion when the earth is between the sun and the moon,
+    so that for a short time you cannot see part or all of the moon.
+  sent: '...an eclipse of the sun.'
+  roots:
+    ec: ex- | out
+    lip: "*leikw- | to leave"
+  exp: 这里面to leave表现的是一种"缺"的感觉，比如中文里的"缺席"就是"缺"和"离开"有联系的一个例子。另外从这个词的释义可以看出，用英文解释英文并不总是最佳选择。对我们来说，一个"月蚀"或"日蚀"就足以精确理解这个词了。另外lip和leikw的互换并不常见，这里应该跳过kw中的k，只看w，而w=v=p。
+  fig: A对着天上哭："月亮公公是不是离开了我。。。"
+- word: elliptical
+  freq: 14389
+  use: 110
+  pos: ADJECTIVE
+  meaning: Something that is elliptical has the shape of an ellipse.
+  sent: '...the moon''s elliptical orbit.'
+  roots:
+    el: en- | in
+    lip: "*leikw- | to leave"
+  exp: 和eclipse(7762,95)一样，都借用的是to leave中"缺"的感觉。ellipsis没有圆那么圆，所以会给人缺憾之感。
+- word: relic
+  freq: 8553
+  use: 36
+  pos: COUNTABLE NOUN
+  meaning: If you refer to something or someone as a relic of an earlier period, you
+    mean that they belonged to that period but have survived into the present.
+  sent: This legislation is a relic of an era in European history that has passed.
+  roots:
+    re: re- | back
+    lic: "*leikw- | to leave"
+  exp: to leave给出了"某个时代遗留的产物"这种感觉，用英文解释就是something left behind。
+- word: derelict
+  freq: 19042
+  use: -1
+  pos: ADJECTIVE
+  meaning: A place or building that is derelict is empty and in a bad state of repair
+    because it has not been used or lived in for a long time.
+  sent: Her body was found dumped in a derelict warehouse less than a mile from her
+    home.
+  roots:
+    de: de- | entirely
+    re: re- | back
+    lic: "*leikw- | to leave"
+  exp: something entirely left behind，所以是废弃的。可以和relic(8553,36)对比着学。
+- word: depict
+  freq: 3234
+  use: 57
+  pos: TRANSITIVE VERB
+  meaning: To depict someone or something means to show or represent them in a work
+    of art such as a drawing or painting.
+  sent: '...a gallery of pictures depicting Lee''s most famous battles.'
+  roots:
+    de: de- | down
+    pict: "*peig- | to cut, mark by incision --> emroider, paint"
+  exp: 主要还是借了*peig-中paint的感觉。
+  related:
+    - depiction
+- word: picturesque
+  freq: 11665
+  use: 41
+  pos: ADJECTIVE
+  meaning: A picturesque place is attractive and interesting, and has no ugly modern
+    buildings.
+  sent: '...a picturesque mountain village.'
+  roots:
+    pict: "*peig- | to cut, mark by incision --> emroider, paint"
+  exp: 整个词从picture(563,214)来不解释。
+- word: pictorial
+  freq: 11087
+  use: 43
+  pos: ADJECTIVE
+  meaning: Pictorial means using or relating to pictures.
+  sent: '...a pictorial history of the Jewish people.'
+  roots:
+    pict: "*peig- | to cut, mark by incision --> emroider, paint"
+  exp: 整个词从picture(563,214)来不解释。
+- word: pigment
+  freq: 9297
+  use: 24
+  pos: MASS NOUN
+  meaning: A pigment is a substance that gives something a particular color.
+  sent: The Romans used natural pigments on their fabrics and walls.
+  roots:
+    pig: "*peig- | to cut, mark by incision --> emroider, paint"
+  exp: paint用的是pigment。
+- word: caution
+  freq: 5354
+  use: 80
+  pos: UNCOUNTABLE NOUN
+  meaning: Caution is great care which you take in order to avoid possible danger.
+  sent: Extreme caution should be exercised when buying used tires.
+  roots:
+    caut: "*keu- | to see, observe, perceive"
+  exp: 这里的*keu-体现出了一种"眼观六路，耳听八方"的感觉。
+  related:
+    - cautious
+    - cautionary
+- word: precaution
+  freq: 7209
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A precaution is an action that is intended to prevent something dangerous
+    or unpleasant from happening.
+  sent: Could he not, just as a precaution, move to a place of safety?
+  roots:
+    pre: pre- | before
+    caut: "*keu- | to see, observe, perceive"
+  exp: 在事发之前就开始小心(caution)。
+- word: caveat
+  freq: 11701
+  use: 23
+  pos: NOUN
+  meaning: A caveat is a warning of a specific limitation of something such as information
+    or an agreement.
+  sent: "There was one caveat: he was not to enter into a merger or otherwise weaken
+    the Roche family's control of the firm."
+  roots:
+    cav: "*keu- | to see, observe, perceive"
+  exp: caveat == hint of caution。这里要注意*keu-中的u和cav中的v的互换：u=w=v。
+- word: sheen
+  freq: 13114
+  use: 23
+  pos: SINGULAR NOUN
+  meaning: If something has a sheen, it has a smooth and gentle brightness on its
+    surface.
+  roots:
+    sheen: "*keu- | to see, observe, perceive"
+  exp: 让别人大老远就能看见(see,observe)。
+- word: thug
+  freq: 8262
+  use: 27
+  pos: COUNTABLE NOUN
+  meaning: You can refer to a violent person or criminal as a thug.
+  sent: '...the cowardly thugs who mug old people.'
+  roots:
+    thug: "*(s)teg- | to cover"
+  exp: 这里借的是cover中conceal的感觉——干得都是见不得光的事儿。
+- word: tile
+  freq: 4936
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Tiles are flat, square pieces of baked clay, carpet, cork, or other substance,
+    which are fixed as a covering onto a floor or wall.
+  sent: Amy's shoes squeaked on the tiles as she walked down the corridor.
+  roots:
+    ti: "*(s)teg- | to cover"
+  exp: 正如英文释义中提到的那样，tile是用作covering的。这个词的字母互换中省略了g，看着会比较别扭。
+  related:
+    - tiled
+- word: detect
+  freq: 2787
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To detect something means to find it or discover that it is present somewhere
+    by using equipment or making an investigation.
+  sent: '...a sensitive piece of equipment used to detect radiation.'
+  roots:
+    de: de- | un-, off
+    tect: "*(s)teg- | to cover"
+  exp: 这个词造得很直白，就是uncover的意思。英文释义里用的discover(959,127)也是dis(=dis-:opposite of)+cover。字母互换方面，g=ct是非常典型的一对。另外我也不知道为什么这个词的有用程度为-1，按说这是个非常常用的词。
+  related:
+    - detectable
+    - detective
+    - detection
+    - detector
+    - undetected
+- word: pathetic
+  freq: 8079
+  use: 122
+  pos: ADJECTIVE
+  meaning: If you describe a person or animal as pathetic, you mean that they are
+    sad and weak or helpless, and they make you feel very sorry for them.
+  sent: '...a pathetic little dog with a curly tail.'
+  roots:
+    path: path | to suffer, feel
+  exp: sad, weak, helpless都是suffer的感觉，不解释。
+- word: antipathy
+  freq: 18544
+  use: 63
+  pos: UNCOUNTABLE NOUN
+  meaning: Antipathy is a strong feeling of dislike or hostility toward someone or
+    something.
+  sent: '...the voting public''s antipathy toward the president.'
+  roots:
+    anti: anti- | opposite, against
+    path: path | to suffer, feel
+  exp: 这里path用的是*kwent(h)-的引申义feeling。所以整个单词是having opposite feeling的意思。
+- word: apathy
+  freq: 14208
+  use: 37
+  pos: UNCOUNTABLE NOUN
+  meaning: You can use apathy to talk about someone's state of mind if you are criticizing
+    them because they do not seem to be interested in or enthusiastic about anything.
+  sent: They told me about isolation and public apathy.
+  roots:
+    a: a- | without
+    path: path | emotion, feeling, suffering
+  exp: without feeling --> 冷漠。
+- word: pathology
+  freq: 10386
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Pathology is the study of the way diseases and illnesses develop.
+  roots:
+    path: path | suffering
+    logy: -logy | study
+  exp: suffering象征了disease，所以整个词表示study of disease(病理学)。
+  related:
+    - pathological
+    - psychopathology
+    - pathologist
+- word: empathy
+  freq: 7726
+  use: 60
+  pos: UNCOUNTABLE NOUN
+  meaning: Empathy is the ability to share another person's feelings and emotions as if they were your own.
+  sent: Having begun my life in a children's home, I have great empathy with the little ones.
+  roots:
+    em: en- | in
+    path: path | feeling
+  exp: in + feeling --> 理解别人内心的感受 --> 同理心。这个词用英文释义理解起来其实更方便，但如果非要用中文的话就是"同理心"。说"同感"也是不恰当的，因为"同感"表示你本来就和对方有相同的感觉；而empathy表示的是你自己可能没有这种感觉，但能通过代入和想象理解对方的感受。以前我还看到有的书(尤其是经济学的)将其译为"移情"，不知道的还以为是"移情别恋"的意思——简直是糟糕透顶的翻译。至于翻译成"投情"，那一般适用于艺术和美学的范畴，并非我们这里所讨论的意思。
+  related:
+    - empathize
+    - empathetic
+- word: meddle
+  freq: 17380
+  use: 29
+  pos: INTRANSITIVE VERB
+  meaning: If you say that someone meddles in something, you are criticizing the fact
+    that they try to influence or change it without being asked.
+  sent: Already some people are asking whether scientists have any right to meddle
+    in such matters.
+  roots:
+    med: misc | to mix
+  exp: 这个词以misc(mix)作词根，一股搅屎棍的感觉油然而生。关于字母互换：d=s, misc中的c被省略。
+  related:
+    - medley
+- word: promiscuous
+  freq: 17978
+  use: 37
+  pos: ADJECTIVE
+  meaning: Someone who is promiscuous has sex with many different people.
+  sent: She is perceived as vain, spoiled, and promiscuous.
+  roots:
+    pro: pro- | forward
+    misc: misc | to mix
+  exp: 和各种人主动交配(mix) --> 淫乱的。
+  related:
+    - promiscuity
+- word: melee
+  freq: 20109
+  use: 20
+  pos: NOUN
+  meaning: A melee is a noisy, confusing fight between the people in a crowd.
+  sent: A policeman was killed and scores of people were injured in the melee.
+  roots:
+    mel: misc | to mix
+  exp: 像melee这种大乱斗确实是有mix的感觉。这个词的字母互换比较tricky，因为misc中的sc先是c被省掉，跟着s也被省了。
+- word: mash
+  freq: 12270
+  use: 25
+  pos: TRANSITIVE VERB
+  meaning: If you mash food that is solid but soft, you crush it so that it forms
+    a soft mass.
+  sent: Mash the bananas with a fork.
+  roots:
+    mash: misc | to mix
+  exp: 要说mash bananas可能没什么人关心，但肯德基的鸡汁mashed potatoes肯定很多人都吃过。把土豆砸烂巴了，确实也是mix的感觉。
+  related:
+    - mashed
+- word: smash
+  freq: 5178
+  use: 294
+  pos: TRANSITIVE VERB
+  meaning: If you smash something or if it smashes, it breaks into many pieces, for
+    example, when it is hit or dropped.
+  sent: Someone smashed a bottle.
+  roots:
+    mash: misc | to mix
+  exp: 这个词只是疑似和词根misc有关。If it helps，可以和mash(12270,25)一起记——后者真的是从misc来的，而且二者都是把什么东西砸烂的感觉。
+  related:
+    - smashed
+    - smashing
+- word: miscellaneous
+  freq: 16238
+  use: -1
+  pos: ADJECTIVE
+  meaning: A miscellaneous group consists of many different kinds of things or people
+    that are difficult to put into a particular category.
+  sent: '...a hoard of miscellaneous junk.'
+  roots:
+    misc: misc | to mix
+  exp: mix --> 混杂的。注意这个词除了前面的misc，后面全是"衬字儿"。这主要是它的前身是miscellus，然后后人又加了-ane和-ous。这就好像有很多人说话的时候喜欢加上"那个"、"就是说"一样，都不是重点。
+- word: brace
+  freq: 6695
+  use: 178
+  pos: TRANSITIVE VERB
+  meaning: If you brace yourself for something unpleasant or difficult, you prepare
+    yourself for it.
+  sent: He braced himself for the icy plunge into the black water.
+  roots:
+    brace: "*mregh-u- | short --> brachio- | arm, of the upper arm, pertaining to the upper arm"
+  exp: 用的是*mregh-u-中表示arm的那个分支。双手环抱憋大招的感觉，所以表示为困难的事做准备。
+  fig: A双手环抱胸前，作放大招的前的蓄力状。
+  related:
+    - bracelet
+- word: abbreviated
+  freq: 19367
+  use: 0
+  pos: ADJECTIVE
+  meaning: made into a shorter form
+  sent: The Queen gave an abbreviated version of her speech.
+  roots:
+    ab: ad- | to
+    brev: "*mregh-u- | short --> brev | shorten"
+  exp: 不解释。
+- word: brandish
+  freq: 14098
+  use: 49
+  pos: TRANSITIVE VERB
+  meaning: If you brandish something, especially a weapon, you hold it in a threatening
+    way.
+  sent: He appeared in the lounge brandishing a knife.
+  roots:
+    brand: "*gwher- | to heat, warm"
+  exp: 由turn the heat on的感觉 --> 挥舞(武器)。主要借用的是*gwher-中"显眼"的那部分含义。字母互换是wher和br之间的互换，不是很容易看出来。其实这个词根和fire, burn都可互换，因此我很怀疑它们其实是同源的，可惜找不到证据。
+- word: thermal
+  freq: 7267
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Thermal means relating to or caused by heat or by changes in temperature.
+  sent: '...thermal power stations.'
+  roots:
+    therm: "*gwher- | to heat, warm"
+  exp: 不解释。
+  related:
+    - geothermal
+    - thermos
+    - thermostat
+    - hypothermia
+- word: furnace
+  freq: 9299
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: an enclosed chamber or structure in which heat is produced, as by burning
+    fuel, for warming a building, reducing ores and metals, etc.
+  sent: "The temperature of the furnace was increased at 110\xB0C per hour to the\
+    \ final temperature of 900\xB0C and then held for one hour before the product\
+    \ was allowed to cool to room temperature."
+  roots:
+    furn: "*gwher- | to heat, warm"
+  exp: 用来烧火的地方，不解释。
+- word: contemplate
+  freq: 4858
+  use: 77
+  pos: TRANSITIVE VERB
+  meaning: If you contemplate an action, you think about whether to do it or not.
+  sent: For a time he contemplated a career as an army medical doctor.
+  roots:
+    con: com- | with, together
+    tem: "*tem- | to cut"
+  exp: 这个词从之前学的temple(3648,9)开始想即可——在寺院里边主要活动就是冥想。
+  related:
+    - contemplation
+    - contemplative
+- word: dichotomy
+  freq: 11554
+  use: 8
+  pos: NOUN
+  meaning: If there is a dichotomy between two things, there is a very great difference
+    or opposition between them.
+  sent: There is a dichotomy between the academic world and the industrial world.
+  roots:
+    dich: "*dwo- | two"
+    tom: "*tem- | to cut"
+  exp: a cutting in two，相当的make sense。
+- word: epitomize
+  freq: 12841
+  use: 43
+  pos: TRANSITIVE VERB
+  meaning: If you say that something or someone epitomizes a particular thing, you
+    mean that they are a perfect example of it.
+  sent: Seafood is a regional specialty epitomized by Captain Anderson's Restaurant.
+  roots:
+    epi: epi- | into
+    tom: "*tem- | to cut"
+    ize: -ize
+  exp: 就像用相应的模具刻(cut)出来的一样，所以是"典型"。
+  related:
+    epitome
+- word: atom
+  freq: 5246
+  use: 70
+  pos: COUNTABLE NOUN
+  meaning: An atom is the smallest amount of a substance that can take part in a chemical
+    reaction.
+  sent: '...the news that Einstein''s former colleagues Otto Hahn and Fritz Strassmann
+    had split the atom.'
+  roots:
+    a: a- | not
+    tom: "*tem- | to cut"
+  exp: 这词造得也很讲理：什么原子呢，就是不可再分的物质。当然这个词也表现了当时造它的人认知的局限性——因为后来夸克被发现了。
+  related:
+    - atomic
+- word: anatomy
+  freq: 8308
+  use: 28
+  pos: UNCOUNTABLE NOUN
+  meaning: Anatomy is the study of the structure of the bodies of people or animals.
+  sent: '...a course in anatomy.'
+  roots:
+    ana: ana- | up
+    tom: "*tem- | to cut"
+  exp: a cutting up不解释。
+  related:
+    - anatomical
+- word: epitome
+  freq: 16379
+  use: -1
+  pos: SINGULAR NOUN
+  meaning: If you say that a person or thing is the epitome of something, you are
+    emphasizing that they are the best possible example of it.
+  sent: Maureen was the epitome of sophistication.
+  roots:
+    epi: epi- | into
+    tome: "*tem- | to cut"
+  exp: epitome最早表示an abridgment，也就是a shortened version of a larger work (e.g. an abridgment of Shakespeare's Henry VI)。而所谓abridgment，就是要把非典型的、不重要的部分切掉(cut)。比如你想举出一个典型的富豪的例子，那有可能"资产过亿"是其中很重要的，而这个人到底平时爱不爱运动，有没有文化就是可以去掉的不重要信息。
+- word: perfunctory
+  freq: 20071
+  use: 37
+  pos: ADJECTIVE
+  meaning: A perfunctory action is done quickly and carelessly, and shows a lack of
+    interest in what you are doing.
+  sent: She gave the list only a perfunctory glance.
+  roots:
+    per: "*per- | forward, through"
+    funct: "*bhrug- | to enjoy"
+  exp: 这里取的是*bhrug-中perform的那层意思，两个词根连起来理解，就是只从头到尾(through)例行公事(perform)一遍的感觉。
+- word: frugal
+  freq: 17191
+  use: 19
+  pos: ADJECTIVE
+  meaning: People who are frugal or who live frugal lives do not spend much money
+    on themselves.
+  sent: She lives a frugal life.
+  roots:
+    frug: "*bhrug- | to enjoy"
+  exp: 这个词用的是*bhrug-中peform的感觉，本来表示useful，后来才发展出economical的意思。字母互换方面，之前学这个PIE root的时候碰到function这个词，可以很容易发现g=c。
+- word: defunct
+  freq: 16001
+  use: -1
+  pos: ADJECTIVE
+  meaning: If something is defunct, it no longer exists or has stopped functioning
+    or operating.
+  sent: '...the leader of the now defunct Social Democratic Party.'
+  roots:
+    de: "de- | off, completely"
+    funct: "*bhrug- | to enjoy"
+  exp: 这里用的还是*bhrug-中perform的那层意思。整个词表示off-duty, performance is off，所以是stop functioning的感觉。
+- word: malfunction
+  freq: 15337
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If a machine or part of the body malfunctions, it fails to work properly.
+  sent: The radiation can damage microprocessors and computer memories, causing them
+    to malfunction.
+  roots:
+    mal: mal- | bad, badly, wrong
+    funct: "*bhrug- | to enjoy"
+  exp: 这里function要当成一个完整的词来理解，是to fail to function normally的感觉。
+- word: dysfunction
+  freq: 9667
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If you refer to a dysfunction in something such as a relationship or someone's
+    behavior, you mean that it is different from what is considered to be normal.
+  sent: '...his severe emotional dysfunction was very clearly apparent.'
+  roots:
+    dys: dys- | bad, abnormal, difficult
+    funct: "*bhrug- | to enjoy"
+  exp: 这里function要当成一个完整的词来理解，就是fail to function的感觉。
+  related:
+    - dysfunctional
+- word: hostile
+  freq: 4206
+  use: 138
+  pos: ADJECTIVE
+  meaning: If you are hostile to another person or an idea, you disagree with them
+    or disapprove of them, often showing this in your behavior.
+  sent: Many people felt he would be hostile to the idea of foreign intervention.
+  roots:
+    host: "*ghos-ti- | stranger, guest, host"
+  exp: 又是一个超常用但大多数人并不熟悉的词。hostile借的是host这个词根中stranger的感觉，并基于一个简单的思路：熟人就是朋友，陌生人则是敌人。这种看法对于生活在现代社会的我们当然很奇怪，但如果站在动物的角度来说就很正常了。一个族群的猩猩互相有血缘关系，大家关系相对比较铁；而外面来一只陌生猩猩，一般第一反应就是将其打跑。
+  fig: 一颗树上好几只猩猩，每只身上标着"刘一"、"刘二"、"刘老根"、"刘三姐"，etc... 它们一齐怒视着树下一只叫"朱二狗"的猩猩。在怒气中标明"hostile"这个词。
+- word: hospitable
+  freq: 15010
+  use: 33
+  pos: ADJECTIVE
+  meaning: A hospitable person is friendly, generous, and welcoming to guests or people
+    they have just met.
+  roots:
+    hospit: "*ghos-ti- | stranger, guest, host"
+  exp: 释义中已经明说了是"welcoming to guests or people"。不解释。
+  related:
+    - inhospitable
+    - hospitality
+- word: hostel
+  freq: 16692
+  use: 22
+  pos: COUNTABLE NOUN
+  meaning: A hostel is a large house where people can stay cheaply for a short period
+    of time. Hostels are usually owned by local government authorities or charities.
+  roots:
+    host: "*ghos-ti- | stranger, guest, host"
+  exp: 招待所——host people的地方。有很多人觉得它和hotel长得很像，意思也接近，那就对了。二者本就是同源词。
+- word: hostage
+  freq: 4012
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A hostage is someone who has been captured by a person or organization
+    and who may be killed or injured if people do not do what that person or organization
+    demands.
+  sent: It is hopeful that two hostages will be freed in the next few days.
+  roots:
+    host: "*ghos-ti- | stranger, guest, host"
+  exp: 虽说扣为人质这个行为本身往往很残酷，但其本质也就是一个host把一个guest强行留下来，还是不难理解的。
+- word: nexus
+  freq: 14621
+  use: 56
+  pos: NOUN
+  meaning: A nexus is a connection or series of connections within a particular situation
+    or system.
+  sent: '...the nexus between the dominant class and the State.'
+  roots:
+    nex: "*ned- | to bind, tie"
+  exp: nexus is a connection，所以和to bind, tie有关，不解释。
+- word: annex
+  freq: 15248
+  use: 72
+  pos: TRANSITIVE VERB
+  meaning: If a country annexes another country or an area of land, it seizes it and
+    takes control of it.
+  sent: Rome annexed the Nabatean kingdom in AD 106.
+  roots:
+    an: ad- | to
+    nex: "*ned- | to bind, tie"
+  exp: 把别人的国土并(bind)到自己这里——吞并。
+  related:
+    - annexation
+- word: node
+  freq: 8089
+  use: 20
+  pos: COUNTABLE NOUN
+  meaning: A node is a point, especially in the form of lump or swelling, where one
+    thing joins another.
+  sent: Cut them off cleanly through the stem just below the node.
+  roots:
+    node: "*ned- | to bind, tie"
+  exp: 从释义中的"...one thing joins another"可以看出和to bind, tie有关。
+- word: noose
+  freq: 15208
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: A noose is a circular loop at the end of a piece of rope or wire. A noose
+    is tied with a knot that allows it to be tightened, and it is usually used to
+    trap animals or hang people.
+  sent: '...a man swinging from a noose.'
+  roots:
+    noose: "*ned- | to bind, tie"
+  exp: 所谓"套索"就是用来套牲口的那种活扣，通常是一根杆，末端是一个越挣越紧的圈。《套马杆》里唱的就是这玩意儿。
+  fig: A拿套马杆套住正在逃走的B，口中大喊"贼人休走！"
+- word: concoct
+  freq: 12756
+  use: 34
+  pos: TRANSITIVE VERB
+  meaning: If you concoct an excuse or explanation, you invent one that is not true.
+  sent: Mr. Ferguson said the prisoner concocted the story to get a lighter sentence.
+  roots:
+    con: con- | together
+    coct: "*pekw- | to cook, ripen"
+  exp: 从together + cook那种combine and prepare the elemnts of的感觉衍生出devise, plan的意思。这样才和释义中的invent挂上了钩。
+  related:
+    - concoction
+- word: cuisine
+  freq: 6498
+  use: 1
+  pos: VARIABLE NOUN
+  meaning: The cuisine of a country or district is the style of cooking that is characteristic
+    of that place.
+  sent: The cuisine of Japan is low in fat.
+  roots:
+    cuis: "*pekw- | to cook, ripen"
+  exp: 意思上无需解释，只是注意cuis和cook可互换就好。
+- word: culinary
+  freq: 7907
+  use: -1
+  pos: ADJECTIVE
+  meaning: Culinary means concerned with cooking.
+  sent: '...advanced culinary skills.'
+  roots:
+    cul: "*pekw- | to cook, ripen"
+  exp: 不解释。
+- word: precocious
+  freq: 16035
+  use: -1
+  pos: ADJECTIVE
+  meaning: A precocious child is very clever, mature, or good at something, often
+    in a way that you usually only expect to find in an adult.
+  sent: Margaret was always a precocious child.
+  roots:
+    pre: pre- | before
+    coc: "*pekw- | to cook, ripen"
+  exp: 在同龄孩子之前(before)成熟(ripen)——早熟。
+- word: swan
+  freq: 11869
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A swan is a large bird with a very long neck. Swans live on rivers and
+    lakes and are usually white.
+  sent: the Swan of Avon (Shakespeare)
+  roots:
+    swan: "*swen- | to sound"
+  exp: swan这个词本意是singer，估计也就是叫声比较好听的鸟，于是以声音为其命名。最近黑天鹅事件频发，导致swan这个词是越来越火。因此虽说本来没那么常用，也还是收录了进来。
+- word: resounding
+  freq: 15979
+  use: -1
+  pos: ADJECTIVE
+  meaning: A resounding sound is loud and clear.
+  sent: There was a resounding slap as Andrew struck him violently across the face.
+  roots:
+    re: re- | back, again
+    sound: "*swen- | to sound"
+  exp: 和resonate(8012,10)差不多，都是一种声音绕梁三日的感觉。
+  related:
+    - resound
+- word: unison
+  freq: 9638
+  use: 35
+  pos: NOUN
+  meaning: an interval consisting of two identical musical pitches; prime
+  sent: unison singing
+  roots:
+    uni: uni- | one
+    son: "*swen- | to sound"
+  exp: 一齐出声，不解释。
+- word: dissonance
+  freq: 17027
+  use: 45
+  pos: UNCOUNTABLE NOUN
+  meaning: Dissonance is a lack of agreement or harmony between things.
+  roots:
+    dis: dis- | apart
+    son: "*swen- | to sound"
+  exp: 和主旋律背离(apart)，所以是不和谐音。
+- word: resonate
+  freq: 8012
+  use: 10
+  pos: INTRANSITIVE VERB
+  meaning: If something resonates, it vibrates and produces a deep, strong sound.
+  sent: The bass guitar began to thump so loudly that it resonated in my head.
+  roots:
+    re: re- | back, again
+    son: "*swen- | to sound"
+  exp: sound + again，就是一种声音绕梁三日的感觉。
+  related:
+    - resonant
+    - resonance
+- word: sonic
+  freq: 13726
+  use: -1
+  pos: ADJECTIVE
+  meaning: Sonic is used to describe things related to sound.
+  sent: '...the sonic boom of enemy fighter-bombers.'
+  roots:
+    son: "*swen- | to sound"
+  exp: 和声音有关的都是这词，当然也可以是只刺猬。
+- word: consonant
+  freq: 18173
+  use: 51
+  pos: COUNTABLE NOUN
+  meaning: A consonant is a sound such as 'p,' 'f,' 'n,' or 't' which you pronounce
+    by stopping the air flowing freely through your mouth. Compare vowel.
+  roots:
+    con: con- | with, together
+    son: "*swen- | to sound"
+  exp: consonant一般必须要和vowel(14006,-1)一起(together)才能组成单词完整的读音(sound)。而vowel只靠自己也可以组成单词，比如单词a。
+- word: soundly
+  freq: 16469
+  use: 73
+  pos: ADVERB
+  meaning: If someone is soundly defeated or beaten, they are defeated or beaten thoroughly.
+  sent: Needing just a point from their match at St. Helens, they were soundly beaten,
+    going down by 35 points to 10.
+  roots:
+    sound: "*swen- | to sound"
+  exp: 是一种"掷地有声"的感觉。
+- word: terrain
+  freq: 4543
+  use: 64
+  pos: VARIABLE NOUN
+  meaning: Terrain is used to refer to an area of land or a type of land when you
+    are considering its physical features.
+  sent: The terrain changed quickly from arable land to desert.
+  roots:
+    ter: "*ters- | to dry"
+  exp: 地表除了陆地就是海洋，所以to dry能衍生出an area of land的感觉。又是一个有很多人都不认识的超常用词。和它同源的thirsty(10573,-1)排名10000以后，但基本上大家都认识。另外这两个词也很好地体现了词根的作用——如果不是有个共同的祖宗"to dry"的话，任谁也想不通"地带"和"口渴"能有啥联系。
+- word: terrace
+  freq: 6523
+  use: 6
+  pos: COUNTABLE NOUN
+  meaning: A terrace is a flat area of stone or grass next to a building where people
+    can sit.
+  sent: Some guests recline in deck chairs on the sea-facing terrace.
+  roots:
+    ter: "*ters- | to dry"
+  exp: 和terrain(4543,64)一样，都是平地的感觉。
+- word: torrent
+  freq: 12055
+  use: 30
+  pos: COUNTABLE NOUN
+  meaning: A torrent is a lot of water falling or flowing rapidly or violently.
+  sent: Torrents of water gushed into the reservoir.
+  roots:
+    tor: "*ters- | to dry"
+  exp: 如果光看释义会觉得很费解：为什么water flowing rapidly和to dry意思不是正相反吗？实际上torrent本来是表示水沸腾时的状态的，所以后来它才衍生出了flow violently的意思。而想把水烧开就只能升温(好吧，也可以通过降压)，于是就和to dry联系上了。
+- word: toast
+  freq: 6251
+  use: 19
+  pos: UNCOUNTABLE NOUN
+  meaning: Toast is bread which has been cut into slices and made brown and crisp
+    by cooking at a high temperature.
+  sent: '...a piece of toast.'
+  roots:
+    toast: "*ters- | to dry"
+  exp: 人家toast本来就是烤(to brown with heat)的意思，后来由于烤得最多的就是面包，才表示了"面包"。而烤这个过程就是把湿面团做成干(dry)面包。
+  related:
+    - toaster
+- word: subterranean
+  freq: 15024
+  use: 2
+  pos: ADJECTIVE
+  meaning: A subterranean river or tunnel is under the ground.
+  sent: The city has 9 miles of such subterranean passages.
+  roots:
+    sub: sub- | under, beneath
+    ter: "*ters- | to dry"
+  exp: terrain(4543,64)是地表，subterranean自然就是地下了。
+- word: terrestrial
+  freq: 9834
+  use: -1
+  pos: ADJECTIVE
+  meaning: Terrestrial means relating to the planet Earth rather than to some other
+    part of the universe.
+  sent: '...terrestrial life forms.'
+  roots:
+    ter: "*ters- | to dry"
+  exp: 借的是*ters-中"陆地"的感觉。
+  related:
+    - extraterrestrial
+- word: boon
+  freq: 11736
+  use: 127
+  pos: COUNTABLE NOUN
+  meaning: You can describe something as a boon when it makes life better or easier
+    for someone.
+  sent: It is for this reason that television proves such a boon to so many people.
+  roots:
+    boon: "*deu- | to do, perform; show favor, revere"
+  exp: 主要用的是*deu-中perform的感觉——有用，于是makes life better。
+- word: benign
+  freq: 7098
+  use: 95
+  pos: ADJECTIVE
+  meaning: You use benign to describe someone who is kind, gentle, and harmless.
+  sent: They are normally a more benign audience.
+  roots:
+    bene: bene- | well
+    nign: "*gene- | give birth, beget"
+  exp: well born，也就是"生下来就很好"的感觉。
+- word: embellish
+  freq: 12954
+  use: 80
+  pos: TRANSITIVE VERB
+  meaning: If something is embellished with decorative features or patterns, it has
+    those features or patterns on it and they make it look more attractive.
+  sent: The boat was embellished with carvings in red and blue.
+  roots:
+    em: en- |
+    bel: "*deu- | to do, perform; show favor, revere"
+  exp: bel是从*deu-衍生出的词根，表示beautiful。而*deu-之前讲过，是一种positive的感觉。当然啦，连beautiful(995,160)这个词本身也是从*deu-来的，大家都是好兄弟。而beautiful也和释义中的"make it look more attractive"相呼应。
+  related:
+    - embellishment
+- word: bounty
+  freq: 9365
+  use: 55
+  pos: VARIABLE NOUN
+  meaning: You can refer to something that is provided in large amounts as bounty.
+  sent: '...autumn''s bounty of fruits, seeds and berries.'
+  roots:
+    boun: "*deu- | to do, perform; show favor, revere"
+  exp: bon是从*deu-发展出来的词根，表示goodness。古人思路很简单，量大就是好，量小不够吃，不好。
+  related:
+    - bountiful
+- word: bonus
+  freq: 4213
+  use: 30
+  pos: COUNTABLE NOUN
+  meaning: A bonus is an extra amount of money that is added to someone's pay, usually
+    because they have worked very hard.
+  sent: Workers in big firms receive a substantial part of their pay in the form of
+    bonuses and overtime.
+  roots:
+    bon: "*deu- | to do, perform; show favor, revere"
+  exp: bon是从*deu-发展出来的词根，表示goodness。而bonus嘛，肯定是好东西。
+- word: bonanza
+  freq: 14338
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: You can refer to a sudden great increase in wealth, success, or luck as
+    a bonanza.
+  sent: The expected sales bonanza hadn't materialized.
+  roots:
+    bon: "*deu- | to do, perform; show favor, revere"
+  exp: sudden great increase in wealth, success都是好词儿，而前面讲过了bon就表示goodness。另外，这个读音和拼写都很怪的词来源于西班牙语。不过不要紧，大家都是拉丁语系的，不会脱出词根覆盖的范围。
+- word: beau
+  freq: 17770
+  use: 41
+  pos: NOUN
+  meaning: A someone's beau is their boyfriend or lover.
+  roots:
+    beau: "*deu- | to do, perform; show favor, revere"
+  exp: 这词像是beautiful被砍了一半——也确实是，它在法语里就表示"the beautiful"。boyfriend, lover，心中最美的人。
+- word: transfix
+  freq: 14317
+  use: 27
+  pos: TRANSITIVE VERB
+  meaning: If you are transfixed by something, it captures all of your interest or
+    attention, so that you are unable to think of anything else or unable to act.
+  sent: We were all transfixed by the images of the war.
+  roots:
+    trans: trans- | across, beyond, through
+    fix: "*dheigw- | to stick, fix"
+  exp: PIE本身太复杂不用记，只需要知道它的popular form是fix就好。transfix本来表示pierce through, impale，因此trans-这部分就是指"穿过"的感觉，而fix则是被定住了。这一看就是被震撼到的样子。
+  fig: A被一支箭钉在树上，一脸震惊。
+- word: fixture
+  freq: 7155
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: Fixtures are fittings or furniture which belong to a building and are legally
+    part of it, for example, a bathtub or a toilet.
+  sent: '...a detailed list of what fixtures and fittings are included in the purchase
+    price.'
+  roots:
+    fix: "*dheigw- | to stick, fix"
+  exp: fix就是"固定"的意思，而fixture表示"固定设施"，无需解释。
+- word: ditch
+  freq: 6996
+  use: 74
+  pos: COUNTABLE NOUN
+  meaning: A ditch is a long narrow channel cut into the ground at the side of a road
+    or field.
+  sent: Both vehicles ended up in a ditch.
+  roots:
+    ditch: "*dheigw- | to stick, fix"
+  exp: ditch的本质是用来固定road/field的，没有它作为drainage路就很容易被冲坏。其实ditch还能做动词表示get rid of or give up——其实就是"扔沟里"的感觉。
+- word: dike
+  freq: 18349
+  use: 25
+  pos: COUNTABLE NOUN
+  meaning: A dike is a thick wall that is built to stop water flooding onto very low-lying
+    land from a river or from the ocean.
+  roots:
+    dike: "*dheigw- | to stick, fix"
+  exp: dike是起固定(fix)作用的。注意k和*dheigw-中的g互换。
+- word: fixation
+  freq: 13215
+  use: 39
+  pos: NOUN
+  meaning: If you accuse a person of having a fixation on something or someone, you
+    mean they think about a particular subject or person to an extreme and excessive
+    degree.
+  sent: The country's fixation on the war may delay a serious examination of domestic
+    needs.
+  roots:
+    fix: "*dheigw- | to stick, fix"
+  exp: fixation是一种stick to一种事物的感觉——整个精神就固定(fix)在那件事上了。
+  related:
+    - fixate
+- word: affix
+  freq: 14335
+  use: 53
+  pos: COUNTABLE NOUN
+  meaning: stick, attach, or fasten (something) to something else
+  sent: to affix a poster to the wall
+  roots:
+    af: ad- | to
+    fix: "*dheigw- | to stick, fix"
+  exp: 词根上无需解释。affix还可以用作名词，prefix和suffix都是affix的一种(还有一种叫infix的，英文里并不常见)。
+- word: coy
+  freq: 17749
+  use: 23
+  pos: ADJECTIVE
+  meaning: A coy person is shy, or pretends to be shy, about love and sex.
+  sent: I was sickened by the way Carol charmed all the men by turning coy.
+  roots:
+    coy: "*kweie- | to rest, be quiet"
+  exp: 不声不响(quiet)，所以是shy的感觉。注意coy可不是什么褒义词，它表达的是那种"装纯"的感觉，最终目的往往是诱惑对方。
+- word: acquit
+  freq: 10246
+  use: -1
+  pos: VERB
+  meaning: If someone is acquitted of a crime in a court of law, they are formally
+    declared not to have committed the crime.
+  sent: Mr. Castorina was acquitted of attempted murder.
+  roots:
+    ac: ad- | to
+    quit: "*kweie- | to rest, be quiet"
+  exp: 对所犯罪行保持缄默(quiet)——所以是"宣判无罪"的意思。
+  related:
+    - acquittal
+- word: acquiesce
+  freq: 15708
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If you acquiesce in something, you agree to do what someone wants or to
+    accept what they do.
+  sent: Steve seemed to acquiesce in the decision.
+  roots:
+    ac: ad- | to
+    quiesce: "*kweie- | to rest, be quiet"
+  exp: acquiese就是"默(quiet)许"的感觉。你品，你再品。
+  related:
+    - acquiescence
+- word: dissect
+  freq: 12165
+  use: 38
+  pos: TRANSITIVE VERB
+  meaning: If someone dissects the body of a dead person or animal, they carefully
+    cut it up in order to examine it scientifically.
+  sent: We dissected a frog in biology class.
+  roots:
+    dis: dis- | apart
+    sect: "*sek- | to cut"
+  exp: cut apart不解释。我们之前还学了anatomy这个词(8308,28)，表示解剖，那里面tom(=*tem-)也是to cut的意思。
+  related:
+    - dissection
+- word: intersection
+  freq: 5842
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: An intersection is a place where roads or other lines meet or cross.
+  sent: We crossed at a busy intersection.
+  roots:
+    inter: inter- | between
+    sect: "*sek- | to cut"
+  exp: intersection就是roads cut each other in between的感觉。
+  related:
+    - intersect
+- word: insect
+  freq: 3434
+  use: 35
+  pos: COUNTABLE NOUN
+  meaning: An insect is a small animal that has six legs. Most insects have wings.
+    Ants, flies, butterflies, and beetles are all insects.
+  roots:
+    in: in- | into
+    sect: "*sek- | to cut"
+  exp: 看到这个拆法你可能会想：是因为古人很喜欢切虫子吗？不是，这里cut实际上是指(animal) with a notched or divided body。我们看很多虫子——不管是肉的还是不怎么肉的——都是一节儿一节儿的。
+- word: segment
+  freq: 2945
+  use: 27
+  pos: COUNTABLE NOUN
+  meaning: A segment of something is one part of it, considered separately from the
+    rest.
+  sent: '...the poorer segments of society.'
+  roots:
+    seg: "*sek- | to cut"
+  exp: segment就是to cut, divide的感觉，不解释。
+- word: saw
+  freq: 7553
+  use: 18
+  pos: COUNTABLE NOUN
+  meaning: If you saw something, you cut it with a saw.
+  sent: He escaped by sawing through the bars of his cell.
+  roots:
+    saw: "*sek- | to cut"
+  exp: 由于《电锯惊魂》(Saw)而被很多人熟知的一个词。saw就是就来cut的。
+- word: sector
+  freq: 1988
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A particular sector of a country's economy is the part connected with that
+    specified type of industry.
+  sent: '...the nation''s manufacturing sector.'
+  roots:
+    sect: "*sek- | to cut"
+  exp: 借的是to cut中divide的那种感觉。
+- word: mourn
+  freq: 6877
+  use: 53
+  pos: VERB
+  meaning: If you mourn someone who has died or mourn for them, you are very sad that
+    they have died and show your sorrow in the way that you behave.
+  sent: Joan still mourns her father.
+  roots:
+    mourn: "*(s)mer- | to remember"
+  exp: to remember sorrowfully的感觉。
+  related:
+    - mournful
+    - mourner
+    - mourning
+- word: memo
+  freq: 5192
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: A memo is a short official note that is sent by one person to another within
+    the same company or organization.
+  sent: He sent out a memo expressing his disagreement with their decisions.
+  roots:
+    mem: "*(s)mer- | to remembrer"
+  exp: 记下来，省得忘了。
+- word: memorandum
+  freq: 11239
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: A memorandum is a written report that is prepared for a person or committee
+    in order to provide them with information about a particular matter.
+  sent: '...a memorandum from the Department of Defense on its role.'
+  roots:
+    mem: "*(s)mer- | to remember"
+  exp: 凡是写下来的东西都是供未来参考，就怕忘了。
+- word: commemorate
+  freq: 8869
+  use: 22
+  pos: TRANSITIVE VERB
+  meaning: To commemorate an important event or person means to remember them by means
+    of a special action, ceremony, or specially created object.
+  sent: One room contained a gallery of paintings commemorating great moments in baseball
+    history.
+  roots:
+    com: com- | intensive prefix
+    mem: "*(s)mer- | to remember"
+  exp: 不解释。
+  related:
+    - commemoration
+    - commemorative
+- word: bundle
+  freq: 6092
+  use: 280
+  pos: COUNTABLE NOUN
+  meaning: A bundle of things is a number of them that are tied together or wrapped
+    in a cloth or bag so that they can be carried or stored.
+  sent: Lance pulled a bundle of papers out of a folder.
+  roots:
+    bund: "*bhendh- | to bind"
+  exp: 很多东西绑(bind)在一起，不解释。
+- word: bond
+  freq: 1894
+  use: 86
+  pos: COUNTABLE NOUN
+  meaning: A bond between people is a strong feeling of friendship, love, or shared
+    beliefs and experiences that unites them.
+  sent: The experience created a very special bond between us.
+  roots:
+    bond: "*bhendh- | to bind"
+  exp: 两个人绑(bind)在一起。
+  related:
+    - bonding
+- word: disband
+  freq: 14334
+  use: 31
+  pos: VERB
+  meaning: If someone disbands a group of people, or if the group disbands, it stops
+    operating as a single unit.
+  sent: All the armed groups will be disbanded.
+  roots:
+    dis: dis- | opposite of
+    band: "*bhendh- | to bind"
+  exp: 不绑(bind)在一起了——解散。
+- word: ribbon
+  freq: 4891
+  use: 26
+  pos: VARIABLE NOUN
+  meaning: A ribbon is a long, narrow piece of cloth that you use for tying things
+    together or as a decoration.
+  sent: She had tied back her hair with a peach satin ribbon.
+  roots:
+    bon: "*bhendh- | to bind"
+  exp: 这个词里的ri表示ring，所以整个词其实就是ring-band的感觉。
+- word: bandage
+  freq: 9653
+  use: 13
+  pos: COUNTABLE NOUN
+  meaning: A bandage is a long strip of cloth that is wrapped around a wounded part
+    of someone's body to protect or support it.
+  sent: We put some ointment and a bandage on his knee.
+  roots:
+    band: "*bhendh- | to bind"
+  exp: 用来绑(bind)伤口的东西。
+- word: bandanna
+  freq: 18374
+  use: 2
+  pos: COUNTABLE NOUN
+  meaning: A bandanna is a brightly-colored piece of cloth which is worn around a
+    person's neck or head.
+  roots:
+    band: "*bhendh- | to bind"
+  exp: 把头或脖子绑(bind)起来的东西。佐罗用的就是这玩意儿。
+  fig: A绑一个佐罗的头巾。
+- word: bend
+  freq: 2213
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: When you bend, you move the top part of your body downward and forward.
+    Plants and trees also bend.
+  sent: I bent over and kissed her cheek.
+  roots:
+    bend: "*bhendh- | to bind"
+  exp: bind就是收紧的感觉，所以和bend有关。
+- word: forum
+  freq: 4759
+  use: 32
+  pos: COUNTABLE NOUN
+  meaning: A forum is a place, situation, or group in which people exchange ideas
+    and discuss issues, especially important public issues.
+  sent: Members of the council agreed that was an important forum for discussion.
+  roots:
+    for: "*dhwer- | door, doorway"
+  exp: 和foreign(690,45)一样，forum中的for也是out of dorrs, outside的感觉。讨论public issues，当然得在外头一起讨论。
+- word: forfeit
+  freq: 13038
+  use: 5
+  pos: TRANSITIVE VERB
+  meaning: If you forfeit something, you lose it or are forced to give it up because
+    you have broken a rule or done something wrong.
+  roots:
+    for: "*dhwer- | door, doorway"
+    feit: "*dhe- | to set, put"
+  exp: 两个词根拼起来是"do too much, go beyond(what is right)的感觉"，所以释义中才会有"... because you have broken a rule or done somthing wrong"。
+- word: forensic
+  freq: 7476
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Forensic is used to describe the work of scientists who examine evidence
+    in order to help the police solve crimes.
+  sent: They were convicted on forensic evidence alone.
+  roots:
+    for: "*dhwer- | door, doorway"
+  exp: 取证调查一般都要go outside。
+- word: foreclosure
+  freq: 10847
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Foreclosure is when someone who has lent money to a person or organization
+    so that they can buy property takes possession of the property because the money
+    has not been repaid.
+  sent: If homeowners can't keep up the payments, they face foreclosure.
+  roots:
+    fore: "*dhwer- | door, doorway"
+    clos: close
+  exp: 这个词造得很形象。别人借给你钱买(比如)房子，你还不清欠款，人家就把你房子收走了。而close outside正是把你关外边儿的感觉。
+  related:
+    - foreclose
+- word: rival
+  freq: 4391
+  use: 63
+  pos: COUNTABLE NOUN
+  meaning: Your rival is a person, business, or organization who you are competing
+    or fighting against in the same area or for the same things.
+  sent: The world champion finished more than two seconds ahead of his nearest rival.
+  roots:
+    riv: "*rei- | to run, flow"
+  exp: rival本来指的是one who uses the same stream——也就是说跟你共享一条小溪(flow)的人，在资源分配上就和你形成了竞争关系。
+  related:
+    - rivalry
+- word: derive
+  freq: 3077
+  use: 36
+  pos: TRANSITIVE VERB
+  meaning: If you derive something such as pleasure or benefit from a person or from
+    something, you get it from them.
+  sent: Mr. Ying is one of those happy people who derive pleasure from helping others.
+  roots:
+    de: "de | from"
+    rive: "*rei- | to run, flow"
+  exp: 这个词的其中一个中文释义是"起源(于)"，可见其和flow的关系。
+  related:
+    - derivative
+- word: overrun
+  freq: 11537
+  use: 73
+  pos: TRANSITIVE VERB
+  meaning: If an army or an armed force overruns a place, area, or country, it succeeds
+    in occupying it very quickly.
+  sent: A group of rebels overran the port area and most of the northern suburbs.
+  roots:
+    over: over- | over
+    run: "*rei- | to run, flow"
+  exp: 其实就是run over，不解释。
+- word: forerunner
+  freq: 18504
+  use: 33
+  pos: COUNTABLE NOUN
+  meaning: If you describe a person or thing as the forerunner of someone or something
+    similar, you mean they existed before them and either influenced their development
+    or were a sign of what was going to happen.
+  sent: '...a machine which, in some respects, was the forerunner of the modern helicopter.'
+  roots:
+    fore: fore- | before in time, rank, position
+    run: "*rei- | to run, flow"
+  exp: run before other people的感觉，不解释。
+- word: inscribe
+  freq: 9397
+  use: 47
+  pos: TRANSITIVE VERB
+  meaning: If you inscribe words on an object, you write or carve the words on the
+    object.
+  sent: Some galleries commemorate donors by inscribing their names on the walls.
+  roots:
+    in: in- | in
+    scribe: "*skribh- | to cut, separate, sift"
+  exp: cut in，不解释。
+  related:
+    - inscription
+- word: subscribe
+  freq: 8132
+  use: 46
+  pos: INTRANSITIVE VERB
+  meaning: If you subscribe to an opinion or belief, you are one of a number of people
+    who have this opinion or belief.
+  sent: I've personally never subscribed to the view that either sex is superior to
+    the other.
+  roots:
+    sub: sub- | underneath
+    scribe: "*skribh- | to cut, separate, sift"
+  exp: 借的是*skribh-中to write的感觉。整个词表示to write(sign one's name) underneath。然后由"在下面签字"这种感觉衍生出了"同意"的意思。
+  related:
+    - subscriber
+- word: circumscribe
+  freq: 17559
+  use: 38
+  pos: TRANSITIVE VERB
+  meaning: If someone's power or freedom is circumscribed, it is limited or restricted.
+  sent: The army evidently fears that, under him, its activities would be severely
+    circumscribed.
+  roots:
+    circum: circum- | around, round about, all around, on all sides
+    scribe: "*skribh- | to cut, separate, sift"
+  exp: to cut around的感觉。这个词对于俺们中国人来说甚好理解——想像一下悟空在唐僧身边画的那个圈儿就行。
+  fig: 悟空在唐僧身边画的那个圈儿。旁边一个人唱："有一位 悟空 在唐僧的身边画了一个圈~~"。
+- word: scribe
+  freq: 15008
+  use: 34
+  pos: COUNTABLE NOUN
+  meaning: In the days before printing was common, a scribe was a person who wrote
+    copies of things such as letters or documents.
+  roots:
+    scribe: "*skribh- | to cut, separate, sift"
+  exp: 借的是*skribh-中to write的感觉。不解释。
+- word: prescribe
+  freq: 5449
+  use: 33
+  pos: TRANSITIVE VERB
+  meaning: If a doctor prescribes medicine or treatment for you, he or she tells you
+    what medicine or treatment to have.
+  sent: The physician examines the patient then diagnoses the disease and prescribes
+    medication.
+  roots:
+    pre: pre- | before
+    scribe: "*skribh- | to cut, separate, sift"
+  exp: 借的是*skribh-中to write的感觉。先(before)写(to write)下来，然后你去照方抓药。
+  related:
+    - prescription
+- word: script
+  freq: 3315
+  use: 21
+  pos: COUNTABLE NOUN
+  meaning: The script of a play, movie, or television program is the written version of it.
+  sent: Jenny's writing a film script.
+  roots:
+    script: "*skribh- | to cut, separate, sift"
+  exp: 借的是*skribh-中to write的感觉。
+- word: ascribe
+  freq: 11210
+  use: 17
+  pos: TRANSITIVE VERB
+  meaning: If you ascribe an event or condition to a particular cause, you say or
+    consider that it was caused by that thing.
+  sent: An autopsy eventually ascribed the baby's death to sudden infant death syndrome.
+  roots:
+    a: ad- | to
+    scribe: "*skribh- | to cut, separate, sift"
+  exp: to write in, enter in a list的感觉。
+  fig: A给老师写"我没写作业的原因有：1. 不愿意写；2. 不想写；3. 懒得写。"
+- word: conscript
+  freq: 19825
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A conscript is a person who has been made to join the armed forces of a
+    country.
+  sent: Most of the soldiers are reluctant conscripts.
+  roots:
+    con: con- | with, together
+    script: "*skribh- | to cut, separate, sift"
+  exp: 从a drawing up of a list衍生出了enroll的感觉。
+- word: manuscript
+  freq: 5176
+  use: 7
+  pos: NOUN
+  meaning: A manuscript is a handwritten or typed document, especially a writer's
+    first version of a book before it is published.
+  sent: He had seen a manuscript of the book.
+  roots:
+    manu: "*man- | hand"
+    script: "*skribh- | to cut, separate, sift"
+  exp: 整体上就是handwritten的感觉。
+- word: transcribe
+  freq: 9707
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you transcribe a speech or text, you write or type it out, for example,
+    from notes or from a tape recording.
+  sent: She is transcribing, from his dictation, the diaries of Simon Forman.
+  roots:
+    trans: trans- | across, beyond, over
+    scribe: "*skribh- | to cut, separate, sift"
+  exp: to write again in another place的感觉。
+- word: scribble
+  freq: 10075
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If you scribble something, you write it quickly and roughly.
+  sent: She scribbled a note to tell Mom she'd gone out.
+  roots:
+    scrib: "*skribh- | to cut, separate, sift"
+  exp: 还是用的to write的感觉，不解释。
+- word: seminar
+  freq: 4919
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A seminar is a meeting where a group of people discuss a problem or topic.
+  sent: '...a series of half-day seminars to help businesspeople get the best value
+    from investing in information technology.'
+  roots:
+    sem: "*sē- | to sow"
+  exp: 撒播知识的种子。
+  related:
+    - seminary
+- word: disseminate
+  freq: 10156
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To disseminate information or knowledge means to distribute it so that
+    it reaches many people or organizations.
+  sent: They disseminated anti-French propaganda.
+  roots:
+    dis: dis- | apart, away
+    sem: "*sē- | to sow"
+  exp: 撒播知识的种子。
+  related:
+    - dissemination
+- word: sow
+  freq: 10620
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you sow seeds or sow an area of land with seeds, you plant the seeds
+    in the ground.
+  sent: Sow the seed in a warm place in February/March.
+  roots:
+    sem: "*sē- | to sow"
+  exp: 不解释。
+- word: semen
+  freq: 15476
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Semen is the liquid containing sperm that is produced by the sex organs
+    of men and male animals.
+  roots:
+    sem: "*sē- | to sow"
+  exp: 不解释。
+- word: provoke
+  freq: 4872
+  use: 91
+  pos: TRANSITIVE VERB
+  meaning: If you provoke someone, you deliberately annoy them and try to make them
+    behave aggressively.
+  sent: He started beating me when I was about fifteen but I didn't do anything to
+    provoke him.
+  roots:
+    pro: "*per-(1) | forward"
+    voke: "*wekw- | to speak"
+  exp: 主动(forward)用语言(speak)向对方挑衅。
+  related:
+    - provocation
+    - provocative
+- word: invoke
+  freq: 5483
+  use: 88
+  pos: TRANSITIVE VERB
+  meaning: If you invoke a law, you state that you are taking a particular action
+    because that law allows or tells you to.
+  sent: The judge invoked an international law that protects refugees.
+  roots:
+    in: "*en | in"
+    voke: "*wekw- | to speak"
+  exp: state that就是to speak about that的意思。
+  related:
+    - invocation
+- word: epic
+  freq: 8776
+  use: 67
+  pos: COUNTABLE NOUN
+  meaning: An epic is a long book, poem, or movie whose story extends over a long
+    period of time or tells of great events.
+  sent: '...the Middle High German epic, "Nibelungenlied," written about 1200.'
+  roots:
+    pic: "*wekw- | to speak"
+  exp: 这词早先就表示a lengthy heoric poem，而poem是要靠人们传唱(to speak)的。经常玩儿游戏的很可能对这个词已经很熟悉了，一般装备的品质从低到高是common, rare, epic和legendary。
+- word: revoke
+  freq: 12938
+  use: 45
+  pos: TRANSITIVE VERB
+  meaning: When people in authority revoke something such as a license, a law, or
+    an agreement, they cancel it.
+  sent: The government revoked her husband's license to operate migrant labor crews.
+  roots:
+    re: re- | back
+    voke: "*wekw- | to speak"
+  exp: 其实就是to call back的感觉。
+  related:
+    - irrevocably
+- word: vocal
+  freq: 4539
+  use: 37
+  pos: ADJECTIVE
+  meaning: You say that people are vocal when they speak forcefully about something
+    that they feel strongly about.
+  sent: He has been very vocal in his displeasure over the results.
+  roots:
+    voc: "*wekw- | to speak"
+  exp: 不解释。
+  related:
+    - vocalist
+- word: evoke
+  freq: 5078
+  use: 34
+  pos: TRANSITIVE VERB
+  meaning: To evoke a particular memory, idea, emotion, or response means to cause
+    it to occur.
+  sent: '...the scene evoking memories of those old movies.'
+  roots:
+    e: ex- | out
+    vok: "*wekw- | to speak"
+  exp: to speak something out again，所以是唤起之前回忆的感觉。
+  related:
+    - evocation
+- word: voucher
+  freq: 7381
+  use: 27
+  pos: COUNTABLE NOUN
+  meaning: A voucher is a ticket or piece of paper that can be used instead of money
+    to pay for something.
+  sent: The winners will each receive a voucher for a pair of movie tickets.
+  roots:
+    vouch: "*wekw- | to speak"
+  exp: 要理解voucher，首先要理解一个比它不常用的词vouch(18936,-1)。vouch的意思是保证、担保、可以为...提供支持或证据。一般这种证据是要说(to speak)出来的。而voucher就是在你没钱的情况下，提供的一种你花了钱的证明。注意ch和*wekw-中的k可互换，也和这个PIE root的popular form "voc" 可互换。
+  related:
+    - vouch
+- word: vocabulary
+  freq: 5640
+  use: 15
+  pos: VARIABLE NOUN
+  meaning: Your vocabulary is the total number of words you know in a particular language.
+  sent: His speech is immature, his vocabulary limited.
+  roots:
+    voc: "*wekw- | to speak"
+  exp: 学单词(vocabulary)就是为了说话(to speak)的，和dictionary(8658,4)有异曲同工之妙，因为其中的dict也表示to say，而这个dict之后我们会讲到，来源于*deik-=to show。
+- word: advocate
+  freq: 2646
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you advocate a particular action or plan, you recommend it publicly.
+  sent: Mr. Williams is a conservative who advocates fewer government controls on business.
+  roots:
+    ad: ad- | to
+    voc: "*wekw- | to speak"
+  exp: 为...发声(to speak)的感觉。
+- word: vocational
+  freq: 8439
+  use: -1
+  pos: ADJECTIVE
+  meaning: Vocational training and skills are the training and skills needed for a particular job or profession.
+  roots:
+    voc: "*wekw- | to speak"
+  related:
+    - vocation
+  exp: 要理解为什么job/profession和to speak有关，就需要先明白什么叫calling (和to speak相关)。calling是一种招唤。一个人的职业(prefession)如果是天生注定的话，那你找到这个职业就需要听从内心的呼唤。所以看来造词者也跟Steve Jobs的观点差不多："If you haven't found it yet, keep looking, and don't settle. As with all matters of the heart, you'll know when you find it."
+- word: unequivocal
+  freq: 16284
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe someone's attitude as unequivocal, you mean that it is completely clear and very firm.
+  sent: '...Richardson''s unequivocal commitment to fair play.'
+  roots:
+    un: un- | not
+    equ: equ | equal
+    voc: "*wekw- | to speak"
+  exp: to speak + equal给人的是各打五十大板的感觉，而前面再加个not就是这种状态的反面。
+- word: vowel
+  freq: 14006
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A vowel is a sound such as the ones represented in writing by the letters A, E, I, O and U, that you pronounce with your mouth open, allowing the air to flow through it. Compare , consonant.
+  sent: The vowel in words like "my" and "thigh" is not very difficult.
+  roots:
+    vow: "*wekw- | to speak"
+  exp: vowel和speak有关，不解释。
+- word: aesthetic
+  freq: 4343
+  use: 71
+  pos: ADJECTIVE
+  meaning: Aesthetic is used to talk about beauty or art, and people's appreciation
+    of beautiful things.
+  sent: '...products chosen for their aesthetic appeal as well as their durability
+    and quality.'
+  roots:
+    ae: "*au- | to perceive"
+  exp: 美是一种主观感受(to perceive)。好吧，另有一派认为美是客观存在，但是造词的人貌似不这么想。
+  related:
+    - aesthetics
+- word: obey
+  freq: 5753
+  use: 64
+  pos: VERB
+  meaning: If you obey a person, a command, or an instruction, you do what you are
+    told to do.
+  sent: Cissie obeyed her mother without question.
+  roots:
+    ob: ob- | to
+    ey: "*au- | to perceive"
+  exp: 借的是*au-中listen, hear的那层意思。所谓obey，就是"听话(listen to)"。
+  related:
+    - disobey
+- word: obedient
+  freq: 15022
+  use: 45
+  pos: ADJECTIVE
+  meaning: A person or animal who is obedient does what they are told to do.
+  sent: He was very respectful at home and obedient to his parents.
+  roots:
+    ob: ob- | to
+    e: "*au- | to perceive"
+  exp: 和obey(5753,64)一样，借的是*au-中listen, hear的那层意思。所谓obey，就是"听话(listen to)"。因此这个词最好不要单拆，而是通过obey来记。
+  related:
+    - obedience
+    - disobedience
+- word: anesthesia
+  freq: 12409
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Anesthesia is the use of anesthetics in medicine and surgery.
+  roots:
+    an: an- | without
+    e: "*au- | to perceive"
+    ia: -ia | countries, diseases, and flowers
+  exp: cannot perceive anything --> 麻醉。很神奇的是anesthetics(n.麻醉剂)不在前20000的词频里，所以我们在这里顺便记一下就好了。有的人会奇怪这个词有什么用——不会这个词，你怎么能愉快地看The Good Doctor, House M.D.和Grey's Anatomy呢？
+  related:
+    - anesthesiologist
+- word: audit
+  freq: 5580
+  use: 51
+  pos: TRANSITIVE VERB
+  meaning: When an accountant audits an organization's accounts, he or she examines
+    the accounts officially in order to make sure that they have been done correctly.
+  sent: Each year they audit our accounts and certify them as being true and fair.
+  roots:
+    au: "*au- | to perceive"
+  exp: 借的是*au-中listen, hear的那层意思，表示offical examination of accounts。基本就是让别人汇报，你听听看有没有问题的感觉。如果认识hearing这个词，并知道它"审讯"的那层意思的话，就更能对audit有深刻的理解。
+  related:
+    - auditor
+- word: auditory
+  freq: 11191
+  use: 16
+  pos: ADJECTIVE
+  meaning: Auditory means related to hearing.
+  sent: '...the limits of the human auditory range.'
+  roots:
+    au: "*au- | to perceive"
+  exp: 借的是*au-中listen, hear的那层意思。
+  related:
+    - auditorium
+- word: audible
+  freq: 10615
+  use: -1
+  pos: ADJECTIVE
+  meaning: A sound that is audible is loud enough to be heard.
+  sent: The Colonel's voice was barely audible.
+  roots:
+    au: "*au- | to perceive"
+    ible: "-able | able"
+  exp: 借的是*au-中listen, hear的那层意思。
+  related:
+    - inaudible
+- word: audition
+  freq: 10529
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An audition is a short performance given by an actor, dancer, or musician
+    so that a director or conductor can decide if they are good enough to be in a
+    play, film, or orchestra.
+  sent: '...an audition for a Broadway musical.'
+  roots:
+    au: "*au- | to perceive"
+  exp: 借的是*au-中listen, hear的那层意思。就是"你来唱我来听"的感觉。
+- word: remark
+  freq: 3418
+  use: 78
+  pos: COUNTABLE NOUN
+  meaning: If you remark that something is the case, you say that it is the case.
+  sent: I remarked that I would go shopping that afternoon.
+  roots:
+    re: re- | intensive prefix
+    mark: "*merg- | boundary, border"
+  exp: 借的是*merg-中"圈出来、突出"的那层意思。
+  related:
+    - remarkable
+    - unremarkable
+- word: margin
+  freq: 3333
+  use: 68
+  pos: COUNTABLE NOUN
+  meaning: A margin is the difference between two amounts, especially the difference
+    in the number of votes or points between the winner and the loser in an election
+    or other contest.
+  sent: They could end up with a 50-point winning margin.
+  roots:
+    marg: "*merg- | boundary, border"
+  exp: margin表示的是boundary space：就是你我各有个boundary，这两个boundaries中间的距离就是margin。
+  related:
+    - marginal
+    - marginalize
+    - marginalization
+- word: stout
+  freq: 13760
+  use: 190
+  pos: ADJECTIVE
+  meaning: A stout person is rather fat.
+  sent: He was a tall, stout man with gray hair.
+  roots:
+    stou: "*stel- | to put, stand, put in order"
+  exp: 借的是*stel-中stand的意思，给人一种站在那儿很明显的感觉。
+- word: stall
+  freq: 6773
+  use: 79
+  pos: INTRANSITIVE VERB
+  meaning: If a process stalls, or if someone or something stalls it, the process
+    stops but may continue at a later time.
+  sent: The Social Democratic Party has vowed to try to stall the bill until the current
+    session ends.
+  roots:
+    stall: "*stel- | to put, stand, put in order"
+  exp: 借的是*stel-中"放那儿不动"的感觉。
+- word: forestall
+  freq: 16792
+  use: 70
+  pos: TRANSITIVE VERB
+  meaning: If you forestall someone, you realize what they are likely to do and prevent
+    them from doing it.
+  sent: Large numbers of police were in the square to forestall any demonstrations.
+  roots:
+    fore: fore- | before
+    stall: "*stel- | to put, stand, put in order"
+  exp: forestall就是从stall(6773,79)发展出来的词，只不过这回是提前(before) stall了。
+- word: stalk
+  freq: 6738
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: The stalk of a flower, leaf, or fruit is the thin part that joins it to
+    the plant or tree.
+  sent: A single pale blue flower grows up from each joint on a long stalk.
+  roots:
+    stal: "*stel- | to put, stand, put in order"
+  exp: 借的是*stel-中stand的感觉。注意这个词还有个意思是"跟踪"，和这个stalk完全两码事，涉及的词根也不一样，属于音同义不同。
+- word: stale
+  freq: 10178
+  use: -1
+  pos: ADJECTIVE
+  meaning: Stale food is no longer fresh or good to eat.
+  sent: Their daily diet consisted of a lump of stale bread, a bowl of rice, and stale
+    water.
+  roots:
+    stale: "*stel- | to put, stand, put in order"
+  exp: 放(put)在那儿很久了。
+  fig: 某种食物已经招苍蝇了，包装上写着best if used by 4/4/2025，旁边挂的日历已经翻到了2030年7月。
+- word: stalemate
+  freq: 13825
+  use: 29
+  pos: VARIABLE NOUN
+  meaning: Stalemate is a situation in which neither side in an argument or contest
+    can win or in which no progress is possible.
+  sent: The proportional representation system was widely blamed for two inconclusive
+    election results and a year of political stalemate.
+  roots:
+    stale: "*stel- | to put, stand, put in order"
+    mate: checkmate
+  exp: 借的是put中"放在那儿不动"的感觉——所以陷入了僵持。
+- word: pedestal
+  freq: 10762
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A pedestal is the base on which something such as a statue stands.
+  sent: '...a larger than life-sized bronze statue on a granite pedestal.'
+  roots:
+    ped: "*ped- | foot"
+    stal: "*stel- | to put, stand, put in order"
+  exp: 用来站(stand)脚(foot)的地方。
+- word: obscure
+  freq: 5938
+  use: 223
+  pos: ADJECTIVE
+  meaning: If something or someone is obscure, they are unknown, or are known by only
+    a few people.
+  sent: The origin of the custom is obscure.
+  roots:
+    ob: ob- | over
+    scure: "*(s)keu- | to cover, conceal"
+  exp: 盖(cover)在表面上(over)——unknown。中文里也有类似的表达方法，比如"揭开/掩盖事情的真相"。
+  related:
+    - obscurity
+- word: custody
+  freq: 4470
+  use: 8
+  pos: UNCOUNTABLE NOUN
+  meaning: Custody is the legal right to keep and take care of a child, especially
+    the right given to a child's mother or father when they get divorced.
+  sent: I'm going to go to court to get custody of the children.
+  roots:
+    cust: "*(s)keu- | to cover, conceal"
+  exp: 说白了就是"罩着(cover)"某人的感觉。
+  related:
+    - custodian
+    - custodial
+- word: huddle
+  freq: 7321
+  use: 132
+  pos: INTRANSITIVE VERB
+  meaning: If you huddle somewhere, you sit, stand, or lie there holding your arms
+    and legs close to your body, usually because you are cold or frightened.
+  sent: Mr. Pell huddled in a corner with his notebook on his knees.
+  roots:
+    hud: "*(s)keu- | to cover, conceal"
+  exp: 字母互换上比较难想，因为用的是h和k可互换。这个词的词频是7321，已经算是比较常用的词了，但很少有人会。它的感觉就是把自己包裹(cover, conceal)起来。
+- word: skim
+  freq: 8677
+  use: 104
+  pos: TRANSITIVE VERB
+  meaning: If you skim something from the surface of a liquid, you remove it.
+  sent: Rough seas today prevented specially equipped ships from skimming oil off
+    the water's surface.
+  roots:
+    skim: "*(s)keu- | to cover, conceal"
+  exp: 要讲skim就必须先从一个比它更不常用的词scum(15799,-1)说起。scum的本意是a layer of dirt or froth on the surface of a liquid，很明显和cover有关。而skim指的正是把这层dirt(or froth)抹掉的动作(remove scum)。
+  related:
+    - scum
+- word: hoard
+  freq: 15256
+  use: 89
+  pos: TRANSITIVE VERB
+  meaning: If you hoard things such as food or money, you save or store them, often
+    in secret, because they are valuable or important to you.
+  sent: They've begun to hoard food and gasoline and save their money.
+  roots:
+    hoard: "*(s)keu- | to cover, conceal"
+  exp: 再一次用到了h和k的字母互换。hoard就是把东西都(收)藏(conceal)起来的感觉。
+- word: hose
+  freq: 6316
+  use: 47
+  pos: COUNTABLE NOUN
+  meaning: A hose is a long, flexible pipe made of rubber or plastic. Water is directed
+    through a hose in order to do things such as put out fires, clean cars, or water
+    gardens.
+  sent: You've left the garden hose on.
+  roots:
+    hose: "*(s)keu- | to cover, conceal"
+  exp: 这个词常用主要就是因为fire hose。hose的本意是covering for the leg，比如长筒袜(stockings)啥的。后来由于这袜子和水管都是圆筒状的，就引申过来了。
+  fig: 画个fire hose。
+- word: hut
+  freq: 5392
+  use: 10
+  pos: COUNTABLE NOUN
+  meaning: A hut is a small wooden building in someone's garden, or a temporary building
+    used by builders or repair workers.
+  roots:
+    hut: "*(s)keu- | to cover, conceal"
+  exp: hut就是个遮(cover)风挡雨的地方。
+- word: breed
+  freq: 5776
+  use: 191
+  pos: COUNTABLE NOUN
+  meaning: A breed of a pet animal or farm animal is a particular type of it. For
+    example, terriers are a breed of dog.
+  sent: '...rare breeds of cattle.'
+  roots:
+    breed: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 第一眼看去breed似乎和*bhreu-没什么关系——总不能是bubble表示卵泡儿吧。实际上这个词借的是*bhreu-中to keep warm的那层意思。比如你想孵个蛋，就肯定要给它个温暖的环境。
+  fig: A屁股底下坐了一个大恐龙蛋，旁边注"keep warm"。
+  realted:
+    - breeding
+    - breeder
+- word: brood
+  freq: 15040
+  use: 6
+  pos: COUNTABLE NOUN
+  meaning: A brood is a group of baby birds that were born at the same time to the
+    same mother.
+  sent: '...a hungry brood of fledglings.'
+  roots:
+    brood: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 和breed(5776,191)的讲解相似，都借的是*bhreu-中to keep warm的那层意思。
+  related:
+    - brooding
+- word: broil
+  freq: 14619
+  use: 31
+  pos: TRANSITIVE VERB
+  meaning: When you broil food, you cook it using very strong heat directly above
+    it.
+  sent: I'll broil the lobster.
+  roots:
+    broil: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: burn的感觉不解释。
+  related:
+    - broiler
+- word: embroil
+  freq: 16149
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If someone embroils you in a fight or an argument, they get you deeply
+    involved in it.
+  sent: Any hostilities could result in retaliation and further embroil U.N. troops
+    in fighting.
+  roots:
+    em: en- | in
+    broil: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 要想明白这个词就需要回顾一下cooking的过程。一开始各种原材料各自为政，broil之后就混在一起了。所以*bhreu-其实还有to mix, mingle这一层意思(mix和mingle中的ming也可以互换，嘿嘿)。所以说emboril就表示把大家mix在了一起，互相吵吵嘴打打架什么的，所以释义里才会有"deeply invovled"这样的词。
+- word: bride
+  freq: 4931
+  use: 18
+  pos: COUNTABLE NOUN
+  meaning: A bride is a woman who is getting married or who has just gotten married.
+  sent: Guests toasted the bride and groom with champagne.
+  roots:
+    bride: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 如果参考同源词breed(5776,191)的话，可能很多人会觉得bride的造词过程应该是和"生育"有关的。很可惜不是这样的——这里边的 *bhreu-只和cooking, brewing有关。新娘子嫁过来之后，饭就都归她做了，就这么简单•••
+  related:
+    - bridal
+    - bridesmaid
+- word: brew
+  freq: 10674
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you brew tea or coffee, you make it by pouring hot water over tea leaves
+    or ground coffee.
+  sent: He brewed a pot of coffee.
+  roots:
+    brew: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: brew就是boil，不解释。
+  related:
+    - brewer
+    - brewery
+- word: ferment
+  freq: 18483
+  use: 83
+  pos: UNCOUNTABLE NOUN
+  meaning: Ferment is excitement and trouble caused by change or uncertainty.
+  sent: The whole country has been in a state of political ferment for some months.
+  roots:
+    ferm: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 注意f和b可互换。这个词借的是buble冒泡儿的那种感觉，而且加热后熵增加，所以释义中的change or uncertainty是很正常的。ferment还能用做动词表示"发酵"，因此也和effervesce相关。
+- word: fervor
+  freq: 11323
+  use: 36
+  pos: UNCOUNTABLE NOUN
+  meaning: Fervor for something is a very strong feeling for or belief in it.
+  sent: They were concerned only with their own religious fervor.
+  roots:
+    ferv: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 涉及到f=b，v=u。整个词表达了宗教般的狂热(burn)，不解释。
+- word: fervent
+  freq: 14648
+  use: 68
+  pos: ADJECTIVE
+  meaning: A fervent person has or shows strong feelings about something, and is very
+    sincere and enthusiastic about it.
+  roots:
+    ferv: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 热情(enthusiasm)也带个"热"字，和burn相关，不解释。
+  related:
+    - fervently
+- word: broth
+  freq: 5777
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Broth is a kind of soup made by boiling meat or vegetables.
+  roots:
+    bro: "*bhreu- | to boil, bubble, effervesce, burn"
+  exp: 和boil高度相关，不解释。
+- word: dominant
+  freq: 3204
+  use: 68
+  pos: ADJECTIVE
+  meaning: Someone or something that is dominant is more powerful, successful, influential,
+    or noticeable than other people or things.
+  sent: '...a change which would maintain his party''s dominant position in Scotland.'
+  roots:
+    dom: "*dem- | house, household"
+  exp: 借的是*dem-中lord, master的感觉。
+  related:
+    - dominance
+    - predominant
+- word: dominate
+  freq: 2332
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To dominate a situation means to be the most powerful or important person
+    or thing in it.
+  sent: The book is expected to dominate the best-seller lists.
+  roots:
+    dom: "*dem- | house, household"
+  exp: 借的是*dem-中lord, master的感觉。
+  related:
+    - domination
+    - dominate
+    - predominate
+- word: domestic
+  freq: 1556
+  use: 59
+  pos: ADJECTIVE
+  meaning: Domestic political activities, events, and situations happen or exist within
+    one particular country.
+  sent: '...over 100 domestic flights a day to 30 leading U.S. destinations.'
+  roots:
+    dom: "*dem- | house, household"
+  exp: 整个country就可以看作是一个大house，"家国天下"嘛。
+- word: madam
+  freq: 17599
+  use: 19
+  pos: VOCATIVE NOUN
+  meaning: People sometimes say Madam as a very formal and polite way of addressing
+    a woman whose name they do not know. For example, a store clerk might address
+    a woman customer as Madam.
+  roots:
+    ma: my
+    dam: "*dem- | house, household"
+  exp: dam这里就表示lady，和以前我们管"妻子"叫"家里的"一个道理。
+  related:
+    - Madame
+- word: dungeon
+  freq: 17904
+  use: 29
+  pos: COUNTABLE NOUN
+  meaning: A dungeon is a dark underground prison in a castle.
+  roots:
+    dun: "*dem- | house, household"
+  exp: prison嘛，本质上也是个house。
+- word: timber
+  freq: 4948
+  use: 30
+  pos: UNCOUNTABLE NOUN
+  meaning: Timber is wood that is used for building houses and making furniture. You
+    can also refer to trees that are grown for this purpose as timber.
+  roots:
+    tim: "*dem- | house, household"
+  exp: wood used for building houses，不解释。要用到t=d的互换。
+- word: dominion
+  freq: 17078
+  use: 42
+  pos: COUNTABLE NOUN
+  meaning: A dominion is an area of land that is controlled by a ruler.
+  sent: The republic is a dominion of the Brazilian people.
+  roots:
+    dom: "*dem- | house, household"
+  exp: house就是有一种领地(controlled by a ruler)的感觉。
+- word: domain
+  freq: 3662
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: A domain is a particular field of thought, activity, or interest, especially
+    one over which someone has control, influence, or rights.
+  sent: '...the great experimenters in the domain of art.'
+  roots:
+    dom: "*dem- | house, household"
+  exp: 很明显这里domain的意思已经被引申过了，以前就是"领地"的意思。其实看释义中field也是个被引申过的词，以前农田的意思，后来也用来表示"领域"了。
+- word: dome
+  freq: 5065
+  use: 10
+  pos: COUNTABLE NOUN
+  meaning: A dome is a round roof.
+  sent: '...the dome of the Capitol.'
+  roots:
+    dome: "*dem- | house, household"
+  exp: 圆顶(round roof)罩住整个house。
+- word: endanger
+  freq: 7262
+  use: 23
+  pos: TRANSITIVE VERB
+  meaning: To endanger something or someone means to put them in a situation where
+    they might be harmed or destroyed completely.
+  sent: The debate could endanger the proposed Mideast peace talks.
+  roots:
+    en: en- | in, into
+    dang: "*dem- | house, household"
+  exp: endanger中的danger(1554，37)当作一个完整的词理解就好。所以整个词其实就是"put into danger"的意思。我们有时会提到的濒危物种就是endangered species。
+- word: condominium
+  freq: 10126
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A condominium is an apartment building in which each apartment is owned
+    by the person who lives there.
+  sent: A condominium property requires special insurance treatment, as each apartment
+    is a unit and the stairways, pathways, and parking areas are in common ownership.
+  roots:
+    con: com- | with, together
+    dom: "*dem- | house, household"
+  exp: apartment也是household的一种。在美国租房、买房必会的词，简称condo(7414,-1)。
+  relaled:
+    - condo
+- word: faint
+  freq: 4156
+  use: 115
+  pos: ADJECTIVE
+  meaning: A faint sound, color, mark, feeling, or quality has very little strength
+    or intensity.
+  sent: He became aware of the soft, faint sounds of water dripping.
+  roots:
+    fain: "*dheigh- | to form, build"
+  exp: 词很常见，但是词根很难想。首先to form, build引申出了alter, change的感觉，又由于pretend, deceive是change的感觉(比如变色龙)，因此这个词根还能表示pretend。而faint中weak的感觉来源于show weakness(示弱), avoid one's duty by pretending(躲病号)。
+  related:
+    - faintly
+- word: dough
+  freq: 4442
+  use: 46
+  pos: MASS NOUN
+  meaning: Dough is a fairly firm mixture of flour, water, and sometimes also fat
+    and sugar. It can be cooked to make bread or pastry.
+  sent: Roll out the dough into one large circle.
+  roots:
+    dough: "*dheigh- | to form, build"
+  exp: dough是需要揉出形状的，所以和to form, build有关。没见过面团的同学请看下图。
+  fig: A在揉面团。
+- word: effigy
+  freq: 19518
+  use: 34
+  pos: COUNTABLE NOUN
+  meaning: An effigy is a statue or carving of a famous person.
+  roots:
+    ef: ex- | out
+    fig: "*dheigh- | to form, build"
+  exp: statue就是把石头雕刻出(out)一个特定的form。
+- word: disfigure
+  freq: 19452
+  use: 83
+  meaning: If someone is disfigured, their appearance is spoiled.
+  sent: Many of the wounded had been badly disfigured.
+  roots:
+    dis: dis- | lack of, not
+    fig: "*dheigh- | to form, build"
+  exp: 这个词直接用dis- + figure记即可。就是"走形"了的感觉。
+- word: paradise
+  freq: 6927
+  use: 53
+  pos: PROPER NOUN
+  meaning: According to some religions, paradise is a wonderful place where people
+    go after they die, if they have led good lives.
+  sent: The Koran describes paradise as a place containing a garden of delight.
+  roots:
+    par: "*per- | forward"
+    dise: "*dheigh- | to form, build"
+  exp: 这个词就是字母互换比较难想，从意思上来说，paradise这个place是build出来的。
+- word: configuration
+  freq: 6232
+  use: 48
+  pos: COUNTABLE NOUN
+  meaning: A configuration is an arrangement of a group of things.
+  sent: '...Stonehenge, in southwestern England, an ancient configuration of giant
+    stones.'
+  roots:
+    con: con- | with, together
+    fig: "*dheigh- | to form, build"
+  exp: arrangement就是build together的感觉。
+  related:
+    - configure
+    - reconfigure
+- word: dough
+  freq: 4442
+  use: 46
+  pos: MASS NOUN
+  meaning: Dough is a fairly firm mixture of flour, water, and sometimes also fat
+    and sugar. It can be cooked to make bread or pastry.
+  sent: Roll out the dough into one large circle.
+  roots:
+    dough: "*dheigh- | to form, build"
+  exp: 借的是把面揉出形状的感觉。
+  related:
+    - doughnut
+- word: fiction
+  freq: 2786
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Fiction refers to books and stories about imaginary people and events,
+    rather than books about real people or events.
+  roots:
+    fict: "*dheigh- | to form, build"
+  exp: 是在想像中创造(build)出来的，而不是真实存在的。
+  related:
+    - fictional
+    - fictitious
+- word: feign
+  freq: 13920
+  use: 25
+  pos: TRANSITIVE VERB
+  meaning: If someone feigns a particular feeling, attitude, or physical condition,
+    they try to make other people think that they have it or are experiencing it,
+    although this is not true.
+  sent: One morning, I didn't want to go to school, and decided to feign illness.
+  roots:
+    feign: "*dheigh- | to form, build"
+  exp: 借的还是build的感觉——是创造出来的而不是真实存在的。因此我严重怀疑fake(5161,95)也是同源，只不过找不到证据罢了。
+- word: precise
+  freq: 3863
+  use: 103
+  pos: ADJECTIVE
+  meaning: You use precise to emphasize that you are referring to an exact thing,
+    rather than something vague.
+  sent: I can remember the precise moment when my daughter came to see me and her
+    new baby brother in the hospital.
+  roots:
+    pre: pre- | before
+    cise: "*kae-id- | to strike"
+  exp: 这里借的是*kae-id-中to cut的那层意思。整个词是cut off, shorten，也就是"精减"的感觉——增之一分则太长，减之一分则太短，一看就很精确(precise)哎。
+  related:
+    - precision
+    - precisely
+- word: excise
+  freq: 18306
+  use: 25
+  pos: VARIABLE NOUN
+  meaning: Excise is a tax that the government of a country puts on particular goods,
+    such as cigarettes and alcoholic drinks, which are produced for sale in its own
+    country.
+  sent: '...this year''s rise in excise duties.'
+  roots:
+    ex: ad- | to
+    cise: "*kae-id- | to strike"
+  exp: 这里用的还是*kae-id-中to cut的那层意思。cut就是一种"分成"的感觉，所以可以用来表示和tax相关的意思——也就是你和政府之间的分成。这里ex=ad-看着也比较奇怪，所以额外解释一下。ex有的时候是ex-那个前缀，但有的时候是从acc(比如access)衍变过来的。而我们知道"a+双写"=ad-:to。以后这样的例子还会讲到。在意思上，excise还表示"cut out surgically"，也就是医学上的"切除"。这里ex=ex-:out。可见这两个excise虽然拼写一样，但意思不同，在英文里这叫homonym。
+  related:
+    - excision
+- word: cement
+  freq: 6489
+  use: 38
+  pos: UNCOUNTABLE NOUN
+  meaning: Cement is a gray powder which is mixed with sand and water in order to
+    make concrete.
+  sent: Builders have trouble getting the right amount of cement into their concrete.
+  roots:
+    ce: "*kae-id- | to strike"
+  exp: cement的原料是被砸(strike)碎的小石块。
+- word: concise
+  freq: 16558
+  use: 27
+  pos: ADJECTIVE
+  meaning: Something that is concise says everything that is necessary without using
+    any unnecessary words.
+  sent: Burton's text is concise and informative.
+  roots:
+    con: con- | intensive prefix
+    cise: "*kae-id- | to strike"
+  exp: 和precise(3863,103)类似，都借的是*kae-id-中to cut的那层意思。整个词也是cut off, shorten，"精减"的感觉。
+- word: chisel
+  freq: 17750
+  use: 43
+  pos: COUNTABLE NOUN
+  meaning: A chisel is a tool that has a long metal blade with a sharp edge at the
+    end. It is used for cutting and shaping wood and stone.
+  sent: '...a hammer and chisel.'
+  roots:
+    chis: "*kae-id- | to strike"
+  exp: 借的是*kae-id-中to cut的部分，而释义里有"...used for cutting and shaping..."，不解释。
+- word: homicide
+  freq: 5233
+  use: 24
+  pos: VARIABLE NOUN
+  meaning: Homicide is the illegal killing of a person.
+  sent: The police arrived at the scene of the homicide.
+  roots:
+    hom: "*dhghem- | earth"
+    cide: "*kae-id- | to strike"
+  exp: 借的是*kae-id-里act of killing那层意思，不解释。*dhghem-这个词根我们在别的词条里会详细讲，目前用human(400,49)记就好。
+- word: genocide
+  freq: 7698
+  use: 19
+  pos: UNCOUNTABLE NOUN
+  meaning: Genocide is the deliberate murder of a whole community or race.
+  sent: They have alleged that acts of genocide and torture were carried out.
+  roots:
+    geno: "*gene- | give birth, beget"
+    cide: "*kae-id- | to strike"
+  exp: 这里-cide是个后缀，表示killer。*gene-由于表示give birth，所以也有familial and tribal groups的意思。所以整个词表达的含义就是killing a tribe。
+- word: incision
+  freq: 12836
+  use: 16
+  pos: COUNTABLE NOUN
+  meaning: An incision is a sharp cut made in something, for example, by a surgeon
+    who is operating on a patient.
+  sent: The technique involves making a tiny incision in the skin.
+  roots:
+    in: "*en | in"
+    cis: "*kae-id- | to strike"
+  exp: 这里用的是*kae-id-里to cut的那层意思。而incision的释义中已经自带"cut"了，不解释。
+- word: scissors
+  freq: 9114
+  use: -1
+  pos: PLURAL NOUN
+  meaning: Scissors are a small cutting tool with two sharp blades that are screwed
+    together. You use scissors for cutting things such as paper and cloth.
+  sent: He told me to get some scissors.
+  roots:
+    sciss: "*kae-id- | to strike"
+  exp: 用的还是*kae-id-里to cut的那层意思。我们平时玩儿的石头剪刀布，在英文里就是rock paper scissors。
+- word: pesticide
+  freq: 5295
+  use: 10
+  pos: MASS NOUN
+  meaning: Pesticides are chemicals that farmers put on their crops to kill harmful
+    insects.
+  roots:
+    pest: pest
+    cide: "*kae-id- | to strike"
+  exp: 这里cide是个后缀，表示killer。pest(6939,55)用"拍死它"的谐音记即可。与这个词想关的还有herbicide(14355,15)和insecticide(14911,-1)，意思都很容易猜，就不单独列成词条了。
+- word: scheme
+  freq: 3032
+  use: 87
+  pos: COUNTABLE NOUN
+  meaning: A scheme is someone's plan for achieving something, especially something
+    that will bring them some benefit.
+  sent: '...a quick money-making scheme to get us through the summer.'
+  roots:
+    sch: "*segh- | to hold"
+  exp: hold就是"不动"的感觉，比如一个固体的形状(figure, appearance)，就是hold在那里不动的。之后引申为plan，也就是一个行动大体的框架(形状、形式)的感觉。
+  realted:
+    - schema
+    - schematic
+- word: persevere
+  freq: 14250
+  use: 23
+  pos: INTRANSITIVE VERB
+  meaning: If you persevere with something, you keep trying to do it and do not give
+    up, even though it is difficult.
+  sent: This ability to persevere despite obstacles and setbacks is the quality people
+    most admire in others.
+  roots:
+    per: per- | forward
+    sev: "*segh- | to hold"
+  exp: hold住，不放弃！
+  related:
+    - perseverance
+- word: hectic
+  freq: 12508
+  use: 23
+  pos: ADJECTIVE
+  meaning: A hectic situation is one that is very busy and involves a lot of rushed
+    activity.
+  sent: Despite his hectic work schedule, Benny has rarely suffered poor health.
+  roots:
+    hect: "*segh- | to hold"
+  exp: hectic的本意是continuous, habitual的感觉，因为continuous，所以很忙碌。而hold恰恰又有"持续"的意思。在字母互换上这词很奇怪，主要是从*segh-在发展过程中有的词把前面那个s给省掉了(这种互换在epoch(13197,17)中也有所体现)。后面ct=g倒是很常见。
+- word: epoch
+  freq: 13197
+  use: 17
+  pos: COUNTABLE NOUN
+  meaning: If you refer to a long period of time as an epoch, you mean that important
+    events or great changes took place during it.
+  sent: The birth of Christ was the beginning of a major epoch of world history.
+  roots:
+    ep: epi- | on, upon, above
+    och: "*segh- | to hold"
+  exp: 这词本来表示stoppage, fixed point of time，所以就和hold有关系啦。
+- word: lush
+  freq: 6872
+  use: 179
+  pos: ADJECTIVE
+  meaning: Lush fields or gardens have a lot of very healthy grass or plants.
+  sent: '...the lush green meadows bordering the river.'
+  roots:
+    lush: "*sleg- | be slack, be languid"
+  exp: 这个词借的是*sleg-中soft, loose的感觉。比如这种grass, plants简直要四处流淌的状态。
+- word: relish
+  freq: 8835
+  use: 131
+  pos: TRANSITIVE VERB
+  meaning: If you relish something, you get a lot of enjoyment from it.
+  sent: I relish the challenge of doing jobs that others turn down.
+  roots:
+    re: re- | back
+    lish: "*sleg- | be slack, be languid"
+  exp: 享受(enjoy)一样东西的时候，一般就是sit back and be slack。
+  fig: A坐在躺椅上作享受状。
+- word: lease
+  freq: 6126
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A lease is a legal agreement by which the owner of a building, a piece
+    of land, or something such as a car allows someone else to use it for a period
+    of time in return for money.
+  sent: He took up a 10-year lease on the house.
+  roots:
+    lease: "*sleg- | be slack, be languid"
+  exp: Lease的本质是使用权的让渡，也就是let loose/go of the rights的感觉。
+- word: lax
+  freq: 13406
+  use: 66
+  pos: ADJECTIVE
+  meaning: If you say that a person's behavior or a system is lax, you mean they are
+    not careful or strict about maintaining high standards.
+  sent: One of the problem areas is lax security for airport personnel.
+  roots:
+    lax: "*sleg- | be slack, be languid"
+  exp: 行为松散的感觉。和relax(2883,70)的感觉差不多。
+- word: junction
+  freq: 13607
+  use: 51
+  pos: NOUN
+  meaning: A junction is a place where roads or railroad lines join.
+  sent: a railway junction
+  roots:
+    junct: "*yeug- | to join"
+  exp: 释义里已经有join了，不解释。
+- word: juncture
+  freq: 11820
+  use: 87
+  pos: COUNTABLE NOUN
+  meaning: At a particular juncture means at a particular point in time, especially when it is a very important time in a process or series of events.
+  sent: What's important at this juncture is the ability of the three republics to work together.
+  roots:
+    junct: "*yeug- | to join"
+  exp: 中文里也有"关键时间节点"这种表达方式，而"节点"里的"节"就是join的感觉。
+- word: juxtapose
+  freq: 13824
+  use: 18
+  pos: TRANSITIVE VERB
+  meaning: If you juxtapose two contrasting objects, images, or ideas, you place them together or describe them together, so that the differences between them are emphasized.
+  sent: The technique Mr. Wilson uses most often is to juxtapose things for dramatic effect.
+  roots:
+    juxta: "*yeug- | to join"
+    pose: put, place
+  exp: Place together就是join的感觉。
+  related:
+    - juxtaposition
+- word: conjunction
+  freq: 7699
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A conjunction of two or more things is the occurrence of them at the same time or place.
+  sent: '...the conjunction of two events.'
+  roots:
+    con: con- | with, together
+    junct: "*yeug- | to join"
+  exp: occur jointly的感觉，不解释。
+- word: injunction
+  freq: 10165
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An injunction is a court order, usually one telling someone not to do something.
+  sent: He took out a court injunction against the newspaper demanding the return of the document.
+  roots:
+    in: "*en | on"
+    junct: "*yeug- | to join"
+  exp: 借的是*yeug-中attach的感觉。court order是跟随你的一道命令(order)，到哪儿都有效。
+- word: jostle
+  freq: 13616
+  use: 14
+  pos: INTRANSITIVE VERB
+  meaning: If people jostle you, they bump against you or push you in a way that annoys you, usually because you are in a crowd and they are trying to get past you.
+  sent: You get 2,000 people jostling each other and bumping into furniture.
+  roots:
+    jost: "*yeug- | to join"
+  exp: 所谓摩肩接(join)踵就这种感觉了。
+- word: yoke
+  freq: 16744
+  use: 44
+  pos: COUNTABLE NOUN
+  meaning: If you say that people are under the yoke of a bad thing or person, you
+    mean they are forced to live in a difficult or unhappy state because of that thing
+    or person.
+  sent: People are still suffering under the yoke of slavery.
+  roots:
+    yoke: "*yeug- | to join"
+  exp: yoke的本意是"轭"，也就是连接(join)牲口与车的物体。注意k和g可互换。
+  fig: A身上戴着yoke拉车。
+- word: junta
+  freq: 16724
+  use: 15
+  pos: COLLECTIVE COUNTABLE NOUN
+  meaning: A junta is a military government that has taken power by force, and not
+    through elections.
+  roots:
+    junt: "*yeug- | to join"
+  exp: 一个government就是people join together的感觉。注意j=y。另外这个词读/hʊntə/。
+- word: enjoin
+  freq: 20160
+  use: 128
+  pos: TRANSITIVE VERB
+  meaning: If you enjoin someone to do something, you order them to do it. If you
+    enjoin an action or attitude, you order people to do it or have it.
+  sent: She enjoined me strictly not to tell anyone else.
+  roots:
+    en: "*en | in"
+    join: "*yeug- | to join"
+  exp: 命令(order)别人做某事，其实就是把这个人attach, fasten到这件事上。所以是join的感觉。
+- word: adjoin
+  freq: 18331
+  use: 93
+  pos: TRANSITIVE VERB
+  meaning: If one room, place, or object adjoins another, they are next to each other.
+  sent: The doctor's bedroom adjoined his wife's and the door between the rooms was always open.
+  roots:
+    ad: ad- | to
+    join: "*yeug- | to join"
+  exp: next to each other就是join的感觉，不解释。
+- word: adjunct
+  freq: 12111
+  use: 53
+  pos: COUNTABLE NOUN
+  meaning: Something that is an adjunct to something larger or more important is connected with it or helps to perform the same task.
+  sent: Physical therapy is an important adjunct to drug treatments.
+  roots:
+    ad: ad- | to
+    junct: "*yeug- | to join"
+  exp: 释义中的connected就是join的感觉，不解释。
+- word: anonymous
+  freq: 4363
+  use: 30
+  pos: ADJECTIVE
+  meaning: If you remain anonymous when you do something, you do not let people know that you were the person who did it.
+  sent: You can remain anonymous if you wish.
+  roots:
+    an: an- | without
+    nym: "*no-men- | name"
+  exp: without name就是不署名的感觉。不解释。
+  related:
+    - anonymity
+    - anonymously
+- word: renowned
+  freq: 7339
+  use: 46
+  pos: ADJECTIVE
+  meaning: A person or place that is renowned for something, usually something good, is well known because of it.
+  sent: The area is renowned for its Romanesque churches.
+  roots:
+    re: re- | again
+    nown: "*no-men- | name"
+  exp: 对于well known的人，你会听到TA的名字(name) again and again。
+  related:
+    - renown
+- word: nominal
+  freq: 11069
+  use: 47
+  pos: ADJECTIVE
+  meaning: You use nominal to indicate that someone or something is supposed to have a particular identity or status, but in reality does not have it.
+  sent: As he was still not allowed to run a company, his wife became its nominal head.
+  roots:
+    nomin: "*no-men- | name"
+  exp: 中文释义是"名义上的"，已经带了个"名(name)"字。不解释。
+  related:
+    - nominally
+- word: nominate
+  freq: 5014
+  use: 59
+  pos: TRANSITIVE VERB
+  meaning: If someone is nominated for a job or position, their name is formally suggested as a candidate for it.
+  sent: This week one of them will be nominated by the Democratic Party for the presidency of the United States.
+  roots:
+    nomin: "*no-men- | name"
+  exp: 中文释义是"提名"，已经带了个"名(name)"字。不解释。
+  related:
+    - nomination
+- word: denomination
+  freq: 8655
+  use: 26
+  pos: COUNTABLE NOUN
+  meaning: The denomination of a banknote or coin is its official value.
+  sent: She paid in cash, in bills of large denominations.
+  roots:
+    de: de- | completely
+    nomin: "*no-men- | name"
+  exp: 所谓面值就是一张票据的"名字"，比如"百元大钞"就是这张钞标的名字(name)。
+- word: denominator
+  freq: 14838
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: In mathematics, the denominator is the number which appears under the line in a fraction.
+  roots:
+    de: de- | completely
+    nomin: "*no-men- | name"
+  exp: 分母——数学上的超常用词。分子叫numerator(一看就和number这个词很像——事实上也是同源词)，居然不在最常用的20K单词里，可见英语国家的人确实没有我们那么在乎数学。要理解demoniator的词源，就需要先明白到底什么是分数。用英文来解释：the numerator tells you how many parts you have, while the denominator of a fraction names the kind of thing you're dealing with。怎么样，是不是不明白这句话在说啥？没关系，我们举个具体例子。比如3个蛋糕由5个小朋友分，那就是3/5。这个3指有多少个蛋糕(how many parts)，而what are we dealing with? 答案是5个小朋友。因此denominator其实就是我们要分给的对象的名字。同样，如果这时候不给小朋友分了，而是个7头驴分这些蛋糕，这时候这个分配的任务就指向了"驴"这个名字(name)。
+- word: pseudonym
+  freq: 16626
+  use: 4
+  pos: COUNTABLE NOUN
+  meaning: A pseudonym is a name that someone, usually a writer, uses instead of his
+    or her real name.
+  sent: Both plays were published under the pseudonym of Philip Dayre.
+  roots:
+    pseudo: pseudo- | false
+    nym: "*no-men- | name"
+  exp: 假名字，不解释。pseduo-是个挺常用的前缀。比如当我们声称中医或宗教是科学的时候，就是在宣扬pseudo-science。说到science，可能和很多人的直觉不一样，数学其实并不是science(892,22)，因为science is based on empirical observations, while math uses logic to understand and often prove relationships between quantities and objects which may relate to no real phenomena. 因此以后研究纯数学的小朋友就不要再说自己是"搞科研"的了。当然有人会反驳说："搞科研"基本上都要用到数学啊！那"搞科研"还基本上都用到英语呢，你怎么不说英语是科学...
+- word: surname
+  freq: 16272
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Your surname is the name that you share with other members of your family. In English speaking countries and many other countries it is your last name.
+  sent: She'd never known his surname, only his first name.
+  roots:
+    sur: "*uper | over"
+    name: "*no-men- | name"
+  exp: 除了填表之外不怎么用到的词。不解释。
+- word: moniker
+  freq: 18066
+  use: 26
+  pos: COUNTABLE NOUN
+  meaning: The moniker of a person or thing is their name, especially when they have changed it.
+  sent: She's the author of three detective novels under the moniker of Janet Neel.
+  roots:
+    moni: "*no-men- | name"
+  exp: 这个词的词根发展很有意思。我们可以看到在PIE root *no-men-中，n在前，m在后；而到了moniker中，则是m在前，n在后。这个很正常，因为人一个词读多了之后就挺容易前后颠倒 [[这里举个例子]] 。比如，另外注意moniker在词义上也可以表示昵称(e.g. honey)、笔名之类的，所以和name的用法并不完全一样。
+- word: optical
+  freq: 5569
+  use: 4
+  pos: ADJECTIVE
+  meaning: Optical devices, processes, and effects involve or relate to vision, light,
+    or images.
+  sent: '...optical telescopes.'
+  roots:
+    opt: "*okw- | to see"
+  exp: 意思上不用解释。字母互换有一点tricky。opt中的p是和*okw-中的w可互换的。
+  related:
+    - optical
+    - optics
+- word: ferocious
+  freq: 11486
+  use: 144
+  pos: ADJECTIVE
+  meaning: A ferocious animal, person, or action is very fierce and violent.
+  sent: By its very nature a lion is ferocious.
+  roots:
+    fer: wild
+    oc: "*okw- | to see"
+  exp: fer确实是个词根，不过不常用。如果认识常用词fierce(4531,248)最好，可以用它记，因为二者同源。如果fierce也不认识，就用fur(4751,29)来巧记好了——其实fur比fierce还要不常用一点。所以这个词其实就是表示looking wild。这里面的look和to see是一样的感觉。
+  related:
+    - ferocity
+- word: antique
+  freq: 5830
+  use: 90
+  pos: COUNTABLE NOUN
+  meaning: An antique is an old object such as a piece of china or furniture that
+    is valuable because of its beauty or rarity.
+  sent: '...a genuine antique.'
+  roots:
+    ant: "*ant- | front, forehead"
+    ique: "*okw- | to see"
+  exp: 在很久以前(front)就出现了——也就是有人见(see)过了。
+  related:
+    - antiquity
+    - antiquated
+- word: atrocity
+  freq: 8195
+  use: 33
+  pos: VARIABLE NOUN
+  meaning: An atrocity is a very cruel, shocking action.
+  sent: The killing was cold-blooded, and those who committed this atrocity should be tried and punished.
+  roots:
+    atr: "*ater- | fire"
+    oc: "*okw- | to see"
+  exp: 两个词根加起来是"of fiery or threatening appearance"的感觉。其中fiery与fire对应，而appearance与to see对应。
+- word: inoculate
+  freq: 18821
+  use: 33
+  pos: TRANSITIVE VERB
+  meaning: To inoculate a person or animal means to inject a weak form of a disease
+    into their body as a way of protecting them against the disease.
+  sent: '...a program to inoculate every child in the state.'
+  roots:
+    in: "*en | in"
+    oc: "*okw- | to see"
+  exp: inoculate本来是"嫁接"的意思，也就是"implant a bud or eye of one plant into another"，后来就发展成"接种疫苗"了。这里的bud是指花蕾，也就是含苞待放的花骨朵。古人觉得bud长得像眼睛(eye)，所以inoculate和to see有关。
+- word: autopsy
+  freq: 7919
+  use: 2
+  pos: COUNTABLE NOUN
+  meaning: An autopsy is an examination of a dead body by a doctor who cuts it open in order to try to discover the cause of death.
+  roots:
+    auto: auto- | self
+    op: "*okw- | to see"
+  exp: 这词本来表示的是"a seeing with one's own eyes"。后来发展成"验尸"是借了"不轻易采信别人说的死因，而是自己亲眼看看"的感觉。这个发展过程会让人觉得很神奇，因为这词里并没有一个词根表示"尸体"。注意这里op=okw是因为p和w可互换(p=v=w)。
+- word: synopsis
+  freq: 19885
+  use: 19
+  pos: COUNTABLE NOUN
+  meaning: A synopsis is a summary of a longer piece of writing or work.
+  sent: For each title there is a brief synopsis of the book.
+  roots:
+    syn: syn- | together
+    op: "*okw- | to see"
+  exp: See everything together，所以是summary的感觉。注意这里op=okw是因为p和w可互换(p=v=w)。
+- word: biopsy
+  freq: 10675
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A biopsy is the removal and examination of fluids or tissue from a patient's body in order to discover why they are ill.
+  sent: James had a biopsy of the tumor over his right ear.
+  roots:
+    bio: "*gwei- | to live"
+    op: "*okw- | to see"
+  exp: 从living body上取一块来察看(to see)。注意这里op=okw是因为p和w可互换(p=v=w)。
+- word: binoculars
+  freq: 7757
+  use: -1
+  pos: PLURAL NOUN
+  meaning: Binoculars consist of two small telescopes joined together side by side, which you look through in order to look at things that are a long distance away.
+  roots:
+    bi: "*dwo- | two"
+    oc: "*okw- | to see"
+  exp: See with two eyes，不解释。
+- word: pretext
+  freq: 13907
+  use: 19
+  pos: COUNTABLE NOUN
+  meaning: A pretext is a reason that you pretend has caused you to do something.
+  sent: They wanted a pretext for subduing the region by force.
+  roots:
+    pre: pre- | before
+    text: "*teks- | to weave"
+  exp: 相当于在别人眼前(before)织(weave)了一张网，这样对方就难以看清了。所以是pretend的感觉。
+  fig: A在B眼前织了一张网。
+- word: subtle
+  freq: 3467
+  use: 115
+  pos: ADJECTIVE
+  meaning: Something that is subtle is not immediately obvious or noticeable.
+  sent: '...the slow and subtle changes that take place in all living things.'
+  roots:
+    sub: sub- | under
+    tle: "*teks- | to weave"
+  exp: 在织(weave)得密密麻麻的网之下(under)，所以是not immediately obvious的感觉。
+  related:
+    - subtlety
+- word: architect
+  freq: 3393
+  use: 19
+  pos: COUNTABLE NOUN
+  meaning: The architect of an idea, event, or institution is the person who invented it or made it happen.
+  sent: James Madison was the principal architect of the constitution.
+  roots:
+    arch: arch- | chief
+    tect: "*teks- | to weave"
+  exp: 整个词是supervise construction的感觉。其中supervise和chief有关，而construction和weave有关，因为都是在制造东西。
+  related:
+    - architecture
+    - architectural
+- word: texture
+  freq: 4462
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: The texture of something is the way that it feels when you touch it, for example, how smooth or rough it is.
+  sent: It is used in moisturizers to give them a wonderfully silky texture.
+  roots:
+    text: "*teks- | to weave"
+  exp: 释义中"the way that it feels when you touch it"显然可以指衣物，所以和weave有关。
+- word: textile
+  freq: 5696
+  use: 6
+  pos: COUNTABLE NOUN
+  meaning: Textiles are types of cloth or fabric, especially ones that have been woven.
+  sent: '...decorative textiles for the home.'
+  roots:
+    text: "*teks- | to weave"
+  exp: textile就是指编织品，不解释。
+- word: subtext
+  freq: 16693
+  use: -1
+  pos: NOUN
+  meaning: The subtext is the implied message or subject of something that is said or written.
+  sent: Europe's divisions are the subtext of a new movie thriller called "Zentropa."
+  roots:
+    sub: sub- | under
+    text: "*teks- | to weave"
+  exp: 这个词直接用text(1296,16)理解就好——藏在下面的text，所以是implied message。而释义中的subject，也就是一段文字的"主题"，其实也是隐藏在文字下的信息，需要总结才能得到。
+- word: vent
+  freq: 7742
+  use: 111
+  pos: COUNTABLE NOUN
+  meaning: A vent is a hole in something through which air can come in and smoke,
+    gas, or smells can go out.
+  sent: A lot of steam escaped from the vent at the front of the machine.
+  roots:
+    vent: "*bheid- | to split"
+  exp: hole都是被split开的。可见*bheid-这个词根一共衍生出了三种感觉：biting，woodworking，以及hole。
+- word: bait
+  freq: 6437
+  use: 116
+  pos: VARIABLE NOUN
+  meaning: Bait is food which you put on a hook or in a trap in order to catch fish or animals.
+  sent: Vivien refuses to put down bait to tempt wildlife to the waterhole.
+  roots:
+    bait: "*bheid- | to split"
+  exp: 乍一看bait和split并没什么联系。不过之前我们讲过split有bite的意思，而bait就是为了让鱼上钩(bite)用的。
+- word: bitter
+  freq: 3461
+  use: 270
+  pos: ADJECTIVE
+  meaning: In a bitter argument or conflict, people argue very angrily or fight very fiercely.
+  sent: '...the scene of bitter fighting during the Second World War.'
+  roots:
+    bit: "*bheid- | to split"
+  exp: 这个词借的是*bheid-中bite的那层意思，表示像被咬(bite)了一下的那种感觉——非常的痛苦。
+  related:
+    - bitterly
+    - bitterness
+    - bittersweet
+- word: abet
+  freq: 15944
+  use: 125
+  pos: TRANSITIVE VERB
+  meaning: If one person abets another, they help or encourage them to do something criminal or wrong. Abet is often used in the legal expression 'aid and abet.'
+  sent: His wife was sentenced to seven years imprisonment for aiding and abetting him.
+  roots:
+    a: ad- | to
+    bet: "*bheid- | to split"
+  exp: 这个词中的bet其实借的是bait的那层意思，因为所谓教唆其实就是让别人咬钩上当。于是学到这我们就建议了一条单词记忆链：bite-->bait-->abet。
+- word: beetle
+  freq: 7312
+  use: 32
+  pos: COUNTABLE NOUN
+  meaning: A beetle is an insect with a hard covering to its body.
+  roots:
+    beet: "*bheid- | to split"
+  exp: 借的是*bheid-中bite的那层意思，而虫虫(chǒng chóng)是会咬人(bite)的。
+- word: bile
+  freq: 16563
+  use: 27
+  pos: UNCOUNTABLE NOUN
+  meaning: Bile is anger or bitterness toward someone or something.
+  sent: He aims his bile at religion, drugs, and politics.
+  roots:
+    bile: "*bheid- | to split"
+  exp: bile的本意是"胆汁"，而胆汁又是苦的(bitter)。于是我们又完成了一条记忆链：bite-->bitter-->bile。
+- word: fissure
+  freq: 15866
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A fissure is a deep crack in something, especially in rock or in the ground.
+  roots:
+    fis: "*bheid- | to split"
+  exp: 释义中的cracky不是split的感觉，不解释。这里注意fis=bheid，因为f=b。
+- word: humble
+  freq: 6221
+  use: 141
+  pos: ADJECTIVE
+  meaning: A humble person is not proud and does not believe that they are better than other people.
+  sent: He gave a great performance, but he was very humble.
+  roots:
+    hum: "*dhghem- | earth"
+  exp: humble给人的是一种on the ground的感觉，一点儿都没飘，所以跟earth有关。
+  related:
+    - humbling
+    - humbly
+- word: humiliation
+  freq: 7834
+  use: 0
+  pos: UNCOUNTABLE NOUN
+  meaning: Humiliation is the embarrassment and shame you feel when someone makes you appear stupid, or when you make a mistake in public.
+  sent: She faced the humiliation of discussing her husband's affair.
+  roots:
+    hum: "*dhghem- | earth"
+  exp: 让人卑微到尘土(earth)里的感觉。
+  related:
+    - humiliate
+    - humility
+    - humiliating
+- word: humane
+  freq: 8673
+  use: 87
+  pos: ADJECTIVE
+  meaning: Humane people act in a kind, sympathetic way toward other people and animals, and try to do them as little harm as possible.
+  sent: In the mid-nineteenth century, Dorothea Dix began to campaign for humane treatment of the mentally ill.
+  roots:
+    hum: "*dhghem- | earth"
+  exp: 借的是*dhghem-中human的那层意思，不解释。
+- word: homage
+  freq: 10254
+  use: -1
+  pos: NOUN
+  meaning: Homage is respect shown toward someone or something you admire, or to a person in authority.
+  sent: '...two marvelous films that pay homage to our literary heritage.'
+  roots:
+    hom: "*dhghem- | earth"
+  exp: 借的是*dhghem-中human的那层意思，而homage的对象是human，不解释。
+- word: defy
+  freq: 5657
+  use: 108
+  pos: TRANSITIVE VERB
+  meaning: If you defy someone or something that is trying to make you behave in a particular way, you refuse to obey them and behave in that way.
+  sent: This was the first (and last) time that I dared to defy my mother.
+  roots:
+    de: dis- | away
+    fy: "*bheidh- | to trust, confide, persuade"
+  exp: 是一种辜负(away)别人对你的信任(trust)的感觉。
+  related:
+    - defiance
+    - defiant
+- word: abide
+  freq: 8616
+  use: 150
+  pos: VERB
+  meaning: accept or act in accordance with (a rule, decision, or recommendation)
+  sent: I said I would abide by their decision.
+  roots:
+    a: a- | on, in, into
+    bide: "*bheidh- | to trust, confide, persuade"
+  exp: 想理解abide，首先要理解它的同源词bide(19771,104)为什么表示"remain or stay somewhere"。一般来说，我们信任(trust)一个人的时候，就会选择呆(remain)在其身边。因此bide就是await trustingly的感觉。而abide需要直接用bide来记——什么叫accept呢，就是我一直呆(remain)在那儿也不动了，接受现实；如果不接受或者不想忍受的话，则会避而远之。从"呆着"发展成"接受"，这也是一个很好的从很原始具体的意思发展成比较抽象的意思的例子。
+  related:
+    - abiding
+    - bide
+    - law-abiding
+- word: fidelity
+  freq: 11918
+  use: 19
+  pos: UNCOUNTABLE NOUN
+  meaning: Fidelity is loyalty to a person, organization, or set of beliefs.
+  sent: People have failed to act in fidelity to their vows.
+  roots:
+    fid: "*bheidh- | to trust, confide, persuade"
+  exp: 释义里本身就有"belief"，因此和trust有关，不解释。
+  related:
+    - infidelity
+    - infidel
+- word: fiancee
+  freq: 14003
+  use: 0
+  pos: NOUN
+  meaning: "Someone's fiancée is the woman to whom they are engaged to be married."
+  roots:
+    fianc: "*bheidh- | to trust, confide, persuade"
+  exp: 意思上不难——如果两个人订婚(engaged)就表示都相信(trust)对方会和自己结婚。字母互换上有点绕：f=b, c发s的音，而s=d。
+- word: affidavit
+  freq: 10742
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An affidavit is a written statement that you swear is true and that may be used as evidence in a court of law.
+  sent: In his sworn affidavit, Roche outlined a history of actions against him by the church.
+  roots:
+    af: ad- | to
+    fid: "*bheidh- | to trust, confide, persuade"
+  exp: 释义里就有个swear，所以和trust有关，不解释。
+- word: confederation
+  freq: 19069
+  use: -1
+  pos: NOUN
+  meaning: A confederation is an organization or group consisting of smaller groups or states, especially one that exists for business or political purposes.
+  sent: '...the Confederation of Indian Industry.'
+  roots:
+    con: con- | with, together
+    fed: "*bheidh- | to trust, confide, persuade"
+  exp: confederation是联盟的意思，显然是个需要互相信任(trust)的组织。
+- word: blast
+  freq: 4794
+  use: 241
+  pos: COUNTABLE NOUN
+  meaning: A blast is a big explosion, especially one caused by a bomb.
+  sent: 250 people were killed in the blast.
+  roots:
+    bl: "*bhle- | to blow"
+  exp: 想象一下爆炸(explosion)后的冲击波，就是blow的感觉。
+- word: blaze
+  freq: 8217
+  use: 233
+  pos: INTRANSITIVE VERB
+  meaning: When a fire blazes, it burns strongly and brightly.
+  sent: Three people died as wreckage blazed, and rescuers fought to release trapped drivers.
+  roots:
+    bl: "*bhel- | to shine, flash, burn"
+  exp: 释义里已经有burn了， 不解释。
+  related:
+    - ablaze
+    - blazer
+    - blazing
+- word: emblazon
+  freq: 15102
+  use: 36
+  meaning: to decorate or adorn (with coats of arms, etc.)
+  sent: his feat was emblazoned on the front page
+  roots:
+    em: en- | in
+    bl: "*bhel- | to shine, flash, burn"
+  exp: decorate的其中一种方式就是烧出一些花纹之类的，所以和burn有关。
+- word: overblown
+  freq: 17550
+  use: 13
+  pos: ADJECTIVE
+  meaning: Something that is overblown makes something seem larger, more important, or more significant than it really is.
+  sent: Warnings of disaster may be overblown.
+  roots:
+    over: over
+    bl: "*bhel- | to thrive, bloom"
+  exp: over有一种"过于"的感觉，对应释义中的"more significant than it really is"，而to thrive, bloom对应释义中的larger, more important, more significant。
+- word: deflate
+  freq: 14075
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you deflate someone or something, you take away their confidence or make them seem less important.
+  sent: I hate to deflate your ego, but you seem to have an exaggerated idea of your importance to me.
+  roots:
+    de: de- | down
+    fl: "*bhle- | to blow"
+  exp: 其实就是inflate(9058,-1)的反义词，一起记就好。
+- word: flute
+  freq: 9018
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: 'a high-pitched wind instrument consisting of a long, slender tube, played
+    by blowing across a hole near one end: by fingering the holes and keys along its
+    length, the player can produce various tones'
+  sent: The flutes in a drill bit help to carry the cuttings away.
+  roots:
+    fl: "*bhle- | to blow"
+  exp: 笛子(flute)就是用来吹(blow)的，不解释。
+- word: bladder
+  freq: 9238
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Your bladder is the part of your body where urine is stored until it leaves
+    your body.
+  sent: '...an opportunity to empty a full bladder.'
+  roots:
+    bl: "*bhle- | to blow"
+  exp: 膀胱(bladder)嘛，就是吹(blow)起来的尿(suī)泡。注意鉴赏例句中的"empty a full bladder"——还顺便学到了empty的动词用法。
+- word: bold
+  freq: 3933
+  use: 229
+  pos: ADJECTIVE
+  meaning: Someone who is bold is not afraid to do things that involve risk or danger.
+  sent: Amrita becomes a bold, daring rebel.
+  roots:
+    bol: "*bhel- | to blow, swell"
+  exp: 想想中文中的"鼓(blow,swell)起勇气"，是不是跟bold要表达的感觉很像。而"像泄了气的皮球"却可以表达相反的意思。因此"勇气"是*bhel-的引申义之一。
+- word: fool
+  freq: 4071
+  use: 208
+  pos: COUNTABLE NOUN
+  meaning: If you call someone a fool, you are indicating that you think they are not at all sensible and show a lack of good judgment.
+  sent: '"You fool!" she shouted.'
+  roots:
+    fool: "*bhel- | to blow, swell"
+  exp: 乍一看fool和to blow没啥关系，但是我把fool的一个近义词举出来你就明白了——empty-headed person。所以老外眼中的大傻子就是"脑袋像气儿吹(blow)的一样"，也就是没有脑子的感觉，这和中文里说别人"一脑袋浆糊"有异曲同工之妙。另一个很明显的证据是fool这个词在很久以前表示windbag, bellow(风箱)。当然啦，bellow(12620,41)和fool也是同源词。
+  related:
+    - foolish
+    - foolishness
+    - folly
+- word: bull
+  freq: 4250
+  use: 140
+  pos: COUNTABLE NOUN
+  meaning: A bull is a male animal of the cow family. Some other male animals, including elephants and whales, are called bulls.
+  sent: Suddenly a massive bull elephant with huge tusks charged us.
+  roots:
+    bull: "*bhel- | to blow, swell"
+  exp: 这个词借的主要是*bhel-中to roar的那层意思(也就是把声音blow出去)。之所以表示公牛估计是因为公的比母的叫得响。
+  realted:
+    - bullshit
+    - bullish
+    - bulldozer
+- word: bullet
+  freq: 2764
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A bullet is a small piece of metal with a pointed or rounded end, which is fired out of a gun.
+  sent: Two of the police fired 16 bullets each.
+  roots:
+    bull: "*bhel- | to blow, swell"
+  exp: 注意最早的子弹都是圆的。所以bullet其实和ball(915,62)一样，借的是*bhel-中to blow的那层意思。
+- word: bless
+  freq: 4202
+  use: 81
+  pos: TRANSITIVE VERB
+  meaning: When someone such as a priest blesses people or things, he or she asks
+    for God's favor and protection for them.
+  sent: '...asking for all present to bless this couple and their loving commitment
+    to one another.'
+  roots:
+    bl: "*bhel- | to thrive, bloom"
+  exp: 这次其实来源于blood(693,67)。祝福这种东西在宗教里经常伴随着血祭。
+  fig: 血祭+祝福场景？
+  related:
+    - blessed
+    - blessing
+- word: bale
+  freq: 11768
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A bale is a large quantity of something such as hay, cloth, or paper, tied
+    together tightly.
+  sent: '...bales of hay.'
+  roots:
+    bale: "*bhel- | to blow, swell"
+  exp: 打得鼓鼓的(swell)一包。
+- word: ballot
+  freq: 3747
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: A ballot is a secret vote in which people select a candidate in an election,
+    or express their opinion about something.
+  sent: The result of the ballot will not be known for two weeks.
+  roots:
+    ball: "*bhel- | to blow, swell"
+  exp: 这个词直接用它的同源词ball(915,62)来记就行，因为ballot的本意就是"small ball used in voting"。我们国家的领导人并非民选，因此对这个概念并不熟悉。但在英文里它是个超常用词。
+- word: boulder
+  freq: 7107
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A boulder is a large rounded rock.
+  sent: It is thought that the train hit a boulder that had fallen down a cliff on
+    to the track.
+  roots:
+    boul: "*bhel- | to blow, swell"
+  exp: 直接用ball(915,62)来记就好，就是个rounded stone。可见*bhel-通过"吹得圆鼓鼓"的感觉为我们带来了"rounded"这层意思。
+- word: boulevard
+  freq: 11911
+  use: 39
+  pos: COUNTABLE NOUN
+  meaning: A boulevard is a wide street in a city, usually with trees along each side.
+  sent: '...Lenton Boulevard.'
+  roots:
+    boul: "*bhel- | to blow, swell"
+  exp: 美国生活常见词——很多住址里会有。这词本来表示broad street or promenade planted with rows of trees，而树干本身是圆圆鼓鼓的样子，所以和*bhel-有关。这个比较难想；想不通就硬记吧。
+- word: bulk
+  freq: 4713
+  use: 104
+  pos: SINGULAR NOUN
+  meaning: You can refer to something's bulk when you want to emphasize that it is
+    very large.
+  sent: The truck pulled out of the lot, its bulk unnerving against the dawn.
+  roots:
+    bul: "*bhel- | to blow, swell"
+  exp: 还是借的*bhel-中"圆圆鼓鼓"的那层意思。
+- word: flush
+  freq: 6021
+  use: 291
+  pos: INTRANSITIVE VERB
+  meaning: If you flush, your face gets red because you are hot or ill, or because
+    you are feeling a strong emotion such as embarrassment or anger.
+  sent: Do you sweat a lot or flush a lot?
+  roots:
+    fl: "*bhel- | to blow, swell"
+  exp: 借的是swell的那层意思。血流过的话皮肤才能swell起来，没血的话就瘪下去了。
+- word: fluid
+  freq: 3817
+  use: 126
+  pos: MASS NOUN
+  meaning: A fluid is a liquid.
+  sent: The blood vessels may leak fluid, which distorts vision.
+  roots:
+    fl: "*bhel- | to blow, swell"
+  exp: 借的是swell的那层意思。有liquid才能导致swelling。
+  related:
+    - fluidity
+- word: bloated
+  freq: 11502
+  use: 19
+  pos: ADJECTIVE
+  meaning: If someone's body or a part of their body is bloated, it is much larger
+    than normal, usually because it has a lot of liquid or gas inside it.
+  sent: '...the bloated body of a dead bullock.'
+  roots:
+    bl: "*bhel- | to blow, swell"
+  exp: bloated就是swell的感觉，不解释。
+- word: blemish
+  freq: 18336
+  use: 143
+  pos: COUNTABLE NOUN
+  meaning: A blemish is a small mark on something that spoils its appearance.
+  sent: Every piece is closely scrutinized, and if there is the slightest blemish on it, it is rejected.
+  roots:
+    bl: "*bhel- | to shine flash, burn"
+  exp: 估计就是想表达哪儿哪儿烧(burn)坏了的感觉。
+- word: fluent
+  freq: 12235
+  use: 81
+  pos: ADJECTIVE
+  meaning: Someone who is fluent in a particular language can speak the language easily and correctly. You can also say that someone speaks fluent French, Chinese, or some other language.
+  sent: She studied eight foreign languages but is fluent in only six of them.
+  roots:
+    fl: "*bhel- | to blow, swell"
+  exp: 借的是*bhel-中flow的那层意思，表达"行云流水"的感觉。
+- word: blank
+  freq: 4631
+  use: 148
+  pos: ADJECTIVE
+  meaning: Something that is blank has nothing on it.
+  sent: We could put some of the pictures over on that blank wall over there.
+  roots:
+    bl: "*bhel- | to shine, flash, burn"
+  exp: 借的是*bhel-中white的那层意思(因为shine，所以white)，而"白"和"空(blank)"又相关。
+- word: bleak
+  freq: 7427
+  use: 116
+  pos: ADJECTIVE
+  meaning: If a situation is bleak, it is bad, and seems unlikely to improve.
+  sent: The immediate outlook remains bleak.
+  roots:
+    bl: "*bhel- | to shine, flash, burn"
+  exp: 借的是*bhel-中white的那层意思。bleak本意是"荒芜的"，这就和白、空有关。而荒芜就意味着unlikely to improve。
+- word: bald
+  freq: 6271
+  use: 115
+  pos: ADJECTIVE
+  meaning: Someone who is bald has little or no hair on the top of their head.
+  sent: The man's bald head was beaded with sweat.
+  roots:
+    bal: "*bhel- | to shine, flash, burn"
+  exp: 脑袋光亮得能当灯泡使(shine)。当然这词用ball(915,62)也能记。
+- word: flame
+  freq: 3227
+  use: 99
+  pos: VARIABLE NOUN
+  meaning: A flame is a hot bright stream of burning gas that comes from something that is burning.
+  sent: The heat from the flames was so intense that roads melted.
+  roots:
+    fl: "*bhel- | to shine, flash, burn"
+  exp: 
+
+#blanket 3332    131     *bhel-
+#blackout        11467   115     *bhel-
+#hard-boiled     18286   106     *bhel-
+#budget  1058    105     *bhel-
+#bulk    4713    104     *bhel-
+#flame   3227    99      *bhel-
+#blend   3952    98      *bhel-
+#inflame 14425   86      *bhel-
+#influence       1399    84      *bhel-
+#flamboyant      14091   82      *bhel-
+#blink   4658    75      *bhel-
+#bulky   9733    74      *bhel-
+#bulletin        6518    70      *bhel-
+#blackjack       19995   63      *bhel-
+#flashy  11090   61      *bhel-
+#flagrant        19531   56      *bhel-
+#foil    6824    52      *bhel-
+#flaming 13023   52      *bhel-
+#blossom 6526    51      *bhel-
+#affluent        7285    46      *bhel-
+#billow  12806   43      *bhel-
+#blackmail       17908   43      *bhel-
+#boil    4300    42      *bhel-
+#bulwark 19936   40      *bhel-, *werg-
+#flourish        6298    39      *bhel-
+#boulevard       11911   39      *bhel-, *werg-
+#emblazon        15102   36      *bhel-, *bhle-
+#bleach  15257   35      *bhel-
+#blanch  17164   35      *bhel-
+#embolden        17297   34      *bhel-
+#inflammation    9393    32      *bhel-
+#superfluous     16828   29      *bhel-
+#bolster 6791    26      *bhel-
+#influx  8741    20      *bhel-
+#fluctuate       13035   20      *bhel-
+#blond   4870    17      *bhel-
+#blush   9209    16      *bhel-
+#blade   3174    15      *bhel-
+#ballot  3747    15      *bhel-
+#confluence      13977   14      *bhel-
+#foliage 7483    7       *bhel-
+#flora   13294   7       *bhel-
+#floral  8514    2       *bhel-
+#blonde  7066    0       *bhel-
+#bowling 8105    0       *bhel-
+#blindness       9380    0       *bhel-
+#blinding        12289   0       *bhel-
+#blindly 12818   0       *bhel-
+#flashback       13087   0       *bhel-
+#blankly 15193   0       *bhel-
+#flashing        16661   0       *bhel-
+#bullet  2764    -1      *bhel-
+#flour   3460    -1      *bhel-
+#portfolio       3845    -1      *bhel-, *per-
+#flashlight      6478    -1      *bhel-
+#blender 9109    -1      *bhel-
+#bulge   10024   -1      *bhel-
+#flux    10090   -1      *bhel-
+#blackness       10107   -1      *bhel-
+#inflammatory    10698   -1      *bhel-
+#boiler  11136   -1      *bhel-
+#blister 11427   -1      *bhel-
+#bullpen 12278   -1      *bhel-
+#influenza       12969   -1      *bhel-
+#fluency 13552   -1      *bhel-
+#blackboard      13746   -1      *bhel-
+#florist 14545   -1      *bhel-
+#effluent        14842   -1      *bhel-
+#balding 14887   -1      *bhel-
+#blacksmith      15276   -1      *bhel-
+#affluence       15293   -1      *bhel-
+#blacken 15749   -1      *bhel-
+#flourishing     16034   -1      *bhel-
+#ballerina       16175   -1      *bhel-, *gwele-
+#blue-eyed       17180   -1      *bhel-, *ghel-, *okw-
+#bowler  17835   -1      *bhel-
+#blindfold       18084   -1      *bhel-
+#bluish  18485   -1      *bhel-, *ghel-
+#blacktop        19097   -1      *bhel-
+#flammable       19152   -1      *bhel-
+#fluidity        19807   -1      *bhel-
+#
+#
+## TODO: finish all "related" tabs in root.yml
+## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
+# (25, '*bhle-'),
+# (25, '*kwetwer-'),
+# (25, '*leig-'),
+# (25, '*mel-'),
+# (26, '*aug-'),
+# (26, '*dhes-'),
+# (26, '*pa-'),
+# (26, '*poti-'),
+# (27, '*bhau-'),
+# (27, '*mag-'),
+# (27, '*mer-'),
+# (27, '*nem-'),
+# (28, '*dyeu-'),
+# (28, '*leip-'),
+# (28, '*op-'),
+# (29, '*dekm-'),
+# (29, '*ghredh-'),
+# (29, '*pet-'),
+# (29, '*pleu-'),
+# (29, '*weg-'),
+# (30, '*wal-'),
+# (31, '*ak-'),
+# (31, '*klei-'),
+# (31, '*meg-'),
+# (31, '*peuk-'),
+# (32, '*apo-'),
+# (32, '*gher-'),
+# (32, '*klau-'),
+# (32, '*leu-'),
+# (32, '*skei-'),
+# (33, '*da-'),
+# (33, '*wed-'),
+# (34, '*ambhi-'),
+# (34, '*bhergh-'),
+# (34, '*em-'),
+# (34, '*eue-'),
+# (34, '*pete-'),
+# (35, '*bhreg-'),
+# (35, '*gwei-'),
+# (35, '*sol-'),
+# (35, '*tag-'),
+# (36, '*deru-'),
+# (36, '*medhyo-'),
+# (38, '*ked-'),
+# (38, '*me-'),
+# (39, '*gwele-'),
+# (39, '*ped-'),
+# (39, '*skel-'),
+# (39, '*wel-'),
+# (40, '*ghend-'),
+# (40, '*kad-'),
+# (41, '*gheu-'),
+# (41, '*re-'),
+# (42, '*ei-'),
+# (42, '*leuk-'),
+# (42, '*ye-'),
+# (43, '*dek-'),
+# (44, '*aiw-'),
+# (44, '*ant-'),
+# (44, '*legwh-'),
+# (45, '*kerd-'),
+# (45, '*ne-'),
+# (45, '*ster-'),
+# (45, '*weik-'),
+# (46, '*meue-'),
+# (47, '*legh-'),
+# (48, '*ad-'),
+# (48, '*krei-'),
+# (48, '*kwel-'),
+# (48, '*pag-'),
+# (48, '*plat-'),
+# (48, '*werg-'),
+# (50, '*es-'),
+# (50, '*gwere-'),
+# (50, '*ser-'),
+# (50, '*stere-'),
+# (50, '*tere-'),
+# (51, '*do-'),
+# (51, '*ghabh-'),
+# (51, '*gno-'),
+# (53, '*pau-'),
+# (53, '*sem-'),
+# (55, '*ker-'),
+# (55, '*kers-'),
+# (55, '*kwo-'),
+# (55, '*plek-'),
+# (56, '*(s)pen-'),
+# (56, '*wegh-'),
+# (57, '*kel-'),
+# (59, '*bheue-'),
+# (59, '*dwo-'),
+# (60, '*ar-'),
+# (60, '*spek-'),
+# (61, '*kaput-'),
+# (61, '*med-'),
+# (63, '*al-'),
+# (63, '*deik-'),
+# (63, '*ghel-'),
+# (65, '*deuk-'),
+# (66, '*kele-'),
+# (68, '*gwa-'),
+# (70, '*pel-'),
+# (74, '*man-'),
+# (79, '*leg-'),
+# (79, '*oi-no-'),
+# (83, '*bha-'),
+# (83, '*sekw-'),
+# (87, '*bher-'),
+# (87, '*mei-'),
+# (89, '*pere-'),
+# (95, '*weid-'),
+# (97, '*sed-'),
+# (102, '*pele-'),
+# (103, '*ag-'),
+# (109, '*ten-'),
+# (111, '*gene-'),
+# (117, '*sker-'),
+# (125, '*kap-'),
+# (127, '*men-'),
+# (132, '*reg-'),
+# (186, '*bhel-'),
+# (199, '*sta-'),
+# (205, '*wer-'),
+# (228, '*dhe-'),
+# (437, '*per-')]
+

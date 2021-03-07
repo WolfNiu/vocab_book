@@ -51,7 +51,7 @@ end	279	357	*ant-
 strain	3691	357	stringere
 dark	860	355
 hold	214	354	*kel-
-full	504	353	*bhel-,	*pele-
+full	504	353	*pele-
 fast	1100	351
 fit	1356	345
 dead	727	342
@@ -94,7 +94,7 @@ bright	1315	294	*bhereg-
 smash	5178	294	*meik-
 high	141	292
 natural	716	292	*gene-
-flush	6021	291	*bhel-
+flush	6021	291
 clean	1523	290
 tender	4036	290	*ten-
 chill	4671	289	*gel-
@@ -561,7 +561,7 @@ in	6	161
 look	85	161
 public	334	161
 absorb	3145	161
-neat	4734	161	*ned-
+neat	4734	161
 con	5691	161	*deuk-,	*gno-
 dreary	13238	161
 peck	14919	161
@@ -972,7 +972,7 @@ spike	7514	126
 bob	8996	126
 solemn	9361	126	*sol-
 agitate	12483	126	*ag-
-careen	17310	126	*kar-
+careen	17310	126
 substandard	17673	126	*kar-,	*sta-
 delectable	19295	126
 apply	941	125	*plek-
@@ -1041,7 +1041,7 @@ languid	19638	123	*sleg-
 use	92	122
 change	307	122
 couple	532	122
-list	762	122	*kleu-
+list	762	122
 difficulty	1697	122	*dhe-
 modest	3128	122	*med-
 compromise	3787	122	*per-
@@ -1590,7 +1590,7 @@ primitive	5883	97	*per-
 slash	6042	97
 denounce	6070	97	*neu-
 notorious	6243	97	*gno-
-decisive	6410	97
+decisive	6410	97  *kae-id-
 layoff	7954	97	*legh-
 brisk	9359	97
 digest	9672	97	*ag-
@@ -1634,7 +1634,7 @@ rebuke	18023	96
 blue-chip	19647	96	*bhel-,	*ghel-
 plant	624	95	*plat-
 reduce	702	95	*deuk-
-fully	1504	95	*bhel-,	*pele-
+fully	1504	95	*pele-
 duty	1765	95	*ghabh-
 manner	1831	95	*man-
 totally	1925	95
@@ -2145,7 +2145,6 @@ patchwork	13157	81
 transcendent	13478	81
 glacial	14532	81	*gel-
 unwise	15052	81	*weid-
-brook	16976	81	*bhrug-
 despicable	16994	81	*spek-
 transcendental	17237	81
 enraged	17361	81
@@ -2701,13 +2700,13 @@ fondness	13496	69
 slur	14744	69
 tepid	16534	69
 affront	16888	69
-principled	16891	69	*kap-,	*per-
+principled	16891	69	*kap-,  *per-
 alight	18006	69	*legwh-,	*leuk-
 pester	18019	69	*pa-
 well-worn	18049	69
 silken	18564	69
 loon	18672	69
-eye-catching	19827	69	*kap-
+eye-catching	19827	69	*kap-,  *okw-
 record	517	68	*kerd-
 practice	565	68
 risk	652	68
@@ -3732,7 +3731,7 @@ attire	11035	53
 detrimental	11121	53	*tere-
 chiefly	11296	53	*kaput-
 rebellious	11444	53
-adjunct	12111	53
+adjunct	12111	53  *yeug-
 cancellation	12231	53
 sadden	12741	53	*sa-
 stamina	13227	53
@@ -3877,7 +3876,7 @@ charismatic	8705	51	*gher-
 reckless	8733	51	*reg-
 grievance	8806	51	*gwere-
 blockbuster	9191	51
-ballpark	9271	51	*bhel-,	*gwele-
+ballpark	9271	51	*bhel-
 prod	9411	51
 compress	9746	51	*per-
 individualism	10809	51
@@ -4002,7 +4001,7 @@ matching	6697	49
 volatile	6704	49
 unpredictable	6757	49	*deik-
 contradict	6974	49	*deik-
-confidential	7124	49
+confidential	7124	49  *bheidh-
 deduction	7141	49	*deuk-
 plausible	7245	49
 stump	7445	49
@@ -4568,7 +4567,7 @@ billow	12806	43	*bhel-
 epitomize	12841	43	*tem-
 excessively	12893	43
 hallucination	12902	43
-wide-eyed	12986	43
+wide-eyed	12986	43  *okw-
 enactment	13007	43	*ag-
 twinkle	13142	43
 thorny	13610	43	*ster-
@@ -4859,7 +4858,7 @@ shrill	12381	40
 tonic	12433	40	*ten-
 mayhem	12666	40
 transgression	12869	40	*ghredh-
-provocation	12974	40
+provocation	12974	40  *wekw-
 impasse	13075	40	*pete-
 one-sided	13151	40	*oi-no-
 stardom	13447	40	*ster-
@@ -4869,7 +4868,7 @@ implore	14178	40
 gape	14856	40	*ghieh-
 causality	15045	40
 mistreat	15070	40
-enslave	15255	40	*kleu-
+enslave	15255	40
 ripen	15274	40
 roost	16933	40
 boob	17365	40
@@ -5076,7 +5075,7 @@ twilight	7000	38	*dwo-
 precinct	7268	38
 fingerprint	7396	38	*penkwe-
 GI	7622	38
-anonymity	7638	38
+anonymity	7638	38  *no-men-
 pragmatic	7644	38
 arrogant	7741	38	*reg-
 periodic	7847	38
@@ -6091,7 +6090,7 @@ cooler	8201	29	*gel-
 swap	8257	29
 pod	8563	29
 chosen	8642	29
-bitterly	8668	29
+bitterly	8668	29  *bheid-
 foreground	8739	29
 stuffed	8813	29
 helm	8817	29	*kel-
@@ -7070,8 +7069,8 @@ vignette	12505	22
 migratory	12510	22
 exude	12528	22
 pertain	12558	22	*per-,	*ten-
-ambient	12745	22	*ambhi-,	*ei-
-full-blown	13027	22	*bhel-,	*bhle-
+ambient	12745	22	*ambhi-,    *ei-
+full-blown	13027	22	*pele-, *bhel-
 full-fledged	13167	22	*pleu-
 annuity	13327	22
 courier	13521	22	*kers-
@@ -7264,7 +7263,7 @@ embarrassing	5742	20
 linear	5881	20
 mattress	6083	20
 lieutenant	6139	20	*ten-
-don	6297	20	*dem-
+don	6297	20
 greeting	6419	20
 differentiate	6479	20	*bher-
 rite	6611	20	*re-
@@ -7329,7 +7328,7 @@ waffle	13747	20	*weg-
 limitless	13986	20
 informational	13991	20
 snuggle	14278	20
-resonant	14499	20
+resonant	14499	20  *swen-
 afterlife	14521	20	*apo-
 ecclesiastical	14868	20	*kele-
 bandwagon	14912	20	*wegh-
@@ -7682,7 +7681,7 @@ magnetism	18596	18
 drooping	18818	18
 apocalypse	19353	18	*apo-,	*kel-
 corporal	19477	18	*kaput-,	*kwrep-
-oddball	19719	18	*bhel-,	*gwele-
+oddball	19719	18	*bhel-
 sulk	19792	18
 awed	19881	18
 tawny	20038	18
@@ -7857,7 +7856,7 @@ ambiguity	7135	16
 canopy	7152	16
 emperor	7176	16	*pere-
 cafeteria	7193	16
-provocative	7344	16
+provocative	7344	16  *wekw-
 sob	7360	16
 hatch	7494	16
 autonomous	7623	16	*nem-
@@ -8011,7 +8010,7 @@ interface	6277	15	*dhe-
 appropriately	6569	15
 perfume	6693	15	*dheu-,	*per-
 deter	6748	15
-millionaire	6868	15	*mele-
+millionaire	6868	15
 slump	6919	15
 prairie	6957	15
 puppet	7369	15	*pau-
@@ -8296,7 +8295,7 @@ compression	8540	13	*per-
 contraction	8858	13
 purity	8928	13
 anticipated	8950	13
-confidentiality	9243	13
+confidentiality	9243	13  *bheidh-
 bandage	9653	13	*bhendh-
 lunge	9757	13
 boldly	10829	13
@@ -8626,7 +8625,7 @@ overload	14800	11
 rebuff	14809	11
 detract	14892	11
 sleepless	15118	11	*sleg-
-fireball	15183	11	*bhel-,	*gwele-
+fireball	15183	11	*bhel-
 sweeten	15228	11
 filler	15240	11	*pele-
 misplaced	16605	11
@@ -8696,7 +8695,7 @@ shack	7420	10
 wield	7597	10	*wal-
 inherently	7815	10
 nationality	7892	10	*gene-
-resonate	8012	10
+resonate	8012	10  *swen-
 podium	8116	10	*ped-
 conversely	8223	10
 backlash	8229	10
@@ -8973,7 +8972,7 @@ seam	8294	8	*syu-
 cosmos	8329	8
 transparency	8710	8
 starving	8782	8
-eyewitness	8803	8
+eyewitness	8803	8   *okw-
 pulp	8812	8
 simultaneous	8883	8	*sem-
 attacker	8889	8
@@ -9362,7 +9361,7 @@ diva	13500	5	*dyeu-
 buggy	13834	5
 fathom	13898	5	*pete-
 forecaster	13996	5
-fullness	14077	5	*bhel-,	*pele-
+fullness	14077	5	*pele-
 inpatient	14200	5
 immediacy	14326	5
 triad	14394	5
@@ -9370,7 +9369,7 @@ sustenance	14664	5
 vortex	14893	5	*wer-
 pussy	14933	5
 penthouse	15080	5	*(s)pen-
-eyesight	15144	5
+eyesight	15144	5   *okw-
 nourishment	15258	5	*sna-
 bridal	15284	5	*bhreu-
 whirlpool	16674	5
@@ -9831,7 +9830,7 @@ leak	5227	0
 explicitly	5285	0	*plek-
 saint	5289	0
 nursing	5324	0	*sna-
-enlist	5328	0	*kleu-
+enlist	5328	0
 nationally	5359	0
 established	5381	0
 proceedings	5436	0	*ked-,	*per-
@@ -10265,7 +10264,7 @@ naturalist	11120	0	*gene-
 spiritually	11122	0
 baby-sitter	11157	0
 specified	11171	0
-eyeball	11200	0	*bhel-,	*gwele-
+eyeball	11200	0	*bhel-, *gwele-,    *okw-
 forgiving	11202	0	*ghabh-
 stricken	11219	0
 flatly	11223	0	*plat-
@@ -10274,7 +10273,7 @@ escalating	11236	0
 changed	11241	0
 outstretched	11243	0
 dwindling	11252	0
-confidently	11254	0
+confidently	11254	0   *bheidh-
 infinitely	11255	0
 determining	11265	0
 gladly	11271	0	*ghel-
@@ -10419,7 +10418,7 @@ illustrator	12518	0
 lovingly	12527	0	*leubh-
 eater	12541	0	*ed-
 meltdown	12544	0
-decisively	12553	0
+decisively	12553	0   *kae-id-
 drilling	12563	0
 engraving	12567	0	*gwere-
 grimly	12569	0
@@ -10523,13 +10522,12 @@ publicized	13291	0
 hooded	13295	0
 cartoonist	13297	0
 re-evaluate	13301	0
-listed	13302	0	*kleu-
+listed	13302	0
 elongated	13308	0
 grazing	13319	0
 domestically	13323	0
 marching	13329	0
 creatively	13335	0
-digging	13393	0	*dheigw-
 dutifully	13404	0
 warring	13408	0
 dissemination	13414	0	*sē-
@@ -10821,7 +10819,7 @@ contending	16880	0
 worshiper	16887	0
 encroachment	16889	0
 hated	16913	0
-fervently	16932	0
+fervently	16932	0   *bhreu-
 invading	16942	0
 dialog	16947	0
 ordered	16971	0
@@ -11075,7 +11073,7 @@ flipper	19338	0
 yellowish	19343	0
 breathlessly	19360	0
 offensively	19366	0
-abbreviated	19367	0
+abbreviated	19367	0	*mregh-u-
 startlingly	19382	0
 bye	19391	0	*ambhi-
 interconnection	19393	0
@@ -11162,7 +11160,7 @@ exploited	20036	0
 superficially	20040	0
 covertly	20073	0
 deep-water	20077	0
-enlistment	20080	0	*kleu-
+enlistment	20080	0
 discounted	20082	0
 two-fold	20086	0
 escaped	20090	0
@@ -11196,7 +11194,7 @@ those	102	-1
 us	113	-1
 week	188	-1	*weik-
 Mr	211	-1
-million	223	-1	*mele-
+million	223	-1
 month	237	-1	*me-
 both	256	-1
 until	271	-1	*ant-
@@ -11819,7 +11817,7 @@ criteria	2597	-1
 dealer	2598	-1	*da-
 via	2599	-1	*wegh-
 utility	2601	-1
-precisely	2602	-1
+precisely	2602	-1  *kae-id-
 arise	2603	-1
 armed	2604	-1	*ar-
 nevertheless	2605	-1	*aiw-,	*ne-
@@ -11832,7 +11830,7 @@ phrase	2612	-1
 ingredient	2613	-1	*ghredh-
 stake	2614	-1
 Muslim	2615	-1
-fiber	2617	-1	*bheid-,	*gwhi-
+fiber	2617	-1
 activist	2618	-1	*ag-
 Islamic	2619	-1
 snap	2620	-1
@@ -11948,7 +11946,7 @@ spokesman	2747	-1	*man-,	*men-,	*ner-,	*wi-ro-
 retain	2748	-1	*ten-
 latter	2749	-1	*‌‌lē-
 incentive	2750	-1	*kan-
-slave	2751	-1	*kleu-
+slave	2751	-1
 translate	2753	-1
 accurate	2754	-1
 whereas	2755	-1	*kwo-
@@ -12206,7 +12204,7 @@ eighth	4476	-1
 notebook	4477	-1
 behalf	4483	-1	*skel-
 Thanksgiving	4513	-1	*ghabh-
-eyebrow	4516	-1
+eyebrow	4516	-1  *okw-
 inherit	4519	-1
 tray	4520	-1	*deru-
 organizational	4522	-1
@@ -12682,7 +12680,7 @@ restructuring	7403	-1
 sideline	7404	-1
 Serbian	7411	-1
 turbine	7412	-1
-condo	7414	-1
+condo	7414	-1  *dem-
 focal	7417	-1
 baggage	7418	-1
 traumatic	7423	-1	*tere-
@@ -12768,7 +12766,7 @@ inning	7852	-1
 long-distance	7857	-1	*sta-
 homer	7863	-1
 nasal	7881	-1	*nas-
-saga	7889	-1	*sek-
+saga	7889	-1
 culinary	7907	-1	*pekw-
 biodiversity	7909	-1	*wer-
 explorer	7912	-1
@@ -12812,7 +12810,7 @@ wardrobe	8071	-1	*wer-
 Episcopal	8076	-1	*spek-
 mercury	8080	-1
 hen	8085	-1	*kan-
-resonance	8095	-1
+resonance	8095	-1  *swen-
 sift	8107	-1
 industrialized	8109	-1
 neon	8126	-1
@@ -12857,7 +12855,7 @@ indoors	8292	-1
 eighteenth	8293	-1	*dekm-
 restructure	8295	-1	*stere-
 cookbook	8296	-1
-softball	8305	-1	*bhel-,	*gwele-
+softball	8305	-1	*bhel-
 dolphin	8306	-1
 sandal	8315	-1
 lavender	8317	-1	*leue-
@@ -13071,7 +13069,7 @@ pilgrim	9221	-1	*agro-
 shutter	9223	-1	*skeud-
 symbolism	9224	-1	*gwele-
 midwestern	9231	-1
-ballroom	9233	-1	*bhel-,	*gwele-
+ballroom	9233	-1	*gwele-
 bladder	9238	-1	*bhle-
 retrospective	9242	-1	*spek-
 herbal	9248	-1
@@ -13565,7 +13563,7 @@ convergence	10253	-1	*wer-
 homage	10254	-1	*dhghem-
 gateway	10255	-1
 deserted	10256	-1
-template	10257	-1	*tem-,	*ten-
+template	10257	-1
 congratulations	10258	-1	*gwere-
 botanical	10259	-1
 tack	10260	-1
@@ -13582,7 +13580,7 @@ stakeholder	10273	-1
 willow	10274	-1	*wel-
 savage	10275	-1
 clipping	10276	-1
-mashed	10277	-1
+mashed	10277	-1	*meik-
 clinician	10278	-1	*klei-
 styling	10279	-1
 mantra	10280	-1	*men-
@@ -14026,7 +14024,7 @@ stylistic	10879	-1
 neurological	10884	-1
 chute	10890	-1	*kad-
 thunderstorm	10893	-1
-Yugoslav	10901	-1	*kleu-
+Yugoslav	10901	-1
 Mormon	10908	-1
 eggplant	10911	-1	*plat-
 mother-in-law	10912	-1	*legh-
@@ -14155,7 +14153,7 @@ ignition	11473	-1
 grandma	11474	-1
 Arabian	11475	-1
 bookshelf	11480	-1
-bulldozer	11487	-1	*dekm-,	*dwo-
+bulldozer	11487	-1	*bhel-, *do-
 graphite	11490	-1
 community-based	11496	-1
 homecoming	11499	-1	*gwa-
@@ -14181,7 +14179,7 @@ fieldwork	11590	-1
 academia	11593	-1
 tandem	11594	-1
 destabilize	11601	-1
-semantic	11604	-1	*sē-
+semantic	11604	-1
 upstream	11607	-1	*sreu-
 cross-cultural	11610	-1
 two-day	11611	-1
@@ -14196,7 +14194,7 @@ sunscreen	11632	-1	*sker-
 medically	11637	-1
 ex-husband	11649	-1
 roadblock	11653	-1
-eyepiece	11658	-1
+eyepiece	11658	-1  *okw-
 primate	11660	-1	*per-
 cumin	11661	-1
 parchment	11666	-1
@@ -14714,7 +14712,7 @@ stripper	13637	-1
 mismanagement	13640	-1	*man-
 custard	13645	-1	*kreus-
 configure	13646	-1	*dheigh-
-eyelash	13655	-1
+eyelash	13655	-1  *okw-
 wisp	13659	-1
 electrician	13667	-1
 tropics	13669	-1
@@ -15090,7 +15088,7 @@ stubble	14899	-1
 widening	14901	-1
 parked	14902	-1
 three-month	14903	-1
-insecticide	14911	-1	*kae-id-
+insecticide	14911	-1	*sek-,  *kae-id-
 undeveloped	14914	-1
 fatally	14925	-1	*bha-
 iconography	14929	-1
@@ -15126,7 +15124,7 @@ daycare	15028	-1
 choreography	15031	-1
 mozzarella	15037	-1
 woody	15046	-1
-eyeglass	15047	-1
+eyeglass	15047	-1  *okw-
 playmate	15053	-1
 tarmac	15055	-1	*deru-
 readership	15056	-1	*re-
@@ -15247,7 +15245,7 @@ swagger	15358	-1
 outage	15359	-1
 rightfully	15360	-1
 reprimand	15361	-1	*per-
-walleye	15363	-1
+walleye	15363	-1  *okw-
 etching	15364	-1	*ed-
 mainframe	15365	-1	*per-
 mercenary	15366	-1
@@ -15535,7 +15533,7 @@ carnivore	15689	-1
 bonnet	15690	-1
 piston	15691	-1
 palsy	15692	-1	*leu-
-meatball	15693	-1	*bhel-,	*gwele-
+meatball	15693	-1	*bhel-
 lukewarm	15694	-1	*kele-
 barbaric	15695	-1
 obsess	15696	-1	*sed-
@@ -15575,7 +15573,7 @@ side-by-side	15734	-1
 outlandish	15735	-1
 satanic	15736	-1
 coed	15737	-1
-invocation	15738	-1
+invocation	15738	-1  *wekw-
 craftsmanship	15739	-1
 objectionable	15740	-1	*ye-
 scotch	15741	-1
@@ -15902,7 +15900,7 @@ perestroika	16139	-1	*per-,	*stere-
 departmental	16140	-1	*pere-
 bemused	16141	-1
 furor	16142	-1
-thermostat	16143	-1
+thermostat	16143	-1	*gwher-
 ready-made	16144	-1
 partake	16145	-1
 steadfast	16146	-1	*sta-
@@ -16400,7 +16398,7 @@ cappuccino	17170	-1
 umbilical	17176	-1
 monsoon	17178	-1
 Libyan	17179	-1
-blue-eyed	17180	-1	*bhel-,	*ghel-
+blue-eyed	17180	-1	*bhel-,	*ghel-, *okw-
 first-person	17187	-1
 geranium	17195	-1
 rusher	17197	-1
@@ -16450,7 +16448,7 @@ well-intentioned	17322	-1	*ten-
 seventeenth-century	17323	-1
 geyser	17325	-1	*gheu-
 karaoke	17332	-1
-Slavic	17334	-1	*kleu-
+Slavic	17334	-1
 underdeveloped	17335	-1
 raindrop	17336	-1
 stateroom	17337	-1	*sta-
@@ -16468,7 +16466,7 @@ editor-in-chief	17366	-1
 round-trip	17368	-1
 sportswriter	17371	-1
 southward	17377	-1	*sawel-
-hardball	17381	-1	*bhel-,	*gwele-
+hardball	17381	-1	*bhel-
 box-office	17385	-1	*dhe-,	*op-
 autoimmune	17388	-1	*mei-
 vegetative	17390	-1	*weg-
@@ -16786,7 +16784,7 @@ sidle	18309	-1	*oi-no-
 cropland	18312	-1
 unexplored	18317	-1
 buttery	18322	-1	*gwou-,	*teue-
-black-eyed	18326	-1
+black-eyed	18326	-1  *okw-
 transformer	18328	-1
 transom	18330	-1	*tere-
 teacup	18334	-1
@@ -16842,7 +16840,7 @@ overgrow	18531	-1
 candlestick	18532	-1	*kand-
 face-lift	18537	-1	*dhe-
 whence	18539	-1	*kwo-
-semantics	18540	-1	*sē-
+semantics	18540	-1
 lynch	18542	-1
 saltwater	18548	-1
 underpants	18555	-1
@@ -17036,7 +17034,7 @@ vertebrate	18919	-1	*wer-
 orator	18921	-1
 three-bedroom	18922	-1
 emigre	18923	-1
-humbling	18924	-1
+humbling	18924	-1  *dhghem-
 pleated	18925	-1
 litigate	18926	-1	*ag-
 self-regulation	18927	-1
@@ -17545,7 +17543,7 @@ larger-than-life	19914	-1
 laissez-faire	19915	-1	*dhe-
 flexion	19916	-1
 unhook	19917	-1
-promiscuity	19921	-1
+promiscuity	19921	-1	*meik-
 undemocratic	19924	-1
 oxidation	19927	-1	*ak-
 fanaticism	19928	-1	*dhes-

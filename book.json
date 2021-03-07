@@ -1,0 +1,168 @@
+{
+  "noble": {
+    "freq": "5731",
+    "use": "261",
+    "pos": "ADJECTIVE",
+    "meaning": "If you say that someone is a noble person, you admire and respect them because they are unselfish and morally good.",
+    "sent": "He was an upright and noble man who was always willing to help in any way he could.",
+    "roots": {
+      "no": "*kno-"
+    },
+    "exp": "贵族都很wellknown也就是famous。",
+    "figure": "",
+    "related": []
+  },
+  "forbid": {
+    "freq": "4750",
+    "use": "73",
+    "pos": "TRANSITIVE VERB",
+    "meaning": "If you forbid someone to do something, or if you forbid an activity, you order that it must not be done.",
+    "sent": "They'll forbid you to marry.",
+    "roots": {
+      "for": "for-",
+      "bid": "beodan"
+    },
+    "exp": "to command against --> 禁止",
+    "figure": "",
+    "related": []
+  },
+  "charm": {
+    "freq": "4822",
+    "use": "73",
+    "pos": "VARIABLE NOUN",
+    "meaning": "Charm is the quality of being pleasant or attractive.",
+    "sent": "\"Snow White and the Seven Dwarfs,\" the 1937 Disney classic, has lost none of its original charm.",
+    "roots": {
+      "char": "*kan-"
+    },
+    "exp": "charm最开始是咒语的意思，后来才发展出迷人的感觉。而咒语也经常是被吟唱出来的。",
+    "figure": "",
+    "related": []
+  },
+  "bid": {
+    "freq": "4107",
+    "use": "64",
+    "pos": "COUNTABLE NOUN",
+    "meaning": "A bid for something or a bid to do something is an attempt to obtain it or do it.",
+    "sent": "...Sydney's successful bid for the 2000 Olympic Games.",
+    "roots": {
+      "bid": {
+        "root": "*bheudh-",
+        "exp": "如果不看*bheudh-里面那些h的话，那bid=beud是很明显的事。"
+      }
+    },
+    "exp": "bid是offer, proclaim的感觉，也就是让别人be aware of how much you intend to pay。",
+    "related": [],
+    "figure": ""
+  },
+  "mince": {
+    "freq": "8326",
+    "use": "12",
+    "pos": "TRANSITIVE VERB",
+    "meaning": "If you mince food such as meat or vegetables, you cut or grind it up into very small pieces, usually in a machine.",
+    "sent": "Perhaps I'll buy lean meat and mince it myself.",
+    "roots": {
+      "min": "*mei-"
+    },
+    "exp": "切成小块",
+    "figure": "",
+    "related": []
+  },
+  "intense": {
+    "freq": "2315",
+    "use": "-1",
+    "pos": "ADJECTIVE",
+    "meaning": "Intense is used to describe something that is very great or extreme in strength or degree.",
+    "sent": "He was sweating from the intense heat.",
+    "roots": {
+      "in": "in-",
+      "tense": "*ten-"
+    },
+    "exp": "拉紧到极限，所以是强烈的、剧烈的。",
+    "figure": "",
+    "related": []
+  },
+  "stark": {
+    "freq": "6687",
+    "use": "202",
+    "pos": "ADJECTIVE",
+    "meaning": "Stark choices or statements are harsh and unpleasant.",
+    "sent": "Companies face a stark choice if they want to stay competitive.",
+    "roots": {
+      "star": "*ster-"
+    },
+    "exp": "stiff确定是一种hard, harsh的感觉，所以能表示harsh and unpleasant。",
+    "figure": "",
+    "related": ["starkly"]
+  },
+  "startle": {
+    "freq": "5530",
+    "use": "74",
+    "pos": "TRANSITIVE VERB",
+    "meaning": "If something sudden and unexpected startles you, it surprises and frightens you slightly.",
+    "sent": "The telephone startled him.",
+    "roots": {
+      "start": "start",
+      "le": "-le"
+    },
+    "exp": "startle的本意是move agitatedly, runt to and fro，也就是快速向前跑的感觉，像极了动物受惊时的样子。而start的本意也是move suddenly。",
+    "figure": "",
+    "related": ["startling", "startlingly", "startled"]
+  },
+  "contend": {
+    "freq": "3587",
+    "use": "81",
+    "pos": "INTRANSITIVE VERB",
+    "meaning": "If you have to contend with a problem or difficulty, you have to deal with it or overcome it.",
+    "sent": "It is time, once again, to contend with racism.",
+    "roots": {
+      "con": "com-",
+      "tend": "*ten-"
+    },
+    "exp": "斗争就是一种剑拔弩张的感觉，所以是to stretch。之所以其衍生词contention表示【论点】，是因为这是双方争吵是各自抛出的东西。",
+    "figure": "A和B从两边拽一个毯子，各自大喊【我的！】",
+    "related": ["contentious", "contender", "contention"]
+  },
+  "abstain": {
+    "freq": "14293",
+    "use": "0",
+    "pos": "INTRANSITIVE VERB",
+    "meaning": "If you abstain from something, usually something you want to do, you deliberately do not do it.",
+    "sent": "Abstain from sex or use condoms.",
+    "roots": {
+      "abs": "ab-",
+      "tain": "*ten-"
+    },
+    "exp": "hold away——浓浓地禁欲即视感。",
+    "figure": "A(男)双腿夹紧，看着一个大美女，表现出强忍的状态。",
+    "related": ["abstinence"]
+  },
+  "retain": {
+    "freq": "2748",
+    "use": "-1",
+    "pos": "TRANSITIVE VERB",
+    "meaning": "To retain something means to continue to have that thing.",
+    "sent": "The interior of the shop still retains a nineteenth-century atmosphere.",
+    "roots": {
+      "re": "re-",
+      "tain": "*ten-"
+    },
+    "exp": "hold，所以是continue。这里的re-主要是once more的感觉。",
+    "figure": "",
+    "related": ["retainer"]
+  },
+  "detain": {
+    "freq": "7694",
+    "use": "-1",
+    "pos": "TRANSITIVE VERB",
+    "meaning": "When people such as the police detain someone, they keep them in a place under their control.",
+    "sent": "Police have detained two suspects in connection with the attack.",
+    "roots": {
+      "de": "de-",
+      "tain": "*ten-"
+    },
+    "exp": "hold down——就是一种把人扣下来的感觉。",
+    "figure": "",
+    "related": ["detainee"]
+  }
+}

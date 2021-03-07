@@ -1,0 +1,75 @@
+{
+  "*bheudh-": {
+    "meaning": "be aware, make aware"
+  },
+  "for-": {
+    "meaning": "away, opposite, completely",
+    "parent": "*per-"
+  },
+  "*per-": {
+    "meaning": "\"forward\", and, by extension, \"in front of, before, first chief, toward, near, against\"",
+    "exp": "从in front of到against其实不难想象：别人站在in front of you的位置上，其实就是拦着你不让过了，所以是against的感觉。",
+    "figure": "A在海上一块突出的岩石前拦住一群人，大喊\"谁都不许过！！\"。B在人群里，说\"大姐我们没想过，就是来看看海。\""
+  },
+  "beodan": {
+    "meaning": "to command",
+    "parent": "*bheudh-",
+    "exp": "所谓命令，就是让对方be aware (of you demand)。"
+  },
+  "in-": {
+    "meaning": "toward"
+  },
+  "*en": {
+    "meaning": "in"
+  },
+  "*ten-": {
+    "meaning": "to stretch",
+    "exp": "从to stretch这个原始意义发展出了两个重要的含义。第一个就是direct, toward，第二个是hold。为什么从to stretch能发展出direct呢？我们可以想象一下拉弓。开弓之后，箭头肯定是指向某个方向的，所以才有direct的感觉。比如attend，就体现了一种direct one's mind toward something的感觉；同样的，intend也表示direct one's attention to。我们比较熟悉的词有extend[ex(=ex-:out) + tend(:=*ten-:to stretch)], thin, pretend, tend(move in a certain direction的感觉), attend, intense。从to stretch发展出了hold的意思，还继续发展出了get, acquire的感觉。这个其实也不是特别难理解——拉伸状态就是一种hold得住的状态。content, maintain[=main(=*man-:hand) + tain(=*ten-: to stretch)], contain, continue——继续就是hold住接着来的感觉，obtain。"
+  },
+  "*tere-": [
+    null,
+    {
+      "meaning": "cross over, pass through, overcome"
+    }
+  ],
+  "*ksero-": {
+    "meaning": "dry"
+  },
+  "*mei-": [
+    null,
+    {
+      "meaning": "small",
+      "exp": "一些常用词，如minus, minute，minimum，都和small有关，甚至menu都是从*mei-来的，因为menu就是指detailed list of dishes to be served。而detail这个词翻译成\"细节\"不是没有道理的。"
+    }
+  ],
+  "*kno-": {
+    "meaning": "to know"
+  },
+  "*ster-": [
+    {
+      "meaning": "stiff",
+      "exp": "stiff表示硬、直。常用词stare就是从*ster-来的。什么叫盯着呢？就是僵在那里不动地看。另外一个比stare更常用的同源词是start，但是相对不容易理解。start的本意是move or spring suddenly。这和stiff有什么关系呢？想像一下你在休息的时候全身都软踏踏的，一旦start了就会全身硬起来，这样才逐渐有了开始的意思。",
+      "figure": "左图是A休息，全身放松；右图是开始行动，肌肉紧绷。"
+    },
+    {
+      "meaning": "star",
+      "exp": "这个词根很好记，因为star这个词本身就是这个PIE root的代表。另外常用词disaster[=dis(=dis-: lack of, not) + aster(=*ster-: star)]也是从*ster-来的，大概的感觉就是星星不太对劲，所以将会有灾难降临（你也知道古人那点科学水平，也就抬头看看星星了）。"
+    }
+  ],
+  "-le": {
+    "meaning": "freqquentative suffix"
+  },
+  "com-": {
+    "meaning": "with, together"
+  },
+  "ab-": {
+    "meaning": "away, from, from off, down"
+  },
+  "re-": {
+    "meaning": "back to the original place; again, anew, once more, also with a sense of undoing"
+  },
+  "de-": {
+    "meaning": "down, off, away, from among, down from, down to the bottom, totally, completely, not, do the opposite of, undo",
+    "exp": ""
+  }
+}
