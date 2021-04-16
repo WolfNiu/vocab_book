@@ -118,12 +118,11 @@ misc:
     - fruition
 "*ghos-ti-":
   meaning: stranger, guest, host
-  exp: 这个词根释义中的三个词互相联系很紧：guest一般就是stranger，而host和guest正好对应。由这个词根发展出的超常用词中，host (1853, 34), hotel(1005,22)和guest(1317, 32)都很好理解。只是guest的字母互换需要看回到PIE root本身——它打头的字母是gh。根据缩略法，g和h留哪个都可以，于是guest就留了g。稍微没那么直接的是hospital(648,-1)。其实它理论上也是一个接客(guest)的地方，只不过主要接病人而已。至于后面会列举的非常用词hospice(10564,-1)要求则更高，需要是临终关怀才行。
+  exp: 这个词根释义中的三个词互相联系很紧：guest一般就是stranger，而host和guest正好对应。由这个词根发展出的超常用词中，host(1853, 34), hotel(1005,22)和guest(1317, 32)都很好理解。只是guest的字母互换需要看回到PIE root本身——它打头的字母是gh。根据缩略法，g和h留哪个都可以，于是guest就留了g。稍微没那么直接的是hospital(648,-1)。其实它理论上也是一个接客(guest)的地方，只不过主要接病人而已。
   related:
     - hostess
     - hospitalize
     - hospitalization
-    - hospice
 "*ned-":
   meaning: to bind, tie
   exp: 和这个词根相关的超常用词都很好理解，没什么可解释的：net(2906,155), connect(1645,68)
@@ -390,22 +389,38 @@ misc:
     - confidential
     - confidentiality
     - confidently
-"*bhle-":
-  meaning: to blow, swell, overflow
-  exp: 最常用词当然是blow(1421,315)，不解释。另外一个比较常用的是flavor(3164,86)——味儿要想传得比较远就需要有风吹(blow)。注意这里的字母互换是f=b。另一个常用词是inflation(3225,20)=in(=*en:in) + fl(=*bhle-)——通货膨胀当然就是被吹(blow)起来的感觉。综上，*bhle-给人的感觉就是在空气中传播或者是吹得鼓起来。最后，*bhel-的其中一个意思是这个PIE root的变体，也表示to blow, swell，所以我们就把这一部分并入这个词条了；而*bhel-的其它意思，比如to shine flash, burn，我们会单开一个词条。*bhel-涉及的超常用词是ball(915,62)，还有常用词balloon(4827,66)，都是一看就是吹(blow)起来的感觉。因此*bhle-是有rounded这层意思的。还有胖肚肚belly(3842,87)和bowl(1843,124)也是一样。因为blow是吹起来的，所以会给人一种欣欣向荣的感觉。比如我们形容很嫩的肌肤就可以用"吹弹可破"(当然也有可能是水肿)。因此*bhel-就衍生出了to thrive, bloom的感觉。比如blood(693,67)——没血你也就站不起来了。还有flower(1498,77)，明显和bloom有关。包括bloom(6680,65)自己，也属于同源词，虽说没那么常用。
+"*bhel-(1)":
+  meaning: to shine, flash, burn
+  exp: 这个词根涉及的超常用词中有很多是颜色，因为我们毕竟会用"闪(shine)着什么颜色"的表达方法。而且这些颜色也都和火有关，于是也就和burn有关。比如black(254,249)和blue(845,194)，一个是烧过了的颜色(焦黑)，另一个是火焰的颜色。而一旦blind(2739,-1)，也就看不到这些颜色了。最后还有大家耳熟能详的flash(3533,241)也是同源词。
+  related:
+    - blue-chip
+    - blackout
+    - blackjack
+    - flashy
+    - blackness
+    - blackboard
+    - blacken
+    - blacktop
+    - blacksmith
+    - blue-eyed
+    - blackmail
+    - flashback
+    - flashing
+    - flashlight
+    - blindness
+    - blinding
+    - blindly
+    - blindfold
+    - bluish
+"*bhel-(2)":
+  meaning: to blow, swell, well up, overflow
+  exp: 这个词根涉及的超常用词是ball(915,62)，还有常用词balloon(4827,66)，都是一看就是吹(blow)起来的感觉。也就是说它有rounded这层意思。还有胖肚肚belly(3842,87)和bowl(1843,124)也是一样。这个词根还能表示"流动(flow)"，因为flow和blow一是液体的流动，一是气体的流动。发展出的超常用词有influence(1399,84)=in(=*en:in) + flu(=*bhel-(2))。什么是影响呢？就是这个事物"流入(flow)"了你的体内。如果需要的话可以想象一下逍遥子给虚竹传功的场景。还有budget(1058,105)也是这个词根来的。这个词最早表示leather bag，也就是用来放钱的小包包，这个包有多鼓(swell)，就有多少budget。这个词的互换比较tricky——除了b=b之外就没有其它线索了。这个词根还有个超级近亲*bhle-，也表示to blow, swell, overflow，就不单列一个词条了。最常用词是blow(1421,315)，不解释。另外一个比较常用的是flavor(3164,86)——味儿要想传得比较远就需要有风吹(blow)。注意这里的字母互换是f=b。另一个常用词是inflation(3225,20)=in(=*en:in) + fl(=*bhle-)——通货膨胀当然就是被吹(blow)起来的感觉。综上，*bhle-给人的感觉就是在空气中传播或者是吹得鼓起来。
   related:
     - blown
     - full-blown
-    - bloody
-    - bleed
-    - bleeding
-    - blooming
     - baseball
     - football
     - full-time
-    - bloodshed
-    - sunflower
-    - bloodless
     - eyeball
     - ballgame
     - snowball
@@ -420,12 +435,32 @@ misc:
     - inflationary
     - flavorful
     - blower
+    - overblown
+    - bowler
+    - bowling
+"*bhel-(3)":
+  meaning: to thrive, bloom
+  exp: 这个词根是从*bhel-(2)——to blow, swell, well up, overflow中衍生出来的。因为blow是吹起来的，所以会给人一种欣欣向荣的感觉。比如我们形容很嫩的肌肤就可以用"吹弹可破"(当然也有可能是水肿)。因此*bhel-就衍生出了to thrive, bloom的感觉。比如blood(693,67)——没血你也就站不起来了。还有flower(1498,77)，明显和bloom有关。包括bloom(6680,65)自己，也属于同源词，虽说没那么常用。
+  related:
+    - bloody
+    - bleed
+    - bleeding
+    - blooming
+    - bloodshed
+    - sunflower
+    - bloodless
     - flowery
     - cauliflower
     - cold-blooded
-    - overblown
-"*bhel-":
-  meaning: to shine, flash, burn
-  exp: 这个词根涉及的超常用词中有很多是颜色，因为我们毕竟会用"闪(shine)着什么颜色"的表达方法。而且这些颜色也都和火有关，于是也就和burn有关。比如black(254,249)和blue(845,194)，一个是烧过了的颜色(焦黑)，另一个是火焰的颜色。而一旦blind(2739,-1)，也就看不到这些颜色了。最后还有大家耳熟能详的flash(3533,241)也是同源词。
+"*kwetwer-":
+  meaning: four
+  exp: 可以试着读一下这个PIE root——其实它就是近似quarter(1408,163)的发音(顺便学习一下kw=q)，而quarter表示1/4，所以也和four相关。当然，four(251,0)也是从这个词根来的。其实从一到十、百、千等等各有对应的PIE root。之所以单拿出four来讲，就是因为这个数字可以引申出其它意思。比如square(2772,-1) = s(=ex-:out) + quare(=*kwetwer-)有四条边四个角，所以和four有关。而早期军队一般采用方阵作战，于是*kwetwer-又和military(475,34)搭上了关系。比如headquaters(2889,8)中，quaters就表示military dwelling place，于是整个词才能表示"总部"。
   related:
-    - blue-chip
+    - fourteen
+    - fourth
+    - forty
+    - quarterback
+    - fourteenth
+    - foursome
+    - squarely
+    - quarterly

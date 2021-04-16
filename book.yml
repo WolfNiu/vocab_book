@@ -1094,8 +1094,7 @@
   freq: 17380
   use: 29
   pos: INTRANSITIVE VERB
-  meaning: If you say that someone meddles in something, you are criticizing the fact
-    that they try to influence or change it without being asked.
+  meaning: If you say that someone meddles in something, you are criticizing the fact that they try to influence or change it without being asked.
   sent: Already some people are asking whether scientists have any right to meddle
     in such matters.
   roots:
@@ -1297,8 +1296,7 @@
   freq: 20071
   use: 37
   pos: ADJECTIVE
-  meaning: A perfunctory action is done quickly and carelessly, and shows a lack of
-    interest in what you are doing.
+  meaning: A perfunctory action is done quickly and carelessly, and shows a lack of interest in what you are doing.
   sent: She gave the list only a perfunctory glance.
   roots:
     per: "*per- | forward, through"
@@ -1308,18 +1306,16 @@
   freq: 17191
   use: 19
   pos: ADJECTIVE
-  meaning: People who are frugal or who live frugal lives do not spend much money
-    on themselves.
+  meaning: People who are frugal or who live frugal lives do not spend much money on themselves.
   sent: She lives a frugal life.
   roots:
     frug: "*bhrug- | to enjoy"
-  exp: 这个词用的是*bhrug-中peform的感觉，本来表示useful，后来才发展出economical的意思。字母互换方面，之前学这个PIE root的时候碰到function这个词，可以很容易发现g=c。
+  exp: 这个词用的是*bhrug-中peform的感觉，本来表示useful，后来才发展出economical的意思。所谓frugal就是有用的东西再买，没用的东西不买。
 - word: defunct
   freq: 16001
   use: -1
   pos: ADJECTIVE
-  meaning: If something is defunct, it no longer exists or has stopped functioning
-    or operating.
+  meaning: If something is defunct, it no longer exists or has stopped functioning or operating.
   sent: '...the leader of the now defunct Social Democratic Party.'
   roots:
     de: "de- | off, completely"
@@ -1330,8 +1326,7 @@
   use: -1
   pos: INTRANSITIVE VERB
   meaning: If a machine or part of the body malfunctions, it fails to work properly.
-  sent: The radiation can damage microprocessors and computer memories, causing them
-    to malfunction.
+  sent: The radiation can damage microprocessors and computer memories, causing them to malfunction.
   roots:
     mal: mal- | bad, badly, wrong
     funct: "*bhrug- | to enjoy"
@@ -1340,8 +1335,7 @@
   freq: 9667
   use: -1
   pos: COUNTABLE NOUN
-  meaning: If you refer to a dysfunction in something such as a relationship or someone's
-    behavior, you mean that it is different from what is considered to be normal.
+  meaning: If you refer to a dysfunction in something such as a relationship or someone's behavior, you mean that it is different from what is considered to be normal.
   sent: '...his severe emotional dysfunction was very clearly apparent.'
   roots:
     dys: dys- | bad, abnormal, difficult
@@ -1353,21 +1347,18 @@
   freq: 4206
   use: 138
   pos: ADJECTIVE
-  meaning: If you are hostile to another person or an idea, you disagree with them
-    or disapprove of them, often showing this in your behavior.
+  meaning: If you are hostile to another person or an idea, you disagree with them or disapprove of them, often showing this in your behavior.
   sent: Many people felt he would be hostile to the idea of foreign intervention.
   roots:
     host: "*ghos-ti- | stranger, guest, host"
-  exp: 又是一个超常用但大多数人并不熟悉的词。hostile借的是host这个词根中stranger的感觉，并基于一个简单的思路：熟人就是朋友，陌生人则是敌人。这种看法对于生活在现代社会的我们当然很奇怪，但如果站在动物的角度来说就很正常了。一个族群的猩猩互相有血缘关系，大家关系相对比较铁；而外面来一只陌生猩猩，一般第一反应就是将其打跑。
-  fig: 一颗树上好几只猩猩，每只身上标着"刘一"、"刘二"、"刘老根"、"刘三姐"，etc... 它们一齐怒视着树下一只叫"朱二狗"的猩猩。在怒气中标明"hostile"这个词。
+  exp: 如果你的男/女朋友对你突然像对待陌生人(stranger)一样，那肯定是对你有敌意(hostile)啦。
 - word: hospitable
   freq: 15010
   use: 33
   pos: ADJECTIVE
-  meaning: A hospitable person is friendly, generous, and welcoming to guests or people
-    they have just met.
+  meaning: A hospitable person is friendly, generous, and welcoming to guests or people they have just met.
   roots:
-    hospit: "*ghos-ti- | stranger, guest, host"
+    hos: "*ghos-ti- | stranger, guest, host"
   exp: 释义中已经明说了是"welcoming to guests or people"。不解释。
   related:
     - inhospitable
@@ -1376,8 +1367,7 @@
   freq: 16692
   use: 22
   pos: COUNTABLE NOUN
-  meaning: A hostel is a large house where people can stay cheaply for a short period
-    of time. Hostels are usually owned by local government authorities or charities.
+  meaning: A hostel is a large house where people can stay cheaply for a short period of time. Hostels are usually owned by local government authorities or charities.
   roots:
     host: "*ghos-ti- | stranger, guest, host"
   exp: 招待所——host people的地方。有很多人觉得它和hotel长得很像，意思也接近，那就对了。二者本就是同源词。
@@ -1385,13 +1375,20 @@
   freq: 4012
   use: -1
   pos: COUNTABLE NOUN
-  meaning: A hostage is someone who has been captured by a person or organization
-    and who may be killed or injured if people do not do what that person or organization
-    demands.
+  meaning: A hostage is someone who has been captured by a person or organization and who may be killed or injured if people do not do what that person or organization demands.
   sent: It is hopeful that two hostages will be freed in the next few days.
   roots:
     host: "*ghos-ti- | stranger, guest, host"
   exp: 虽说扣为人质这个行为本身往往很残酷，但其本质也就是一个host把一个guest强行留下来，还是不难理解的。
+- word: hospice
+  freq: 10564
+  use: -1
+  pos: NOUN
+  meaning: A hospice is a special hospital for people who are dying, where their practical and emotional needs are dealt with as well as their medical needs.
+  sent: '...a hospice for cancer patients.'
+  roots:
+    hos: "*ghos-ti- | stranger, guest, host"
+  exp: hospice也是个招待客人(guest)的地方，只不过是快要去世的客人。想想自己以前是用"好死不死"记的这个词，如果会词根的话就没必要这么联想了。
 - word: nexus
   freq: 14621
   use: 56
@@ -1406,8 +1403,7 @@
   freq: 15248
   use: 72
   pos: TRANSITIVE VERB
-  meaning: If a country annexes another country or an area of land, it seizes it and
-    takes control of it.
+  meaning: If a country annexes another country or an area of land, it seizes it and takes control of it.
   sent: Rome annexed the Nabatean kingdom in AD 106.
   roots:
     an: ad- | to
@@ -1419,8 +1415,7 @@
   freq: 8089
   use: 20
   pos: COUNTABLE NOUN
-  meaning: A node is a point, especially in the form of lump or swelling, where one
-    thing joins another.
+  meaning: A node is a point, especially in the form of lump or swelling, where one thing joins another.
   sent: Cut them off cleanly through the stem just below the node.
   roots:
     node: "*ned- | to bind, tie"
@@ -2777,8 +2772,7 @@
   freq: 3204
   use: 68
   pos: ADJECTIVE
-  meaning: Someone or something that is dominant is more powerful, successful, influential,
-    or noticeable than other people or things.
+  meaning: Someone or something that is dominant is more powerful, successful, influential, or noticeable than other people or things.
   sent: '...a change which would maintain his party''s dominant position in Scotland.'
   roots:
     dom: "*dem- | house, household"
@@ -2853,8 +2847,7 @@
   freq: 3662
   use: 38
   pos: COUNTABLE NOUN
-  meaning: A domain is a particular field of thought, activity, or interest, especially
-    one over which someone has control, influence, or rights.
+  meaning: A domain is a particular field of thought, activity, or interest, especially one over which someone has control, influence, or rights.
   sent: '...the great experimenters in the domain of art.'
   roots:
     dom: "*dem- | house, household"
@@ -3756,7 +3749,7 @@
   meaning: When a fire blazes, it burns strongly and brightly.
   sent: Three people died as wreckage blazed, and rescuers fought to release trapped drivers.
   roots:
-    bl: "*bhel- | to shine, flash, burn"
+    bl: "*bhel-(1) | to shine, flash, burn"
   exp: 释义里已经有burn了， 不解释。
   related:
     - ablaze
@@ -3769,7 +3762,7 @@
   sent: his feat was emblazoned on the front page
   roots:
     em: en- | in
-    bl: "*bhel- | to shine, flash, burn"
+    bl: "*bhel-(1) | to shine, flash, burn"
   exp: decorate的其中一种方式就是烧出一些花纹之类的，所以和burn有关。
 - word: overblown
   freq: 17550
@@ -3819,7 +3812,7 @@
   meaning: Someone who is bold is not afraid to do things that involve risk or danger.
   sent: Amrita becomes a bold, daring rebel.
   roots:
-    bol: "*bhel- | to blow, swell"
+    bol: "*bhel- | to blow, swell, well up, overflow"
   exp: 想想中文中的"鼓(blow,swell)起勇气"，是不是跟bold要表达的感觉很像。而"像泄了气的皮球"却可以表达相反的意思。因此"勇气"是*bhel-的引申义之一。
 - word: fool
   freq: 4071
@@ -3828,7 +3821,7 @@
   meaning: If you call someone a fool, you are indicating that you think they are not at all sensible and show a lack of good judgment.
   sent: '"You fool!" she shouted.'
   roots:
-    fool: "*bhel- | to blow, swell"
+    fool: "*bhel- | to blow, swell, well up, overflow"
   exp: 乍一看fool和to blow没啥关系，但是我把fool的一个近义词举出来你就明白了——empty-headed person。所以老外眼中的大傻子就是"脑袋像气儿吹(blow)的一样"，也就是没有脑子的感觉，这和中文里说别人"一脑袋浆糊"有异曲同工之妙。另一个很明显的证据是fool这个词在很久以前表示windbag, bellow(风箱)。当然啦，bellow(12620,41)和fool也是同源词。
   related:
     - foolish
@@ -3841,7 +3834,7 @@
   meaning: A bull is a male animal of the cow family. Some other male animals, including elephants and whales, are called bulls.
   sent: Suddenly a massive bull elephant with huge tusks charged us.
   roots:
-    bull: "*bhel- | to blow, swell"
+    bull: "*bhel- | to blow, swell, well up, overflow"
   exp: 这个词借的主要是*bhel-中to roar的那层意思(也就是把声音blow出去)。之所以表示公牛估计是因为公的比母的叫得响。
   realted:
     - bullshit
@@ -3854,7 +3847,7 @@
   meaning: A bullet is a small piece of metal with a pointed or rounded end, which is fired out of a gun.
   sent: Two of the police fired 16 bullets each.
   roots:
-    bull: "*bhel- | to blow, swell"
+    bull: "*bhel- | to blow, swell, well up, overflow"
   exp: 注意最早的子弹都是圆的。所以bullet其实和ball(915,62)一样，借的是*bhel-中to blow的那层意思。
 - word: bless
   freq: 4202
@@ -3879,7 +3872,7 @@
     together tightly.
   sent: '...bales of hay.'
   roots:
-    bale: "*bhel- | to blow, swell"
+    bale: "*bhel- | to blow, swell, well up, overflow"
   exp: 打得鼓鼓的(swell)一包。
 - word: ballot
   freq: 3747
@@ -3889,7 +3882,7 @@
     or express their opinion about something.
   sent: The result of the ballot will not be known for two weeks.
   roots:
-    ball: "*bhel- | to blow, swell"
+    ball: "*bhel- | to blow, swell, well up, overflow"
   exp: 这个词直接用它的同源词ball(915,62)来记就行，因为ballot的本意就是"small ball used in voting"。我们国家的领导人并非民选，因此对这个概念并不熟悉。但在英文里它是个超常用词。
 - word: boulder
   freq: 7107
@@ -3899,7 +3892,7 @@
   sent: It is thought that the train hit a boulder that had fallen down a cliff on
     to the track.
   roots:
-    boul: "*bhel- | to blow, swell"
+    boul: "*bhel- | to blow, swell, well up, overflow"
   exp: 直接用ball(915,62)来记就好，就是个rounded stone。可见*bhel-通过"吹得圆鼓鼓"的感觉为我们带来了"rounded"这层意思。
 - word: boulevard
   freq: 11911
@@ -3908,18 +3901,8 @@
   meaning: A boulevard is a wide street in a city, usually with trees along each side.
   sent: '...Lenton Boulevard.'
   roots:
-    boul: "*bhel- | to blow, swell"
+    boul: "*bhel- | to blow, swell, well up, overflow"
   exp: 美国生活常见词——很多住址里会有。这词本来表示broad street or promenade planted with rows of trees，而树干本身是圆圆鼓鼓的样子，所以和*bhel-有关。这个比较难想；想不通就硬记吧。
-- word: bulk
-  freq: 4713
-  use: 104
-  pos: SINGULAR NOUN
-  meaning: You can refer to something's bulk when you want to emphasize that it is
-    very large.
-  sent: The truck pulled out of the lot, its bulk unnerving against the dawn.
-  roots:
-    bul: "*bhel- | to blow, swell"
-  exp: 还是借的*bhel-中"圆圆鼓鼓"的那层意思。
 - word: flush
   freq: 6021
   use: 291
@@ -3928,7 +3911,7 @@
     you are feeling a strong emotion such as embarrassment or anger.
   sent: Do you sweat a lot or flush a lot?
   roots:
-    fl: "*bhel- | to blow, swell"
+    fl: "*bhel- | to blow, swell, well up, overflow"
   exp: 借的是swell的那层意思。血流过的话皮肤才能swell起来，没血的话就瘪下去了。
 - word: fluid
   freq: 3817
@@ -3937,7 +3920,7 @@
   meaning: A fluid is a liquid.
   sent: The blood vessels may leak fluid, which distorts vision.
   roots:
-    fl: "*bhel- | to blow, swell"
+    fl: "*bhel- | to blow, swell, well up, overflow"
   exp: 借的是swell的那层意思。有liquid才能导致swelling。
   related:
     - fluidity
@@ -3949,7 +3932,7 @@
     than normal, usually because it has a lot of liquid or gas inside it.
   sent: '...the bloated body of a dead bullock.'
   roots:
-    bl: "*bhel- | to blow, swell"
+    bl: "*bhel- | to blow, swell, well up, overflow"
   exp: bloated就是swell的感觉，不解释。
 - word: blemish
   freq: 18336
@@ -3958,7 +3941,7 @@
   meaning: A blemish is a small mark on something that spoils its appearance.
   sent: Every piece is closely scrutinized, and if there is the slightest blemish on it, it is rejected.
   roots:
-    bl: "*bhel- | to shine flash, burn"
+    bl: "*bhel-(1) | to shine flash, burn"
   exp: 估计就是想表达哪儿哪儿烧(burn)坏了的感觉。
 - word: fluent
   freq: 12235
@@ -3967,8 +3950,10 @@
   meaning: Someone who is fluent in a particular language can speak the language easily and correctly. You can also say that someone speaks fluent French, Chinese, or some other language.
   sent: She studied eight foreign languages but is fluent in only six of them.
   roots:
-    fl: "*bhel- | to blow, swell"
+    fl: "*bhel- | to blow, swell, well up, overflow"
   exp: 借的是*bhel-中flow的那层意思，表达"行云流水"的感觉。
+  related:
+    - fluency
 - word: blank
   freq: 4631
   use: 148
@@ -3976,8 +3961,10 @@
   meaning: Something that is blank has nothing on it.
   sent: We could put some of the pictures over on that blank wall over there.
   roots:
-    bl: "*bhel- | to shine, flash, burn"
+    bl: "*bhel-(1) | to shine, flash, burn"
   exp: 借的是*bhel-中white的那层意思(因为shine，所以white)，而"白"和"空(blank)"又相关。
+  related:
+    - blankly
 - word: bleak
   freq: 7427
   use: 116
@@ -3985,7 +3972,7 @@
   meaning: If a situation is bleak, it is bad, and seems unlikely to improve.
   sent: The immediate outlook remains bleak.
   roots:
-    bl: "*bhel- | to shine, flash, burn"
+    bl: "*bhel-(1) | to shine, flash, burn"
   exp: 借的是*bhel-中white的那层意思。bleak本意是"荒芜的"，这就和白、空有关。而荒芜就意味着unlikely to improve。
 - word: bald
   freq: 6271
@@ -3994,8 +3981,10 @@
   meaning: Someone who is bald has little or no hair on the top of their head.
   sent: The man's bald head was beaded with sweat.
   roots:
-    bal: "*bhel- | to shine, flash, burn"
+    bal: "*bhel-(1) | to shine, flash, burn"
   exp: 脑袋光亮得能当灯泡使(shine)。当然这词用ball(915,62)也能记。
+  related:
+    - balding
 - word: flame
   freq: 3227
   use: 99
@@ -4003,96 +3992,442 @@
   meaning: A flame is a hot bright stream of burning gas that comes from something that is burning.
   sent: The heat from the flames was so intense that roads melted.
   roots:
-    fl: "*bhel- | to shine, flash, burn"
-  exp: 
+    fl: "*bhel-(1) | to shine, flash, burn"
+  exp: flame和burn相关，不解释。
+  related:
+    - flammable
+- word: inflame
+  freq: 14425
+  use: 86
+  pos: TRANSITIVE VERB
+  meaning: If something inflames a situation or inflames people's feelings, it makes people feel even more strongly about something.
+  sent: They are responsible for inflaming the situation.
+  roots:
+    in: "*en | in"
+    fl: "*bhel-(1) | to shine, flash, burn"
+  exp: 直接用in+flame(3227,99)记就好。
+  related:
+    - flaming
+- word: flamboyant
+  freq: 14091
+  use: 82
+  pos: ADJECTIVE
+  meaning: If you say that someone or something is flamboyant, you mean that they are very noticeable, stylish, and exciting.
+  sent: Freddie Mercury was a flamboyant star of the hard rock scene.
+  roots:
+    fl: "*bhel-(1) | to shine, flash, burn"
+  exp: 因为flash，所以显眼(noticeable)。
+- word: inflammation
+  freq: 9393
+  use: 32
+  pos: VARIABLE NOUN
+  meaning: An inflammation is a painful redness or swelling of a part of your body that results from an infection, injury, or illness.
+  sent: The drug can cause inflammation of the liver.
+  roots:
+    in: "*en | in"
+    fl: "*bhel-(1) | to shine, flash, burn"
+  exp: 发炎嘛，就是一种火烧火燎的感觉。
+  related:
+    - inflammatory
+- word: blanket
+  freq: 3332
+  use: 131
+  pos: COUNTABLE NOUN
+  meaning: A blanket of something such as snow is a continuous layer of it which hides what is below or beyond it.
+  sent: The mud disappeared under a blanket of snow.
+  roots:
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: 最早的blanket都是羊毛做的(woolen(17285,-1))，所以肯定是白白的。而我们在学blank的时候已经知道*bhel-(1)从shine发展出了white的感觉。
+- word: bulk
+  freq: 4713
+  use: 104
+  pos: SINGULAR NOUN
+  meaning: You can refer to something's bulk when you want to emphasize that it is very large.
+  sent: The truck pulled out of the lot, its bulk unnerving against the dawn.
+  roots:
+    bul: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 大(large)的东西一般都是鼓鼓的(well)。
+  related:
+    - bulky
+- word: blink
+  freq: 4658
+  use: 75
+  pos: INTRANSITIVE VERB
+  meaning: When you blink or when you blink your eyes, you shut your eyes and very quickly open them again.
+  sent: Kathryn blinked and forced a smile.
+  roots:
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: blink的就是大眼睛一闪一闪地(flash)。
+- word: affluent
+  freq: 7285
+  use: 46
+  pos: ADJECTIVE
+  meaning: If you are affluent, you have a lot of money.
+  sent: He found himself among some very affluent people at the event.
+  roots:
+    af: ad- | to
+    flu: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 借的是*bhel-(2)中flow(1997,71)的那层意思——钱多得都流(flow)出来了。
+  related:
+    - affluence
+- word: bleach
+  freq: 15257
+  use: 35
+  pos: TRANSITIVE VERB
+  meaning: If you bleach something, you use a chemical to make it white or pale in color.
+  sent: These products don't bleach the hair.
+  roots:
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: 借的是*bhel-(1)中white的那层意思(因为shine，所以white)。
+- word: foil
+  freq: 6824
+  use: 52
+  pos: UNCOUNTABLE NOUN
+  meaning: Foil consists of sheets of metal as thin as paper. It is used to wrap food in.
+  sent: Pour cider around the meat and cover with foil.
+  roots:
+    foil: "*bhel-(3) | to thrive, bloom"
+  exp: 这个词本来表示leaf(1568,10)，因此和bloom有关。而leaf一般又很薄，于是发展出了thin sheets of metal的感觉。字母互换上f=b。另外leaf基本上就是foil倒过来念——二者是同源词。相似的例子还有form(524,320)和morph这个词根，都表示form。
+- word: billow
+  freq: 12806
+  use: 43
+  pos: INTRANSITIVE VERB
+  meaning: When something made of cloth billows, it swells out and moves slowly in the wind.
+  sent: The curtains billowed in the breeze.
+  roots:
+    bil: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 迎风摇曳的感觉，和blow(1421,315)的发音也很像。
+- word: boil
+  freq: 4300
+  use: 42
+  pos: COUNTABLE NOUN
+  meaning: When a hot liquid boils or when you boil it, bubbles appear in it and it starts to change into steam or vapor.
+  sent: I stood in the kitchen, waiting for the water to boil.
+  roots:
+    boil: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 沸腾的核心感觉就是会冒泡儿，所以是blow, swell的感觉。
+  related:
+    - boiler
+- word: blossom
+  freq: 6526
+  use: 51
+  pos: VARIABLE NOUN
+  meaning: Blossom is the flowers that appear on a tree before the fruit.
+  sent: The cherry blossom came out early in Washington this year.
+  roots:
+    bl: "*bhel-(3) | to thrive, bloom"
+  exp: blossom就是bloom(6680,65)的感觉不解释。
+- word: bulwark
+  freq: 19936
+  use: 40
+  pos: NOUN
+  meaning: A bulwark against something protects you against it. A bulwark of something protects it.
+  sent: The abbeys were founded in the 12th century by King David as a bulwark against the English.
+  roots:
+    bul: "*bhel-(2) | to blow, swell, well up, overflow"
+    wark: "werg- | to do"
+  exp: 鼓(swell)起来，紧绷起来的工事——给人一种防御的感觉。
+- word: flourish
+  freq: 6298
+  use: 39
+  pos: INTRANSITIVE VERB
+  meaning: If something flourishes, it is successful, active, or common, and developing quickly and strongly.
+  sent: Business flourished and within six months they were earning 18,000 roubles a day.
+  roots:
+    flour: "*bhel-(3) | to thrive, bloom"
+  exp: 就是thrive(4681,34)的感觉，不解释。
+  related:
+    - flourishing
+- word: emblazon
+  freq: 15102
+  use: 36
+  meaning: to decorate or adorn (with coats of arms, etc.)
+  sent: His feat was emblazoned on the front page.
+  roots:
+    em: "*en | in"
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: 金光闪闪地(shine)的刻进(in)物体的表面——例句描述的也是这种感觉。
+- word: fluctuate
+  freq: 13035
+  use: 20
+  pos: INTRANSITIVE VERB
+  meaning: If something fluctuates, it changes a lot in an irregular way.
+  sent: Body temperature can fluctuate if you are ill.
+  roots:
+    fl: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 借的是*bhel-(2)中to flow的那层意思。fluctuate就是水流上下起伏的感觉。
+- word: confluence
+  freq: 13977
+  use: 14
+  pos: NOUN
+  meaning: The confluence of two rivers is the place where they join and become one larger river.
+  sent: The 160-meter falls mark the dramatic confluence of the rivers Nera and Velino.
+  roots:
+    con: "con- | with, together"
+    flu: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 借的是*bhel-(2)中to flow的那层意思。整个词就表示俩河流(flow)到一块儿了。
+- word: superfluous
+  freq: 16828
+  use: 29
+  pos: ADJECTIVE
+  meaning: Something that is superfluous is unnecessary or is no longer needed.
+  sent: My presence at the afternoon's proceedings was superfluous.
+  roots:
+    super: super- | over
+    flu: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 借的是*bhel-(2)中to flow的那层意思。整个词是"流(flow)于表面(over)"的感觉。
+- word: blend
+  freq: 3952
+  use: 98
+  pos: RECIPROCAL VERB
+  meaning: If you blend substances together or if they blend, you mix them together so that they become one substance.
+  sent: Blend the butter with the sugar and beat until light and creamy.
+  roots:
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: 作者也不太明白为什么blend和*bhel-(1)有关，但猜测很可能是burn会将很多物体混合在一起化成灰烬。比如本来一具尸体有鼻子有眼，但火化之后也就都混在一起，不剩啥了。如果是"高僧"的话，最多也就留个舍利子。其中有的是烧剩下的骨头滓儿，有的是结石，还有一些则是徒弟们故意扔进去的作弊物体，比如玻璃球儿啊，鹅卵石啊啥的。
+  related:
+    - blender
+- word: embolden
+  freq: 17297
+  use: 34
+  pos: TRANSITIVE VERB
+  meaning: If you are emboldened by something, it makes you feel confident enough to behave in a particular way.
+  sent: The president was steadily emboldened by the discovery that he faced no opposition.
+  roots:
+    em: en- | in, into
+    bold: "*bhel- | to blow, swell, well up, overflow"
+  exp: 直接用bold(3933,229)记即可。
+- word: blanch
+  freq: 17164
+  use: 35
+  pos: INTRANSITIVE VERB
+  meaning: If you blanch, you suddenly become very pale.
+  sent: Simon's face blanched as he looked at Sharpe's blood-drenched uniform.
+  roots:
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: 借的是*bhel-(1)中white的那层意思，不解释。
+- word: bolster
+  freq: 6791
+  use: 26
+  pos: TRANSITIVE VERB
+  meaning: If you bolster something such as someone's confidence or courage, you increase it.
+  sent: Hopes of an early cut in interest rates bolstered confidence.
+  roots:
+    bol: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 借的是*bhel-(2)中courage的那层意思，也就是"让胆儿变肥了"的感觉。
+- word: influx
+  freq: 8741
+  use: 20
+  pos: COUNTABLE NOUN
+  meaning: An influx of people or things into a place is their arrival there in large numbers.
+  sent: '...the first large influx of immigrants to arrive on these shores.'
+  roots:
+    in: "*en | in"
+    flux: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 借的是*bhel-(2)中flow的那层意思，整个词是flow in的感觉。
+- word: blister
+  freq: 11427
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A blister is a painful swelling on the surface of your skin. Blisters contain a clear liquid and are usually caused by heat or by something repeatedly rubbing your skin.
+  sent: The affected skin turns red and may blister.
+  roots:
+    bl: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: 释义里已经说了是swelling(9945,20)，不解释。
+- word: bulge
+  freq: 10024
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If something such as a person's stomach bulges, it sticks out.
+  sent: Jiro waddled closer, his belly bulging and distended.
+  roots:
+    bul: "*bhel-(2) | to blow, swell, well up, overflow"
+  exp: stick out就是swell的感觉，不解释。
+- word: blush
+  freq: 9209
+  use: 16
+  pos: INTRANSITIVE VERB
+  meaning: When you blush, your face becomes redder than usual because you are ashamed or embarrassed.
+  sent: '"Hello, Maria," he said, and she blushed again.'
+  roots:
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: '借的是*bhel-(1)中color的那层意思，blush闪(shine)的是红光。当然了，这个词用谐音"不拉屎"也能记——连屎都拉不出来了，肯定憋得脸红脖子粗的。'
+- word: portfolio
+  freq: 3845
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A portfolio is a set of pictures by someone, photographs of their work, or examples of their writing, which they use when entering competitions or applying for work.
+  sent: After dinner that evening, Edith showed them a portfolio of her own political cartoons.
+  roots:
+    port: "*per- | to lead, pass over"
+    fol: "*bhel-(3) | to thrive, bloom"
+  exp: '*per-上借的是carry的那层意思，不难理解。而*bhel-(3)比较绕：先从to thrive, bloom发展出leaf(1568,10)，也就是"开枝散叶"的感觉。然后从leaf发展出paper sheet的意思，因为二者都是薄片，而且最早的纸张里就包括叶子。于是整个词就表示"a case for carrying loose papers"。'
+- word: effluent
+  freq: 14842
+  use: -1
+  pos: MASS NOUN
+  meaning: Effluent is liquid waste material that comes out of factories or sewage works.
+  sent: The effluent from the factory was dumped into the river.
+  roots:
+    ef: ex- | out
+    flu: "*bhel-(2) | to blow, swell"
+  exp: 借的是*bhel-(2)中flow的那层意思。整个词是flow out的感觉。
+- word: blond
+  freq: 4870
+  use: 17
+  pos: ADJECTIVE
+  meaning: very light in color
+  roots:
+    bl: "*bhel-(1) | to shine, flash, burn"
+  exp: blond也是burn的颜色。
+  related:
+    - blonde
+- word: influenza
+  freq: 12969
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Influenza is the same as flu.
+  roots:
+    in: "*en | in"
+    flu: "*bhel-(2) | to blow, swell"
+  exp: 流感(influenza)本身就带个流(flow)字，而这正是*bhel-(2)其中一层意思。flu(5741,-1)就是这个词的简写。
+  related:
+    - flu
+- word: blade
+  freq: 3174
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: The blade of a knife, ax, or saw is the edge, which is used for cutting.
+  sent: Many of them will have sharp blades.
+  roots:
+    bl: "*bhel-(3) | to thrive, bloom"
+  exp: 借的是*bhel-(3)中leaf的那层意思。刀锋(blade)确实就像叶子的边缘。
+- word: flagrant
+  freq: 19531
+  use: 56
+  pos: ADJECTIVE
+  meaning: You can use flagrant to describe an action, situation, or someone's behavior that you find extremely bad or shocking in a very obvious way.
+  sent: The judge called the decision "a flagrant violation of international law."
+  roots:
+    fl: "*bhel-(1) | to shine, flash, burn"
+  exp: 释义里提到了shocking，其实也就是shine的感觉，所以和*bhel-(1)有关。
+- word: foliage
+  freq: 7483
+  use: 7
+  pos: UNCOUNTABLE NOUN
+  meaning: The leaves of a plant are referred to as its foliage.
+  sent: '...shrubs with gray or silver foliage.'
+  roots:
+    fol: "*bhel-(3) | to thrive, bloom"
+  exp: 借的是*bhel-(3)中leaf的那层意思，不解释。
+- word: flora
+  freq: 13294
+  use: 7
+  pos: COLLECTIVE UNCOUNT NOUN
+  meaning: You can refer to plants as flora, especially the plants growing in a particular area.
+  sent: '...the variety of food crops and flora which now exists in Dominica.'
+  roots:
+    flor: "*bhel-(3) | to thrive, bloom"
+  exp: plants和thrive, bloom高度相关，不解释。
+- word: floral
+  freq: 8514
+  use: 2
+  pos: ADJECTIVE
+  meaning: A floral fabric or design has flowers on it.
+  sent: '...a bright yellow floral fabric.'
+  roots:
+    flor: "*bhel-(3) | to thrive, bloom"
+  exp: flowers和thrive, bloom高度相关，不解释。
+  related:
+    - florist
+- word: flour
+  freq: 17804
+  use: -1
+  pos: MASS NOUN
+  meaning: Flour is a white or brown powder that is made by grinding grain. It is used to make bread, cakes, and pastry.
+  roots:
+    flour: "*bhel-(3) | to thrive, bloom"
+  exp: 这个词其实是从flower(1498,77)发展出来的，并且脑洞很大。古人缺主食，于是flour就成了finest part of meal；而flower也是finest part of the plant，于是这两个词就相关了...1830年之前，英语里flour其实一直是拼成flower的，后来实在太容易和表示花的flower混淆才改的。
+- word: flux
+  freq: 10090
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: If something is in a state of flux, it is constantly changing.
+  sent: Education remains in a state of flux which will take some time to settle down.
+  roots:
+    fl: "*bhel-(2) | to blow, swell"
+  exp: 借的是*bhel-(2)中flow的那层意思。不停地流动，就说明在不停地变化中。
+- word: cadre
+  freq: 10792
+  use: 21
+  pos: NOUN
+  meaning: A cadre is a small group of people who have been specially chosen, trained, and organized for a particular purpose.
+  sent: '...an elite cadre of international managers.'
+  roots:
+    cadre: "*kwetwer- | four"
+  exp: 和squad(4661,23)一样，借的是*kwetwer-中"方阵，小组"的那层意思，所以和small group of people有关。
+- word: quarantine
+  freq: 14777
+  use: 32
+  pos: UNCOUNTABLE NOUN
+  meaning: If a person or animal is in quarantine, they are being kept separate from other people or animals for a set period of time, usually because they have or may have a disease that could spread.
+  sent: She was sent home and put in quarantine.
+  roots:
+    quar: "*kwetwer- | four"
+  exp: 这个词大有来头。在1377年开始施行的Venetian policy要求所有外来船只都必须在港口隔离40天才能上岸。因为是40天，所以和four有关。
+- word: squad
+  freq: 4661
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A squad is a section of a police force that is responsible for dealing with a particular type of crime.
+  sent: The building was evacuated and the bomb squad called.
+  roots:
+    s: ex- | out
+    quad: "*kwetwer- | four"
+  exp: 借的是*kwetwer-中square的那层意思(因为square有四边四角)。在自动火器被发明之前，步兵一般都排成方阵作战。于是借着troop的这层意思，就发展出了"小组"的感觉。
+  related:
+    - squadron
+- word: quarry
+  freq: 10007
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A quarry is an area that is dug out from a piece of land or the side of
+    a mountain in order to get stone or minerals.
+  sent: '...an old limestone quarry.'
+  roots:
+    quar: "*kwetwer- | four"
+  exp: 从quarry里开采的都是square(2772,-1)形状的大石块，所以和four有关。
+- word: quartet
+  freq: 11573
+  use: -1
+  pos: COLLECTIVE COUNTABLE NOUN
+  meaning: A quartet is a group of four people who play musical instruments or sing together.
+  sent: '...a string quartet.'
+  roots:
+    quart: "*kwetwer- | four"
+  exp: four peope singing，不解释。
+- word: quadruple
+  freq: 14986
+  use: -1
+  pos: VERB
+  meaning: If someone quadruples an amount or if it quadruples, it becomes four times bigger.
+  sent: China seeks to quadruple its income in twenty years.
+  roots:
+    quadr: "*kwetwer- | four"
+    ple: "*pel-(2) | to fold"
+  exp: four times，不解释。两倍则是double(2222,-1)，这个你们都会。
+- word: quadrant
+  freq: 16270
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A quadrant is one of four equal parts into which a circle or other shape has been divided.
+  sent: A symbol appears in the left upper quadrant of the screen.
+  roots:
+    quadr: "*kwetwer- | four"
+  exp: 虽说不常用，但留学的话这词还是必会的。
 
-#blanket 3332    131     *bhel-
-#blackout        11467   115     *bhel-
-#hard-boiled     18286   106     *bhel-
-#budget  1058    105     *bhel-
-#bulk    4713    104     *bhel-
-#flame   3227    99      *bhel-
-#blend   3952    98      *bhel-
-#inflame 14425   86      *bhel-
-#influence       1399    84      *bhel-
-#flamboyant      14091   82      *bhel-
-#blink   4658    75      *bhel-
-#bulky   9733    74      *bhel-
-#bulletin        6518    70      *bhel-
-#blackjack       19995   63      *bhel-
-#flashy  11090   61      *bhel-
-#flagrant        19531   56      *bhel-
-#foil    6824    52      *bhel-
-#flaming 13023   52      *bhel-
-#blossom 6526    51      *bhel-
-#affluent        7285    46      *bhel-
-#billow  12806   43      *bhel-
-#blackmail       17908   43      *bhel-
-#boil    4300    42      *bhel-
-#bulwark 19936   40      *bhel-, *werg-
-#flourish        6298    39      *bhel-
-#boulevard       11911   39      *bhel-, *werg-
-#emblazon        15102   36      *bhel-, *bhle-
-#bleach  15257   35      *bhel-
-#blanch  17164   35      *bhel-
-#embolden        17297   34      *bhel-
-#inflammation    9393    32      *bhel-
-#superfluous     16828   29      *bhel-
-#bolster 6791    26      *bhel-
-#influx  8741    20      *bhel-
-#fluctuate       13035   20      *bhel-
-#blond   4870    17      *bhel-
-#blush   9209    16      *bhel-
-#blade   3174    15      *bhel-
-#ballot  3747    15      *bhel-
-#confluence      13977   14      *bhel-
-#foliage 7483    7       *bhel-
-#flora   13294   7       *bhel-
-#floral  8514    2       *bhel-
-#blonde  7066    0       *bhel-
-#bowling 8105    0       *bhel-
-#blindness       9380    0       *bhel-
-#blinding        12289   0       *bhel-
-#blindly 12818   0       *bhel-
-#flashback       13087   0       *bhel-
-#blankly 15193   0       *bhel-
-#flashing        16661   0       *bhel-
-#bullet  2764    -1      *bhel-
-#flour   3460    -1      *bhel-
-#portfolio       3845    -1      *bhel-, *per-
-#flashlight      6478    -1      *bhel-
-#blender 9109    -1      *bhel-
-#bulge   10024   -1      *bhel-
-#flux    10090   -1      *bhel-
-#blackness       10107   -1      *bhel-
-#inflammatory    10698   -1      *bhel-
-#boiler  11136   -1      *bhel-
-#blister 11427   -1      *bhel-
-#bullpen 12278   -1      *bhel-
-#influenza       12969   -1      *bhel-
-#fluency 13552   -1      *bhel-
-#blackboard      13746   -1      *bhel-
-#florist 14545   -1      *bhel-
-#effluent        14842   -1      *bhel-
-#balding 14887   -1      *bhel-
-#blacksmith      15276   -1      *bhel-
-#affluence       15293   -1      *bhel-
-#blacken 15749   -1      *bhel-
-#flourishing     16034   -1      *bhel-
-#ballerina       16175   -1      *bhel-, *gwele-
-#blue-eyed       17180   -1      *bhel-, *ghel-, *okw-
-#bowler  17835   -1      *bhel-
-#blindfold       18084   -1      *bhel-
-#bluish  18485   -1      *bhel-, *ghel-
-#blacktop        19097   -1      *bhel-
-#flammable       19152   -1      *bhel-
-#fluidity        19807   -1      *bhel-
-#
-#
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (25, '*bhle-'),
-# (25, '*kwetwer-'),
 # (25, '*leig-'),
 # (25, '*mel-'),
 # (26, '*aug-'),

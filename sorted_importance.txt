@@ -1377,7 +1377,7 @@ disrespect	15179	106	*spek-
 horrid	18080	106
 ingrain	18158	106
 generality	18188	106	*gene-
-hard-boiled	18286	106	*bhel-
+hard-boiled	18286	106
 be	2	105	*bheue-
 idea	312	105	*weid-
 budget	1058	105	*bhel-
@@ -2641,7 +2641,7 @@ odor	5414	70
 clan	5708	70	*plat-
 presume	5819	70	*em-
 disturbance	6349	70
-bulletin	6518	70	*bhel-
+bulletin	6518	70
 turmoil	6600	70
 compartment	6669	70	*pere-
 squash	7030	70	*kes-
@@ -3808,7 +3808,7 @@ devoid	9989	52	*eue-
 thirst	11084	52	*ters-
 misty	11379	52	*meigh-
 saturate	11432	52	*sa-
-quarrel	11470	52	*kwetwer-
+quarrel	11470	52
 jig	11538	52
 bustling	11707	52	*bheue-
 enlighten	11853	52	*legwh-,	*leuk-
@@ -11957,7 +11957,7 @@ Olympic	2760	-1
 dirt	2761	-1
 odd	2762	-1
 rice	2763	-1
-bullet	2764	-1	*bhel-
+bullet	2764	-1
 tight	2765	-1
 Bible	2766	-1
 chart	2767	-1
@@ -12377,11 +12377,11 @@ triangle	5680	-1
 calcium	5687	-1
 skillet	5712	-1
 sixty	5722	-1
-thirteen	5723	-1	*dekm-
+thirteen	5723	-1  *dekm-
 instrumental	5730	-1	*stere-
 millennium	5733	-1
 astronaut	5736	-1	*nau-,	*ster-
-flu	5741	-1
+flu	5741	-1  *bhel-
 altar	5743	-1
 umbrella	5744	-1
 mosquito	5748	-1
@@ -15930,7 +15930,7 @@ reciprocate	16171	-1	*per-
 euthanasia	16172	-1	*es-
 cracking	16173	-1
 solicitation	16174	-1	*keie-,	*sol-
-ballerina	16175	-1	*bhel-,	*gwele-
+ballerina	16175	-1	*gwele-
 aviator	16176	-1	*awi-
 Washington-based	16177	-1
 roofing	16178	-1
