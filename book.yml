@@ -4425,6 +4425,81 @@
   roots:
     quadr: "*kwetwer- | four"
   exp: 虽说不常用，但留学的话这词还是必会的。
+- word: rally
+  freq: 4675
+  use: 111
+  pos: COUNTABLE NOUN
+  meaning: A rally is a large public meeting that is held in order to show support for something such as a political party.
+  sent: About three thousand people held a rally to mark international human rights day.
+  roots:
+    ral: re- | again
+    ly: "*leig- | to tie, bind"
+  exp: 整个词是reassemble, unite again的感觉。
+- word: alloy
+  freq: 12103
+  use: 31
+  pos: MASS NOUN
+  meaning: An alloy is a metal that is made by mixing two or more types of metal together.
+  sent: Bronze is an alloy of copper and tin.
+  roots:
+    al: ad- | to
+    loy: "*leig- | to tie, bind"
+  exp: 将两种metal结合在一起，不解释。
+- word: liable
+  freq: 8470
+  use: 27
+  pos: PHRASE
+  meaning: When something is liable to happen, it is very likely to happen.
+  sent: When challenged about his behaviour, David was liable to dissolve in tears.
+  roots:
+    li: "*leig- | to tie, bind"
+    able: -able | capable of
+  exp: 从绑(bind)发展出来的一种"命中注定"的感觉，因此和释义中的likely to happen高度相关。
+  related:
+    - liability
+- word: liaison
+  freq: 8369
+  use: 63
+  pos: UNCOUNTABLE NOUN
+  meaning: Liaison is cooperation and the exchange of information between different organizations or between different sections of an organization.
+  sent: Liaison between police forces and the art world is vital to combat art crime.
+  roots:
+    li: "*leig- | to tie, bind"
+  exp: liaison就是组织间的信息共享，很明显和tie, bind有关，不解释。
+- word: ligament
+  freq: 11878
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A ligament is a band of strong tissue in a person's body which connects bones.
+  sent: He suffered torn ligaments in his knee.
+  roots:
+    lig: "*leig- | to tie, bind"
+  exp: 韧带这东西就是负责把骨头连接绑定(bind)在一起的。从释义中我们也可以看出tie, bind和connect在词义上的联系。
+- word: unfurl
+  freq: 15828
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If you unfurl something rolled or folded such as an umbrella, sail, or flag, you open it, so that it is spread out. You can also say that it unfurls.
+  sent: Once outside the inner breakwater, we began to unfurl all the sails.
+  roots:
+    un: un- | opposite of
+    fur: "*dher- | to hold firmly, support"
+    l: "*leig- | to tie, bind"
+  exp: 这个词中*leig-的那部分被缩略得只剩一个l，很不容易看出来。如果参考这个词的祖爷爷在Old French中拼作ferliier，可能就比较容易接受了。*dher-其实是表示firm(905,206)那个系列的词，我们在其它词条里会讲到。整个词先记furl，比如把已经撑开的雨伞收起来，就叫furl the umbrella，在词根上的感觉为bind firmly。然后再加上un-的前缀，自然就表示"展开"了，也就是释义中open, spread out的感觉。至于例句中的breakwater就是一种防波浪的堤坝，用不着记。
+- word: obligation
+  freq: 3013
+  use: 59
+  pos: VARIABLE NOUN
+  meaning: If you have an obligation to do something, it is your duty to do that thing.
+  sent: When teachers assign homework, students usually feel an obligation to do it.
+  roots:
+    ob: ob- | to
+    lig: "*leig- | to tie, bind"
+  exp: 义务就意味着绑定(bind)。比如生个娃，你得养着，这样就成了obligation，就有了binding。从释义中可以看出tie, bind和duty在词义上的联系。
+  related:
+    - obligatory
+    - oblige
+    - obligate
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"

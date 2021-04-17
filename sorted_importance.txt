@@ -1996,7 +1996,7 @@ influence	1399	84	*bhel-
 tie	1510	84	*deuk-
 soil	1805	84	*sed-
 fade	2903	84
-liability	4164	84
+liability	4164	84  *leig-
 unfold	4590	84	*pel-
 partial	4596	84	*pere-
 awake	4699	84	*weg-
@@ -9550,7 +9550,7 @@ pig	3517	2
 horn	3687	2	*ker-
 coastal	4076	2	*ost-
 bankruptcy	4211	2
-reliability	4241	2
+reliability	4241	2   *leig-
 consistency	5030	2	*sta-
 believer	5431	2	*leubh-
 legitimacy	5837	2
@@ -10357,7 +10357,7 @@ receiving	11949	0
 sinking	11951	0
 threatened	11953	0
 left-wing	11954	0
-reliably	11970	0
+reliably	11970	0   *leig-
 staging	11997	0	*sta-
 miraculously	12002	0
 segregated	12004	0
