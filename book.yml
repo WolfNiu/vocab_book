@@ -4500,11 +4500,77 @@
     - obligatory
     - oblige
     - obligate
+- word: auction
+  freq: 4687
+  use: 19
+  pos: VARIABLE NOUN
+  meaning: An auction is a public sale where items are sold to the person who offers the highest price.
+  sent: The painting is expected to fetch up to $400,000 at auction.
+  roots:
+    auct: "*aug- | to increase"
+  exp: 拍卖嘛，就是个不断加(increase)价的活动。
+  related:
+    - auctioneer
+- word: inaugurate
+  freq: 12234
+  use: 73
+  pos: TRANSITIVE VERB
+  meaning: When a new leader is inaugurated, they are formally given their new position at an official ceremony.
+  sent: The new president will be inaugurated on January 20th.
+  roots:
+    in: "*en | in"
+    aug: "*aug- | to increase"
+  exp: 加冕二字中都已经自带个"加"字了，所以和increase有关。如果还不好理解，可以看看"黄袍加身"啊，"加官进爵"啊什么的——都带个"加"字。
+  related:
+    - inauguration
+- word: waist
+  freq: 4348
+  use: 6
+  pos: COUNTABLE NOUN
+  meaning: Your waist is the middle part of your body where it narrows slightly above your hips.
+  sent: Ricky kept his arm around her waist.
+  roots:
+    waist: "*aug- | to increase"
+  exp: 这个词互换也神奇，词根也难想，so pay attention。首先w=au，因为二者发音相似。在词义上，之所以腰和to increase有关是因为发明这个词的人认为这是人类长个儿的主要部分。
+  related:
+    - waistband
+- word: nickname
+  freq: 6188
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A nickname is an informal name for someone or something.
+  sent: Red got his nickname for his red hair.
+  roots:
+    nick: "*aug- | to increase"
+    name: name
+  exp: nickname其实就是additional name，不解释。在字母互换上g=ck。
+- word: augment
+  freq: 9311
+  use: 64
+  pos: TRANSITIVE VERB
+  meaning: To augment something means to make it larger, stronger, or more effective by adding something to it.
+  sent: While searching for a way to augment the family income, she began making dolls.
+  roots:
+    aug: "*aug- | to increase"
+  exp: 释义中的larger, stronger, adding都和increase息息相关，不解释。
+  related:
+    - waxed
+- word: auxiliary
+  freq: 14469
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: Auxiliary equipment is extra equipment that is available for use when necessary.
+  sent: '...an auxiliary motor.'
+  roots:
+    aux: "*aug- | to increase"
+  exp: 释义中的"extra"已经很好的诠释了auxiliary和increase有关。
+
+
+auxiliary       14469   38      *aug-
+
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (25, '*leig-'),
-# (25, '*mel-'),
 # (26, '*aug-'),
 # (26, '*dhes-'),
 # (26, '*pa-'),

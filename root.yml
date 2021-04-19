@@ -478,4 +478,16 @@ misc:
     - unreliable
     - religious
     - religiously
-    -
+"*aug-":
+  meaning: to increase
+  exp: 涉及到的超常用词是author(686,72) = auth(=*aug-) + or(=-er=person)。author的最原始意思是"创造者"——也就是给世间增加(increase)了什么的人。其衍生词authority(835,130)也很常用。之所以表示"权力"，是因为创造者往往都很有权——不信可以瞅瞅建国的这些元老们。
+  related:
+    - authoritarian
+    - authorize
+    - unauthorized
+    - authorization
+    - authoritative
+    - co-author
+    - authoritarianism
+    - authorship
+    - authorial

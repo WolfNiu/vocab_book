@@ -815,7 +815,7 @@ fare	4830	138	*per-
 rag	6769	138
 phony	8768	138
 weighty	14375	138	*wegh-
-multiplicity	14888	138	*mel-,	*pel-
+multiplicity	14888	138	*mel-(1),	*pel-
 threadbare	20045	138	*tere-
 report	451	137	*per-
 easy	550	137
@@ -865,7 +865,7 @@ indifferent	8537	133	*bher-
 barren	8984	133
 frail	9131	133	*bhreg-
 duplicate	9442	133	*dwo-,	*plek-
-dismal	9680	133	*dyeu-,	*mel-
+dismal	9680	133	*dyeu-,	*mel-(3)
 limp	9719	133
 torment	12343	133	*terkw-
 senseless	12797	133
@@ -1535,7 +1535,7 @@ evident	3496	99	*weid-
 discount	4554	99
 terribly	4928	99
 sketch	5112	99
-multiply	6239	99	*mel-,	*plek-
+multiply	6239	99	*mel-(2),	*plek-
 stripe	6386	99
 undo	6732	99	*dhe-
 enrich	6993	99	*reg-
@@ -2335,7 +2335,7 @@ minister	1924	76	*mei-
 employ	1976	76	*plek-
 vast	1979	76
 regulate	3413	76	*reg-
-mild	3856	76	*mel-
+mild	3856	76	*mel-(1)
 happiness	3907	76
 icon	4404	76
 boast	4584	76
@@ -2522,7 +2522,7 @@ institution	990	72	*sta-
 collection	1049	72	*leg-
 sun	1239	72	*sawel-
 bottle	1753	72
-blame	1810	72	*bha-,	*mel-
+blame	1810	72	*bha-,	*mel-(3)
 wisdom	2978	72	*weid-
 killing	3311	72	*gwele-
 uncomfortable	3674	72	*bhergh-
@@ -3653,7 +3653,7 @@ insidious	12692	54	*sed-
 conclusive	12865	54
 incline	13068	54	*klei-
 raucous	13322	54
-malicious	13519	54	*mel-
+malicious	13519	54	*mel-(3)
 geek	13748	54
 misgiving	13773	54	*ghabh-
 commencement	14037	54	*ei-
@@ -3669,7 +3669,7 @@ boisterous	16559	54
 confirmed	16670	54	*dher-
 adjourn	17074	54	*dyeu-
 voracious	17294	54	*gwora-
-malevolent	17454	54	*mel-
+malevolent	17454	54	*mel-(3)
 unconcerned	17828	54	*krei-
 retard	17829	54
 nominally	17840	54	*no-men-
@@ -3687,7 +3687,7 @@ title	1330	53
 mostly	1331	53
 path	1343	53
 basically	1702	53	*gwa-
-multiple	1962	53	*mel-,	*pel-
+multiple	1962	53	*mel-(2),	*pel-
 mainly	2829	53	*magh-
 admission	3057	53
 shower	3232	53	*keu-
@@ -4109,7 +4109,7 @@ glint	13677	48	*ghel-
 muffle	13778	48
 apex	13807	48
 purify	13903	48	*dhe-
-malice	14036	48	*mel-
+malice	14036	48	*mel-(3)
 wriggle	14148	48	*wer-
 blackened	14557	48
 purposefully	14587	48
@@ -4125,7 +4125,7 @@ harrowing	17875	48
 smattering	18025	48
 smashed	18177	48	*meik-
 regrettable	18217	48
-ameliorate	18310	48	*mel-
+ameliorate	18310	48	*mel-(2)
 cinch	18784	48
 soiled	19517	48
 cachet	19628	48	*ag-
@@ -4171,7 +4171,7 @@ theatrical	7408	47
 undercover	7668	47	*wer-
 compliment	7711	47	*pele-
 facade	7739	47	*dhe-
-multitude	8598	47	*mel-
+multitude	8598	47	*mel-(2)
 stylish	8879	47
 inscribe	9397	47	*skribh-
 waver	9622	47	*wegh-
@@ -4510,7 +4510,7 @@ guideline	3089	43	*weid-
 dependent	3231	43	*(s)pen-
 continuous	3452	43
 experimental	3489	43	*per-
-melt	3490	43	*mel-
+melt	3490	43	*mel-(1)
 excitement	3536	43	*keie-
 announcement	3639	43	*neu-
 counterpart	3853	43	*pere-
@@ -5649,7 +5649,7 @@ shameless	16790	33
 harbinger	16820	33
 unattended	16940	33	*ten-
 spotless	16943	33
-multiplication	17173	33	*mel-,	*plek-
+multiplication	17173	33	*mel-(2),	*plek-
 environs	17233	33
 ruse	17464	33
 lavishly	17657	33
@@ -5888,7 +5888,7 @@ epicenter	17674	31
 rote	17696	31
 behest	17947	31	*keie-
 derogatory	17951	31	*reg-
-amalgam	17956	31	*mel-
+amalgam	17956	31	*mel-(1)
 resigned	18027	31	*sekw-
 gist	18471	31	*ye-
 dowry	18478	31	*do-
@@ -8353,7 +8353,7 @@ whilst	19697	13	*kweie-
 flattery	19801	13	*plat-
 impeccably	19894	13
 uninvited	19913	13
-blasphemy	20013	13	*bha-,	*mel-
+blasphemy	20013	13	*bha-,	*mel-(3)
 summarily	20027	13
 against	180	12
 maybe	384	12	*magh-,	*meg-
@@ -10117,7 +10117,7 @@ cannon	8596	0
 knit	8601	0
 disruptive	8604	0
 performing	8610	0
-mildly	8611	0	*mel-
+mildly	8611	0	*mel-(1)
 mixing	8621	0
 damaged	8707	0
 entertainer	8708	0	*ten-
@@ -13089,7 +13089,7 @@ intuitive	9307	-1
 racer	9312	-1
 nuance	9313	-1
 undercut	9319	-1
-malaria	9326	-1	*mel-,	*wer-
+malaria	9326	-1	*mel-(3),	*wer-
 interdisciplinary	9329	-1	*dek-
 rapper	9336	-1
 cartridge	9337	-1
@@ -13556,7 +13556,7 @@ twenty-three	10245	-1
 acquit	10246	-1	*kweie-
 promised	10247	-1
 forceful	10248	-1	*bhergh-
-bland	10249	-1	*mel-
+bland	10249	-1	*mel-(1)
 pediatric	10250	-1
 emblem	10252	-1	*gwele-
 convergence	10253	-1	*wer-
@@ -14104,7 +14104,7 @@ watermelon	11230	-1
 ATM	11234	-1
 fragmentation	11240	-1	*bhreg-
 rearview	11244	-1
-mulch	11245	-1	*mel-
+mulch	11245	-1	*mel-(1)
 mover	11247	-1	*meue-
 leukemia	11251	-1	*leuk-
 front-runner	11257	-1
@@ -14456,7 +14456,7 @@ UFO	12613	-1
 twenty-seven	12615	-1
 panelist	12616	-1
 paved	12623	-1
-enamel	12624	-1	*mel-
+enamel	12624	-1	*mel-(1)
 reliever	12626	-1	*legwh-
 triangular	12631	-1
 unsalted	12634	-1	*sal-
@@ -15774,7 +15774,7 @@ ICU	15993	-1
 thirty-seven	15998	-1
 commemoration	15999	-1	*(s)mer-
 defunct	16001	-1	*bhrug-
-malaise	16002	-1	*mel-
+malaise	16002	-1	*mel-(3)
 fussy	16003	-1
 agonize	16004	-1	*ag-
 sardine	16005	-1
@@ -15937,7 +15937,7 @@ roofing	16178	-1
 glassy	16179	-1	*ghel-
 encryption	16180	-1
 scathing	16181	-1
-malady	16182	-1	*ghabh-,	*mel-
+malady	16182	-1	*ghabh-,	*mel-(3)
 soulful	16184	-1
 quandary	16185	-1	*kwo-
 standardization	16186	-1	*kar-,	*sta-
@@ -16593,7 +16593,7 @@ optimization	17768	-1
 overheated	17769	-1
 psychedelic	17773	-1	*dyeu-
 crucify	17775	-1	*dheigw-
-malt	17777	-1	*mel-
+malt	17777	-1	*mel-(1)
 regrettably	17779	-1
 alchemy	17780	-1	*gheu-
 condor	17781	-1
