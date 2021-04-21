@@ -41,10 +41,6 @@ lud: to play
 '*tem-':
   meaning: to cut
   exp: 这个词根最常用的词其实是temple(3648,9)。这里的tem是一种"事先分出来的预留地"的感觉，也就是"place reserved or cut out"，比较难想。
-"*dhes-":
-  'meaning': root forming words for religious concepts
-  'exp': 由于宗教一直伴随人类，直到近现代才逐渐让位给科学思想，因此很多概念都和宗教相关。比如"公平", fair (1493,429) 和"狂热" enthusiasm (3752,78)。有人可能奇怪：狂热很好理解，因为信教的人往往缺乏理性思考能力；但公平又和宗教有什么关系呢？其实看看《独立宣言》的第一句就明白了：We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, ... 这句话两次提到人是被"创造"出来的。是谁造的呢？总不能是Google，所以我们只能认为它指的是神。当然了，有些神造人还是很不平等的，比如女娲，一开始还有点工匠精神，一个人一个人捏；后来嫌烦，一把扔出去一堆泥点子变人，导致了阶级的产生。另外宗教往往伴随着仪式、庆典，所以像feast盛宴 (5993,132), festival节日 (3729,11)这样的词也是从这个词根来的。
-  'exchange': 这里要注意f=ph=dh=th。f和ph可互换很好理解，因为二者相同；dh=th也容易记，因为t=d(清浊辅音可互换)。比较难记的是ph=dh，因为它不属于Grimm, Verner，也不属于chain shift。只能更记。
 '*aim-':
   meaning: to copy
   exp: 从to copy就能看出image(556,187)这个词造得非常好，因为它抓住了image的本质：copy。所谓图像，就是对现实生活中事物的copy。有了这个作基础，imagine(912,86)这样的词就不难理解了。当然从copy到图像是一种引申的用法，而这个词根的本意也在一些单词里有所体现，比如imitate(6238,57)——所谓模仿，其实就是copy的感觉。这也从侧面体现了理解词根原创意思的重要性：如果直接看"模仿"和"图像"这两个概念，很难在二者之间建立联系。但如果知道二者都是从to copy这个概念来的，就很容易理解了。
@@ -491,3 +487,10 @@ misc:
     - authoritarianism
     - authorship
     - authorial
+"*dhes-":
+  meaning: forming words for religious concepts
+  exp: 涉及*dhes-的一般都是和宗教有关的词，其中还算常用的是festival(3729,11)。比如春节就一直被翻译成spring festival，当然现在更多地会说Chinese New Year了。festival = fest(=*dhes-)，宗教重视仪式感，也有不少节日，因此很多跟节日、庆祝、张灯结彩有关的词都从*dhes-来。这里dh=f是个很奇怪的互换，只能硬记，在现代英语中也极少能见到dh这个组合了。另一个比较常用的是enthusiasm(3752,78) = en(=en-:in) + thus(=*dhes-)。信教的人一般被洗脑得比较彻底，会表现出狂热特征：比如特别爱上帝啊，特别崇拜真主之类的。
+  related:
+    - enthusiastic
+    - feast
+    - festive

@@ -23,7 +23,7 @@ make	45	442	*mag-
 raise	434	442
 hot	722	435
 heavy	1008	434	*kap-
-fair	1493	429	*dhes-
+fair	1493	429
 ill	2970	428
 great	160	423
 pass	442	419	*pete-
@@ -4528,7 +4528,7 @@ frighten	5611	43
 methodology	5757	43
 terrify	5912	43
 propaganda	5926	43
-fairness	6037	43	*dhes-
+fairness	6037	43
 advertisement	6045	43	*ad-
 gauge	6133	43
 overly	6168	43
@@ -6697,7 +6697,7 @@ secular	4258	24
 creativity	4308	24	*ker-
 momentum	4400	24	*meue-
 someday	4501	24	*sem-
-unfair	4542	24	*dhes-
+unfair	4542	24
 stimulus	4573	24
 well-being	4592	24	*wel-
 added	4602	24	*ad-,	*do-
@@ -7226,7 +7226,7 @@ amputate	17705	21	*ambhi-,	*pau-
 absolve	17761	21	*leu-
 repentance	17880	21
 favoritism	18423	21
-unfairness	18446	21	*dhes-
+unfairness	18446	21
 credo	18664	21	*kerd-
 retrofit	18701	21
 hew	19329	21
@@ -13160,7 +13160,7 @@ radius	9631	-1
 broom	9634	-1
 lining	9641	-1
 beet	9643	-1
-fairway	9666	-1	*dhes-
+fairway	9666	-1
 dysfunction	9667	-1	*bhrug-
 rearrange	9668	-1
 doughnut	9673	-1	*dheigh-

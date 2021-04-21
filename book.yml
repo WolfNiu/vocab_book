@@ -4564,14 +4564,49 @@
   roots:
     aux: "*aug- | to increase"
   exp: 释义中的"extra"已经很好的诠释了auxiliary和increase有关。
+- word: profane
+  freq: 18421
+  use: 186
+  pos: ADJECTIVE
+  meaning: Profane behavior shows disrespect for a religion or religious things.
+  sent: '...profane language.'
+  roots:
+    pro: "*per-(1) | forward"
+    fane: "*dhes- | forming words for religious concepts"
+  exp: 这个词中*dhes-已经说明了它和religion有关。到于释义中disrespect的感觉是从forward来的，大意是说你站人家神跟前儿已经算侮辱人家了——应该趴地上嘬大脚趾头才显得尊敬。以前我的老师教用谐音记："泼粪"。虽说读音也没那么接近，但挺形象的。
+  related:
+    - profanity
+- word: festoon
+  freq: 18442
+  use: 56
+  pos: NOUN
+  meaning: If something is festooned with, for example, lights, balloons, or flowers, large numbers of these things are hung from it or wrapped around it, especially in order to decorate it.
+  sent: The temples are festooned with lights.
+  roots:
+    fest: "*dhes- | forming words for religious concepts"
+  exp: 借的是*dhes-中节日、盛宴的那层意思，所以才有释义中那种张灯结彩的感觉。
+- word: fanatic
+  freq: 11065
+  use: 71
+  pos: COUNTABLE NOUN
+  meaning: If you describe someone as a fanatic, you disapprove of them because you consider their behavior or opinions to be very extreme, for example, in the way they support particular religious or political ideas.
+  sent: I am not a religious fanatic but I am a Christian.
+  roots:
+    fan: "*dhes- | forming words for religious concepts"
+  exp: 只要想一下"狂热/极端宗教分子"的说法就明白了。信教的前置条件之一是缺乏理性思考能力，也就比较容易极端。从释义中也可以看出，以下几个词的意思是高度相关的：fanatic, extreme (behavior), religious.
+  related:
+    - fanatical
+    - fanaticism
 
-
-auxiliary       14469   38      *aug-
-
+fiesta  17926   11      *dhes-
+atheist 12989   7       *dhes-
+theology        3872    -1      *dhes-
+theological     4784    -1      *dhes-
+theologian      6922    -1      *dhes-
+pantheon        16370   -1      *dhes-
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (26, '*aug-'),
 # (26, '*dhes-'),
 # (26, '*pa-'),
 # (26, '*poti-'),
