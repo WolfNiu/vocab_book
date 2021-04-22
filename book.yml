@@ -4597,17 +4597,51 @@
   related:
     - fanatical
     - fanaticism
-
-fiesta  17926   11      *dhes-
-atheist 12989   7       *dhes-
-theology        3872    -1      *dhes-
-theological     4784    -1      *dhes-
-theologian      6922    -1      *dhes-
-pantheon        16370   -1      *dhes-
+- word: fiesta
+  freq: 17926
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A fiesta is a time of public entertainment and parties, usually on a special religious holiday, especially in Spain or Latin America.
+  roots:
+    fiest: "*dhes- | forming words for religious concepts"
+  exp: 宗教节日不解释。
+- word: atheist
+  freq: 12989
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: An atheist is a person who believes that there is no God. Compare agnostic.
+  roots:
+    a: a- | without
+    the: "*dhes- | forming words for religious concepts"
+    ist: -ist | one who does or makes
+  exp: 词根上无需解释。释义中的agnostic指的是"不可知论者"——也就认为上帝是否存在这件事无法验证，于是既不承认其存在，也不认为其肯定就不存在。当然了，如果我声称冥王星上有一群不可探测的隐形猪，每天过着愉快的生活，这件事同样是不可证伪的。因此agnostic表面上中立客观，实际上也就是处在"判断不出隐形猪是否存在"这个等级。
+- word: pantheon
+  freq: 16370
+  use: -1
+  pos: NOUN
+  meaning: You can refer to a group of gods or a group of important people as a pantheon.
+  sent: '...the birthplace of Krishna, another god of the Hindu pantheon.'
+  roots:
+    pan: pan- | all
+    the: "*dhes- | forming words for religious concepts"
+  exp: 神儿不止一个，大家全是神儿，这就是pantheon表达的感觉。
+- word: theology
+  freq: 3872
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Theology is the study of the nature of God and of religion and religious
+    beliefs.
+  sent: '...questions of theology.'
+  roots:
+    the: "*dhes- | forming words for religious concepts"
+    logy: -logy | a speaking, discourse, treatise, doctrine, theory, science
+  exp: 研究神的学问，不解释。
+  related:
+    - theological     4784    -1      *dhes-
+    - theologian      6922    -1      *dhes-
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (26, '*dhes-'),
 # (26, '*pa-'),
 # (26, '*poti-'),
 # (27, '*bhau-'),
