@@ -2424,7 +2424,7 @@ virtue	3391	74	*wi-ro-
 convey	3793	74	*wegh-
 guidance	3906	74	*weid-
 chop	4000	74
-panic	4353	74	*pa-
+panic	4353	74
 consent	4437	74
 glow	5159	74	*ghel-
 startle	5530	74	*ster-
@@ -11134,7 +11134,7 @@ feverishly	19829	0
 prima	19831	0
 bipartisanship	19832	0	*pere-
 reassessment	19846	0
-panicky	19864	0	*pa-
+panicky	19864	0
 overrated	19865	0
 brewer	19866	0	*bhreu-
 bookkeeping	19879	0

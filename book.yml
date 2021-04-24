@@ -4614,7 +4614,7 @@
     a: a- | without
     the: "*dhes- | forming words for religious concepts"
     ist: -ist | one who does or makes
-  exp: 词根上无需解释。释义中的agnostic指的是"不可知论者"——也就认为上帝是否存在这件事无法验证，于是既不承认其存在，也不认为其肯定就不存在。当然了，如果我声称冥王星上有一群不可探测的隐形猪，每天过着愉快的生活，这件事同样是不可证伪的。因此agnostic表面上中立客观，实际上也就是处在"判断不出隐形猪是否存在"这个等级。
+  exp: 词根上无需解释。释义中的agnostic指的是"不可知论者"——也就是认为"上帝是否存在"这件事无法验证。于是既不承认其存在，也不认为其肯定就不存在。当然了，如果我声称冥王星上有一群不可探测的隐形猪，每天过着愉快的生活，这件事同样是不可证伪的。因此agnostic表面上中立客观，实际也就是"判断不出隐形猪是否存在"的水平。
 - word: pantheon
   freq: 16370
   use: -1
@@ -4639,6 +4639,90 @@
   related:
     - theological     4784    -1      *dhes-
     - theologian      6922    -1      *dhes-
+- word: foster
+  freq: 4412
+  use: 105
+  pos: TRANSITIVE VERB
+  meaning: Foster parents are people who officially take a child into their family for a period of time, without becoming the child's legal parents. The child is referred to as their foster child.
+  sent: Little Jack was placed with foster parents.
+  roots:
+    fo: "*pa- | to protect, feed"
+  exp: 喂养的感觉，不解释。
+- word: fur
+  freq: 4751
+  use: 29
+  pos: MASS NOUN
+  meaning: Fur is the thick and usually soft hair that grows on the bodies of many mammals.
+  sent: This creature's fur is short, dense and silky.
+  roots:
+    fur: "*pa- | to protect, feed"
+  exp: fur嘛，就是裹在身体外面保护(protect)肉用的。
+  related:
+    - furry
+- word: fodder
+  freq: 13276
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Fodder is food that is given to cows, horses, and other animals.
+  sent: '...fodder for horses.'
+  roots:
+    fod: "*pa- | to protect, feed"
+  exp: 不解释。
+- word: foray
+  freq: 10473
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If you make a foray into a new or unfamiliar type of activity, you start to become involved in it.
+  sent: Emporio Armani, the Italian fashion house, has made a discreet foray into furnishings.
+  roots:
+    for: "*pa- | to protect, feed"
+  exp: 这词跟同源的forage(11457,9)差不多，本来都表示找吃的。这就是为什么其中文释义是"尝试"。这个"尝"字已经点明了它和feed有关。
+- word: forage
+  freq: 11457
+  use: 9
+  pos: INTRANSITIVE VERB
+  meaning: If someone forages for something, they search for it in a busy way.
+  sent: They were forced to forage for clothing and fuel.
+  roots:
+    for: "*pa- | to protect, feed"
+  exp: 这词跟同源的foray(10473,-1)差不多，本来都表示找(search)吃的。
+- word: pester
+  freq: 18019
+  use: 69
+  pos: TRANSITIVE VERB
+  meaning: If you say that someone is pestering you, you mean that they keep asking you to do something, or keep talking to you, and you find this annoying.
+  sent: I thought she'd stop pestering me, but it only seemed to make her worse.
+  roots:
+    pe: "*pa- | to protect, feed"
+  exp: 这次可以直接用其同源词pastor(3886,-1)来记。牧师的作用往往就是每天在你耳边叨逼叨，教育你不能干这个不能想那个的。所以是annoying的感觉。
+- word: pastor
+  freq: 3886
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A pastor is a member of the clergy in some churches, especially Protestant churches.
+  roots:
+    pa: "*pa- | to protect, feed"
+  exp: pastor本来是shepherd(9113,33)牧羊人的意思。而牧师嘛，就是"放养(feed)"教众的人。他们也往往喜欢居高临下地说教众是"迷途的羔羊"。
+  related:
+    - pastoral
+- word: pasture
+  freq: 6423
+  use: 17
+  pos: VARIABLE NOUN
+  meaning: Pasture is land with grass growing on it for farm animals to eat.
+  sent: The cows are out now, grazing in the pasture.
+  roots:
+    pa: "*pa- | to protect, feed"
+  exp: 释义里面已经有eat了，和feed相关不解释。
+- word: pantry
+  freq: 10627
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A pantry is a small room in a house, usually near the kitchen, where food is kept.
+  roots:
+    pan: "*pa- | to protect, feed"
+  exp: 释义里已经有kitchen, food了，所以和feed有关，不解释。
+
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
