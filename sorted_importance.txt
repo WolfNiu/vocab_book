@@ -15815,7 +15815,7 @@ sleazy	16043	-1
 boneless	16044	-1	*ost-
 infiltration	16045	-1	*pel-
 unscathed	16046	-1
-empowering	16047	-1
+empowering	16047	-1  *poti-
 vigilante	16048	-1	*weg-
 eternally	16049	-1
 violator	16050	-1
