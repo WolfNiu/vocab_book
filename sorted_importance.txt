@@ -1120,7 +1120,7 @@ dreamy	12846	118	*swep-
 hurtle	12904	118
 giveaway	14485	118
 assuage	17438	118
-baste	17977	118	*bhau-
+baste	17977	118
 pay	287	117	*pag-
 value	500	117	*wal-
 action	503	117	*ag-
@@ -3777,7 +3777,7 @@ continuing	3682	52
 indigenous	3713	52	*gene-
 endorse	3920	52
 scan	4070	52
-debut	4503	52	*bhau-
+debut	4503	52
 skip	4571	52
 butt	4710	52	*bhau-
 denial	4797	52	*ne-
@@ -5707,7 +5707,7 @@ detention	6776	32	*ten-
 siege	6880	32	*sed-
 remainder	6911	32	*men-
 brightly	7073	32
-beetle	7312	32	*bhau-,	*bheid-
+beetle	7312	32	*bheid-
 pirate	7322	32	*per-
 eventual	7419	32	*gwa-
 extremist	8066	32
@@ -8751,7 +8751,7 @@ flip-flop	14231	10
 scrawl	14332	10
 corrosion	14358	10	*red-
 unspeakable	14500	10
-bastion	14510	10	*bhau-
+bastion	14510	10
 graft	14570	10
 dung	15035	10
 netting	15098	10
@@ -9957,7 +9957,7 @@ translator	6888	0
 preside	6892	0	*sed-
 catalogue	6899	0	*leg-
 casually	6904	0
-battered	6929	0
+battered	6929	0   *bhau-
 buying	6931	0
 viewing	6941	0	*weid-
 illegally	6947	0	*leg-

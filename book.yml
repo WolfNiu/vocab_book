@@ -4768,10 +4768,72 @@
   related:
     - empowerment
     - empowering
+- word: batter
+  freq: 7352
+  use: 81
+  pos: TRANSITIVE VERB
+  meaning: To batter someone means to hit them many times, using fists or a heavy object.
+  sent: The passengers were battered by flying luggage and cargo as the cabin lost pressure.
+  roots:
+    bat: "*bhau- | to strike"
+  exp: 从释义中可以看出strike和hit(536,203), fist(3919,0)和heavy object是相关词。虽然词根中没有给出，但后缀-er在动词中往往表示"反复"。比如batter是反复击打，waver(9622,47)是摇摆不定，mutter(4884,66)是喃喃自语。
+- word: refute
+  freq: 11396
+  use: 72
+  pos: TRANSITIVE VERB
+  meaning: If you refute an argument, accusation, or theory, you prove that it is wrong or untrue.
+  sent: It was the kind of rumor that it is impossible to refute.
+  roots:
+    re: re- | back
+    fute: "*bhau- | to strike"
+  exp: strike back是一种"反击"的感觉，因此和反驳相关。
+- word: butt
+  freq: 4710
+  use: 52
+  pos: COUNTABLE NOUN
+  meaning: Someone's butt is their bottom.
+  sent: Frieda grinned, pinching him on the butt.
+  roots:
+    butt: "*bhau- | to strike"
+  exp: 这个词有两种显而易见的巧记方法。第一，屁屁就是用来被打的，所以和strike有关；第二，butt可以看作是bottom(1520,152)的缩减版，因此用bottom来记就好。当然了，以上两种都只是butt的记忆方法。如果看了不满意，我身为作者只能陪你理解一下butt的正经词源。首先*bhau-从to strike发展出了to push, trust, project的感觉，其中project是个动词，表示"突出"，比如"a slip of paper projecting from the book"。而两个屁股蛋子正是身体突出的部分，于是前人就通过这种联想造出了butt。怎么样，看完后是不是想回去干脆用巧记了？
+  related:
+    - buttocks
+- word: buttress
+  freq: 16925
+  use: 60
+  pos: COUNTABLE NOUN
+  meaning: Buttresses are supports, usually made of stone or brick, that support a wall.
+  sent: '...the neo-Gothic buttresses of Riverside Church in Manhattan.'
+  roots:
+    but: "*bhau- | to strike"
+  exp: 和butt(4710,52)一样，借的是*bhau-中to project的那层意思——突起之物可以用来支撑(support)。这个词之所以还算重要，一个是GRE里出现过不少次，再一个是它的意思后来延展到"any source of support"了。比如"There was a demand for a new stable order as a buttress against social collapse."
+- word: rebut
+  freq: 18741
+  use: 67
+  pos: TRANSITIVE VERB
+  meaning: If you rebut a charge or criticism that is made against you, you give reasons why it is untrue or unacceptable.
+  sent: He spent most of his speech rebutting criticisms of his foreign policy.
+  roots:
+    re: re- | back
+    but: "*bhau- | to strike"
+  exp: strike back不解释。其衍生词rebuttal(15568,-1)在学术界为常用词。你交的论文经过peer reviews之后，有些conference会给一个author response period。在这个期间你给reviewers写的回复就叫做rebuttal。
+  related:
+    - rebuttal
+- word: abut
+  freq: 19140
+  use: -1
+  pos: VERB
+  meaning: When land or a building abuts something or abuts on something, it is next to it.
+  roots:
+    a: ad- | to
+    but: "*bhau- | to strike"
+  exp: 释义中"next to"的本质就是"touch at the end"，因此abut借的是*bhau-中end的那层意思。这个end的感觉又是从哪来的呢？之前学butt(4710,52)的时候曾经提到过，*bhau-从strike发展出了project的意思，而一般突出物又往往是一个物体的末端(end)。综上，我们在理解*bhau-的时候要知道它可能有三种意思中的一个：strike, project, end。
+
+
+
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (27, '*bhau-'),
 # (27, '*mag-'),
 # (27, '*mer-'),
 # (27, '*nem-'),
