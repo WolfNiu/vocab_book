@@ -528,3 +528,10 @@ misc:
     - unbutton
     - unbeaten
     - upbeat
+"*mer-":
+  meaning: to rub away; to harm
+  exp: 这个词根涉及两个超常用词。第一个是murder(1388,138) = murd(=*mer-)，借的是从harm衍生出的death那层意思。另一个是smart(1869,301)，这个词在英语里竟然没有murder词频高，大家可以感受一下背后的逻辑。为什么smart和harm有关呢？首先从中文里我们需要理解"聪明"这个概念往往和"尖、锐"有关；而"傻"则与"迟、钝"有关。这就是为什么我们管敏锐的思维叫sharp mind，管高精尖叫cutting-edge。这就是为什么smart会和to harm有关。而且我们朴素地想一下也会明白，明白人一般都是有能力伤害(harm)别人的，二傻子一般都是被欺负的角色。
+  related:
+    - murderer
+    - murderous
+    - smartly

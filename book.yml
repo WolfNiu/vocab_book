@@ -4828,14 +4828,112 @@
     a: ad- | to
     but: "*bhau- | to strike"
   exp: 释义中"next to"的本质就是"touch at the end"，因此abut借的是*bhau-中end的那层意思。这个end的感觉又是从哪来的呢？之前学butt(4710,52)的时候曾经提到过，*bhau-从strike发展出了project的意思，而一般突出物又往往是一个物体的末端(end)。综上，我们在理解*bhau-的时候要知道它可能有三种意思中的一个：strike, project, end。
-
-
+- word: mortal
+  freq: 9747
+  use: 188
+  pos: ADJECTIVE
+  meaning: If you refer to the fact that people are mortal, you mean that they have to die and cannot live forever.
+  sent: A man is deliberately designed to be mortal. He grows, he ages, and he dies.
+  roots:
+    mort: "*mer- | to rub away, harm"
+  exp: 借的是*mer-中death那层意思。用谐音"魔头"来记也不是不行。
+  related:
+    - immortal
+    - immortality
+    - mortality
+    - immortalize
+- word: mortgage
+  freq: 3244
+  use: 13
+  pos: COUNTABLE NOUN
+  meaning: A mortgage is a loan of money which you get from a bank or savings and loan association in order to buy a house.
+  sent: '...an increase in mortgage rates.'
+  roots:
+    mort: "*mer- | to rub away, harm"
+    gage: pledge
+  exp: 借的是*mer-中death那层意思，外加pledge，基本上就是还到死的感觉。
+- word: mortar
+  freq: 8457
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A mortar is a big gun that fires missiles high into the air over a short distance.
+  sent: The two sides exchanged fire with mortars and small arms.
+  roots:
+    mort: "*mer- | to rub away, harm"
+  exp: 很多人一看mortar以为借的又是*mer-中death的那层意思，因为mortar一打就死定了。但实际上这个词用的是to rub away的感觉，本来表示用来研磨的那个钵，后来因为大炮的炮筒和钵长得比较像——都是沉重的圆柱型物体中间儿挖个洞，所以就发展出了short cannon(8596,0)的感觉。
+- word: nightmare
+  freq: 3620
+  use: 94
+  pos: COUNTABLE NOUN
+  meaning: A nightmare is a very frightening dream.
+  sent: All the victims still suffered nightmares.
+  roots:
+    night: night
+    mare: "*mer- | to rub away, harm"
+  exp: 在夜晚(night)会伤害(harm)你的事物，简称nightmare。mare其中一个意思表示incubus，英文释义是a male demon believed to have sexual intercourse with sleeping women——也就是一种能在睡梦中和女性发生关系的魔物。老歌里有句歌词是"哥哥什么日子才能闯进你的梦乡"，说的应该就是这种淫魔吧。
+  related:
+    - nightmarish
+- word: morbid
+  freq: 16213
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe a person or their interest in something as morbid, you mean that they are very interested in unpleasant things, especially death, and you think this is strange.
+  sent: Some people have a morbid fascination with crime.
+  roots:
+    mor: "*mer- | to rub away, harm"
+  exp: 释义中已经点明了"interested in death"，说明morbid确实借的是*mer-中death的那层意思。其实亲睡美人的那个王子就有点morbid，要不然不会在以为公主已死的情况下还去啵人家。
+  related:
+    - morbidity
+- word: remorse
+  freq: 10752
+  use: 21
+  pos: UNCOUNTABLE NOUN
+  meaning: Remorse is a strong feeling of sadness and regret about something wrong that you have done.
+  sent: He was full of remorse and asked Beatrice what he could do to make amends.
+  roots:
+    re: re- | back, again
+    morse: "*mer- | to rub away, harm"
+  exp: remorse想表达的感觉就是被反复(again)摩擦(rub)的感觉。如果觉得摩擦这层意思难以理解，我们至少应该明白它表达了一种负面情绪。如果一切顺利(smooth)的话，不就会引发正面情绪了么。
+- word: mortuary
+  freq: 19009
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A mortuary is a building or a room in a hospital where dead bodies are kept before they are buried or cremated, or before they are identified or examined.
+  roots:
+    mort: "*mer- | to rub away, harm"
+  exp: 借的是*mer-中death的那层意思。一个冷知识是我们出海旅游坐的cruise里是有mortuary的(也叫morgue)。国外有很多老头儿老太太晚年一算账，发现坐邮轮比住敬老院便宜多了，所以不晕船的那一部分就泡在邮轮上不下来了，一趟一趟跟着走，于是乎经常一趟cruise下来能死个俩仨的。也难怪cruise上会有配套设施了。
+- word: mortify
+  freq: 19101
+  use: -1
+  pos: VERB
+  meaning: If you say that something mortifies you, you mean that it offends or embarrasses you a great deal.
+  sent: Jane mortified her family by leaving her husband.
+  roots:
+    mort: "*mer- | to rub away, harm"
+    fy: "*dhe- | to set, put"
+  exp: 一般来说-fy都表示"使动"的感觉。所以mortify就是使人受到伤害(harm)，比如offended, embarrassed之类的。
+- word: post-mortem
+  freq: 19940
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: A post-mortem is an examination of something that has recently happened, especially something that has failed or gone wrong.
+  roots:
+    post: post- | after
+    mort: "*mer- | to rub away, harm"
+  exp: 用的是*mer-中death的那层意思，literrally "after death"。
+- word: morsel
+  freq: 16227
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A morsel is a very small amount of something, especially a very small piece of food.
+  sent: '...a delicious little morsel of meat.'
+  roots:
+    mors: "*mer- | to rub away, harm"
+  exp: 用的是*mer-中rub away的意思——如果被磨(rub)得很细的话，自然就是very small amount的感觉。
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (27, '*mag-'),
-# (27, '*mer-'),
 # (27, '*nem-'),
 # (28, '*dyeu-'),
 # (28, '*leip-'),
@@ -4950,4 +5048,4 @@
 # (205, '*wer-'),
 # (228, '*dhe-'),
 # (437, '*per-')]
-
+# (27, '*mag-'),

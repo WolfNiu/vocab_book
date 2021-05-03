@@ -2500,7 +2500,7 @@ unsafe	9346	73	*sol-
 footing	9632	73	*ped-
 closeness	10947	73	*klau-
 blatant	11055	73
-marshal	11224	73	*mer-,	*mori-
+marshal	11224	73	*mori-
 overrun	11537	73	*rei-
 inaugurate	12234	73	*aug-
 wee	12354	73	*wegh-
@@ -7625,7 +7625,7 @@ proportional	10749	18	*pere-
 confiscate	10815	18
 gal	10948	18
 flyer	11005	18	*pleu-
-mare	11044	18	*mer-,	*mori-
+mare	11044	18	*mori-
 unprepared	11127	18	*pere-
 trafficker	11212	18
 embodiment	11250	18
