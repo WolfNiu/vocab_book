@@ -4930,6 +4930,105 @@
   roots:
     mors: "*mer- | to rub away, harm"
   exp: 用的是*mer-中rub away的意思——如果被磨(rub)得很细的话，自然就是very small amount的感觉。
+- word: astronomy
+  freq: 6564
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Astronomy is the scientific study of the stars, planets, and other natural objects in space.
+  roots:
+    astr: "*ster-(2) | start"
+    nom: "*nem- | assign, allot; take"
+  exp: 借的是*nem-中rule, law的那层意思，因为assign, allot本身就意味着分配的法则。因此astronomy就是研究星星(start)运行法则(law)的学科。顺便可以记一下-nomy这个后缀——principally in the science, forming names of disciplines describing natural laws or scientific methods。
+  related:
+    - astronomical
+    - astronomer
+- word: numb
+  freq: 9544
+  use: 124
+  pos: ADJECTIVE
+  meaning: If a part of your body is numb, you cannot feel anything there.
+  sent: He could feel his fingers growing numb at their tips.
+  roots:
+    num: "*nem- | assign, allot; take"
+  exp: 用的是*nem-中take的意思，numb就是taken, seized的感觉——也就是被什么东西给"拿住了"，一时动不了。中文里也有"被药拿住了"的说法。
+  related:
+    - numbness
+- word: nimble
+  freq: 15129
+  use: 94
+  pos: ADJECTIVE
+  meaning: Someone who is nimble is able to move their fingers, hands, or legs quickly and easily.
+  sent: Everything had been stitched by Molly's nimble fingers.
+  roots:
+    nim: "*nem- | assign, allot; take"
+  exp: 用的是*nem-中take的意思。nimble表达的感觉就是quick to grasp, quick at taking。反之，要是啥活儿都拿不起来，hold不住，就不nimble了，明白不？
+- word: enumerate
+  freq: 15618
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: When you enumerate a list of things, you name each one in turn.
+  sent: I enumerate the work that will have to be done.
+  roots:
+    e: ex- | out, out of
+    num: "*nem- | assign, allot; take"
+  exp: 直接把enumerate中的numer看成number(204,159)就好，整个词是count over的感觉。总结下来几个高度相关词是number，enumerate，list(762,122)和count(1338,86)。
+- word: autonomy
+  freq: 4764
+  use: 41
+  pos: UNCOUNTABLE NOUN
+  meaning: Autonomy is the control or government of a country, organization, or group by itself rather than by others.
+  sent: Activists stepped up their demands for local autonomy last month.
+  roots:
+    auto: auto- | self
+    nom: "*nem- | assign, allot; take"
+  exp: 借的是*nem-中rule, law的那层意思，因为assign, allot本身就意味着分配的法则。整个词就是subject to its own laws的感觉——也就是能自己管自己。
+  related:
+    - autonomous
+- word: nomad
+  freq: 15117
+  use: 34
+  pos: COUNTABLE NOUN
+  meaning: A nomad is a member of a group of people who travel from place to place rather than living in one place all the time.
+  sent: '...a country of nomads who raise cattle and camels.'
+  roots:
+    nom: "*nem- | assign, allot; take"
+  exp: 这词本来和pasture(6423,17)，放牧，大有关系，而放牧干的就是把土地分(assign, allot)给牛羊吃的活儿。后来因为放牧的人一般都居无定所(这片儿吃得差不多了就得换下一片儿)，所以nomad才表示释义中的"travel from place to place"。
+  cluster:
+    - nomad
+    - member
+    - group
+    - people
+    - travel
+    - place
+    - live
+  related:
+    - nomadic
+- word: taxonomy
+  freq: 14741
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Taxonomy is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences.
+  roots:
+    tax: "*tag- | to touch, handle"
+    nom: "*nem- | assign, allot; take"
+  exp: 词根中*tag-的部分从to touch, handle发展出了arrangement(2378,-1)的意思，而*nem-则是由assign, allot发展出了method的意思。因此整个词其实就是method of arrangement——也就是science of classification了。
+  cluster:
+    - taxonomy
+    - name
+    - classify
+    - group
+    - system
+    - similarity
+    - difference
+- word: nemesis
+  freq: 16021
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: The nemesis of a person or thing is a situation, event, or person which causes them to be seriously harmed, especially as a punishment.
+  sent: The new mathematics test will become the nemesis of teachers.
+  roots:
+    nem: "*nem- | assign, allot; take"
+  exp: 这个词从词根理解起来有一定难度，它表达的意思是"divine allotment to everyone of his share of fortune, good or bad"。因此nemesis其实是类似"命中克星"的感觉——上天assign/allot给我了，躲也躲不掉。
 
 
 ## TODO: finish all "related" tabs in root.yml
