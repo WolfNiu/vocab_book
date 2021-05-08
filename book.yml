@@ -5029,12 +5029,176 @@
   roots:
     nem: "*nem- | assign, allot; take"
   exp: 这个词从词根理解起来有一定难度，它表达的意思是"divine allotment to everyone of his share of fortune, good or bad"。因此nemesis其实是类似"命中克星"的感觉——上天assign/allot给我了，躲也躲不掉。
+  cluster:
+    - nemesis
+    - situation
+    - event
+    - person
+    - harm
+    - punishment
+- word: divine
+  freq: 4091
+  use: 158
+  pos: ADJECTIVE
+  meaning: You use divine to describe something that is provided by or relates to a god or goddess.
+  sent: He suggested that the civil war had been a divine punishment.
+  roots:
+    div: "*dyeu- | to shine"
+  exp: 借的是*dyeu-中sky, heaven, god的那层意思。什么才shine呢？在空中(sky)的太阳。还有啥也在空中捏？当然是heaven和神神鬼鬼们。所以释义里提到god也就不奇怪了。比较讽刺的是*dyeu-的谐音是"地狱"——和heaven正好反义。
+  cluster:
+    - divine
+    - god
+    - goddess
+  related:
+    - divinity
+    - divination
+- word: dismal
+  freq: 9680
+  use: 133
+  pos: ADJECTIVE
+  meaning: Something that is dismal is bad in a sad or depressing way.
+  sent: '...their dismal record in the Olympics.'
+  roots:
+    dis: "*dyeu- | to shine"
+    mal: "*mel-(3) | false, bad, wrong"
+  exp: 这个词中*dyeu-借的是day的那层意思，因此整个词就表示bad day。注意这里dis并不是前缀dis-。当然了，就算不知道这个也不影响记词。
+  cluster:
+    - dismal
+    - bad
+    - sad
+    - depressing
+- word: journey
+  freq: 2431
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: When you make a journey, you travel from one place to another.
+  sent: There is an express service from Paris that completes the journey to Bordeaux in under 4 hours.
+  roots:
+    journ: "*dyeu- | to shine"
+  exp: 借的是*dyeu-中day的那层意思，和释义中travel的联系是：一般travel(1085,193)都是几天(day)，所以最后就用"天"的概念指代travel了。
+  cluser:
+    - journey
+    - travel
+    - place
+- word: journal
+  freq: 2804
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A journal is a magazine, especially one that deals with a specialized subject.
+  sent: All our results are published in scientific journals.
+  roots:
+    journ: "*dyeu- | to shine"
+  exp: journal在现代一般指期刊，比如大名鼎鼎的《Nature》。其本意是book of church services，每天(day)出一册，因此借的是*dyeu-中day的那层意思。
+  cluster:
+    - journal
+    - magazine
+    - specialized
+    - subject
+    - publish
+    - scientific
+  related:
+    - journalist
+    - journalism
+- word: dial
+  freq: 6177
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A dial is the part of a machine or instrument such as a clock or watch which shows you the time or a measurement that has been recorded.
+  sent: The luminous dial on the clock showed five minutes to seven.
+  roots:
+    dial: "*dyeu- | to shine"
+  exp: 用来表示一天(day)之中时间的东西，因此*dyeu-借的还是day的那层意思。
+  cluster:
+    - dial
+    - machine
+    - instrument
+    - clock
+    - watch
+    - time
+    - measurement
+    - record
+    - minutes
+- word: deity
+  freq: 9802
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A deity is a god or goddess.
+  sent: '...a deity revered by thousands of Hindus and Buddhists.'
+  roots:
+    dei: "*dyeu- | to shine"
+  exp: 借的是*dyeu-中sky, heaven, god的那层意思，不解释。
+- word: diva
+  freq: 13500
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: You can refer to a successful and famous female opera singer as a diva.
+  roots: 借的是*dyeu-中sky, heaven, god的那层意思，在diva这个词里表达的是goddess(6737,22), fine lady的感觉。
+  cluster:
+    - diva
+    - successful
+    - famous
+    - female
+    - opera
+    - singer
+- word: adjourn
+  freq: 17074
+  use: 54
+  pos: VERB
+  meaning: If a meeting or trial is adjourned or if it adjourns, it is stopped for a short time.
+  sent: The proceedings have now been adjourned until next week.
+  roots:
+    ad: ad- | to
+    journ: "*dyeu- | to shine"
+  exp: 借的是*dyeu-中day的那层意思，整个词表达的感觉是"to another day"。
+  cluster:
+    - adjourn
+    - meeting
+    - trial
+    - stop
+    - short
+    - time
+    - proceeding
+    - until
+    - next
+    - week
+- word: sojourn
+  freq: 16815
+  use: 22
+  pos: COUNTABLE NOUN
+  meaning: A sojourn is a short stay in a place that is not your home.
+  sent: her sojourn in Rome
+  roots:
+    so: sub- | under, until
+    journ: "*dyeu- | to shine"
+  exp: 借的是*dyeu-中day的那层意思。整个词的感觉是"until the day is over"，所以是short stay的意思。
+  cluster:
+    - sojourn
+    - short
+    - stay
+    - place
+    - home
+- word: psychedelic
+  freq: 17773
+  use: -1
+  pos: ADJECTIVE
+  meaning: Psychedelic means relating to drugs such as LSD that have a strong effect on your mind, often making you see things that are not there.
+  sent: '...his first real, full-blown psychedelic experience.'
+  roots:
+    psyche: mind
+    del: "*dyeu- | to shine"
+  exp: 借的是*dyeu-中sky, heaven, god的那层意思——有god降临到mind里了，所以是"致幻"的感觉。比如在荷兰能买到的致幻蘑菇，就和这个词有关。
+  cluster:
+    - psychedelic
+    - drug
+    - LSD
+    - strong effect
+    - mind
+    - see
+    - experience
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (27, '*nem-'),
-# (28, '*dyeu-'),
 # (28, '*leip-'),
 # (28, '*op-'),
 # (29, '*dekm-'),

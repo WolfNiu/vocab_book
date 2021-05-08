@@ -936,12 +936,12 @@ enjoin	20160	128	*yeug-
 hundred	622	127	*dekm-,	*re-
 current	653	127	*kers-
 increase	660	127	*ker-
-maintain	925	127	*man-,	*ten-
+maintain	925	127	*man-, *ten-
 discover	959	127	*wer-
-dozen	1198	127	*dekm-,	*dwo-
+dozen	1198	127	*dekm-, *dwo-
 demonstrate	1386	127	*men-
 distinguish	3273	127
-everyday	3319	127	*aiw-
+everyday	3319	127	*aiw-, *dyeu-
 combat	3442	127
 confuse	3550	127	*gheu-
 shame	3804	127
@@ -949,7 +949,7 @@ pleasant	3810	127
 accelerate	4977	127
 raft	7497	127
 airy	10914	127	*wer-
-boon	11736	127	*bha-,	*deu-
+boon	11736	127	*bha-, *deu-
 slew	13334	127
 sorely	14594	127
 bushel	14937	127
@@ -1221,7 +1221,7 @@ general	806	112	*gene-
 expert	902	112	*per-
 peace	936	112	*pag-
 inside	967	112	*oi-no-
-dismiss	2826	112	*dyeu-
+dismiss	2826	112
 adequate	3326	112
 march	3511	112	*merg-
 spell	4344	112
@@ -4142,7 +4142,7 @@ department	1202	47	*pere-
 tour	1482	47
 lady	1526	47	*dheigh-
 complain	1874	47	*plak-
-holiday	1977	47	*agh-
+holiday	1977	47	*agh-, *dyeu-
 confident	2888	47	*bheidh-
 examination	3096	47	*ag-
 exceed	3308	47	*ked-
@@ -4338,7 +4338,7 @@ accommodation	5439	45	*med-
 innocence	5469	45	*nek-
 enthusiastic	5577	45	*dhes-
 idiot	6032	45
-daylight	6084	45	*legwh-,	*leuk-
+daylight	6084	45	*legwh-, *leuk-, *dyeu-
 unbelievable	6151	45	*leubh-
 operational	6222	45	*op-
 surplus	6341	45	*pele-
@@ -4497,7 +4497,7 @@ disavow	18142	44
 pudgy	18425	44
 submissive	18773	44
 how	76	43	*kwo-
-day	90	43	*agh-,	*dyeu-
+day	90	43	*agh-
 defense	658	43
 section	821	43	*sek-
 nobody	1154	43
@@ -5452,7 +5452,7 @@ glitzy	19390	35	*ghel-
 rejuvenate	19438	35
 unanimity	20083	35
 world	123	34	*al-,	*wi-ro-
-today	215	34	*agh-
+today	215	34	*dyeu-
 law	288	34	*legh-
 door	344	34	*dhwer-
 military	475	34
@@ -5981,7 +5981,7 @@ spasm	11994	30
 torrent	12055	30	*ters-
 handbag	12136	30	*man-
 gingerly	12158	30	*gene-
-heyday	12640	30
+heyday	12640	30  *dyeu-
 duel	12861	30
 suitor	12888	30	*sekw-
 laden	12956	30
@@ -6348,7 +6348,7 @@ moist	6643	27
 postpone	6649	27
 pact	6783	27	*pag-
 documentation	6900	27	*dek-
-day-to-day	6969	27
+day-to-day	6969	27  *dyeu-
 voucher	7381	27	*wekw-
 openness	7455	27
 reinforcement	7639	27
@@ -6642,7 +6642,7 @@ firepower	14795	25	*poti-
 adequacy	15090	25
 manor	16643	25	*men-
 barometer	16997	25	*gwere-
-daydream	17019	25
+daydream	17019	25  *dyeu-
 beret	17152	25
 paucity	17295	25	*pau-
 remittance	17347	25
@@ -6696,7 +6696,7 @@ credibility	4086	24
 secular	4258	24
 creativity	4308	24	*ker-
 momentum	4400	24	*meue-
-someday	4501	24	*sem-
+someday	4501	24	*sem-, *dyeu-
 unfair	4542	24
 stimulus	4573	24
 well-being	4592	24	*wel-
@@ -6723,7 +6723,7 @@ acquaintance	6366	24	*gno-
 orient	6610	24
 contamination	6625	24	*tag-
 accompanying	7078	24
-daytime	7269	24	*da-
+daytime	7269	24	*da-, *dyeu-
 shifting	7507	24
 nude	7714	24
 accustom	7723	24
@@ -7161,7 +7161,7 @@ pillar	6619	21
 tab	6729	21
 basics	6736	21	*gwa-
 loved	6800	21	*leubh-
-nowadays	6894	21	*agh-
+nowadays	6894	21	*dyeu-
 finished	6965	21
 infinite	6970	21
 salon	7019	21
@@ -7232,7 +7232,7 @@ retrofit	18701	21
 hew	19329	21
 rubbery	19442	21
 forefather	19577	21	*per-
-daybreak	19788	21	*bhreg-
+daybreak	19788	21	*bhreg-, *dyeu-
 internment	19845	21
 framing	20007	21
 industry	552	20	*stere-
@@ -7807,7 +7807,7 @@ manager	880	16	*man-
 restaurant	1118	16
 afternoon	1195	16	*apo-
 equipment	1359	16
-yesterday	1514	16	*agh-,	*dyeu-
+yesterday	1514	16	*dyeu-
 reading	1591	16	*re-
 revenue	1691	16	*gwa-
 chest	1732	16
@@ -8026,7 +8026,7 @@ generalization	8857	15	*gene-
 municipality	8864	15	*kap-,	*mei-
 timetable	8997	15
 chestnut	9049	15
-dismissal	9124	15	*dyeu-
+dismissal	9124	15
 gadget	9305	15
 rainfall	9387	15
 billionaire	9713	15
@@ -9232,7 +9232,7 @@ antiquity	8888	6	*ant-,	*okw-
 forefront	9002	6
 punitive	9107	6
 walker	9268	6	*wel-
-midday	9342	6	*agh-,	*dyeu-
+midday	9342	6	*dyeu-
 braid	9605	6
 colonist	9784	6	*kwel-
 abdomen	9933	6	*dhe-
@@ -9474,7 +9474,7 @@ necessarily	1971	3	*ked-
 chef	3193	3	*kaput-
 artistic	3281	3	*ar-
 acquisition	3893	3
-diary	4381	3	*dyeu-
+diary	4381	3
 legislator	4674	3	*bher-,	*leg-
 inevitably	4701	3
 lawmaker	4736	3	*mag-
@@ -11437,7 +11437,7 @@ roof	2154	-1
 unable	2155	-1	*ghabh-
 expense	2156	-1	*(s)pen-
 initiative	2157	-1	*ei-
-diet	2158	-1	*dyeu-
+diet	2158	-1
 arrest	2159	-1	*sta-
 funding	2160	-1
 therapy	2161	-1
@@ -11694,7 +11694,7 @@ relative	2451	-1
 immigration	2452	-1
 belt	2453	-1
 teaspoon	2454	-1
-birthday	2455	-1	*bher-
+birthday	2455	-1	*bher-, *dyeu-
 implication	2456	-1	*plek-
 perfectly	2457	-1	*dhe-,	*per-
 coast	2458	-1	*ost-
@@ -12508,7 +12508,7 @@ lesbian	6435	-1
 novelist	6442	-1
 reef	6443	-1
 nephew	6454	-1
-dietary	6457	-1	*dyeu-
+dietary	6457	-1
 fertilizer	6460	-1	*bher-
 subscale	6465	-1
 squint	6469	-1
@@ -12910,7 +12910,7 @@ overtime	8486	-1	*da-
 dorm	8487	-1
 ye	8489	-1
 heroine	8490	-1	*ser-
-weekday	8492	-1	*weik-
+weekday	8492	-1	*weik-, *dyeu-
 fin	8500	-1	*penkwe-
 characterization	8527	-1
 hospitality	8528	-1	*ghos-ti-
@@ -13717,7 +13717,7 @@ mapping	10426	-1
 euro	10427	-1
 favorably	10428	-1
 gleam	10429	-1	*ghel-
-three-day	10430	-1
+three-day	10430	-1  *dyeu-
 gait	10431	-1
 symmetry	10432	-1	*me-
 Colombian	10433	-1
@@ -13949,7 +13949,7 @@ adrenaline	10686	-1
 sparse	10687	-1
 endowment	10688	-1	*do-
 cutback	10689	-1
-present-day	10690	-1	*es-
+present-day	10690	-1	*es-, *dyeu-
 beacon	10691	-1	*bha-
 reorganization	10692	-1	*werg-
 aye	10693	-1	*aiw-
@@ -13995,7 +13995,7 @@ Ethiopian	10787	-1
 paranoia	10791	-1
 differentiation	10794	-1	*bher-
 biographer	10796	-1	*gwei-
-modern-day	10800	-1
+modern-day	10800	-1  *dyeu-
 blue-collar	10807	-1	*kwel-
 rink	10814	-1	*sker-
 neuron	10816	-1
@@ -14182,7 +14182,7 @@ destabilize	11601	-1
 semantic	11604	-1
 upstream	11607	-1	*sreu-
 cross-cultural	11610	-1
-two-day	11611	-1
+two-day	11611	-1  *dyeu-
 Croatian	11618	-1
 Anglo	11619	-1
 neutrino	11623	-1
@@ -14794,7 +14794,7 @@ residuals	13885	-1
 mummy	13886	-1
 Armenian	13887	-1
 reconnect	13888	-1	*ned-
-workday	13893	-1	*werg-
+workday	13893	-1	*werg-, *dyeu-
 mantel	13900	-1
 spatula	13902	-1
 archbishop	13904	-1	*spek-
@@ -14870,7 +14870,7 @@ unsolved	14146	-1	*leu-
 snowmobile	14152	-1
 amber	14157	-1
 outsource	14158	-1	*reg-
-one-day	14163	-1
+one-day	14163	-1  *dyeu-
 violinist	14166	-1
 oops	14170	-1
 retrace	14174	-1
@@ -15018,7 +15018,7 @@ elm	14674	-1
 carcinoma	14675	-1	*kar-
 manned	14678	-1
 reassert	14679	-1
-four-day	14685	-1
+four-day	14685	-1  *dyeu-
 self-described	14689	-1
 multi-ethnic	14690	-1
 boar	14695	-1
@@ -15120,7 +15120,7 @@ Federalist	15014	-1
 reigning	15017	-1
 adrift	15018	-1
 self-portrait	15021	-1	*per-
-daycare	15028	-1
+daycare	15028	-1  *dyeu-
 choreography	15031	-1
 mozzarella	15037	-1
 woody	15046	-1
@@ -15166,7 +15166,7 @@ federalism	15176	-1	*bheidh-
 turban	15187	-1
 virginity	15192	-1
 longer-term	15197	-1
-five-day	15204	-1
+five-day	15204	-1  *dyeu-
 cinder	15211	-1
 odyssey	15212	-1
 unequivocally	15215	-1
@@ -15363,7 +15363,7 @@ non-western	15498	-1
 thirty-four	15499	-1
 dialysis	15500	-1	*leu-
 shyly	15501	-1
-dismissive	15502	-1	*dyeu-
+dismissive	15502	-1
 bayonet	15503	-1
 resolute	15504	-1	*leu-
 amnesia	15505	-1	*men-
@@ -16181,7 +16181,7 @@ machete	16481	-1
 sacrificial	16484	-1	*dhe-
 powered	16487	-1
 nightstand	16488	-1
-payday	16491	-1	*agh-,	*dyeu-
+payday	16491	-1	*dyeu-
 orgy	16492	-1	*werg-
 jumpsuit	16499	-1
 well-dressed	16501	-1
@@ -16549,7 +16549,7 @@ apostolic	17638	-1
 pronoun	17639	-1	*no-men-
 amputee	17640	-1
 institutionalization	17642	-1	*sta-
-latter-day	17646	-1	*‌‌lē-
+latter-day	17646	-1	*‌‌lē-, *dyeu-
 sideshow	17649	-1	*keu-
 enforcer	17650	-1	*bhergh-
 unbutton	17656	-1	*bhau-
@@ -16669,7 +16669,7 @@ disinfectant	17967	-1	*dhe-
 co-pilot	17969	-1
 preservative	17970	-1	*ser-
 hemorrhage	17973	-1
-all-day	17975	-1
+all-day	17975	-1  *dyeu-
 life-saving	17981	-1	*leip-
 centuries-old	17982	-1
 historiography	17984	-1
@@ -16917,7 +16917,7 @@ indigo	18728	-1
 subprime	18731	-1	*per-
 cyclone	18738	-1	*kwel-
 yuppie	18739	-1
-six-day	18740	-1
+six-day	18740	-1  *dyeu-
 groupie	18747	-1
 steeple	18749	-1
 child-rearing	18752	-1
@@ -17621,7 +17621,7 @@ hamster	20152	-1
 aneurysm	20154	-1
 dentistry	20155	-1	*dent-
 phonological	20156	-1
-seven-day	20158	-1
+seven-day	20158	-1  *dyeu-
 conspiratorial	20159	-1
 gastric	20162	-1
 spatially	20166	-1
