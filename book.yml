@@ -5195,6 +5195,51 @@
     - mind
     - see
     - experience
+- word: delay
+  freq: 3130
+  use: 114
+  pos: TRANSITIVE VERB
+  meaning: If you delay doing something, you do not do it immediately or at the planned or expected time, but you leave it until later.
+  sent: For sentimental reasons I wanted to delay my departure until June.
+  roots:
+    de: de- | away, from
+    lay: "*leip- | to stick, adhere"
+  exp: 借的是*leip-中leave it alone的那层意思。所以delay表达的感觉就是go away, leave it as it is。
+- word: relive
+  freq: 11106
+  use: 33
+  pos: TRANSITIVE VERB
+  meaning: If you relive something that has happened to you in the past, you remember it and imagine that you are experiencing it again.
+  sent: There is no point in reliving the past.
+  roots:
+    re: re- | back, again
+    live: "*leip- | to stick, adhere"
+  exp: 直接用live这个词理解即可——live/experience it again，不解释。
+- word: liver
+  freq: 4721
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: Your liver is a large organ in your body which processes your blood and helps to clean unwanted substances out of it.
+  sent: Three weeks ago, it was discovered the cancer had spread to his liver.
+  roots:
+    liv: "*leip- | to stick, adhere"
+  exp: 和life有关的器官，不解释。
+- word: relay
+  freq: 8481
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A relay or a relay race is a race between two or more teams, for example teams of runners or swimmers. Each member of the team runs or swims one section of the race.
+  sent: Britain's prospects of beating the United States in the relay looked poor.
+  roots:
+    re: back
+    lay: "*leip- | to stick, adhere"
+  exp: 这个词造得相当生动，借的是*leip-中leave的那层意思：一个人跑完，就被left behind，然后换下一个跑，所以表示接力。
+  cluster:
+    - relay
+    - race
+    - runner
+    - swimmer
+    - beat
 
 
 ## TODO: finish all "related" tabs in root.yml
