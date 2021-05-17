@@ -5406,7 +5406,7 @@ scrutinize	7974	35
 brightness	8121	35	*bhereg-
 superficial	8445	35
 groom	8870	35
-appetizer	9476	35
+appetizer	9476	35  *pet-
 emptiness	9623	35	*med-
 unison	9638	35	*oi-no-,	*swen-
 plume	9674	35
@@ -6140,7 +6140,7 @@ dungeon	17904	29	*dem-
 intensively	17965	29
 incipient	18033	29	*kap-
 peacemaker	18065	29	*mag-
-penitentiary	18125	29	*pet-
+penitentiary	18125	29
 celeb	18147	29
 snoop	18205	29
 heretic	18410	29

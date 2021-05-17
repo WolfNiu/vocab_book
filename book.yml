@@ -5415,11 +5415,125 @@
     in: "*en | in "
     gred: "*ghredh- | to walk, go"
   exp: 两个词根连起来就是go in的意思。什么叫配方呢？就是"放进去的东西"。
+- word: symptom
+  freq: 2269
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A symptom of an illness is something wrong with your body or mind that is a sign of the illness.
+  sent: One of the most common symptoms of schizophrenia is hearing imaginary voices.
+  roots:
+    sym: syn- | together
+    pt: "*pet- | to rush; to fly"
+  exp: 这个词借的是*pet-中fall的那层意思。首先fly的其中一种感觉就是一个俯冲往下飞的动作，所以跟free fall有联系。而什么叫symptom呢？就是something that happen to fall on you——就是你倒霉了，生病了，不幸了——就这意思。
+  related:
+    - symptomatic
+- word: pin
+  freq: 4394
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: Pins are very small thin pointed pieces of metal. They are used in sewing
+    to fasten pieces of material together until they have been sewn.
+  sent: '...a box of needles and pins.'
+  roots:
+    pin: "*pet- | to rush; to fly"
+  exp: 和pen(3618,109)差不多的形状，都是长长尖尖的；词义的发展也相似，都借的是*pet-中"尖"的那层意思，因为鸟毛茎的头儿就是尖的。
+- word: pinnacle
+  freq: 12937
+  use: 37
+  pos: COUNTABLE NOUN
+  meaning: A pinnacle is a pointed piece of stone or rock that is high above the ground.
+  sent: A walker broke his arms, legs, and pelvis yesterday when he plunged 80 feet from a rocky pinnacle.
+  roots:
+    pin: "*pet- | to rush; to fly"
+  exp: 这个词同时借用了fly的peak属性和feather的尖尖属性。从释义中可以看到pointed，这个对应的是尖尖属性；而high above the ground对应的则是peak属性，因为向上飞(fly)是可以到顶峰(peak)的。
+- word: helicopter
+  freq: 3126
+  use: 2
+  pos: COUNTABLE NOUN
+  meaning: A helicopter is an aircraft with long blades on top that go around very fast. It is able to stay still in the air and to move straight upward or downward.
+  roots:
+    hel: "*wel-(3) | to turn, revolve"
+    pt: "*pet- | to rush; to fly"
+  exp: turn, revolve对应了释义中的go around，因此helicopter的造词是体现了螺旋桨的运动方式——sprial wing。
+- word: appetite
+  freq: 5273
+  use: 84
+  pos: VARIABLE NOUN
+  meaning: Your appetite is your desire to eat.
+  sent: He has a healthy appetite.
+  roots:
+    ap: ad- | to
+    pet: "*pet- | to rush; to fly"
+  exp: 这个词借的是*pet-中seek out那层意思——想象一下边飞边鸟瞰寻找食物的感觉。或者可以这样想：所谓胃口好就是见到食物就想飞过去——怎么样，是不是有fly的感觉了？
+  related:
+    - appetizer
+- word: impetus
+  freq: 9580
+  use: 24
+  pos: NOUN
+  meaning: Something that gives a process impetus or an impetus makes it happen or progress more quickly.
+  sent: The impetus for change came from lawyers.
+  roots:
+    im: "*en | in"
+    pet: "*pet- | to rush; to fly"
+  exp: makes it happen more quickly直接对应rush的概念，不解释。
+- word: perpetuate
+  freq: 7796
+  use: 29
+  pos: TRANSITIVE VERB
+  meaning: If someone or something perpetuates a situation, system, or belief, especially a bad one, they cause it to continue.
+  sent: We must not perpetuate the religious divisions of the past.
+  roots:
+    per: "*per-(1) | forward, through"
+    pet: "*pet- | to rush; to fly"
+  exp: 整个词是moving forward的意思，也就是"一直不停"的意思。
+  related:
+    - perpetual
+- word: petition
+  freq: 6043
+  use: 49
+  pos: COUNTABLE NOUN
+  meaning: A petition is a document signed by a lot of people that asks a government or other official group to do a particular thing.
+  sent: People feel so strongly that we recently presented the government with a petition signed by 4,500 people.
+  roots:
+    pet: "*pet- | to rush; to fly"
+  exp: 借的是*pet-中seek, search的那层意思，对应释义中的ask。
+  cluster:
+    - document
+    - sign
+    - a lot of people
+    - ask
+    - government
+    - official group
+  related:
+    - petitioner
+
+fly     946     203     *pleu-
+flutter 8189    94      *pleu-
+flee    2965    85      *pleu-
+overflow        9489    84      *pleu-
+flow    1997    71      *pleu-
+flying  4954    64      *pleu-
+flood   3617    52      *pleu-
+float   3166    51      *pleu-
+fleet   4493    47      *pleu-
+flight  1302    35      *pleu-
+fleeting        10788   33      *pleu-
+flit    14939   26      *pleu-
+outflow 17132   24      *pleu-
+full-fledged    13167   22      *pleu-
+flyer   11005   18      *pleu-
+afloat  11529   7       *pleu-
+pneumonia       8807    -1      *pleu-
+fledgling       10614   -1      *pleu-
+plutonium       11218   -1      *pleu-
+pulmonary       13457   -1      *pleu-
+inflow  16218   -1      *pleu-
+fowl    17437   -1      *pleu-
+
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (29, '*pet-'),
-# (29, '*pleu-'),
 # (29, '*weg-'),
 # (30, '*wal-'),
 # (31, '*ak-'),
