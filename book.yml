@@ -4994,7 +4994,6 @@
     nom: "*nem- | assign, allot; take"
   exp: 这词本来和pasture(6423,17)，放牧，大有关系，而放牧干的就是把土地分(assign, allot)给牛羊吃的活儿。后来因为放牧的人一般都居无定所(这片儿吃得差不多了就得换下一片儿)，所以nomad才表示释义中的"travel from place to place"。
   cluster:
-    - nomad
     - member
     - group
     - people
@@ -5013,7 +5012,6 @@
     nom: "*nem- | assign, allot; take"
   exp: 词根中*tag-的部分从to touch, handle发展出了arrangement(2378,-1)的意思，而*nem-则是由assign, allot发展出了method的意思。因此整个词其实就是method of arrangement——也就是science of classification了。
   cluster:
-    - taxonomy
     - name
     - classify
     - group
@@ -5030,7 +5028,6 @@
     nem: "*nem- | assign, allot; take"
   exp: 这个词从词根理解起来有一定难度，它表达的意思是"divine allotment to everyone of his share of fortune, good or bad"。因此nemesis其实是类似"命中克星"的感觉——上天assign/allot给我了，躲也躲不掉。
   cluster:
-    - nemesis
     - situation
     - event
     - person
@@ -5046,7 +5043,6 @@
     div: "*dyeu- | to shine"
   exp: 借的是*dyeu-中sky, heaven, god的那层意思。什么才shine呢？在空中(sky)的太阳。还有啥也在空中捏？当然是heaven和神神鬼鬼们。所以释义里提到god也就不奇怪了。比较讽刺的是*dyeu-的谐音是"地狱"——和heaven正好反义。
   cluster:
-    - divine
     - god
     - goddess
   related:
@@ -5063,7 +5059,6 @@
     mal: "*mel-(3) | false, bad, wrong"
   exp: 这个词中*dyeu-借的是day的那层意思，因此整个词就表示bad day。注意这里dis并不是前缀dis-。当然了，就算不知道这个也不影响记词。
   cluster:
-    - dismal
     - bad
     - sad
     - depressing
@@ -5077,7 +5072,6 @@
     journ: "*dyeu- | to shine"
   exp: 借的是*dyeu-中day的那层意思，和释义中travel的联系是：一般travel(1085,193)都是几天(day)，所以最后就用"天"的概念指代travel了。
   cluser:
-    - journey
     - travel
     - place
 - word: journal
@@ -5090,7 +5084,6 @@
     journ: "*dyeu- | to shine"
   exp: journal在现代一般指期刊，比如大名鼎鼎的《Nature》。其本意是book of church services，每天(day)出一册，因此借的是*dyeu-中day的那层意思。
   cluster:
-    - journal
     - magazine
     - specialized
     - subject
@@ -5109,7 +5102,6 @@
     dial: "*dyeu- | to shine"
   exp: 用来表示一天(day)之中时间的东西，因此*dyeu-借的还是day的那层意思。
   cluster:
-    - dial
     - machine
     - instrument
     - clock
@@ -5134,7 +5126,6 @@
   meaning: You can refer to a successful and famous female opera singer as a diva.
   roots: 借的是*dyeu-中sky, heaven, god的那层意思，在diva这个词里表达的是goddess(6737,22), fine lady的感觉。
   cluster:
-    - diva
     - successful
     - famous
     - female
@@ -5151,7 +5142,6 @@
     journ: "*dyeu- | to shine"
   exp: 借的是*dyeu-中day的那层意思，整个词表达的感觉是"to another day"。
   cluster:
-    - adjourn
     - meeting
     - trial
     - stop
@@ -5172,7 +5162,6 @@
     journ: "*dyeu- | to shine"
   exp: 借的是*dyeu-中day的那层意思。整个词的感觉是"until the day is over"，所以是short stay的意思。
   cluster:
-    - sojourn
     - short
     - stay
     - place
@@ -5188,7 +5177,6 @@
     del: "*dyeu- | to shine"
   exp: 借的是*dyeu-中sky, heaven, god的那层意思——有god降临到mind里了，所以是"致幻"的感觉。比如在荷兰能买到的致幻蘑菇，就和这个词有关。
   cluster:
-    - psychedelic
     - drug
     - LSD
     - strong effect
@@ -5235,19 +5223,201 @@
     lay: "*leip- | to stick, adhere"
   exp: 这个词造得相当生动，借的是*leip-中leave的那层意思：一个人跑完，就被left behind，然后换下一个跑，所以表示接力。
   cluster:
-    - relay
     - race
     - runner
     - swimmer
     - beat
-
+- word: opulent
+  freq: 17357
+  use: 79
+  pos: ADJECTIVE
+  meaning: Opulent things or places look grand and expensive.
+  sent: Heavy silverplate adds an opulent touch to a formal dinner party.
+  roots:
+    op: "*op- | to work, produce in abundance"
+  exp: 只有work, produce，才能用上grand, expensive的东西。
+  cluster:
+    - grand
+    - expensive
+    - formal
+- word: opus
+  freq: 20048
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: An opus is a piece of classical music by a particular composer. Opus is usually followed by a number which indicates at what point the piece was written. The abbreviation op. is also used.
+  sent: '...Beethoven''s Piano Sonata in E minor, Opus 90.'
+  roots:
+    op: "*op- | to work, produce in abundance"
+  exp: music major必会词。a piece of musicy就是一种work，不解释。
+  cluster:
+    - piece
+    - music
+    - number
+- word: oeuvre
+  freq: 18131
+  use: 3
+  pos: NOUN
+  meaning: the group consisting of all the works, usually of a lifetime, of a particular writer, artist, or composer
+  roots:
+    oeuv: "*op- | to work, produce in abundance"
+  exp: 释义中已经有work了，不解释。注意字母互换p=v。
+  cluster:
+    - group
+    - work
+    - lifetime
+    - writer
+    - artist
+    - composer
+- word: manure
+  freq: 10033
+  use: -1
+  pos: MASS NOUN
+  meaning: Manure is animal feces, sometimes mixed with chemicals, that is spread on the ground in order to make plants grow healthy and strong.
+  sent: '...bags of manure.'
+  roots:
+    man: "*man-(2) | hand"
+    euv: "*op- | to work, produce in abundance"
+  exp: 这词本意是指work with the hands，到后来引申成用于培育、生产的事物，于是就表示肥料了。
+  cluster:
+    - animal
+    - feces
+    - chemical
+    - spread
+    - ground
+    - plants
+    - grow
+    - healthy
+    - strong
+    - bags
+- word: opera
+  freq: 3888
+  use: 0
+  pos: VARIABLE NOUN
+  meaning: An opera is a play with music in which all the words are sung.
+  sent: '...a one-act opera about contemporary women in America.'
+  roots:
+    op: "*op- | to work, produce in abundance"
+  exp: 就是a work, labor, effort, composition的概念，不解释。
+  cluster:
+    - play
+    - music
+    - words
+  related:
+    - operatic
+- word: cooperate
+  freq: 4053
+  use: 45
+  pos: RECIPROCAL VERB
+  meaning: If you cooperate with someone, you work with them or help them for a particular purpose. You can also say that two people cooperate.
+  sent: The U.N. had been cooperating with the State Department on a plan to find countries willing to take the refugees.
+  roots:
+    com: com- | together
+    op: "*op- | to work"
+  exp: work together，不解释。
+  related:
+    - cooperation
+- word: maneuver
+  freq: 7320
+  use: 62
+  pos: PLURAL NOUN
+  meaning: If you maneuver something into or out of an awkward position, you skillfully move it there.
+  sent: That will allow them to maneuver the satellite into the shuttle's cargo bay.
+  roots:
+    man: "*man-(2) | hand"
+    euv: "*op- | to work, produce in abundance"
+  exp: 是work with the hands的感觉——用手将某物移至它处。另，Collins的这个释义其实给得不好。应该是If you maneuver something into a position or out of an awkward position——虽然哆嗦一些，但是表达更准确。
+  cluster:
+    - postiion
+    - skillfully
+    - move
+  related:
+    - maneuvering
+- word: aggressive
+  freq: 2538
+  use: -1
+  pos: ADJECTIVE
+  meaning: An aggressive person or animal has a quality of anger and determination that makes them ready to attack other people.
+  sent: Some children are much more aggressive than others.
+  roots:
+    ag: ad- | to
+    gress: "*ghredh- | to walk, go"
+  exp: 这里的walk, go表达的是一种"越界"的感觉，所以和aggressive相关。
+  cluster:
+    - quality
+    - anger
+    - determination
+    - attack
+  related:
+    - aggression
+    - aggressively
+- word: degrade
+  freq: 8605
+  use: 128
+  pos: TRANSITIVE VERB
+  meaning: Something that degrades someone causes people to have less respect for them.
+  sent: '...the notion that pornography degrades women.'
+  roots:
+    de: dis- | down
+    grade: "*ghredh- | to walk, go"
+  exp: 走下坡路，降级的感觉。
+  related:
+    - degradation
+- word: regression
+  freq: 5467
+  use: 11
+  pos: NOUN
+  meaning: a regressing, or going back; return; movement backward
+  sent: regression curve
+  roots:
+    re: re- | back
+    grade: "*ghredh- | to walk, go"
+  exp: step back的感觉，不解释。
+  related:
+    - regress
+    - regressive
+- word: transgression
+  freq: 12869
+  use: 40
+  pos: NOUN
+  meaning: the act or an instance of transgressing; breach of a law, duty, etc.; sin
+  roots:
+    trans: trans- | across, beyond
+    gress: "*ghredh- | to walk, go"
+  exp: go across，也就是越界的感觉，所以和breach of a law有关。
+- word: gradual
+  freq: 6893
+  use: 9
+  pos: ADJECTIVE
+  meaning: A gradual change or process occurs in small stages over a long period of
+    time, rather than suddenly.
+  sent: Losing weight is a slow, gradual process.
+  roots:
+    grad: "*ghredh- | to walk, go"
+  exp: 借的是*ghredh-中step的那层意思。一级一级的变化，所以是逐渐的感觉。
+  related:
+    - gradually
+- word: gradient
+  freq: 14910
+  use: 21
+  pos: COUNTABLE NOUN
+  meaning: A gradient is a slope, or the degree to which the ground slopes.
+  roots:
+    grad: "*ghredh- | to walk, go"
+  exp: 借的是*ghredh-中step的那层意思，是逐级变化的感觉。
+- word: ingredient
+  freq: 2613
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Ingredients are the things that are used to make something, especially
+    all the different foods you use when you are cooking a particular dish.
+  sent: Mix in the remaining ingredients.
+  roots:
+    in: "*en | in "
+    gred: "*ghredh- | to walk, go"
+  exp: 两个词根连起来就是go in的意思。什么叫配方呢？就是"放进去的东西"。
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (28, '*leip-'),
-# (28, '*op-'),
-# (29, '*dekm-'),
-# (29, '*ghredh-'),
 # (29, '*pet-'),
 # (29, '*pleu-'),
 # (29, '*weg-'),

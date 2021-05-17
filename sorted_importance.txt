@@ -8002,7 +8002,7 @@ critique	5040	15	*krei-
 compensate	5099	15	*(s)pen-
 prosperity	5142	15
 cult	5319	15	*kwel-
-optimism	5472	15	*op-
+optimism	5472	15
 precision	5538	15	*kae-id-
 vocabulary	5640	15	*wekw-
 sophomore	6013	15
@@ -9902,7 +9902,7 @@ protester	6282	0	*per-
 beautifully	6302	0
 turning	6307	0
 confusing	6319	0
-aggressively	6322	0
+aggressively	6322	0   *ghredh-
 eagle	6347	0
 unusually	6364	0
 lender	6365	0
@@ -10827,7 +10827,7 @@ experimentally	16977	0
 galvanized	16990	0
 sprinter	16995	0
 preventable	16996	0	*gwa-
-maneuvering	17006	0
+maneuvering	17006	0   *man-,	*op-
 uncontrollably	17008	0
 litmus	17009	0
 betrayed	17026	0
@@ -11216,7 +11216,7 @@ brother	615	-1	*bhrater-
 summer	619	-1
 daughter	635	-1
 south	637	-1	*sawel-
-ongress	639	-1
+Congress	639	-1  *ghredh-
 population	643	-1
 medical	647	-1	*med-
 hospital	648	-1	*ghos-ti-
@@ -14117,7 +14117,7 @@ marginalize	11277	-1	*merg-
 Nigerian	11284	-1
 sidebar	11285	-1	*oi-no-
 treasurer	11290	-1	*dhe-
-optimum	11297	-1	*op-
+optimum	11297	-1
 treasury	11298	-1
 conceptualize	11304	-1
 revolver	11305	-1	*wel-
