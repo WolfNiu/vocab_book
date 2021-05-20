@@ -636,3 +636,13 @@ misc:
     - competent
     - incompetent
     - competency
+"*pleu-":
+  meaning: to flow
+  exp: 首先是超常用词fly(945,203)，注意f=p。它和flow有联系是因为fly表示move through the air with wings，相当于随着气流(air flow)流动。flight(1302,35)也是同样的道理。当然了，flow(1997,71)本身也是从*pleu-来的。
+  related:
+    - flyer
+    - inflow
+    - outflow
+    - flight
+    - flying
+    - overflow

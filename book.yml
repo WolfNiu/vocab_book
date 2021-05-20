@@ -5507,29 +5507,90 @@
     - official group
   related:
     - petitioner
+- word: flee
+  freq: 2965
+  use: 85
+  pos: VERB
+  meaning: If you flee from something or someone, or flee a person or thing, you escape from them.
+  sent: He slammed the bedroom door behind him and fled.
+  roots:
+    flee: "*pleu- | to flow"
+  exp: 借的是*pleu-中fly的那层意思——fly from就是avoid，escape的感觉。
+  related:
+    - fleeing
+- word: flood
+  freq: 3617
+  use: 52
+  pos: VARIABLE NOUN
+  meaning: If there is a flood, a large amount of water covers an area which is usually dry, for example, when a river flows over its banks or a pipe bursts.
+  sent: More than 70 people were killed in the floods, caused when a dam burst.
+  roots:
+    flood: "*pleu- | to flow"
+  exp: flood就是大量的流(flow)。
+- word: float
+  freq: 3166
+  use: 51
+  pos: INTRANSITIVE VERB
+  meaning: If something or someone is floating in a liquid, they are in the liquid,
+    on or just below the surface, and are being supported by it. You can also float
+    something on a liquid.
+  sent: They noticed fifty and twenty dollar bills floating in the water.
+  roots:
+    float: "*pleu- | to flow"
+  exp: 漂(float)在流(flow)水上。
+  related:
+    - afloat
+- word: fleet
+  freq: 4493
+  use: 47
+  pos: COUNTABLE NOUN
+  meaning: A fleet is a group of ships organized to do something together, for example, to fight battles or to catch fish.
+  sent: A fleet sailed for New South Wales to establish the first European settlement in Australia.
+  roots:
+    fleet: "*pleu- | to flow"
+  exp: 从flow衍生出了sail(航行)的概念，所以和fleet相关。
+  related:
+    - fleeting
+- word: flutter
+  freq: 8189
+  use: 94
+  pos: INTRANSITIVE VERB
+  meaning: If something thin or light flutters, or if you flutter it, it moves up and down or from side to side with a lot of quick, light movements.
+  sent: Her chiffon skirt was fluttering in the night breeze.
+  roots:
+    flut: "*pleu- | to flow"
+  exp: 从flow发展出了更generalized的"移动"的概念。另外后缀-er接动词也经常表示动作的反复，所以flutter就和quick, light movements挂钩了。
+- word: flit
+  freq: 14939
+  use: 26
+  pos: INTRANSITIVE VERB
+  meaning: If you flit around or flit between one place and another, you go to lots of places without staying for very long in any of them.
+  sent: Laura flits about New York hailing taxis at every opportunity.
+  roots:
+    flit: "*pleu- | to flow"
+  exp: 借的是*pleu-中移动的那层意思，对应释义中的go to los of places。
+- word: fledgling
+  freq: 10614
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A fledgling is a young bird that has its feathers and is learning to fly.
+  sent: '...when fledglings are almost ready to leave the nests.'
+  roots:
+    fledg: "*pleu- | to flow"
+    ling: -ling | diminutive suffix
+  exp: 借的是*pleu-中fly的那层意思，再加上diminutive的概念，就表示young bird了。
+  related:
+    - full-fledged
+- word: fowl
+  freq: 17437
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A fowl is a bird, especially one that can be eaten as food, such as a duck or a chicken.
+  sent: Carve the fowl into 8 pieces.
+  roots:
+    fowl: "*pleu- | to flow"
+  exp: 借的是*pleu-中fly的那层意思，不解释。
 
-fly     946     203     *pleu-
-flutter 8189    94      *pleu-
-flee    2965    85      *pleu-
-overflow        9489    84      *pleu-
-flow    1997    71      *pleu-
-flying  4954    64      *pleu-
-flood   3617    52      *pleu-
-float   3166    51      *pleu-
-fleet   4493    47      *pleu-
-flight  1302    35      *pleu-
-fleeting        10788   33      *pleu-
-flit    14939   26      *pleu-
-outflow 17132   24      *pleu-
-full-fledged    13167   22      *pleu-
-flyer   11005   18      *pleu-
-afloat  11529   7       *pleu-
-pneumonia       8807    -1      *pleu-
-fledgling       10614   -1      *pleu-
-plutonium       11218   -1      *pleu-
-pulmonary       13457   -1      *pleu-
-inflow  16218   -1      *pleu-
-fowl    17437   -1      *pleu-
 
 
 ## TODO: finish all "related" tabs in root.yml

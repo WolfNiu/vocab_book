@@ -11147,7 +11147,7 @@ stalking	19939	0
 post-mortem	19940	0	*mer-
 escaping	19941	0
 skinless	19942	0	*sek-
-fluttering	19945	0
+fluttering	19945	0   *pleu-
 blow-up	19960	0
 engraved	19973	0
 revamped	19988	0
@@ -15428,7 +15428,7 @@ hustler	15571	-1
 flunk	15572	-1
 drab	15573	-1
 well-defined	15574	-1
-fleeing	15575	-1
+fleeing	15575	-1  *pleu-
 enriched	15576	-1
 denigrate	15577	-1
 pained	15578	-1
