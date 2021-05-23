@@ -80,7 +80,7 @@ touch	1170	311
 way	84	308	*wegh-
 cut	415	306
 awful	3304	305
-wicked	7874	304	*weg-
+wicked	7874	304
 figure	553	303	*dheigh-
 lot	239	301
 smart	1869	301	*mer-
@@ -4152,7 +4152,7 @@ instantly	4210	47	*sta-
 fleet	4493	47	*pleu-
 loyal	4824	47	*leg-
 overwhelm	4856	47
-witch	5363	47	*weg-
+witch	5363	47
 circus	6131	47	*sker-
 deprive	6290	47	*per-
 hose	6316	47	*(s)keu-
@@ -7324,7 +7324,7 @@ sweetly	12977	20
 fluctuate	13035	20	*bhel-
 apparition	13115	20
 behemoth	13657	20
-waffle	13747	20	*weg-
+waffle	13747	20
 limitless	13986	20
 informational	13991	20
 snuggle	14278	20

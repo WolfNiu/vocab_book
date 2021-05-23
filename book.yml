@@ -5590,12 +5590,81 @@
   roots:
     fowl: "*pleu- | to flow"
   exp: 借的是*pleu-中fly的那层意思，不解释。
-
+- word: waft
+  freq: 12160
+  use: 40
+  pos: VERB
+  meaning: If sounds or smells waft through the air, or if something such as a light wind wafts them, they move gently through the air.
+  sent: The scent of climbing roses wafts through the window.
+  roots:
+    waft: "*weg- | to be strong, be lively"
+  exp: 这里的*weg-主要表现的是那种"暗香涌动"中"涌"的感觉。
+- word: surveillance
+  freq: 4881
+  use: 29
+  pos: UNCOUNTABLE NOUN
+  meaning: Surveillance is the careful watching of someone, especially by an organization such as the police or the army.
+  sent: He was arrested after being kept under constant surveillance.
+  roots:
+    sur: sur-(1) | over
+    veil: "*weg- | to be strong, be lively"
+  exp: 借的是*weg-中watchful的那层意思。
+- word: velocity
+  freq: 6660
+  use: 19
+  pos: VARIABLE NOUN
+  meaning: Velocity is the speed at which something moves in a particular direction.
+  sent: '...the velocities at which the stars orbit.'
+  roots:
+    vel: "*weg- | to be strong, be lively"
+  exp: 用的是lively的感觉，不解释。
+- word: vigor
+  freq: 10003
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Vigor is physical or mental energy and enthusiasm.
+  sent: He has approached his job with renewed vigor.
+  roots:
+    vig: "*weg- | to be strong, be lively"
+  exp: 释义中的energy和enthusiasm都和strong, lively高度相关。用"伟哥"记也行。
+  related:
+    - vigorous
+    - invigorating
+    - reinvigorate
+- word: vegetation
+  freq: 6367
+  use: 7
+  pos: UNCOUNTABLE NOUN
+  meaning: Plants, trees, and flowers can be referred to as vegetation.
+  sent: The inn has a garden of semi-tropical vegetation.
+  roots:
+    veg: "*weg- | to be strong, be lively"
+  exp: 和vegetable（1948,-1)一样借的是*weg-中"茁壮成长"的那层意思。
+- word: vigilant
+  freq: 11840
+  use: 38
+  pos: ADJECTIVE
+  meaning: Someone who is vigilant gives careful attention to a particular problem or situation and concentrates on noticing any danger or trouble that there might be.
+  sent: He warned the public to be vigilant and report anything suspicious.
+  roots:
+    vig: "*weg- | to be strong, be lively"
+  exp: 借的是*weg-中watchful的那层意思，所以释义中会有"careful attention"。
+  related:
+    - vigilance
+    - vigilante
+- word: vigil
+  freq: 10400
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A vigil is a period of time when people remain quietly in a place, especially at night, for example, because they are praying or are making a political protest.
+  sent: Protesters are holding a twenty-four hour vigil outside the socialist party headquarters.
+  roots:
+    vig: "*weg- | to be strong, be lively"
+  exp: 表面来看，释义中有quietly，应该和*weg-中的lively反义才对；实际上在这种political protest过程中大家都是watchful的状态，往往对被抗议的对象怒目而视，而不是坐在那儿就睡着了。
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (29, '*weg-'),
 # (30, '*wal-'),
 # (31, '*ak-'),
 # (31, '*klei-'),
