@@ -5754,6 +5754,36 @@
     - ambivalence
 
 
+hammer  6321    186     *ak-
+edge    980     172     *ak-
+acid    3265    101     *ak-
+acute   5320    101     *ak-
+acrid   19584   72      *ak-
+acidic  14796   60      *ak-
+eager   3148    46      *ak-
+vinegar 5171    45      *ak-
+egg     1383    40      *ak-,   *awi-
+acidity 18311   34      *ak-
+paragon 20076   32      *ak-
+ear     1344    24      *ak-
+acumen  18641   23      *ak-
+acuity  16480   4       *ak-
+acrobat 20193   4       *ak-,   *gwa-
+oxygen  3875    -1      *ak-
+oxide   10023   -1      *ak-
+mediocre        10683   -1      *ak-,   *medhyo-
+acrylic 13122   -1      *ak-
+polyester       13703   -1      *ak-
+monoxide        13774   -1      *ak-
+acronym 13949   -1      *ak-,   *no-men-
+acne    14300   -1      *ak-
+acupuncture     15892   -1      *ak-
+mediocrity      17212   -1      *ak-,   *medhyo-
+dioxin  18823   -1      *ak-
+oxidation       19927   -1      *ak-
+peroxide        19967   -1      *ak-
+
+
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # (31, '*ak-'),

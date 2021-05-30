@@ -661,10 +661,8 @@ misc:
     - vegan
     - vegetarian
 "*wal-":
-  meaning: to be strong
-  exp: 涉及到的第一个超常用词是value(500,117)——strong才有价值。第二个是available(623,40)。
-
-  最后一个evaluate(2360, -1)
+  meaning: to be strong, be lively
+  exp: 涉及到的第一个超常用词是value(500,117)——strong才有价值。第二个是available(623,40)——只有lively的事物才是available的，而没有生气的事物则都die out了。最后一个evaluate(2360, -1) = e(ex-:out) + val(=*wal-)。这个词直接用value理解即可。所谓评估就是估计出(out)一个事物的价值(value)。
   related:
     - valuable
     - invaluable
