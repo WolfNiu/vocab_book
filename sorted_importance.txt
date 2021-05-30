@@ -8032,7 +8032,7 @@ rainfall	9387	15
 billionaire	9713	15
 stuck	9718	15
 backfire	10850	15
-ambivalent	10980	15
+ambivalent	10980	15  *wal-
 primer	11151	15	*per-
 moderation	11242	15	*med-
 articulation	11295	15
@@ -10521,7 +10521,7 @@ layered	13290	0
 publicized	13291	0
 hooded	13295	0
 cartoonist	13297	0
-re-evaluate	13301	0
+re-evaluate	13301	0   *wal-
 listed	13302	0
 elongated	13308	0
 grazing	13319	0
@@ -11608,7 +11608,7 @@ poverty	2354	-1	*pau-
 entry	2356	-1
 spending	2358	-1
 king	2359	-1	*gene-
-evaluate	2360	-1
+evaluate	2360	-1  *wal-
 symbol	2361	-1	*gwele-
 maker	2364	-1	*mag-
 mood	2365	-1	*med-

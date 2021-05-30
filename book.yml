@@ -5661,11 +5661,101 @@
   roots:
     vig: "*weg- | to be strong, be lively"
   exp: 表面来看，释义中有quietly，应该和*weg-中的lively反义才对；实际上在这种political protest过程中大家都是watchful的状态，往往对被抗议的对象怒目而视，而不是坐在那儿就睡着了。
+- word: valiant
+  freq: 17095
+  use: 68
+  pos: ADJECTIVE
+  meaning: A valiant action is very brave and determined, though it may lead to failure or defeat.
+  sent: Despite valiant efforts by the finance minister, inflation rose to 36%.
+  roots:
+    val: "*weg- | to be strong, be lively"
+  exp: 释义中有brave和determined，显然是strong, lively的感觉。
+- word: valid
+  freq: 4758
+  use: 60
+  pos: ADJECTIVE
+  meaning: A valid argument, comment, or idea is based on sensible reasoning.
+  sent: They put forward many valid reasons for not exporting.
+  roots:
+    val: "*weg- | to be strong, be lively"
+  exp: 只有based on sensible reasoning才是有力量(strong)、有活力(lively)的。
+  related:
+    - invalid
+    - validate
+    - validation
+    - invalidate
+    - validity
+- word: valor
+  freq: 18481
+  use: 33
+  pos: UNCOUNTABLE NOUN
+  meaning: Valor is great bravery, especially in battle.
+  roots:
+    val: "*weg- | to be strong, be lively"
+  exp: bravery和strong, lively高度相关， 不解释。
+- word: wield
+  freq: 7597
+  use: 10
+  pos: TRANSITIVE VERB
+  meaning: If you wield a weapon, tool, or piece of equipment, you carry and use it.
+  sent: He was attacked by a man wielding a knife.
+  roots:
+    weild: "*weg- | to be strong, be lively"
+  exp: 最能帮助我理解*weg-这个词根和单词关系的，是在游戏Hearstone中，Jaina出场的时候会说一句"Do not fear power; fear those whose wield it."——能驾驭一种weapon，tool或者equipment，就是strong，lively的表现。
+  related:
+    - unwieldy
+- word: prevail
+  freq: 4795
+  use: 66
+  pos: INTRANSITIVE VERB
+  meaning: If a proposal, principle, or opinion prevails, it gains influence or is accepted, often after a struggle or argument.
+  sent: We hoped that common sense would prevail.
+  roots:
+    pre: pre- | before
+    vail: "*weg- | to be strong, be lively"
+  exp: gains influence和be accepted都是一个观点(opinion) strong, lively的感觉；反之则造不成什么影响，也没人接受。
+  related:
+    - prevailing
+    - prevalent
+    - prevalence
+- word: avail
+  freq: 14789
+  use: 42
+  pos: TRANSITIVE VERB
+  meaning: If you avail yourself of an offer or an opportunity, you accept the offer or make use of the opportunity.
+  sent: Guests should feel at liberty to avail themselves of your facilities.
+  roots:
+    a: ad- | to
+    vail: "*wal- | to be strong, be lively"
+  exp: avail的本意是help, assist的意思，都与strong, lively相关。从释义中可以看出，avail yourself基本也就是help yourself的感觉。
+- word: equivalent
+  freq: 4377
+  use: 19
+  pos: SINGULAR NOUN
+  meaning: If one amount or value is the equivalent of another, they are the same.
+  sent: Mr. Li's pay is the equivalent of about $80 a month.
+  roots:
+    equi: equi- | equal, having equal
+    val: "*wal- | to be strong, be lively"
+  exp: One as strong the other --> equivalent.
+  related:
+    - equivalence
+- word: ambivalent
+  freq: 10980
+  use: 15
+  pos: ADJECTIVE
+  meaning: If you say that someone is ambivalent about something, they seem to be uncertain whether they really want it, or whether they really approve of it.
+  sent: She remained ambivalent about her marriage.
+  roots:
+    ambi: ambi- | both, on both sides
+    val: "*wal- | to be strong, be lively"
+  exp: 觉得两边(both sides)都挺strong的，很难抉择。
+  related:
+    - ambivalence
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (30, '*wal-'),
 # (31, '*ak-'),
 # (31, '*klei-'),
 # (31, '*meg-'),
