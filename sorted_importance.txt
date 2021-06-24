@@ -4806,7 +4806,7 @@ source	597	40	*reg-
 available	623	40	*wal-
 artist	737	40	*ar-
 stare	1134	40	*ster-
-egg	1383	40	*ak-,	*awi-
+egg	1383	40	*awi-
 neck	1529	40
 surround	1608	40	*wed-
 pursue	1799	40	*sekw-
@@ -6672,7 +6672,7 @@ size	753	24	*sed-
 investment	1044	24	*eu-
 eventually	1110	24	*gwa-
 additional	1326	24	*ad-,	*do-
-ear	1344	24	*ak-
+ear	1344	24
 aware	1445	24	*wer-
 ultimately	1787	24
 welfare	1947	24	*per-
@@ -14730,7 +14730,7 @@ Filipino	13691	-1
 nah	13694	-1	*aiw-,	*ne-
 little-known	13697	-1
 cardiologist	13699	-1
-polyester	13703	-1	*ak-
+polyester	13703	-1
 bribery	13712	-1
 land-use	13713	-1
 broadband	13714	-1

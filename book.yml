@@ -5752,42 +5752,195 @@
   exp: 觉得两边(both sides)都挺strong的，很难抉择。
   related:
     - ambivalence
+- word: hammer
+  freq: 6321
+  use: 186
+  pos: COUNTABLE NOUN
+  meaning: A hammer is a tool that consists of a heavy piece of metal at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall, or to break things into pieces.
+  sent: He used a hammer and chisel to chip away at the wall.
+  roots:
+    ham: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: hammer的本意就是sharp stone used as a tool。这个词字母互换比较难想，主要是h=k的互换。
+- word: eager
+  freq: 3148
+  use: 46
+  pos: ADJECTIVE
+  meaning: If you are eager to do or have something, you want to do or have it very much.
+  sent: Robert was eager to talk about life in the Army.
+  roots:
+    eag: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: 借的是*ak-中keen(6609,374)的那层意思。所谓eager就是那种lively, active，特别想要的那种感觉，所以和keen高度相关。而keen又和sharp相关。
+- word: vinegar
+  freq: 5171
+  use: 45
+  pos: MASS NOUN
+  meaning: Vinegar is a sharp-tasting liquid, usually made from sour wine or malt, that is used in cooking to make things such as salad dressing.
+  roots:
+    vin: wine
+    eg: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: 这个词根本来很难想，但释义中正好有sharp-tasting的字眼。所谓酸，就是一种刺激性很强的味道，而这正是sharp所表达的感觉。同理，我们在讲acid(3265,101)的时候也用到的是相同感觉。
+- word: acid
+  freq: 3265
+  use: 101
+  pos: MASS NOUN
+  meaning: An acid is a chemical substance, usually a liquid, which contains hydrogen and can react with other substances to form salts. Some acids burn or dissolve other substances that they come into contact with.
+  sent: '...citric acid.'
+  roots:
+    ac: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: acid是一种sharp taste，也就是有很强刺激性的味道。
+  related:
+    - acidic
+    - acidity
+- word: acrid
+  freq: 19584
+  use: 72
+  pos: ADJECTIVE
+  meaning: An acrid smell or taste is strong and sharp, and usually unpleasant.
+  sent: The room filled with the acrid smell of tobacco.
+  roots:
+    acr: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: 释义中已经有sharp了，不解释。和acid(3265,101)是相同的感觉。
+- word: acute
+  freq: 5320
+  use: 101
+  pos: ADJECTIVE
+  meaning: You can use acute to indicate that an undesirable situation or feeling is very severe or intense.
+  sent: The war has aggravated an acute economic crisis.
+  roots:
+    ac: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: 释义中的servere和intense都是从sharp引申出来的。
+  related:
+    - acuity
+- word: acumen
+  freq: 18641
+  use: 23
+  pos: UNCOUNTABLE NOUN
+  meaning: Acumen is the ability to make good judgments and quick decisions.
+  roots:
+    ac: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: 借的是*ak-中keen的那层意思，于是才能make good judgments and quick decisions。
+- word: paragon
+  freq: 20076
+  use: 32
+  pos: COUNTABLE NOUN
+  meaning: If you refer to someone as a paragon, you mean that they are perfect or have a lot of a good qualities.
+  sent: We don't expect candidates to be paragons of virtue.
+  roots:
+    para: para-(1) | alongside, beyond; altered; contrary; irregular, abnormal
+    ag: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: 这个词本来表示"试金石"，一般是用金、银往这种石头上画个道儿，以条痕来判断金属的成色。所以这个词才能跟sharp有关，因为是在磨这个金属。后来才引申成了牛逼人物的意思，因为这些人都是经过打磨，经过磨练的。
+- word: mediocre
+  freq: 10683
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe something as mediocre, you mean that it is of average quality but you think it should be better.
+  sent: His school record was mediocre.
+  roots:
+    medi: "*medhyo- | middle"
+    ocr: "*ak- | be sharp, rise (out) to a point, pierce"
+  exp: 也就是中不溜儿锋利(sharp/keen)吧，所以比较平庸。
+  related:
+    - mediocrity
+- word: oxygen
+  freq: 3875
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Oxygen is a colorless gas that exists in large quantities in the air. All plants and animals need oxygen in order to live.
+  sent: The human brain needs to be without oxygen for only four minutes before permanent damage occurs.
+  roots:
+    oxy: "*ak- | be sharp, rise (out) to a point, pierce"
+    gen: -gen | thing that produces or causes
+  exp: 这里边的*ak-表示acid，是从sharp的概念引申出来的。对于这个词的衍生词，不学化学相关专业的可以考虑跳过。
+  related:
+    - oxide
+    - monoxide
+    - oxidation
+    - peroxide
+    - dioxin
+- word: acrobat
+  freq: 20193
+  use: 4
+  pos: COUNTABLE NOUN
+  meaning: An acrobat is an entertainer who performs difficult physical acts such as jumping and balancing, especially in a circus.
+  sent: a political acrobat
+  roots:
+    acro: "*ak- | be sharp, rise (out) to a point, pierce"
+    bat: "*gwa- | to go, come"
+  exp: 首先先解释一下啥叫political acrobat。在政坛往往有那种不安分，整天上蹿下跳的人，而political acrobat正表示a person noted for his or her frequent and rapid changes of position or allegiances。词根上sharp + go表示"在针尖上跳舞"的感觉。
+- word: acrylic
+  freq: 13122
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Acrylic material is artificial and is manufactured by a chemical process.
+  sent: '...her pink acrylic sweater.'
+  roots:
+    acr: "*ak- | be sharp, rise (out) to a point, pierce"
+    yl: "*hed- | to smell"
+  exp: 借的是*ak-中acid的那层意思，和chemical process相关。*hed-这个词根不是很常用，只能硬记了。
+- word: acronym
+  freq: 13949
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An acronym is a word composed of the first letters of the words in a phrase, especially when this is used as a name. An example of an acronym is NATO which is made up of the first letters of the 'North Atlantic Treaty Organization.'
+  roots:
+    acro: "*ak- | be sharp, rise (out) to a point, pierce"
+    nym: "*no-men- | name"
+  exp: 从sharp引申出简洁的意思，所以aconym就是简洁的name。
+- word: inclined
+  freq: 5686
+  use: 62
+  pos: ADJECTIVE
+  meaning: If you are inclined to behave in a particular way, you often behave in that way, or you want to do so.
+  sent: Nobody felt inclined to argue with Smith.
+  roots:
+    in: in- | into, in, on, upon
+    cline: "*klei- | to lean"
+  exp: 表达的是"have a mental disposition toward"的感觉——也就是一种心理上的倾向(lean)。
+  related:
+    - inclination
+    - incline
+- word: climax
+  freq: 10953
+  use: 67
+  pos: COUNTABLE NOUN
+  meaning: The climax of something is the most exciting or important moment in it, usually near the end.
+  sent: For Pritchard, reaching the Olympics was the climax of her career.
+  roots:
+    clim: "*klei- | to lean"
+  exp: 借的是*keli-中steps的那层意思，整个词表达的是escalating stpes的感觉，而其尽头自然是high point，最高点。至于大家心里想的"性高潮"，则是1880年以后才出现的用法。
+- word: clemency
+  freq: 19364
+  use: 61
+  pos: UNCOUNTABLE NOUN
+  meaning: If someone is granted clemency, they are punished less severely than they could be.
+  sent: Seventeen prisoners held on death row are to be executed after their pleas for clemency were turned down.
+  roots:
+    clem: "*klei- | to lean"
+  exp: 借的是*klei-中to lower的那层意思，对应释义中的less severely。
+- word: lid
+  freq: 4711
+  use: 37
+  pos: COUNTABLE NOUN
+  meaning: A lid is the top of a box or other container which can be removed or raised when you want to open the container.
+  sent: She lifted the lid of the box and displayed the contents.
+  roots:
+    lid: "*klei- | to lean"
+  exp: 其实就是that which bends over的意思，其中bend和lean高度相关。用中文解释一遍：所谓盖子就是能弯下来把口堵住的东西。
+- word: ladder
+  freq: 4556
+  use: 27
+  pos: COUNTABLE NOUN
+  meaning: A ladder is a piece of equipment used for climbing up something or down from something. It consists of two long pieces of wood, metal, or rope with steps fixed between them.
+  sent: He climbed the ladder to the next deck.
 
-
-hammer  6321    186     *ak-
-edge    980     172     *ak-
-acid    3265    101     *ak-
-acute   5320    101     *ak-
-acrid   19584   72      *ak-
-acidic  14796   60      *ak-
-eager   3148    46      *ak-
-vinegar 5171    45      *ak-
-egg     1383    40      *ak-,   *awi-
-acidity 18311   34      *ak-
-paragon 20076   32      *ak-
-ear     1344    24      *ak-
-acumen  18641   23      *ak-
-acuity  16480   4       *ak-
-acrobat 20193   4       *ak-,   *gwa-
-oxygen  3875    -1      *ak-
-oxide   10023   -1      *ak-
-mediocre        10683   -1      *ak-,   *medhyo-
-acrylic 13122   -1      *ak-
-polyester       13703   -1      *ak-
-monoxide        13774   -1      *ak-
-acronym 13949   -1      *ak-,   *no-men-
-acne    14300   -1      *ak-
-acupuncture     15892   -1      *ak-
-mediocrity      17212   -1      *ak-,   *medhyo-
-dioxin  18823   -1      *ak-
-oxidation       19927   -1      *ak-
-peroxide        19967   -1      *ak-
+proclivity      19426   60      *klei-
+ladder  4556    27      *klei-
+recline 16456   -1      *klei-
+recliner        18790   -1      *klei-
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (31, '*ak-'),
-# (31, '*klei-'),
 # (31, '*meg-'),
 # (31, '*peuk-'),
 # (32, '*apo-'),

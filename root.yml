@@ -672,3 +672,17 @@ misc:
     - evaluator
     - evaluation
     - re-evaluate
+"*ak-":
+  meaning: be sharp, rise (out) to a point, pierce
+  exp: 这个词根涉及到的超常用词是edge(980,172)，和sharp高度相关。字母互换上k=dg。
+"*klei-":
+  meaning: to lean
+  exp: 涉及到的超常用词是low(361,485)。人如果弯下腰来，肯定就低下来了。其衍生词below(1457,33)，lower(2068,-1)也都是常用词。第二词是lean(1530,115)本身，虽然对很多人来说这词可能并不常用。之后是client(1161,22)，表达的感觉是one who leans on another for protection。确实，顾客就是用来照顾的。下一个词decline(2014,-1) = de(=de-:down, off, away, from among, down from) + cline(=*klei-)，给人的感觉是to lower; avoid, deviate; bend from, inflect。因此"拒绝"最早其实表达的是"避免冲突"的感觉。再下一个climate(2121,-1)，用的是*klei-中steps的那层意思，而lean和steps的关系是：steps往往意味着向上或者向下倾斜(lean)。climate的本意是region; slope of the earth，后来因为地球各纬度气候往往不同，才表示的天气。最后clinic(2410,-1)，本意是bed，后来发展成bedridden person，也就是卧床不起的人。再之后才表示诊所。而bed正是用来靠(lean)的。
+  related:
+    - lowly
+    - leaning
+    - climatic
+    - climactic
+    - clientele
+    - clinical
+    - clinician
