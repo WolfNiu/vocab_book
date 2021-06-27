@@ -5932,11 +5932,31 @@
   pos: COUNTABLE NOUN
   meaning: A ladder is a piece of equipment used for climbing up something or down from something. It consists of two long pieces of wood, metal, or rope with steps fixed between them.
   sent: He climbed the ladder to the next deck.
-
-proclivity      19426   60      *klei-
-ladder  4556    27      *klei-
-recline 16456   -1      *klei-
-recliner        18790   -1      *klei-
+  roots:
+    lad: "*klei- | to lean"
+  exp: 借的是*klei-中steps的那层意思，不解释。
+- word: recline
+  freq: 16456
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If you recline on something, you sit or lie on it with the upper part of your body supported at an angle.
+  sent: She proceeded to recline on a chaise longue.
+  roots:
+    re: re- | back, against
+    cline: "*klei- | to lean"
+  exp: lean back，不解释。例句里的chaise longue是躺椅——不买家具一般用不上。
+  related:
+    - recliner
+- word: proclivity
+  freq: 19426
+  use: 60
+  pos: COUNTABLE NOUN
+  meaning: A proclivity is a tendency to behave in a particular way or to like a particular thing, often a bad way or thing.
+  sent: He was indulging his own sexual proclivities.
+  roots:
+    pro: pro- | forward
+    cliv: "*klei- | to lean"
+  exp: 词根中的*klei-对应的是释义中的tendency——也就是lean toward(倾向于)的感觉。比如"He was leaning toward entering the race for governor."
 
 
 ## TODO: finish all "related" tabs in root.yml
