@@ -5957,12 +5957,89 @@
     pro: pro- | forward
     cliv: "*klei- | to lean"
   exp: 词根中的*klei-对应的是释义中的tendency——也就是lean toward(倾向于)的感觉。比如"He was leaning toward entering the race for governor."
+- word: punch
+  freq: 4393
+  use: 207
+  pos: TRANSITIVE VERB
+  meaning: If you punch someone or something, you hit them hard with your fist.
+  sent: After punching him on the chin she wound up hitting him over the head.
+  roots:
+    punch: "*peuk- | to prick"
+  exp: punch和prick都是向前杵的感觉。
+- word: pounce
+  freq: 12857
+  use: 0
+  pos: INTRANSITIVE VERB
+  meaning: If someone pounces on you, they come up toward you suddenly and take hold of you.
+  sent: He pounced on the photographer, beat him up, and smashed his camera.
+  roots:
+    pounce: "*peuk- | to prick"
+  exp: 借的是prick"向前"的那层意思。
+- word: repugnant
+  freq: 18910
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you think that something is horrible and disgusting, you can say that it is repugnant.
+  sent: Everything about the affair was repugnant to her.
+  roots:
+    re: re- | back, against, in oppostion
+    pugn: "*peuk- | to prick"
+  exp: 两个词根合起来是fight back, resist的意思。如果一个事物很让人抗拒(resist)，它就是repugnant的。
+- word: pungent
+  freq: 13444
+  use: 104
+  pos: ADJECTIVE
+  meaning: Something that is pungent has a strong, sharp smell or taste which is often so strong that it is unpleasant.
+  sent: The more herbs you use, the more pungent the sauce will be.
+  roots:
+    pung: "*peuk- | to prick"
+  exp: 表达的是味道"有冲击性"的感觉，所以和prick相关。
+- word: poignant
+  freq: 9901
+  use: -1
+  pos: ADJECTIVE
+  meaning: Something that is poignant affects you deeply and makes you feel sadness or regret.
+  sent: '...a poignant combination of beautiful surroundings and tragic history.'
+  roots:
+    poign: "*peuk- | to prick"
+  exp: 说某事对一个人打击特别大，就是poignant要表达的感觉了。所以和prick相关。
+- word: punctuation
+  freq: 16520
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Punctuation is the use of symbols such as periods, commas, or question marks to divide written words into sentences and clauses.
+  sent: He was known for his poor grammar and punctuation.
+  roots:
+    punct: "*peuk- | to prick"
+  exp: 借的是*peuk-中point(212,243)的那层意思。所谓"标点"，它首先得是个"点"。
+- word: acupuncture
+  freq: 15892
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Acupuncture is the treatment of a person's illness or pain by sticking small needles into their body at certain places.
+  sent: I had acupuncture in my lower back.
+  roots:
+    acu: "*ak- | be sharp, rise (out) to a point, pierce"
+    punct: "*peuk- | to prick"
+  exp: sharp + prick，确实很准确地概括了针灸的特征。
+- word: punctuate
+  freq: 9404
+  use: 29
+  meaning: If an activity or situation is punctuated by particular things, it is interrupted by them at intervals.
+  sent: The game was punctuated by a series of injuries.
+  roots:
+    punct: "*peuk- | to prick"
+  exp: 借的是*peuk-中point(212,243)的那层意思，表达"点缀"的感觉。
 
+puncture        15260   55      *peuk-
+disappoint      8361    17      *peuk-
+disappointed    4027    0       *peuk-
+disappointing   7350    0       *peuk-
+  disappointment  4617    32      *peuk-
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # (31, '*meg-'),
-# (31, '*peuk-'),
 # (32, '*apo-'),
 # (32, '*gher-'),
 # (32, '*klau-'),

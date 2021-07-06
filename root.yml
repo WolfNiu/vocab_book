@@ -686,3 +686,18 @@ misc:
     - clientele
     - clinical
     - clinician
+"*peuk-":
+  meaning: to prick
+  exp: 首先，prick(13707,50)就是"戳"的意思，比如pricke the potatoes with a fork。这个词根涉及的最常用词是point(212,243)，借的是sharp end的那层意思，因为尖才更容易戳破东西。其次常用的是appointment(3048,79) = ap(=ad-:to) + point(=*peuk-)，比如看个病啥的就得先make an appointment。这个词整体上表示的是come to a point，也就是大家商量好了在一个地方聚齐的感觉。
+  related:
+    - pinpooint
+    - pointless
+    - pointed
+    - pointer
+    - viewpoint
+    - standpoint
+    - midpoint
+    - pointy
+    - appointed
+    - appointee
+    - counterpoint

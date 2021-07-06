@@ -11740,7 +11740,7 @@ mayor	2508	-1	*meg-
 consideration	2509	-1
 CEO	2510	-1
 secure	2511	-1
-pink	2512	-1	*peuk-
+pink	2512	-1
 buck	2515	-1
 historic	2516	-1
 poem	2517	-1
@@ -15713,7 +15713,7 @@ picker	15887	-1
 buoyant	15888	-1	*bha-
 enliven	15889	-1
 alfalfa	15890	-1	*ed-,	*ekwo-
-acupuncture	15892	-1	*ak-
+acupuncture	15892	-1	*ak-, *peuk-
 converter	15893	-1	*wer-
 deferred	15894	-1	*bher-
 lovable	15895	-1	*leubh-
