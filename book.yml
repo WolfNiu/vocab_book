@@ -6030,12 +6030,30 @@
   roots:
     punct: "*peuk- | to prick"
   exp: 借的是*peuk-中point(212,243)的那层意思，表达"点缀"的感觉。
-
-puncture        15260   55      *peuk-
-disappoint      8361    17      *peuk-
-disappointed    4027    0       *peuk-
-disappointing   7350    0       *peuk-
-  disappointment  4617    32      *peuk-
+- word: puncture
+  freq: 15260
+  use: 55
+  pos: COUNTABLE NOUN
+  meaning: A puncture is a small hole in a car tire or bicycle tire that has been made by a sharp object.
+  sent: Somebody helped me to mend the puncture.
+  roots:
+    punct: "*peuk- | to prick"
+  exp: 轮胎被戳(prick)，不解释。记得刚到美国的时候发现路边竟然没有修自行车的老大爷，感觉非常不适应。
+- word: disappointed
+  freq: 4027
+  use: 0
+  pos: ADJECTIVE
+  meaning: If you are disappointed, you are sad because something has not happened or because something is not as good as you had hoped.
+  sent: Adamski says he was very disappointed with the mayor's decision.
+  roots:
+    dis: dis- | reverse, opposite of
+    ap: ad- | to
+    point: "*peuk- | to prick"
+  exp: appoint的部分要当成一个整体来理解，整个词表达的就是fail to keep an appointment的意思，所以后来才引申为sad, frustrate的感觉。
+  related:
+    - disappoint
+    - disappointing
+    - disappointment
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
