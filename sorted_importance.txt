@@ -8356,7 +8356,7 @@ uninvited	19913	13
 blasphemy	20013	13	*bha-,	*mel-(3)
 summarily	20027	13
 against	180	12
-maybe	384	12	*magh-,	*meg-
+maybe	384	12	*meg-
 perhaps	436	12	*per-
 along	448	12	*ant-
 activity	538	12	*ag-
@@ -9632,7 +9632,7 @@ than	73	0
 two	80	0	*dwo-
 these	82	0
 here	96	0	*ko-
-may	119	0	*magh-,	*meg-
+may	119	0	*magh-
 three	135	0
 between	140	0	*ambhi-,	*dwo-
 American	176	0

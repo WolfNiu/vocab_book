@@ -6054,10 +6054,84 @@
     - disappoint
     - disappointing
     - disappointment
+- word: magnificent
+  freq: 5564
+  use: 68
+  pos: ADJECTIVE
+  meaning: If you say that something or someone is magnificent, you mean that you think they are extremely good, beautiful, or impressive.
+  sent: '...a magnificent country house in wooded grounds.'
+  roots:
+    magn: "*meg- | great"
+    fic: "*dhe- | to set, put"
+  exp: great + set，基本就是"大制作"的感觉。注意例句中wooded和我们相对熟悉的wooden(2535,-1)不是一码事：wooden is made of wood while wooded is covered with trees。
+- word: majestic
+  freq: 10803
+  use: 144
+  pos: ADJECTIVE
+  meaning: If you describe something or someone as majestic, you think they are very beautiful, dignified, and impressive.
+  sent: '...a majestic country home that once belonged to the Astor family.'
+  roots:
+    maj: "*meg- | great"
+  exp: 释义中的beautiful, dignified, and impressive都和great高度相关。
+  related:
+    - majesty
+- word: magnitude
+  freq: 4010
+  use: 62
+  pos: UNCOUNTABLE NOUN
+  meaning: If you talk about the magnitude of something, you are talking about its great size, scale, or importance.
+  sent: An operation of this magnitude is going to be difficult.
+  roots:
+    magn: "*meg- | great"
+  exp: 释义中已经有"great"了，不解释。
+- word: magnate
+  freq: 16892
+  use: 34
+  pos: COUNTABLE NOUN
+  meaning: A magnate is someone who has earned a lot of money from a particular business or industry.
+  sent: '...a multimillionaire shipping magnate.'
+  roots:
+    magn: "*meg- | great"
+  exp: 释义中的a lot of对应词根中的great。另外大家第一眼是不是把这词看成magnet(6371,21)了？
+- word: magnify
+  freq: 9793
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To magnify an object means to make it appear larger than it really is, by means of a special lens or mirror.
+  sent: This version of the Digges telescope magnifies images 11 times.
+  roots:
+    magn: "*meg- | great"
+    fy: "*dhe- | to set, put"
+  exp: 释义中的larger对应词根中的great，而make对应to set, put。
+  related:
+    - magnification
+- word: maxim
+  freq: 16343
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A maxim is a rule for good or sensible behavior, especially one in the form of a saying.
+  sent: I believe in the maxim "if it ain't broke, don't fix it."
+  roots:
+    magn: "*meg- | great"
+  exp: Bascially what you think is great.
+- word: maestro
+  freq: 17861
+  use: 40
+  pos: NOUN
+  meaning: A maestro is a skilled and well-known musician or conductor.
+  sent: '...the urbane maestro''s delightful first show.'
+  roots:
+    maestr: "*meg- | great"
+  exp: 释义中的skilled，well-known和great相对应。注意maestro中的ae和bike中的i发同一个音。
+
+maximum 3638    22      *meg-
+mister  17731   12      *meg-
+magistrate      11356   11      *meg-
+mistress        7317    6       *meg-
+
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (31, '*meg-'),
 # (32, '*apo-'),
 # (32, '*gher-'),
 # (32, '*klau-'),
