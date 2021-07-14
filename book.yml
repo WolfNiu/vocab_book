@@ -6123,17 +6123,63 @@
   roots:
     maestr: "*meg- | great"
   exp: 释义中的skilled，well-known和great相对应。注意maestro中的ae和bike中的i发同一个音。
+- word: mister
+  freq: 17731
+  use: 12
+  pos: VOCATIVE NOUN
+  meaning: Men are sometimes addressed as mister, especially by children and especially when the person talking to them does not know their name.
+  sent: Look, Mister, we know our job, so don't try to tell us what to do.
+  roots:
+    mist: "*meg- | great"
+  exp: mister和great相关是男权社会在单词中的体现。mister其实是从master(1897,327)来的——一家之主嘛。
+  related:
+    - mistress
+- word: magistrate
+  freq: 11356
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A magistrate is an official who acts as a judge in law courts which deal with minor crimes or disputes.
+  sent: She will face a local magistrate on Tuesday.
+  roots:
+    mag: "*meg- | great"
+  exp: 借的是*meg-中chief, director的那层意思。
 
-maximum 3638    22      *meg-
-mister  17731   12      *meg-
-magistrate      11356   11      *meg-
-mistress        7317    6       *meg-
+yard    1039    151     *gher-
+greedy  9096    72      *gher-
+courtly 17971   65      *gher-
+court   542     62      *gher-
+courtesy        5450    57      *gher-
+charismatic     8705    51      *gher-
+carol   17979   49      *gher-
+cohort  7500    44      *gher-
+yearning        12662   42      *gher-
+charisma        11924   18      *gher-
+orchard 7391    14      *gher-
+courtyard       5916    12      *gher-
+garden  1047    10      *gher-
+chorus  5345    7       *gher-
+courtship       10717   6       *gher-
+choir   5398    3       *gher-
+yearn   8148    0       *gher-
+horticultural   18445   0       *gher-
+courtroom       4193    -1      *gher-
+gardener        5829    -1      *gher-
+courthouse      6029    -1      *gher-
+kindergarten    6206    -1      *gene-, *gher-
+gardening       7171    -1      *gher-
+choral  10976   -1      *gher-
+hangar  12386   -1      *gher-, *tkei-
+Eucharist       13931   -1      *es-,   *gher-
+courteous       15372   -1      *gher-
+exhortation     18061   -1      *gher-
+girth   18863   -1      *gher-
+yardage 19830   -1      *gher-
+courtier        20122   -1      *gher-
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # (32, '*apo-'),
-# (32, '*gher-'),
 # (32, '*klau-'),
 # (32, '*leu-'),
 # (32, '*skei-'),
