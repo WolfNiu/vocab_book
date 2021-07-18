@@ -6866,7 +6866,7 @@ renewal	6606	23
 offspring	6614	23
 usher	6674	23
 enduring	6841	23	*deru-
-greed	6854	23
+greed	6854	23  *gher-
 skepticism	7048	23	*spek-
 cynical	7162	23	*kwon-
 endanger	7262	23	*dem-
@@ -11003,11 +11003,11 @@ blithely	18426	0
 filtering	18431	0
 tirelessly	18432	0
 speeding	18441	0
-horticultural	18445	0	*gher-
+horticultural	18445	0	*gher-, *kwel-(1)
 alienating	18454	0
 feared	18459	0
 blended	18472	0
-light-hearted	18479	0	*legwh-,	*leuk-
+light-hearted	18479	0	*legwh-,    *leuk-
 distinctively	18484	0
 delusional	18488	0
 habitually	18490	0	*ghabh-
@@ -15707,7 +15707,7 @@ slaying	15881	-1
 defiantly	15882	-1
 grounding	15883	-1
 sworn	15884	-1
-exhort	15885	-1
+exhort	15885	-1  *gher-(2)
 forwards	15886	-1	*per-
 picker	15887	-1
 buoyant	15888	-1	*bha-

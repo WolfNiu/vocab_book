@@ -6143,38 +6143,89 @@
   roots:
     mag: "*meg- | great"
   exp: 借的是*meg-中chief, director的那层意思。
+- word: orchard
+  freq: 7391
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: An orchard is an area of land on which fruit trees are grown.
+  sent: an apple orchard
+  roots:
+    or: wort | vegetable, plant root
+    chard: "*gher-(1) | to grasp, enclose"
+  exp: 释义中有area of land，因此和*gher-(1)的enclosed area相关。or=wort并不常用，不知道也不影响记忆单词。
+- word: horticultural
+  freq: 18445
+  use: 0
+  pos: ADJECTIVE
+  meaning: Horticultural means concerned with horticulture.
+  sent: '...the seeds and young plants sold in most horticultural centers.'
+  roots:
+    hort: "*gher-(1) | to grasp, enclose"
+    cult: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 借的是*gher-(1)中garden的那层意思，而culture又表示cultivate，所以整个词就表示cultivation of a garden。
+- word: kindergarten
+  freq: 6206
+  use: -1
+  pos: NOUN
+  meaning: A kindergarten is a school or class for children aged 4 to 6 years old. It prepares them to go into the first grade.
+  sent: She's in kindergarten now.
+  roots:
+    kind: "*gene- | give birth, beget"
+    gart: "*gher-(1) | to grasp, enclose"
+  exp: 这个词中*gene-表示child，也就是出生不久的小朋友；而*gher-(1)的部分表示garden。于是整个单词就表示"小朋友的乐园"。
+- word: hangar
+  freq: 12386
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A hangar is a large building in which aircraft are kept.
+  roots:
+    han: "*tkei- | to settle, dwell, be home"
+    gar: "*gher-(1) | to grasp, enclose"
+  exp: han的部分直接用home记即可，不用管*tkei-这个词根，因为并不常用。整个词就是home, enclosed area的感觉，确实像个能停大飞机的地儿。另外，以后表达停飞机的地方总算可以不用plane parking lot了。
+- word: charismatic
+  freq: 8705
+  use: 51
+  pos: ADJECTIVE
+  meaning: A charismatic person attracts, influences, and inspires people by their personal qualities.
+  sent: With her striking looks and charismatic personality, she was noticed far and wide.
+  roots:
+    char: "*gher-(2) | to like, want"
+  exp: 有charisma(11924,18)的人比较招人喜欢(like)。
+  related:
+    - charisma
+- word: exhort
+  freq: 15885
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you exhort someone to do something, you try hard to persuade or encourage them to do it.
+  sent: Kennedy exhorted his listeners to turn away from violence.
+  roots:
+    ex: ex- | thoroughly
+    hort: "*gher-(2) | to like, want"
+  exp: 让别人想(want)做某事，对应释义中persuage, encourage的感觉。
+  related:
+    - exhortation
+- word: cohort
+  freq: 7500
+  use: 44
+  pos: NOUN
+  meaning: A person's cohorts are their friends, supporters, or associates.
+  sent: Drake and his cohorts were not pleased with my appointment.
+  roots:
+    co: co- | with
+    hort: "*gher-(1) | to grasp, enclose"
+  exp: 这里*gher-(1)表达的是enclosed group的感觉。
 
-yard    1039    151     *gher-
-greedy  9096    72      *gher-
-courtly 17971   65      *gher-
-court   542     62      *gher-
-courtesy        5450    57      *gher-
 charismatic     8705    51      *gher-
 carol   17979   49      *gher-
-cohort  7500    44      *gher-
 yearning        12662   42      *gher-
-charisma        11924   18      *gher-
-orchard 7391    14      *gher-
-courtyard       5916    12      *gher-
-garden  1047    10      *gher-
 chorus  5345    7       *gher-
-courtship       10717   6       *gher-
 choir   5398    3       *gher-
 yearn   8148    0       *gher-
-horticultural   18445   0       *gher-
-courtroom       4193    -1      *gher-
-gardener        5829    -1      *gher-
-courthouse      6029    -1      *gher-
-kindergarten    6206    -1      *gene-, *gher-
-gardening       7171    -1      *gher-
 choral  10976   -1      *gher-
-hangar  12386   -1      *gher-, *tkei-
 Eucharist       13931   -1      *es-,   *gher-
-courteous       15372   -1      *gher-
-exhortation     18061   -1      *gher-
 girth   18863   -1      *gher-
-yardage 19830   -1      *gher-
-courtier        20122   -1      *gher-
+
 
 
 ## TODO: finish all "related" tabs in root.yml
