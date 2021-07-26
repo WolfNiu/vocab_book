@@ -6215,23 +6215,163 @@
     co: co- | with
     hort: "*gher-(1) | to grasp, enclose"
   exp: 这里*gher-(1)表达的是enclosed group的感觉。
+- word: yearn
+  freq: 8148
+  use: 0
+  meaning: If someone yearns for something that they are unlikely to get, they want it very much.
+  sent: He yearned for freedom.
+  roots:
+    yearn: "*gher-(2) | to like, want"
+  exp: 释义中有"want it very much"，和词根中的want相对应。这个词也可以用硬拆的方法记：yearn = year + n——盼了N年，一看就异常渴望。
+  related:
+    - yearning
+- word: girth
+  freq: 18863
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: The girth of an object, for example a person's or an animal's body, is its width or thickness, considered as the measurement around its circumference.
+  sent: A girl he knew had upset him by commenting on his increasing girth.
+  roots:
+    gir: "*gher-(1) | to grasp, enclose"
+  exp: 释义中的circumferencey对应着enclosed area的感觉。
+- word: preclude
+  freq: 8242
+  use: 69
+  pos: TRANSITIVE VERB
+  meaning: If something precludes an event or action, it prevents the event or action from happening.
+  sent: At 84, John feels his age precludes too much travel.
+  roots:
+    pre: pre- | before, ahead
+    clude: "*klau- | hook, crook"
+  exp: 用的是*klau-中close的那层意思，和释义中的prevent相对应。
+- word: clove
+  freq: 6105
+  use: 0
+  pos: VARIABLE NOUN
+  meaning: Cloves are small dried flower buds which are used as a spice.
+  sent: '...chicken soup with cloves.'
+  roots:
+    clove: "*klau- | hook, crook"
+  exp: clove的本意就是a nail，而nail一般都是钩状的，比如老鹰同学。
+- word: enclave
+  freq: 9290
+  use: 17
+  pos: COUNTABLE NOUN
+  meaning: An enclave is an area within a country or a city where people live who have a different nationality or culture from the people living in the surrounding country or city.
+  sent: Nagorno-Karabakh is an Armenian enclave inside Azerbaijan.
+  roots:
+    en: in- | in
+    clave: "*klau- | hook, crook"
+  exp: 用的是*kalu-中close的那层意思，表达的感觉是被另一个国家关(close)在里面了，也就是我们通常说的国中之国。比如Vatican City(梵蒂冈)。
+- word: enclose
+  freq: 8625
+  use: 57
+  pos: TRANSITIVE VERB
+  meaning: If a place or object is enclosed by something, the place or object is inside that thing or completely surrounded by it.
+  sent: The rules state that samples must be enclosed in two watertight containers.
+  roots:
+    en: en-(1) | in; into
+    close: "*klau- | hook, crook"
+  exp: 直接用close(650,384)记就好，不用回溯到*klau-。close对应释义中的inside, surround。
+  related:
+    - enclosed
+    - enclosure
+- word: disclose
+  freq: 4469
+  use: 67
+  pos: TRANSITIVE VERB
+  meaning: If you disclose new or secret information, you tell people about it.
+  sent: Neither side would disclose details of the transaction.
+  roots:
+    dis: dis- | opposite of
+    close: "*klau- | hook, crook"
+  exp: 直接用close(650,384)记就好。本来information被close里边，现在不close了，就成了disclose。
+  related:
+    - undisclosed
+    - disclosure
+- word: closet
+  freq: 3502
+  use: 61
+  pos: COUNTABLE NOUN
+  meaning: A closet is a very small room for storing things, especially one without windows.
+  sent: He has a closet full of designer suits.
+  roots:
+    clos: "*klau- | hook, crook"
+  exp: 直接用close(650,384)记就好。closet的表达的感觉就是enclosure, private room，所以释义中才会特别提到"without windows"。注意-et这个后缀往往表示"小"的感觉，因此释义中会有"small"。
+- word: exclude
+  freq: 3500
+  use: 42
+  pos: TRANSITIVE VERB
+  meaning: If you exclude someone from a place or activity, you prevent them from entering it or taking part in it.
+  sent: Many of the youngsters feel excluded.
+  roots:
+    ex: ex- | out
+    clude: "*klau- | hook, crook"
+  exp: 直接用close(650,384)记就好。把别人close在外面(out)，果然是释义中prevent的感觉。
+- word: reclusive
+  freq: 18285
+  use: -1
+  pos: ADJECTIVE
+  meaning: A reclusive person or animal lives alone and deliberately avoids the company of others.
+  sent: All that neighbors knew about the reclusive man was that he had lived in the building for about 20 years.
+  roots:
+    re: re- | intensive prefix
+    clus: "*klau- | hook, crook"
+  exp: 用的是*klau-中shut, close的那层意思。把自己关(shut)起来给别人个不见面儿，对应释义中的alone和avoid。
+- word: secluded
+  freq: 13651
+  use: 17
+  pos: ADJECTIVE
+  meaning: A secluded place is quiet and private.
+  sent: We were tucked away in a secluded corner of the room.
+  roots:
+    se: se- | apart
+    clude: "*klau- | hook, crook"
+  exp: 借的是*klau-中shut的那层意思，和se-的apart共同对应着释义中的quiet和private。
+- word: clause
+  freq: 6513
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A clause is a section of a legal document.
+  sent: He has a clause in his contract which entitles him to a percentage of the profits.
+  roots:
+    clause: "*klau- | hook, crook"
+  exp: clause的本意是conclusion, end of a sentence or a legal argument，所以才对应着*klau-中shut, close的那层意思。
 
-charismatic     8705    51      *gher-
-carol   17979   49      *gher-
-yearning        12662   42      *gher-
-chorus  5345    7       *gher-
-choir   5398    3       *gher-
-yearn   8148    0       *gher-
-choral  10976   -1      *gher-
-Eucharist       13931   -1      *es-,   *gher-
-girth   18863   -1      *gher-
-
+loose   2874    239     *leu-
+absolute        3192    177     *leu-
+loss    789     123     *leu-
+dissolve        4337    119     *leu-
+lose    284     116     *leu-
+resolution      1980    73      *leu-
+loosen  6106    68      *leu-
+analysis        814     36      *leu-
+solve   1839    31      *leu-
+analytic        12379   31      *leu-
+loser   5037    30      *leu-
+absolve 17761   21      *leu-
+soluble 19272   11      *leu-
+solution        1224    8       *leu-
+loosely 7026    0       *leu-
+analytical      7475    0       *leu-
+absolutely      1152    -1      *leu-
+resolve 2262    -1      *leu-
+catalyst        8064    -1      *leu-
+paralysis       10238   -1      *leu-
+unresolved      10463   -1      *leu-
+solvent 11919   -1      *leu-
+unsolved        14146   -1      *leu-
+psychoanalysis  14776   -1      *leu-
+forlorn 15490   -1      *leu-
+dialysis        15500   -1      *leu-
+resolute        15504   -1      *leu-
+palsy   15692   -1      *leu-
+catalytic       18526   -1      *leu-
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # (32, '*apo-'),
-# (32, '*klau-'),
 # (32, '*leu-'),
 # (32, '*skei-'),
 # (33, '*da-'),

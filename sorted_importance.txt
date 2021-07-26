@@ -4039,7 +4039,7 @@ swine	15932	49
 jaded	16865	49
 weariness	16959	49
 upper-class	17610	49
-carol	17979	49	*gher-
+carol	17979	49
 luminary	18112	49	*leuk-
 delude	18196	49
 sequester	18621	49	*sekw-
@@ -7571,7 +7571,7 @@ cling	4656	18
 municipal	4719	18	*kap-,	*mei-
 straw	4783	18	*stere-
 rehabilitation	4842	18
-slot	4902	18	*klau-
+slot	4902	18
 transit	4917	18	*ei-
 bride	4931	18	*bhreu-
 nationwide	4983	18	*gene-
@@ -9062,7 +9062,7 @@ sofa	4833	7
 republican	4897	7
 ridge	4908	7	*sker-
 manuscript	5176	7	*man-,	*skribh-
-chorus	5345	7	*gher-
+chorus	5345	7
 rehearsal	5480	7	*kaput-
 tin	5494	7
 parenting	5524	7	*pere-
@@ -9480,7 +9480,7 @@ inevitably	4701	3
 lawmaker	4736	3	*mag-
 composer	5058	3
 cowboy	5111	3	*gwou-
-choir	5398	3	*gher-
+choir	5398	3
 salesman	5643	3
 coincidence	5895	3	*kad-
 racist	6480	3
@@ -9883,7 +9883,7 @@ owl	6041	0
 gum	6058	0	*ghieh-
 stool	6074	0	*sta-
 recycling	6075	0	*kwel-
-clove	6105	0	*gleubh-,	*klau-
+clove	6105	0	*klau-
 predictor	6108	0	*deik-
 reduced	6114	0
 heating	6125	0
@@ -10380,7 +10380,7 @@ taker	12156	0
 disputed	12169	0
 verbally	12171	0
 estranged	12174	0
-enclosed	12175	0
+enclosed	12175	0   *klau-
 wasp	12178	0
 negotiated	12179	0
 fencing	12182	0
@@ -14035,7 +14035,7 @@ breeder	10956	-1	*bhreu-
 proclamation	10964	-1
 glean	10970	-1
 varsity	10973	-1
-choral	10976	-1	*gher-
+choral	10976	-1
 anthropological	10978	-1	*ner-
 wrapper	10981	-1	*wer-
 fillet	10984	-1	*gwhi-
