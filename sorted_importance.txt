@@ -16323,7 +16323,7 @@ duality	16952	-1	*dwo-
 schoolyard	16955	-1
 interfaith	16956	-1	*bheidh-
 student-athlete	16957	-1
-high-resolution	16960	-1
+high-resolution	16960	-1  *leu-
 citywide	16962	-1
 Darwinian	16966	-1
 co-chair	16968	-1

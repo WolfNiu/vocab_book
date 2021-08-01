@@ -6337,21 +6337,77 @@
   roots:
     clause: "*klau- | hook, crook"
   exp: clause的本意是conclusion, end of a sentence or a legal argument，所以才对应着*klau-中shut, close的那层意思。
-
-
-dissolve        4337    119     *leu-
-analytic        12379   31      *leu-
-absolve 17761   21      *leu-
-soluble 19272   11      *leu-
-catalyst        8064    -1      *leu-
-paralysis       10238   -1      *leu-
-solvent 11919   -1      *leu-
-psychoanalysis  14776   -1      *leu-
-forlorn 15490   -1      *leu-
-dialysis        15500   -1      *leu-
-resolute        15504   -1      *leu-
-palsy   15692   -1      *leu-
-catalytic       18526   -1      *leu-
+- word: dissolve
+  freq: 4337
+  use: 119
+  pos: TRANSITIVE VERB
+  meaning: If a substance dissolves in liquid or if you dissolve it, it becomes mixed with the liquid and disappears.
+  sent: Heat gently until the sugar dissolves.
+  roots:
+    dis: dis- | apart
+    (so)lve: "*leu- | to loosen, divide, cut apart"
+  exp: 前缀和词根都有apart的意思，和释义中的mix, disappear相对应。注意扩号中的(so)是不参与字母互换的部分，但和lve是个整体。
+- word: absolve
+  freq: 17761
+  use: 21
+  pos: TRANSITIVE VERB
+  meaning: If a report or investigation absolves someone of blame or responsibility, it formally states that he or she is not guilty or is not to blame.
+  sent: A police investigation yesterday absolved the police of all blame in the incident.
+  roots:
+    ab: ab- | off, away from
+    (so)lve: "*leu- | to loosen, divide, cut apart"
+  exp: 前缀中的off和词根中的loosen都与释义中的not guilty, not to blame相对应。
+- word: soluble
+  freq: 19272
+  use: 11
+  pos: ADJECTIVE
+  meaning: A substance that is soluble will dissolve in a liquid.
+  sent: Uranium is soluble in sea water.
+  roots:
+    (so)lu: "*leu- | to loosen, divide, cut apart"
+  exp: 释义中dissolve对应的是分解的概念，而且dissolve(4337,119)也和soluble是同源词。
+- word: palsy
+  freq: 15692
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Palsy is a medical condition in which a person is unable to move part of their body, or in which a part of their body shakes uncontrollably.
+  sent: cerebral palsy
+  roots:
+    pa: para- | beside
+    lsy: "*leu- | to loosen, divide, cut apart"
+  exp: 词根中的loosen表达的是身体放松不受控制的感觉，对应释义中的unable to move和shakes uncontrollably。
+- word: paralysis
+  freq: 10238
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Paralysis is the loss of the ability to move and feel in all or part of your body.
+  sent: '...paralysis of the leg.'
+  roots:
+    para: para- | beside
+    lys: "*leu- | to loosen, divide, cut apart"
+  exp: 和palsy一样，词根中的loosen表达的是身体放松不受控制的感觉，对应释义中的loss of the ability ot move and feel。
+- word: forlorn
+  freq: 15490
+  use: -1
+  pos: ADJECTIVE
+  meaning: If someone is forlorn, they feel alone and unhappy.
+  sent: One of the demonstrators, a young woman, sat forlorn on the sidewalk.
+  roots:
+    for: for- | completely
+    lorn: "*leu- | to loosen, divide, cut apart"
+  exp: 词根表达的意思是completely divide, cut apart，确实很孤独，对应释义中的alone, unhappy。
+- word: catalyst
+  freq: 8064
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: You can describe a person or thing that causes a change or event to happen as a catalyst.
+  sent: I very much hope that this case will prove to be a catalyst for change.
+  roots:
+    cata: cata- | completely
+    lyst: "*leu- | to loosen, divide, cut apart"
+  exp: 词根中completely loosen表达的是"一泻千里"的感觉，所以和"催化剂"有关。
+  related:
+    - catalytic
 
 
 ## TODO: finish all "related" tabs in root.yml
