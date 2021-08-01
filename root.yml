@@ -742,3 +742,13 @@ misc:
     - closed
     - closely
     - close-up
+"*leu-":
+  meaning: to loosen, divide, cut apart
+  exp: lose(284,116)可以用cut apart来理解，其衍生词loss(789,123)也是常用词。loose(2874,239)用loosen来理解。analysis(814,36) = ana(=ana-:up, back, throughout) + lys(=*leu-)的本意是resolution of anything complex into simple elements，所以是divide, cut apart的感觉。resolve(2262,-1) = re(=re-:back) + lve(=*leu-)，本来是表示melt, dissolve——也就是"分解"的感觉，所以和divide, cut apart有关。其衍生词resolution(1980,73)也是常用词。solve(1839,31)表示explain, answer。这个和"分解"有什么关系呢？其实在中文里就有很多线索，比如"分析"、"解释"。这里"分"是"分开"的意思，"解"是"解开、分解"的意思。solve的衍生词solution(1224,8)也很常用。注意solve中只有lve的部分和*leu-可互换，前面的so不常用也没什么很重要的意思，跳过就好。最后，absolute(3192,177) = ab(=ab-:off, away from) + lute(=*leu-)，表达的是unrestricted, free from limitation的感觉，所以才和off, lossen相关。
+  related:
+    - loser
+    - loosen
+    - loosely
+    - unresolved
+    - unsolved
+    - analytical

@@ -6338,29 +6338,14 @@
     clause: "*klau- | hook, crook"
   exp: clause的本意是conclusion, end of a sentence or a legal argument，所以才对应着*klau-中shut, close的那层意思。
 
-loose   2874    239     *leu-
-absolute        3192    177     *leu-
-loss    789     123     *leu-
+
 dissolve        4337    119     *leu-
-lose    284     116     *leu-
-resolution      1980    73      *leu-
-loosen  6106    68      *leu-
-analysis        814     36      *leu-
-solve   1839    31      *leu-
 analytic        12379   31      *leu-
-loser   5037    30      *leu-
 absolve 17761   21      *leu-
 soluble 19272   11      *leu-
-solution        1224    8       *leu-
-loosely 7026    0       *leu-
-analytical      7475    0       *leu-
-absolutely      1152    -1      *leu-
-resolve 2262    -1      *leu-
 catalyst        8064    -1      *leu-
 paralysis       10238   -1      *leu-
-unresolved      10463   -1      *leu-
 solvent 11919   -1      *leu-
-unsolved        14146   -1      *leu-
 psychoanalysis  14776   -1      *leu-
 forlorn 15490   -1      *leu-
 dialysis        15500   -1      *leu-
@@ -6371,8 +6356,6 @@ catalytic       18526   -1      *leu-
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (32, '*apo-'),
-# (32, '*leu-'),
 # (32, '*skei-'),
 # (33, '*da-'),
 # (33, '*wed-'),
@@ -6470,3 +6453,4 @@ catalytic       18526   -1      *leu-
 # (228, '*dhe-'),
 # (437, '*per-')]
 # (27, '*mag-'),
+# (32, '*apo-'),
