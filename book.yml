@@ -6410,9 +6410,23 @@
     - catalytic
 
 
+
+rescind 16752   101     *skei-
+shoddy  17799   97      *skei-
+schism  18760   80      *skei-
+shed    4402    53      *skei-
+sheath  12995   29      *skei-
+shiver  6295    27      *skei-
+sheathe 19662   27      *skei-
+schizophrenia   12243   20      *skei-
+skid    10555   -1      *skei-
+shingle 11387   -1      *skei-
+shin    11892   -1      *skei-
+prescient       18985   -1      *skei-
+
+
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (32, '*skei-'),
 # (33, '*da-'),
 # (33, '*wed-'),
 # (34, '*ambhi-'),

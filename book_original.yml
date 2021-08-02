@@ -25128,10 +25128,9 @@
 - word: shed
   freq: 4402
   use: 53
-  pos: COUNTABLE NOUN
-  meaning: A shed is a small building that is used for storing things such as garden
-    tools.
-  sent: '...a garden shed.'
+  pos: TRANSITIVE VERB
+  meaning: When a tree sheds its leaves, its leaves fall off in the autumn. When an animal sheds hair or skin, some of its hair or skin drops off.
+  sent: Some of the trees were already beginning to shed their leaves.
 - word: voluntary
   freq: 4756
   use: 53
