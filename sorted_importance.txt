@@ -1606,7 +1606,7 @@ obligatory	14377	97	*leig-
 tacky	14926	97
 spurt	15082	97
 colorless	16819	97	*kel-
-shoddy	17799	97	*skei-
+shoddy	17799	97
 desolation	17870	97
 fab	18553	97
 antiseptic	18732	97

@@ -6408,21 +6408,100 @@
   exp: 词根中completely loosen表达的是"一泻千里"的感觉，所以和"催化剂"有关。
   related:
     - catalytic
+- word: rescind
+  freq: 16752
+  use: 101
+  pos: TRANSITIVE VERB
+  meaning: If a government or a group of people in power rescind a law or agreement, they officially withdraw it and state that it is no longer valid.
+  sent: The governor does not have the authority to rescind the ruling.
+  roots:
+    re: re- | back
+    scind: "*skei- | to cut, split"
+  exp: 大概就是扔到碎纸机里的感觉，对应释义中的withdraw, no longer valid。
+- word: sheath
+  freq: 12995
+  use: 29
+  pos: COUNTABLE NOUN
+  meaning: A sheath is a covering for the blade of a knife.
+  roots:
+    sheath: "*skei- | to cut, split"
+  exp: cut对应释义中的blade, knife。
+  related:
+    - sheathe
+- word: schism
+  freq: 18760
+  use: 80
+  pos: VARIABLE NOUN
+  meaning: When there is a schism, a group or organization divides into two groups as a result of differences in thinking and beliefs.
+  sent: The church seems to be on the brink of schism.
+  roots:
+    sch: "*skei- | to cut, split"
+  exp: cut对应释义中的divide。
+- word: shiver
+  freq: 6295
+  use: 27
+  pos: INTRANSITIVE VERB
+  meaning: When you shiver, your body shakes slightly because you are cold or frightened.
+  sent: He shivered in the cold.
+  roots:
+    shi: "*skei- | to cut, split"
+  exp: cut在这里表达的是"冻成冰渣儿"的感觉。
+- word: skid
+  freq: 10555
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If a vehicle skids, it slides sideways or forward while moving, for example, when you are trying to stop it suddenly on a wet road.
+  sent: The car pulled up too fast and skidded on the dusty shoulder of the road.
+  roots:
+    ski: "*skei- | to cut, split"
+  exp: 学过同源词ski(3044,-1)的话，应该能理解为什么cut, split和slide有关——因为这里的cut表示的是切下来的木条，而以前的人可以让重物在木条上滑行，以达到运输的目的。
+- word: shingle
+  freq: 11387
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Shingle is a mass of small rough pieces of stone on the shore of a sea or a river.
+  sent: '...a beach of sand and shingle.'
+  roots:
+    shing: "*skei- | to cut, split"
+  exp: 词根中的cut, split对应释义中的small，pieces。因为分开了，所以才很小。
+- word: shin
+  freq: 11892
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Your shins are the front parts of your legs between your knees and your ankles.
+  sent: She punched him on the nose and kicked him in the shins.
+  roots:
+    shin: "*skei- | to cut, split"
+  exp: 词根表达的是thin piece的感觉，胫部嘛，就是比较细。
+- word: schizophrenia
+  freq: 12243
+  use: 20
+  pos: UNCOUNTABLE NOUN
+  meaning: Schizophrenia is a serious mental illness. People who suffer from it are unable to relate their thoughts and feelings to what is happening around them and often withdraw from society.
+  roots:
+    schiz: "*skei- | to cut, split"
+    phren: mind
+  exp: 精神分裂嘛，正好对应词根中的split。phren那部分并不常用，只能硬记或者干脆不记。
+- word: shed
+  freq: 4402
+  use: 53
+  pos: TRANSITIVE VERB
+  meaning: When a tree sheds its leaves, its leaves fall off in the autumn. When an animal sheds hair or skin, some of its hair or skin drops off.
+  sent: Some of the trees were already beginning to shed their leaves.
+  roots:
+    shed: "*skei- | to cut, split"
+  exp: 词根中所谓cut, split都是分离的感觉，对应释义中的fall off和drop off。
+- word: prescient
+  freq: 18985
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you say that someone or something was prescient, you mean that they were able to know or predict what was going to happen in the future.
+  sent: '...an eerily prescient comedy about a populist multimillionaire political candidate.'
+  roots:
+    pre: pre- | before
+    sci: "*skei- | to cut, split"
+  exp: 和science(892,22)一样，prescient里的*skei-也借的是to know的那层意思，对应释义中的know, predict。词根中的before对应释义中的predict, future。
 
-
-
-rescind 16752   101     *skei-
-shoddy  17799   97      *skei-
-schism  18760   80      *skei-
-shed    4402    53      *skei-
-sheath  12995   29      *skei-
-shiver  6295    27      *skei-
-sheathe 19662   27      *skei-
-schizophrenia   12243   20      *skei-
-skid    10555   -1      *skei-
-shingle 11387   -1      *skei-
-shin    11892   -1      *skei-
-prescient       18985   -1      *skei-
 
 
 ## TODO: finish all "related" tabs in root.yml
