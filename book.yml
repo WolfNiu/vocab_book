@@ -6501,12 +6501,50 @@
     pre: pre- | before
     sci: "*skei- | to cut, split"
   exp: 和science(892,22)一样，prescient里的*skei-也借的是to know的那层意思，对应释义中的know, predict。词根中的before对应释义中的predict, future。
+- word: demon
+  freq: 5477
+  use: 28
+  pos: COUNTABLE NOUN
+  meaning: A demon is an evil spirit.
+  sent: '...a woman possessed by demons.'
+  roots:
+    de: "*da- | to divide"
+  exp: 从词根上来说，demon表达的感觉是"divider, provider (of fortunes or destinies)"。换句话说吧，就是命运的分配者。顺便提一句，demon也是有女生款的，叫demoness。
+  related:
+    - demonize
+    - demonic
+- word: ordeal
+  freq: 7842
+  use: 28
+  pos: COUNTABLE NOUN
+  meaning: If you describe an experience or situation as an ordeal, you think it is difficult and stressful.
+  sent: '...the painful ordeal of the last eight months.'
+  roots:
+    or: ur- | out
+    deal: "*da- | to divide"
+  exp: 整个词表达的感觉是"that which is dealt out (by the gods)"，也就是说所有苦难都是上天"分配"给你的。如果需要可以回想一下取经团队那八十一难是怎么来的。另外ur-这个前缀并不常见，一般都是从德语来的词才能用到。
+- word: tide
+  freq: 4049
+  use: 20
+  pos: COUNTABLE NOUN
+  meaning: The tide is the regular change in the level of the ocean on the beach. You say the tide is in when water reaches a high point on the land or out when the water leaves the land.
+  sent: The tide was at its highest.
+  exp: 和同源词time(52,66)一样，tide最早也表示point or portion of time，对应释义中的regular。潮汐时间往往很规律，可以提前预测。tide的衍生词tidy(10103,-1)也借的是这种准时的感觉，所以才能表示neat, organized。
+  related:
+    - tidal
 
+
+endemic 12408   16      *da-
+pandemic        14737   14      *da-
+epidemic        4973    12      *da-
+democracy       1511    11      *da-
+demographic     4669    -1      *da-
+demographics    8881    -1      *da-
+epidemiology    15432   -1      *da-
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
-# (33, '*da-'),
 # (33, '*wed-'),
 # (34, '*ambhi-'),
 # (34, '*bhergh-'),
