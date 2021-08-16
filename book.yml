@@ -6532,12 +6532,20 @@
   exp: 和同源词time(52,66)一样，tide最早也表示point or portion of time，对应释义中的regular。潮汐时间往往很规律，可以提前预测。tide的衍生词tidy(10103,-1)也借的是这种准时的感觉，所以才能表示neat, organized。
   related:
     - tidal
-
+- word: epidemic
+  freq: 4973
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: If there is an epidemic of a particular disease somewhere, it affects a very large number of people there and spreads quickly to other areas.
+  sent: A flu epidemic is sweeping through Moscow.
+  roots:
+    epi: epi- | among, upon
+    dem: "*da- | to divide"
+  exp: 和democracy(1511,11)一样，epidemic用的也是*da-中common people的那层意思，对应释义中的large number of people。另外，很多小朋友分不清epidemic, endemic(12408,16)和pandemic(14737,14)之间的区别，我们这里用新冠举个例子。新冠始于武汉。如果这病只在武汉这个区域、或者只在国内传播的话，它就是epidemic；如果传着传着出了国，它就成为了一种pandemic。而endemic指的是某种病局限于某个区域，但不是那种突然暴发的传染病。比如亚洲人的食道癌和胃癌的发病率比其他地方都高，因为亚洲人中有很多平时喜欢喝热水，这就是endemic。
 
 endemic 12408   16      *da-
 pandemic        14737   14      *da-
 epidemic        4973    12      *da-
-democracy       1511    11      *da-
 demographic     4669    -1      *da-
 demographics    8881    -1      *da-
 epidemiology    15432   -1      *da-
@@ -6545,6 +6553,7 @@ epidemiology    15432   -1      *da-
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
+# TODO: *kar-
 # (33, '*wed-'),
 # (34, '*ambhi-'),
 # (34, '*bhergh-'),

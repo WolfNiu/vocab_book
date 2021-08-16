@@ -773,7 +773,7 @@ misc:
     - skier
 "*da-":
   meaning: to divide
-  exp: time(52,66)表达的感觉是an indefinite continuous duration。测量时间的方法是将其等分(divide)成时段(duration)——比如"小时"，然后数数到底过去了多少个这样的时段。注意time中的ti和词根中的da可互换。deal(675,250)作为动词其中一个意思是发牌(deal the cards)，也就是把一个deck拆分(divide)成很多份的动作；作为名词这个词表达"a part or portion"的感觉，对应交易中"分成"的概念。
+  exp: time(52,66)表达的感觉是an indefinite continuous duration。测量时间的方法是将其等分(divide)成时段(duration)——比如"小时"，然后数数到底过去了多少个这样的时段。注意time中的ti和词根中的da可互换。deal(675,250)作为动词其中一个意思是发牌(deal the cards)，也就是把一个deck拆分(divide)成很多份的动作；作为名词这个词表达"a part or portion"的感觉，对应交易中"分成"的概念。democracy(1511,11) = demo(=*da-:divide) + cracy(=*kar-:hard)，这个词涉及的两个PIE roots都没有用到它们的原始意思。其中*da-表达的是common people，也就是普通民众的意思，因为他们往往生活在固定的区域(district)；而*kar-表达的是rule, strength的感觉，对应其原始意义hard。因此整个词的意思就是"common people rule"，也就是"由大众来统治"的感觉。有意思的是，一个国家是专制还是民主政体，从国名上往往就能看出来——凡是名字里有"民主"、"人民"字样的，一般都是专制国家，因为只有这些国家需要刻意标榜自己的人民在当家做主。比如：朝鲜人民民主主义共和国，刚果民主共和国，老挝人民民主共和国，阿尔及利亚人民民主共和国。democracy的衍生词democratic(856,7)也属于超常用词。
   related:
     - old-time
     - timely
@@ -788,3 +788,7 @@ misc:
     - untimely
     - dealer
     - dealership
+    - democratically
+    - democratization
+    - democratize
+    - undemocratic

@@ -9034,7 +9034,7 @@ counterweight	20091	8
 elixir	20164	8
 during	198	7	*deru-
 phone	558	7	*bha-
-democratic	856	7
+democratic	856	7   *da-
 sea	992	7
 version	1133	7	*wer-
 farmer	1598	7	*dher-
@@ -10679,7 +10679,7 @@ qualifying	14704	0
 entrepreneurship	14707	0
 developmentally	14708	0
 mocking	14734	0
-democratically	14739	0
+democratically	14739	0   *da-
 overwhelmed	14740	0
 terminally	14745	0
 checking	14751	0
@@ -12922,7 +12922,7 @@ farmhouse	8552	-1
 vodka	8557	-1	*wed-
 programmer	8558	-1
 eligibility	8559	-1
-democratization	8564	-1
+democratization	8564	-1  *da-
 drummer	8603	-1
 nylon	8613	-1
 low-cost	8615	-1
@@ -16901,7 +16901,7 @@ biochemistry	18688	-1
 ten-year	18690	-1
 tuber	18691	-1	*teue-
 coveralls	18692	-1
-democratize	18694	-1
+democratize	18694	-1  *da-
 atlas	18697	-1
 rollover	18698	-1
 alum	18699	-1
@@ -17544,7 +17544,7 @@ laissez-faire	19915	-1	*dhe-
 flexion	19916	-1
 unhook	19917	-1
 promiscuity	19921	-1	*meik-
-undemocratic	19924	-1
+undemocratic	19924	-1  *da-
 oxidation	19927	-1	*ak-
 fanaticism	19928	-1	*dhes-
 venous	19933	-1
