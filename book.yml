@@ -6541,22 +6541,134 @@
   roots:
     epi: epi- | among, upon
     dem: "*da- | to divide"
-  exp: 和democracy(1511,11)一样，epidemic用的也是*da-中common people的那层意思，对应释义中的large number of people。另外，很多小朋友分不清epidemic, endemic(12408,16)和pandemic(14737,14)之间的区别，我们这里用新冠举个例子。新冠始于武汉。如果这病只在武汉这个区域、或者只在国内传播的话，它就是epidemic；如果传着传着出了国，它就成为了一种pandemic。而endemic指的是某种病局限于某个区域，但不是那种突然暴发的传染病。比如亚洲人的食道癌和胃癌的发病率比其他地方都高，因为亚洲人中有很多平时喜欢喝热水，这就是endemic。
+  exp: 和democracy(1511,11)一样，用的是*da-中common people的那层意思，对应释义中的large number of people。另外，很多小朋友分不清epidemic, endemic(12408,16) = en(=en-:in) + dem(=*da-)和pandemic(14737,14) = pan(=pan-:all) + dem(=*da-)之间的区别，我们这里用新冠举个例子。新冠始于武汉。如果这病只在武汉这个区域、或者只在国内传播的话，它就是epidemic，因为epi-是among的意思；如果传着传着出了国，它就成为了一种pandemic，因为pan-是all的意思——也就是大家都得病，谁也别想跑。而endemic指的是某种病局限于(en-表示in)某个区域，但不是那种突然暴发的传染病。比如亚洲人的食道癌和胃癌的发病率比其他地方都高，因为亚洲人中有很多平时喜欢喝热水，这就是endemic。
+  related:
+    - endemic
+    - pandemic
+    - epidemiology
+- word: demographic
+  freq: 4669
+  use: -1
+  pos: PLURAL NOUN
+  meaning: The demographics of a place or society are the statistics relating to the people who live there.
+  sent: '...the changing demographics of the United States.'
+  roots:
+    dem: "*da- | to divide"
+    graphy: -graphy | process of writing or recording
+  exp: 和democracy(1511,11)一样，用的是*da-中common people的那层意思，对应释义中的people。
+  related:
+    - demographics
+    - demographer
+- word: inundate
+  freq: 13417
+  use: 27
+  pos: TRANSITIVE VERB
+  meaning: If you say that you are inundated with things such as letters, demands, or requests, you are emphasizing that you receive so many of them that you cannot deal with them all.
+  sent: Her office was inundated with requests for tickets.
+  roots:
+    in: in- | onto
+    und: "*wed-(1) | water; wet"
+  exp: 这个词是overflow的感觉，对应释义中的so many。注意这里und=wed，因为u=w。w虽说是这个辅音，但读上去和元音没什么两样，因此和元音的u可互换。之后我们会不断碰到这种现象。
+- word: abound
+  freq: 7817
+  use: 13
+  pos: INTRANSITIVE VERB
+  meaning: If things abound, or if a place abounds with things, there are very large numbers of them.
+  sent: Stories abound about when he was in charge.
+  roots:
+    ab: ab- | off, away from
+    ound: "*wed-(1) | water; wet"
+  exp: 水、流往往和"多"的概念有关，比如"花钱如流水"、"富得流油"。这里abound也用的是这种感觉——东西多到都溢出来(away)了。
+- word: redundant
+  freq: 13368
+  use: 29
+  pos: ADJECTIVE
+  meaning: Something that is redundant is unnecessary, for example, because it is no longer needed or because its job is being done by something else.
+  sent: Changes in technology may mean that once-valued skills are now redundant.
+  roots:
+    re: re- | again
+    und: "*wed-(1) | water; wet"
+  exp: 和inundate(13417,27)、abound(7817,13)的感觉一样，都是overflow的感觉。
+  related:
+    - redundancy
+- word: dehydrate
+  freq: 18000
+  use: 80
+  pos: VERB
+  meaning: When something such as food is dehydrated, all the water is removed from it, often in order to preserve it.
+  sent: Normally specimens have to be dehydrated.
+  roots:
+    de: de- | down, down from, from, off; concerning
+    hydr: "*wed-(1) | water; wet"
+  exp: deprive of or free from water的感觉。
+- word: carbohydrate
+  freq: 3869
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Carbohydrates are substances, found in certain kinds of food, that provide you with energy. Foods such as sugar and bread that contain these substances can also be referred to as carbohydrates.
+  sent: '...carbohydrates such as bread, pasta, or potatoes.'
+  roots:
+    carbo: carbo- | carbon
+    hydr: "*wed-(1) | water; wet"
+  exp: 炭 + 水 = 炭水化合物。
+- word: hydrogen
+  freq: 5167
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Hydrogen is a colorless gas that is the lightest and commonest element in the universe.
+  sent: hydrogen bomb
+  roots:
+    hydro: "*wed-(1) | water; wet"
+    gen: -gen | producing
+  exp: producing water，说的是hydrogen和氧气结合生成水的特性。
+- word: hydraulic
+  freq: 10825
+  use: -1
+  pos: ADJECTIVE
+  meaning: Hydraulic equipment or machinery involves or is operated by a fluid that is under pressure, such as water or oil.
+  sent: The boat has no fewer than five hydraulic pumps.
+  roots:
+    hydr: "*wed-(1) | water; wet"
+    aul: musical instrument, hollow tube, pipe
+  exp: aul这个词根超级不常用，所以只记*wed-(1)那部分就行，对应释义中的fluid, water, oil。
 
-endemic 12408   16      *da-
-pandemic        14737   14      *da-
-epidemic        4973    12      *da-
-demographic     4669    -1      *da-
-demographics    8881    -1      *da-
-epidemiology    15432   -1      *da-
+
+force   373     203     *bhergh-
+harbor  5865    125     *bhergh-
+comfort 2951    105     *bhergh-
+forced  6110    105     *bhergh-
+bargain 5015    90      *bhergh-
+comfortable     1713    83      *bhergh-
+uncomfortable   3674    72      *bhergh-
+discomfort      6552    63      *bhergh-
+borrow  3241    48      *bhergh-
+effort  455     37      *bhergh-
+fortitude       17924   23      *bhergh-
+enforce 3579    22      *bhergh-
+workforce       6718    22      *bhergh-
+burglar 11313   12      *bhergh-
+burial  6325    10      *bhergh-
+fort    8724    10      *bhergh-
+fortress        9309    10      *bhergh-
+burglary        10833   10      *bhergh-
+wheelbarrow     17474   6       *bher-, *bhergh-
+enforceable     19992   0       *bhergh-
+enforcement     2308    -1      *bhergh-
+bury    2420    -1      *bhergh-
+bourgeois       9291    -1      *bhergh-
+iceberg 10220   -1      *bhergh-
+forceful        10248   -1      *bhergh-
+borough 12214   -1      *bhergh-
+effortless      15672   -1      *bhergh-
+bourgeoisie     16697   -1      *bhergh-
+comforter       17068   -1      *bhergh-
+enforcer        17650   -1      *bhergh-
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # TODO: *kar-
-# (33, '*wed-'),
 # (34, '*ambhi-'),
-# (34, '*bhergh-'),
 # (34, '*em-'),
 # (34, '*eue-'),
 # (34, '*pete-'),

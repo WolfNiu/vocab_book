@@ -792,3 +792,20 @@ misc:
     - democratization
     - democratize
     - undemocratic
+"*wed-(1)":
+  meaning: water; wet
+  exp: 涉及的超常用词是water(227,39)，不解释。winter(1250,13)应该借的是"凉"的那层意思，毕竟水是凉的，火是热的。wash(2162,-1)和wet(2491,-1)都无需解释。最tricky的是surround(1608,40) = sur(=super-:over) + ound(=*wed-:water;wet)，你看它的后半部分不是拆成round——惊不惊喜，意不意外？这词整体上的意思是overflow，也就是"爱如潮水他将你我包围eiei~~"的感觉。
+  related:
+    - waterway
+    - watering
+    - washing
+    - waterfall
+    - headwaters
+    - washer
+    - rainwater
+    - backwater
+    - waterfowl
+    - watershed
+    - awash
+    - watery
+    - surroundings

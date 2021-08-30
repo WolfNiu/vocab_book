@@ -16922,7 +16922,7 @@ groupie	18747	-1
 steeple	18749	-1
 child-rearing	18752	-1
 smock	18753	-1
-demographer	18756	-1
+demographer	18756	-1  *da-
 rhododendron	18757	-1	*deru-
 co-found	18758	-1
 riparian	18759	-1
