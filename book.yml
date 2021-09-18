@@ -6631,38 +6631,71 @@
     hydr: "*wed-(1) | water; wet"
     aul: musical instrument, hollow tube, pipe
   exp: aul这个词根超级不常用，所以只记*wed-(1)那部分就行，对应释义中的fluid, water, oil。
+- word: vacuum
+  freq: 4987
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: If someone or something creates a vacuum, they leave a place or position that then needs to be filled by another person or thing.
+  sent: His presence should fill the power vacuum that has been developing over the past few days.
+  roots:
+    vac: "*eue- | to leave, abandon, give out"
+  exp: 借的是*eue-中empty的那层意思，对应释义中的"need to be filled"。
+- word: vanish
+  freq: 3982
+  use: 26
+  pos: INTRANSITIVE VERB
+  meaning: If someone or something vanishes, they disappear suddenly or in a way that cannot be explained.
+  sent: He just vanished and was never seen again.
+  roots:
+    van: "*eue- | to leave, abandon, give out"
+  exp: 词根中的leave对应释义中的disappear。
+  connect:
+    leave: disappear
+- word: vanity
+  freq: 9726
+  use: 22
+  pos: UNCOUNTABLE NOUN
+  meaning: If you refer to someone's vanity, you are critical of them because they take great pride in their appearance or abilities.
+  sent: Men who use steroids are often motivated by sheer vanity.
+  roots:
+    van: "*eue- | to leave, abandon, give out --> empty, void"
+  exp: 借的是van中empty, void的那层意思。表面上pride，实际上啥本事没有(empty)。
+  connect:
+    empty, void: great pride
+- word: evacuate
+  freq: 7028
+  use: 18
+  pos: TRANSITIVE VERB
+  meaning: To evacuate someone means to send them to a place of safety, away from a dangerous building, town, or area.
+  sent: They were planning to evacuate the seventy American officials still in the country.
+  roots:
+    e: ex- | out
+    vac: "*eue- | to leave, abandon, give out"
+  exp: 词根中的out, leave都对应着释义中的send...away。
+  connect:
+    out: send + away
+    leave: send + away
+  related:
+    - evacuation
+- word: wane
+  freq: 10269
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If something wanes, it becomes gradually weaker or less, often so that it eventually disappears.
+  sent: While his interest in these sports began to wane, a passion for lacrosse developed.
+  roots:
 
 
-force   373     203     *bhergh-
-harbor  5865    125     *bhergh-
-comfort 2951    105     *bhergh-
-forced  6110    105     *bhergh-
-bargain 5015    90      *bhergh-
-comfortable     1713    83      *bhergh-
-uncomfortable   3674    72      *bhergh-
-discomfort      6552    63      *bhergh-
-borrow  3241    48      *bhergh-
-effort  455     37      *bhergh-
-fortitude       17924   23      *bhergh-
-enforce 3579    22      *bhergh-
-workforce       6718    22      *bhergh-
-burglar 11313   12      *bhergh-
-burial  6325    10      *bhergh-
-fort    8724    10      *bhergh-
-fortress        9309    10      *bhergh-
-burglary        10833   10      *bhergh-
-wheelbarrow     17474   6       *bher-, *bhergh-
-enforceable     19992   0       *bhergh-
-enforcement     2308    -1      *bhergh-
-bury    2420    -1      *bhergh-
-bourgeois       9291    -1      *bhergh-
-iceberg 10220   -1      *bhergh-
-forceful        10248   -1      *bhergh-
-borough 12214   -1      *bhergh-
-effortless      15672   -1      *bhergh-
-bourgeoisie     16697   -1      *bhergh-
-comforter       17068   -1      *bhergh-
-enforcer        17650   -1      *bhergh-
+void    6918    216     *eue-
+wanton  19959   133     *eue-
+vacant  6858    121     *eue-
+vacate  12965   88      *eue-
+devoid  9989    52      *eue-
+devastation     9316    33      *eue-
+wane    10269   -1      *eue-
+vain    10391   -1      *eue-
+vacancy 10539   -1      *eue-
+waning  16251   -1      *eue-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -6670,7 +6703,6 @@ enforcer        17650   -1      *bhergh-
 # TODO: *kar-
 # (34, '*ambhi-'),
 # (34, '*em-'),
-# (34, '*eue-'),
 # (34, '*pete-'),
 # (35, '*bhreg-'),
 # (35, '*gwei-'),
