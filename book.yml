@@ -6722,14 +6722,58 @@
   connect:
     empty, void:
       - fails
+- word: wanton
+  freq: 19959
+  use: 133
+  pos: ADJECTIVE
+  meaning: A wanton action deliberately causes harm, damage, or waste without having any reason to.
+  sent: '...this unnecessary and wanton destruction of our environment.'
+  roots:
+    wan: "*eue- | to leave, abandon, give out"
+  exp: 词根中的leave, abandon都表达了一种废弃的感觉，和释义中的harm, damage, waste相对应。
+  connect:
+    to leave, abandon:
+      - harm
+      - damage
+      - waste
+- word: vacant
+  freq: 6858
+  use: 121
+  pos: ADJECTIVE
+  meaning: If something is vacant, it is not being used by anyone.
+  sent: Halfway down the bus was a vacant seat.
+  roots:
+    vac: "*eue- | to leave, abandon, give out --> empty, unoccupied"
+  exp: 空着(empty)没人用(not being used)。
+  connect:
+    empty, unoccupied:
+      - not being used
+  related:
+    - vacancy
+- word: vacate
+  freq: 12965
+  use: 88
+  pos: TRANSITIVE VERB
+  meaning: If you vacate a place or a job, you leave it or give it up, making it available for other people.
+  sent: He quickly vacated the gym after the workout.
+  roots:
+    vac: "*eue- | to leave, abandon, give out --> empty, unoccupied"
+  exp: vacate就是leave的感觉，不解释。
+  connect:
+    leave:
+      - leave
+      - give it up
+- word: devoid
+  freq: 9989
+  use: 52
+  pos: ADJECTIVE
+  meaning: If you say that someone or something is devoid of a quality or thing, you are emphasizing that they have none of it.
+  sent: I have never looked on a face that was so devoid of feeling.
 
-wanton  19959   133     *eue-
-vacant  6858    121     *eue-
-vacate  12965   88      *eue-
+
 devoid  9989    52      *eue-
 devastation     9316    33      *eue-
 vain    10391   -1      *eue-
-vacancy 10539   -1      *eue-
 
 
 ## TODO: finish all "related" tabs in root.yml
