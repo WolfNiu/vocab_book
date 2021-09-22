@@ -6769,12 +6769,44 @@
   pos: ADJECTIVE
   meaning: If you say that someone or something is devoid of a quality or thing, you are emphasizing that they have none of it.
   sent: I have never looked on a face that was so devoid of feeling.
-
-
-devoid  9989    52      *eue-
-devastation     9316    33      *eue-
-vain    10391   -1      *eue-
-
+  roots:
+    void: "*eue- | to leave, abandon, give out --> voc | unoccupied, vacant"
+  exp: 用的是*eue-中empty的那层意思，对应释义中的none。
+  connect:
+    unoccupied, vacant:
+      - none
+- word: devastating
+  freq: 4885
+  use: 32
+  pos: ADJECTIVE
+  meaning: If you describe something as devastating, you are emphasizing that it is very harmful or damaging.
+  sent: Affairs do have a devastating effect on marriages.
+  roots:
+    de: de- | completely
+    vast: "*eue- | to leave, abandon, give out --> vast | empty, desolate"
+  exp: 全都毁(damaging)光了，所以是empty的感觉。
+  connect:
+    completely:
+      - very
+    empty, desolate:
+      - harmful
+      - damaging
+  related:
+    - devastation
+    - devastate
+    - devastated
+- word: vain
+  freq: 10391
+  use: -1
+  pos: ADJECTIVE
+  meaning: A vain attempt or action is one that fails to achieve what was intended.
+  sent: The drafting committee worked through the night in a vain attempt to finish on schedule.
+  roots:
+    vain: "*eue- | to leave, abandon, give out --> van | empty, void"
+  exp: 什么成就(achieve)都没有(empty)，对应释义中的fail。
+  connect:
+    empty, void:
+      - fails
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"

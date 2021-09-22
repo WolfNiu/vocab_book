@@ -496,7 +496,7 @@ band	1284	169	*bhendh-
 pad	3700	169
 bounce	3827	169
 immense	5721	169	*me-
-devastate	6509	169
+devastate	6509	169 *eue-
 zip	9075	169
 agreeable	14120	169	*ad-,	*gwere-
 case	186	168	*kad-,	*kap-
@@ -5693,7 +5693,7 @@ sheep	4253	32
 genre	4547	32	*gene-
 disappointment	4617	32	*peuk-
 forum	4759	32	*dhwer-
-devastating	4885	32
+devastating	4885	32  *eue-
 locker	5067	32
 kidney	5215	32
 profitable	5420	32	*dhe-,	*per-
@@ -11103,7 +11103,7 @@ diagnostics	19574	0
 extinguisher	19575	0
 cataclysmic	19602	0
 stalled	19603	0
-devastated	19605	0
+devastated	19605	0   *eue-
 shamelessly	19606	0
 front-line	19610	0
 angled	19619	0
