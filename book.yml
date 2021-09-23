@@ -6808,11 +6808,30 @@
     empty, void:
       - fails
 
+
+prompt  3142    166     *em-,   *per-
+redeem  9458    87      *em-
+presume 5819    70      *em-
+vintage 6462    53      *em-
+premium 4854    52      *em-
+resume  3819    50      *em-
+sumptuous       15165   47      *em-
+exemplify       7936    33      *em-
+impromptu       13693   28      *em-,   *per-
+exemption       7229    21      *em-
+ransom  12233   15      *em-
+redemption      8405    -1      *em-
+exempt  9745    -1      *em-
+presumption     10134   -1      *em-
+subsume 15765   -1      *em-
+consumerism     15782   -1      *em-
+resumption      19203   -1      *em-
+
+
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # TODO: *kar-
 # (34, '*ambhi-'),
-# (34, '*em-'),
 # (34, '*pete-'),
 # (35, '*bhreg-'),
 # (35, '*gwei-'),
