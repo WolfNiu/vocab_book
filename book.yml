@@ -6807,21 +6807,31 @@
   connect:
     empty, void:
       - fails
+- word: exempt
+  freq: 9745
+  use: -1
+  pos: ADJECTIVE
+  meaning: If someone or something is exempt from a particular rule, duty, or obligation, they do not have to follow it or do it.
+  sent: Men in college were exempt from military service.
+  roots:
+    ex: ex- | out
+    em: "*em- | to take, distribute"
+  exp: 就是take out的意思——不用负责。这个词在美国上学的时候经常能用到，比如Courses required for the major may be exempted if the student passes the appropriate AP exam.
+  connect:
+    out: do not have to follow it or do it
+    take: do not have to follow it or do it
+  related:
+    - exemption
 
-
-prompt  3142    166     *em-,   *per-
 redeem  9458    87      *em-
 presume 5819    70      *em-
 vintage 6462    53      *em-
 premium 4854    52      *em-
 resume  3819    50      *em-
 sumptuous       15165   47      *em-
-exemplify       7936    33      *em-
 impromptu       13693   28      *em-,   *per-
-exemption       7229    21      *em-
 ransom  12233   15      *em-
 redemption      8405    -1      *em-
-exempt  9745    -1      *em-
 presumption     10134   -1      *em-
 subsume 15765   -1      *em-
 consumerism     15782   -1      *em-
