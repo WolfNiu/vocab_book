@@ -6818,24 +6818,92 @@
     em: "*em- | to take, distribute"
   exp: 就是take out的意思——不用负责。这个词在美国上学的时候经常能用到，比如Courses required for the major may be exempted if the student passes the appropriate AP exam.
   connect:
-    out: do not have to follow it or do it
-    take: do not have to follow it or do it
+    out:
+      - do not have to follow it or do it
+    take:
+      - do not have to follow it or do it
   related:
     - exemption
+- word: redeem
+  freq: 9458
+  use: 87
+  pos: TRANSITIVE VERB
+  meaning: If you redeem yourself or your reputation, you do something that makes people have a good opinion of you again after you have behaved or performed badly.
+  sent: He realized the mistake he had made and wanted to redeem himself.
+  roots:
+    red: re- | back
+    em: "*em- | to take, distribute --> em | to buy"
+  exp: 总的感觉就是buy back，把自己的声誉找回来。
+  connect:
+    back:
+      - again
+    buy:
+      - makes people have a good opinion
+  related:
+    - redemption
+- word: premium
+  freq: 4854
+  use: 52
+  pos: COUNTABLE NOUN
+  meaning: A premium is a sum of money that you pay regularly to an insurance company for an insurance policy.
+  sent: It is too early to say whether insurance premiums will be affected.
+  roots:
+    pre: pre- | before
+    em: "*em- | to take, distribute --> em | to buy"
+  exp: 词根*em-从take引申到buy的感觉，所以和释义中的money, pay相关。before正好对应了保险"先付款、再出事儿"的原则，不知道是不是巧合。
+  connect:
+    buy:
+      - money
+      - pay
+- word: resume
+  freq: 3819
+  use: 50
+  pos: TRANSITIVE VERB
+  meaning: If you resume an activity or if it resumes, it begins again.
+  sent: After the war he resumed his duties at Wellesley College.
+  roots:
+    re: re- | again
+    sume:
+      meaning: to take, obtain, buy
+      roots:
+        su: sub- | under
+        ume: "*em- | to take, distribute"
+  exp: 整个词是take again, take up again, assume again的感觉。这个词中前缀re-在词义上占了主导地位。
+  connect:
+    again:
+      - again
+    take:
+      - begins
+  related:
+    - resumption
+- word: presume
+  freq: 5819
+  use: 70
+  pos: TRANSITIVE VERB
+  meaning: If you presume that something is the case, you think that it is the case, although you are not certain.
+  sent: I presume you're here on business.
+  roots:
+    pre: pre- | before
+    sume:
+      meaning: to take, obtain, buy
+      roots:
+        su: sub- | under
+        ume: "*em- | to take, distribute"
+  exp: 表达的感觉是在确定事实之前(before)就take for granted。
+  connect:
+    before:
+      - not certain
+    buy:
+      - think that it is the case
 
-redeem  9458    87      *em-
+
 presume 5819    70      *em-
 vintage 6462    53      *em-
-premium 4854    52      *em-
-resume  3819    50      *em-
 sumptuous       15165   47      *em-
 impromptu       13693   28      *em-,   *per-
 ransom  12233   15      *em-
-redemption      8405    -1      *em-
 presumption     10134   -1      *em-
 subsume 15765   -1      *em-
-consumerism     15782   -1      *em-
-resumption      19203   -1      *em-
 
 
 ## TODO: finish all "related" tabs in root.yml

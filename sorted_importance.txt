@@ -4686,7 +4686,7 @@ avail	14789	42	*wal-
 aficionado	14799	42
 heartbreak	14845	42	*bhreg-
 aloof	14938	42
-presumed	14940	42
+presumed	14940	42  *em-
 fictitious	15272	42	*dheigh-
 heartache	16911	42
 putative	17077	42	*pau-

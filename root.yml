@@ -824,10 +824,10 @@ misc:
     - unavoidable
 "*em-":
   meaning: to take, distribute
-  exp: example(855,18) = ex(=ex-:out) + am(=*em-:to take)顾名思义，就是that which is taken out，确实是举例子的感觉。sample(1318,33)其实可以看成example的简写，比如在Old French里就写作essample。
-  assume(1095,165) = as(=ad-:to, toward, up to) + su(=sub-:under) + ume(=*em-)表达的感觉是take something as a given，所以和take有关。注意sume的部分是可以拆成两份的，即sub-和*em-。consume(3031,123) = com(=com-:intensive prefix) + su(=sub-:under) + ume(=*em-)表达的是take down, destroy的感觉，所以才能表示eat or drink——eat就是把东西嚼碎咽下去。prompt(3142,166) = pro(=*per-(1):forward) + om(=*em-)，literally就是to bring forth的感觉，所以才表示"导致"，另外大家上网的时候跳出来的那些窗口儿都叫prompt，确实符合to bring forth的形象。
+  exp: example(855,18) = ex(=ex-:out) + am(=*em-:to take)顾名思义，就是that which is taken out，确实是举例子的感觉。sample(1318,33)其实可以看成example的简写，比如在Old French里就写作essample。assume(1095,165) = as(=ad-:to, toward, up to) + su(=sub-:under) + ume(=*em-)表达的感觉是take something as a given，所以和take有关。注意sume(to take, obtain, buy)的部分是可以拆成两份的，即sub-和*em-。另外需要注意的是buy在这里更多表示的是believe的感觉，不是我们通常说的买东西。比如I am not prepared to buy the claim that the ends justify the means。consume(3031,123) = com(=com-:intensive prefix) + su(=sub-:under) + ume(=*em-)表达的是take down, destroy的感觉，所以才能表示eat or drink——eat就是把东西嚼碎咽下去。prompt(3142,166) = pro(=*per-(1):forward) + om(=*em-)，literally就是to bring forth的感觉，所以才表示"导致"，另外大家上网的时候跳出来的那些窗口儿都叫prompt，确实符合to bring forth的形象。
   related:
     - consumer
+    - consumerism
     - assumption
     - consumption
     - exemplary
