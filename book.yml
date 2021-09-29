@@ -6885,7 +6885,7 @@
   roots:
     pre: pre- | before
     sume:
-      meaning: to take, obtain, buy
+      meaning: sum | to take, obtain, buy
       roots:
         su: sub- | under
         ume: "*em- | to take, distribute"
@@ -6895,13 +6895,41 @@
       - not certain
     buy:
       - think that it is the case
-
+- word: sumptuous
+  freq: 15165
+  use: 47
+  pos: ADJECTIVE
+  meaning: Something that is sumptuous is grand and obviously very expensive.
+  sent: '...a sumptuous feast.'
+  roots:
+    sumpt:
+      meaning: sum | to borrow, buy, spend, eat, drink, consume, employ, take, take up
+        su: sub- | under
+        umpt: "*em- | to take, distribute"
+  exp: 从take可以衍生出spend, eat, drink, consume的感觉，因为它们都是take的表现形式。这种吃喝花消的感觉正好也对应释义中的grand, expensive。
+  connect:
+    buy, spend, eat, drink, consume:
+      - grand
+      - expensive
+- word: ransom
+  freq: 12233
+  use: 15
+  pos: VARIABLE NOUN
+  meaning: A ransom is the money that has to be paid to someone so that they will set free a person they have kidnapped.
+  sent: Her kidnapper successfully extorted a $250,000 ransom for her release.
+  roots:
+    rans: re- | back
+    om: "*em- | to take, distribute"
+  exp: 把钱交上来，把人领(take)回去(back)。
+  connect:
+    back:
+      - set free
+    take:
+      - be paid
 
 presume 5819    70      *em-
 vintage 6462    53      *em-
-sumptuous       15165   47      *em-
 impromptu       13693   28      *em-,   *per-
-ransom  12233   15      *em-
 presumption     10134   -1      *em-
 subsume 15765   -1      *em-
 
