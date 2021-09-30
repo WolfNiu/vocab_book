@@ -6895,6 +6895,8 @@
       - not certain
     buy:
       - think that it is the case
+  related:
+    - presumption
 - word: sumptuous
   freq: 15165
   use: 47
@@ -6926,12 +6928,48 @@
       - set free
     take:
       - be paid
+- word: subsume
+  freq: 15765
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If something is subsumed within a larger group or class, it is included within it, rather than being considered as something separate.
+  sent: After that the two alliances might be subsumed into a new European security system.
+  roots:
+    sub: sub- | under
+    sume:
+      meaning: sum | to take, obtain, buy
+      roots:
+        su: sub- | under
+        ume: "*em- | to take, distribute"
+  exp: 整个词的感觉就是to take under，也就是将...收归旗下。这个词有意思的地方是包含了两个前缀sub-，第二个是用来和*em-组成词根sum的。
+  connect:
+    take:
+      - included
+      - considered
+    under:
+      - within
+      - separate
+- word: vintage
+  freq: 6462
+  use: 53
+  pos: COUNTABLE NOUN
+  meaning: The vintage of a good quality wine is the year and place that it was made before being stored to improve it. You can also use vintage to refer to the wine that was made in a certain year.
+  sent: This wine is from one of the two best vintages of the decade in this region.
+  roots:
+    vine: wine
+    ta:
+      meaning: dem | take off
+      roots:
+        de: de- | from, away from
+        em: "*em- | to take, distribute"
+  exp: 这个词中的*em-藏得很深，几乎不可辨识。如果需要的话可以想像一下tage和take可互换。所有词根加起来的感觉其实是a gathering of grapes (wine是用grapes酿出来的)。
+  connect:
+    take:
+      - made
+    wine:
+      - wine
 
-presume 5819    70      *em-
-vintage 6462    53      *em-
 impromptu       13693   28      *em-,   *per-
-presumption     10134   -1      *em-
-subsume 15765   -1      *em-
 
 
 ## TODO: finish all "related" tabs in root.yml
