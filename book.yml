@@ -6968,8 +6968,22 @@
       - made
     wine:
       - wine
-
-impromptu       13693   28      *em-,   *per-
+- word: impromptu
+  freq: 13693
+  use: 28
+  pos: ADJECTIVE
+  meaning: An impromptu action is one that you do without planning or organizing it in advance.
+  sent: This afternoon the Palestinians held an impromptu press conference.
+  roots:
+    in: in- | into, in, on, upon
+    pro: pro- | before, forward, for
+    ompt: "*em- | to take, distribute"
+  exp: 所有词根加起来的意思是to bring out，也就是"有感而发"(impromptu)的感觉。
+  connect:
+    take:
+      - do
+    forward:
+      - without planning or organizing it in advance
 
 
 ## TODO: finish all "related" tabs in root.yml
