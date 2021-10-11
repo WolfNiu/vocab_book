@@ -7013,15 +7013,24 @@
 - word: fathom
   freq: 13898
   use: 5
-  pos: COUNTABLE NOUN
-  meaning: A fathom is a measurement of 6 feet or 1.8 meters, used when referring to the depth of water.
-  sent: We sailed into the bay and dropped anchor in five fathoms of water.
+  pos: TRANSITIVE VERB
+  meaning: If you cannot fathom something, you are unable to understand it, although you think carefully about it.
+  sent: I really couldn't fathom what Steiner was talking about.
   roots:
+    fath:
+      meaning: fath | embrace
+      roots:
+        fath: "*pete- | to spread"
+  exp: 字母互换上f=p, th=t。理解这个词和词根之间的联系需要想像一下"大熊环抱"的场景。如果你spread自己的arms，环绕对方的话，就对应了arms, grasp, embrace的感觉。如果一件事你感觉没办法grasp(难以把握)，那就相当于没法understand。
+  connect:
+    embrace:
+      - understand
+  related:
+    - unfathomable
 
 
 patent  4454    109     *pete-
 encompass       5705    82      *pete-
-unfathomable    19549   65      *pete-
 trespass        16591   59      *pete-
 passport        6332    47      *per-,  *pete-
 surpass 6968    47      *pete-
@@ -7032,7 +7041,6 @@ expansive       9406    24      *pete-
 pastime 11418   24      *pete-
 pail    14687   15      *pete-
 pate    19665   10      *pete-
-fathom  13898   5       *pete-
 petal   8989    -1      *pete-
 
 
