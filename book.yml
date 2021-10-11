@@ -6984,6 +6984,56 @@
       - do
     forward:
       - without planning or organizing it in advance
+- word: compass
+  freq: 8104
+  use: 206
+  pos: COUNTABLE NOUN
+  meaning: A compass is an instrument that you use for finding directions. It has a dial and a magnetic needle that always points to the north.
+  sent: We had to rely on a compass and a lot of luck to get here.
+  roots:
+    com: com- | together
+    pass:
+      meaning: pass | a step
+      roots:
+        pass: "*pete- | to spread"
+  exp: 借的是*pete-中step的那层意思。整个词是go around的感觉，象征着circle。而compass正好就是这么个圆圆的，一圈上满是刻度的东西(是的，前人的想象力就是这么丰富)。
+- word: spawn
+  freq: 6573
+  use: 111
+  pos: INTRANSITIVE VERB
+  meaning: Spawn is a soft, jelly-like substance containing the eggs of fish, or of animals such as frogs.
+  sent: '...her passion for collecting frog spawn.'
+  roots:
+    s: ex- | out
+    pawn: "*pete- | to spread"
+  exp: 鱼呀、青蛙呀产出(out)的卵都是粘乎乎地一摊一大片(spread)。
+  connect:
+    spread:
+      - soft, jelly-like
+- word: fathom
+  freq: 13898
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A fathom is a measurement of 6 feet or 1.8 meters, used when referring to the depth of water.
+  sent: We sailed into the bay and dropped anchor in five fathoms of water.
+  roots:
+
+
+patent  4454    109     *pete-
+encompass       5705    82      *pete-
+unfathomable    19549   65      *pete-
+trespass        16591   59      *pete-
+passport        6332    47      *per-,  *pete-
+surpass 6968    47      *pete-
+impasse 13075   40      *pete-
+patina  18382   37      *pete-
+expanse 8353    30      *pete-
+expansive       9406    24      *pete-
+pastime 11418   24      *pete-
+pail    14687   15      *pete-
+pate    19665   10      *pete-
+fathom  13898   5       *pete-
+petal   8989    -1      *pete-
 
 
 ## TODO: finish all "related" tabs in root.yml

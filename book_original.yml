@@ -63063,10 +63063,9 @@ Jenny's writing a film script.
 - word: fathom
   freq: 13898
   use: 5
-  pos: COUNTABLE NOUN
-  meaning: A fathom is a measurement of 6 feet or 1.8 meters, used when referring
-    to the depth of water.
-  sent: We sailed into the bay and dropped anchor in five fathoms of water.
+  pos: TRANSITIVE VERB
+  meaning: If you cannot fathom something, you are unable to understand it, although you think carefully about it.
+  sent: I really couldn't fathom what Steiner was talking about.
 - word: forecaster
   freq: 13996
   use: 5
