@@ -5123,7 +5123,7 @@ barb	17115	38
 empathize	17487	38	*kwent(h)-
 circumscribe	17559	38	*sker-,	*skribh-
 interweave	17623	38
-patented	18219	38
+patented	18219	38  *pete-
 defensible	18233	38
 low-lying	18771	38
 rooted	19331	38
@@ -10833,7 +10833,7 @@ litmus	17009	0
 betrayed	17026	0
 milling	17049	0	*mele-
 greenish	17062	0
-patently	17067	0
+patently	17067	0   *pete-
 Labour	17071	0
 popularly	17079	0
 foundational	17082	0	*gheu-

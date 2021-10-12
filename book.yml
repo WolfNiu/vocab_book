@@ -7027,9 +7027,38 @@
       - understand
   related:
     - unfathomable
+- word: patent
+  freq: 4454
+  use: 109
+  pos: COUNTABLE NOUN
+  meaning: A patent is an official right to be the only person or company allowed to make or sell a new product for a certain period of time.
+  sent: P&G applied for a patent on its cookies.
+  roots:
+    pat:
+      meaning: pat | lie open, be open
+      roots:
+        pat: "*pete- | to spread"
+  exp: 要想理解这个单词和词根*pete-之间的关系，首先要看它的形容词形式。patent作为形容词的释义是"You use patent to describe something, especially something bad, in order to indicate in an emphatic way that you think its nature or existence is clear and obvious."。这里借的是*pete-中"open, lying open"的那层意思。词根的意思spread其实就是"摊开、挑明"的感觉，所以和open相对应。回到patent的名词形式。一旦申请了patent，就相当于将自己的发现公之于众了(open letter, offical document)，只不过这种公布是受法律保护的而已。整个词非常难想，但是现在想明白了是不是还觉得挺爽的？
+  connect:
+    open:
+      - official
+  related:
+    - patently
+    - patented
+- word: trespass
+  freq: 16591
+  use: 59
+  pos: INTRANSITIVE VERB
+  meaning: If someone trespasses, they go onto someone else's land without their permission.
+  sent: They were trespassing on private property.
+  roots:
+    tres: trans- | beyond
+    pass:
+      meaning: pass | go by, pass
+      roots:
+        pass: "*pete- | to spread"
+  exp:
 
-
-patent  4454    109     *pete-
 encompass       5705    82      *pete-
 trespass        16591   59      *pete-
 passport        6332    47      *per-,  *pete-
