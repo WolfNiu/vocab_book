@@ -7057,16 +7057,53 @@
       meaning: pass | go by, pass
       roots:
         pass: "*pete- | to spread"
-  exp:
+  exp: go + beyond表达"出格"、"出圈"的感觉，和释义中的without permission相对应。
+  connect:
+    beyond:
+      - without their permission
+    go by:
+      - go onto
+- word: surpass
+  freq: 6968
+  use: 47
+  pos: TRANSITIVE VERB
+  meaning: If one person or thing surpasses another, the first is better than, or has more of a particular quality than, the second.
+  sent: He was determined to surpass the achievements of his older brothers.
+  roots:
+    sur: sur-(1) | over, above, beyond, in addition
+    pass:
+      meaning: pass | to go by
+      roots:
+        pass: "*pete- | to spread"
+  connect:
+    above:
+      - better
+      - more
+- word: impasse
+  freq: 13075
+  use: 40
+  pos: SINGULAR NOUN
+  meaning: If people are in a difficult position in which it is impossible to make any progress, you can refer to the situation as an impasse.
+  sent: The company says it has reached an impasse in negotiations with the union.
+  roots:
+    im: in-(1) | not, opposite of
+    passe:
+      meaning: pass | to pass
+      roots:
+        pass: "*pete- | to spread"
+  connect:
+    not, opposite of:
+      - difficult
+      - impossible
+    pass:
+      - progress
+
 
 encompass       5705    82      *pete-
-trespass        16591   59      *pete-
 passport        6332    47      *per-,  *pete-
-surpass 6968    47      *pete-
 impasse 13075   40      *pete-
 patina  18382   37      *pete-
 pastime 11418   24      *pete-
-pail    14687   15      *pete-
 pate    19665   10      *pete-
 petal   8989    -1      *pete-
 
