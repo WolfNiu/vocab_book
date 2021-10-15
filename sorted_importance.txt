@@ -3404,7 +3404,7 @@ exalt	17989	58	*al-
 loathing	18021	58
 demented	18414	58	*men-
 unconscionable	19512	58
-past	681	57
+past	681	57  *pete-
 growth	788	57
 prove	869	57	*per-
 species	1144	57	*spek-
