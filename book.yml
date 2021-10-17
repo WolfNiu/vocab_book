@@ -6997,6 +6997,16 @@
       roots:
         pass: "*pete- | to spread"
   exp: 借的是*pete-中step的那层意思。整个词是go around的感觉，象征着circle。而compass正好就是这么个圆圆的，一圈上满是刻度的东西(是的，前人的想象力就是这么丰富)。
+- word: encompass
+  freq: 5705
+  use: 82
+  pos: TRANSITIVE VERB
+  meaning: If something encompasses particular things, it includes them.
+  sent: His repertoire encompassed everything from Bach to Schoenberg.
+  roots:
+    en: en-(1) | make, put in
+    compass: an instrument that you use for finding directions
+  exp: 直接用compass(8104,206)记就好，借的是其circle的那层意思。因此这个词和encircle(10822,23)也应该一起理解。
 - word: spawn
   freq: 6573
   use: 111
@@ -7121,16 +7131,57 @@
   connect:
     spread:
       - thin
+- word: brake
+  freq: 4746
+  use: 65
+  pos: COUNTABLE NOUN
+  meaning: Brakes are devices in a vehicle that make it go slower or stop.
+  sent: A seagull swooped down in front of her car, causing her to slam on the brakes.
+  roots:
+    brake: "*bhreg- | to break"
+  exp: 打破/打断(break)正常速度当然就是brake了。
+  connect:
+    break:
+      - slower
+      - stop
+- word: fragment
+  freq: 4800
+  use: 71
+  pos: COUNTABLE NOUN
+  meaning: A fragment of something is a small piece or part of it.
+  sent: The only reminder of the shooting is a few fragments of metal in my shoulder.
+  roots:
+    frag: "*bhreg- | to break"
+  exp: 词根*bhreg-和fragment的联系就是"break into small pieces"。字母互换上b=f, h可省。词根容易想，字母互换又对仗工整，衍生词还多——我们就喜欢这样的词，一片儿顶过去五片儿。
+  connect:
+    break:
+      - small piece
+      - part
+  related:
+    - fragemented
+    - fragmentary
+    - fragmentation
 
-encompass       5705    82      *pete-
-pate    19665   10      *pete-
+
+frail   9131    133     *bhreg-
+breach  8002    108     *bhreg-
+fracture        6215    79      *bhreg-
+fragile 4788    71      *bhreg-
+fraction        4774    35      *bhreg-
+fragility       16486   27      *bhreg-
+suffrage        17190   5       *bhreg-
+refrain 9225    4       *bhreg-
+infraction      15335   -1      *bhreg-
+infringe        15385   -1      *bhreg-
+infringement    16268   -1      *bhreg-
+refractor       17028   -1      *bhreg-
+
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # TODO: *kar-
 # (34, '*ambhi-'),
-# (34, '*pete-'),
 # (35, '*bhreg-'),
 # (35, '*gwei-'),
 # (35, '*sol-'),

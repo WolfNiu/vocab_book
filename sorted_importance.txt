@@ -1706,7 +1706,7 @@ commence	9682	93	*ei-
 apprehension	9683	93	*ghend-
 inconvenience	11019	93	*gwa-
 stirring	11778	93
-brash	14011	93	*bhreg-
+brash	14011	93
 emphatic	14586	93
 hash	17403	93
 rile	17754	93
@@ -8778,7 +8778,7 @@ unwavering	18375	10	*wegh-
 infest	18399	10
 dotted	18457	10
 whistle-blower	18587	10
-pate	19665	10	*pete-
+pate	19665	10
 jetty	19732	10	*ye-
 newness	19745	10
 picking	19837	10
@@ -13738,7 +13738,7 @@ perverse	10448	-1	*per-,	*wer-
 handmade	10449	-1
 electronically	10450	-1
 subsistence	10451	-1
-fragmented	10452	-1
+fragmented	10452	-1  *bhreg-
 babe	10453	-1
 legion	10454	-1	*leg-
 proficiency	10455	-1	*dhe-
