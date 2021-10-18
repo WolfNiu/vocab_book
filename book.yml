@@ -7127,7 +7127,7 @@
   sent: '...bowls of dried rose petals.'
   roots:
     pet: "*pete- | to spread"
-  exp: 从这个词能看出，由于spread是摊开的感觉，所以*pete-一般都和比较薄的事物相关，比如花瓣(petal)。
+  exp: 从这个词能看出，由于spread是摊开的感觉，所以*pete-一般都和比较薄的事物相关，比如花瓣(petal)。另外开花也是个spread的过程。
   connect:
     spread:
       - thin
