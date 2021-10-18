@@ -3397,7 +3397,7 @@ crazed	13678	58
 psychotic	13680	58
 chunky	14010	58
 painless	14426	58
-frailty	17851	58
+frailty	17851	58  *bhreg-
 surly	17895	58	*sen-
 empathetic	17986	58	*kwent(h)-
 exalt	17989	58	*al-
