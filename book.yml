@@ -7208,6 +7208,8 @@
     break:
       - break
       - disobey
+  related:
+    - infringement
 
 breach  8002    108     *bhreg-
 fracture        6215    79      *bhreg-
@@ -7215,8 +7217,6 @@ fraction        4774    35      *bhreg-
 suffrage        17190   5       *bhreg-
 refrain 9225    4       *bhreg-
 infraction      15335   -1      *bhreg-
-infringe        15385   -1      *bhreg-
-infringement    16268   -1      *bhreg-
 refractor       17028   -1      *bhreg-
 
 
