@@ -7210,11 +7210,57 @@
       - disobey
   related:
     - infringement
+- word: breach
+  freq: 8002
+  use: 108
+  pos: TRANSITIVE VERB
+  meaning: If you breach an agreement, a law, or a promise, you break it.
+  sent: The newspaper breached the code of conduct on privacy.
+  roots:
+    breach: "*bhreg- | to break"
+  exp: 不解释。注意"code of conduct"是个整体。The code of conduct for a group or organization is an agreement on rules of behavior for the members of that group or organization.
+  connect:
+    break:
+      - break
+- word: fracture
+  freq: 6215
+  use: 79
+  pos: COUNTABLE NOUN
+  meaning: A fracture is a crack or break in something, especially a bone.
+  sent: At least one-third of all women over ninety have sustained a hip fracture.
+  roots:
+    fract: "*bhreg- | to break"
+  exp: 字母互换方面f=b, c=g。释义中已经有break了，不解释。
+  connect:
+    break:
+      - crack
+      - break
+- word: fraction
+  freq: 4774
+  use: 35
+  pos: COUNTABLE NOUN
+  meaning: A fraction of something is a tiny amount or proportion of it.
+  sent: She hesitated for a fraction of a second before responding.
+  roots:
+    fract: "*bhreg- | to break"
+  exp: 词根*bhreg-表达的是to break (something) in pieces的感觉，对应释义中的tiny amount or proportion。
+  connect:
+    break:
+      - tiny amount or proportion
+- word: suffrage
+  freq: 17190
+  use: 5
+  pos: UNCOUNTABLE NOUN
+  meaning: Suffrage is the right of people to vote for a government or national leader.
+  sent: '...the women''s suffrage movement.'
+  roots:
+    suf: sub- | under
+    frage: "*bhreg- | to break"
+  exp: vote(1082,55)为什么会和break有关呢？因为古人会"use a broken piece of tile as a ballot"——也就是拿打碎的(broken-->break)小瓦片儿来投票。至于sub-的部分，应该指的是voting in secret吧。
+  connect:
+    break:
+      - vote
 
-breach  8002    108     *bhreg-
-fracture        6215    79      *bhreg-
-fraction        4774    35      *bhreg-
-suffrage        17190   5       *bhreg-
 refrain 9225    4       *bhreg-
 infraction      15335   -1      *bhreg-
 refractor       17028   -1      *bhreg-
