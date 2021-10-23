@@ -7260,11 +7260,33 @@
   connect:
     break:
       - vote
-
-refrain 9225    4       *bhreg-
-infraction      15335   -1      *bhreg-
-refractor       17028   -1      *bhreg-
-
+- word: refrain
+  freq: 9225
+  use: 4
+  pos: INTRANSITIVE VERB
+  meaning: If you refrain from doing something, you deliberately do not do it.
+  sent: Mrs. Hardie refrained from making any comment.
+  roots:
+    re: re- | back
+    frain: "*bhreg- | to break"
+  exp: 词根中的break表达了"中断"的感觉，对应释义中的"not do it"；而back也表达了"hold back"的意思。
+  connect:
+    back:
+      - not do
+    break:
+      - not do
+- word: infraction
+  freq: 15335
+  use: -1
+  meaning: An infraction of a rule or law is an instance of breaking it.
+  sent: '...an infraction of school rules.'
+  roots:
+    in: in- | in
+    fract: "*bhreg- | to break"
+  exp: 释义中已经有break了，不解释。
+  connect:
+    break:
+      - break
 
 
 ## TODO: finish all "related" tabs in root.yml
