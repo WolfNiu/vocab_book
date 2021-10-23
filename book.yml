@@ -7289,11 +7289,36 @@
       - break
 
 
+revive  5347    46      *gwei-
+viable  5109    41      *gwei-
+vivid   5609    41      *gwei-
+revitalize      10860   34      *gwei-
+quiver  11790   33      *gwei-
+antibiotic      5143    29      *gwei-
+autobiography   7122    18      *gwei-
+revival 5488    14      *gwei-
+revitalization  15030   13      *gwei-
+biography       4932    10      *gwei-
+biological      2588    -1      *gwei-
+biology 4266    -1      *gwei-
+biologist       5149    -1      *gwei-
+whiskey 7136    -1      *gwei-, *wed-
+aerobic 8954    -1      *gwei-
+microbe 10376   -1      *gwei-
+biopsy  10675   -1      *gwei-, *okw-
+biographer      10796   -1      *gwei-
+microbial       13199   -1      *gwei-
+biographical    13717   -1      *gwei-
+amphibian       17127   -1      *ambhi-,        *gwei-
+anaerobic       17400   -1      *gwei-, *wer-
+microbiologist  19459   -1      *gwei-
+
+
+
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # TODO: *kar-
 # (34, '*ambhi-'),
-# (35, '*bhreg-'),
 # (35, '*gwei-'),
 # (35, '*sol-'),
 # (35, '*tag-'),
