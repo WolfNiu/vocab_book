@@ -17315,7 +17315,7 @@ flushed	19238	-1
 sighted	19239	-1
 stratification	19242	-1	*dhe-
 Americanization	19243	-1
-quivering	19244	-1
+quivering	19244	-1  *gwei-
 jaunt	19245	-1
 brainchild	19246	-1
 reconstructive	19247	-1

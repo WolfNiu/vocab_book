@@ -7287,17 +7287,91 @@
   connect:
     break:
       - break
+- word: revive
+  freq: 5347
+  use: 46
+  pos: TRANSITIVE VERB
+  meaning: When something such as the economy, a business, a trend, or a feeling is revived or when it revives, it becomes active, popular, or successful again.
+  sent: '...an attempt to revive the economy.'
+  roots:
+    re: re- | again
+    viv: "*gwei- | to live"
+  exp: live对应释义中的active，again对应释义中的again，没啥可解释的。
+  connect:
+    live:
+      - active
+      - popular
+      - successful
+    again:
+      - again
+- word: viable
+  freq: 5109
+  use: 41
+  pos: ADJECTIVE
+  meaning: Something that is viable is capable of doing what it is intended to do.
+  sent: Cash alone will not make Eastern Europe's banks viable.
+  roots:
+    vi: "*gwei- | to live"
+    able: -able | able
+  exp: live + able表达了"能生存下去"的感觉，对应释义中的capable。
+  connect:
+    live:
+      - capable
+    able:
+      - capable
+- word: vivid
+  freq: 5609
+  use: 41
+  pos: ADJECTIVE
+  meaning: If you describe memories and descriptions as vivid, you mean that they are very clear and detailed.
+  sent: People of my generation who lived through World War II have vivid memories of confusion and incompetence.
+  roots:
+    viv: "*gwei- | to live"
+  exp: live表达了"生动"的感觉。
+  connect:
+    live:
+      - clear
+      - detailed
+- word: quiver
+  freq: 11790
+  use: 33
+  pos: INTRANSITIVE VERB
+  meaning: If something quivers, it shakes with very small movements.
+  sent: Her bottom lip quivered and big tears rolled down her cheeks.
+  roots:
+    quiv: "*gwei- | to live"
+  exp: live意味着还在动，对应释义中的movements。
+  connect:
+    live:
+      - shakes
+      - movements
+  related:
+    - quivering
+- word: revitalize
+  freq: 10860
+  use: 34
+  pos: TRANSITIVE VERB
+  meaning: To revitalize something that has lost its activity or its health means to make it active or healthy again.
+  sent: This hair conditioner is excellent for revitalizing dry, lifeless hair.
+  roots:
+    re: re- | again
+    vit: "*gwei- | to live"
+    ize: -ize | word-forming element used to make verbs
+  exp: live + again表达了让某事物重现生机的感觉。
+  connect:
+    again:
+      - again
+    live:
+      - activity
+      - health
+      - active
+      - healthy
+  related:
+    - revitalization
 
-
-revive  5347    46      *gwei-
-viable  5109    41      *gwei-
-vivid   5609    41      *gwei-
-revitalize      10860   34      *gwei-
-quiver  11790   33      *gwei-
 antibiotic      5143    29      *gwei-
 autobiography   7122    18      *gwei-
 revival 5488    14      *gwei-
-revitalization  15030   13      *gwei-
 biography       4932    10      *gwei-
 biological      2588    -1      *gwei-
 biology 4266    -1      *gwei-
