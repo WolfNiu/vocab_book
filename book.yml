@@ -7304,6 +7304,8 @@
       - successful
     again:
       - again
+  related:
+    - revival
 - word: viable
   freq: 5109
   use: 41
@@ -7368,24 +7370,30 @@
       - healthy
   related:
     - revitalization
+- word: aerobic
+  freq: 8954
+  use: -1
+  pos: ADJECTIVE
+  meaning: Aerobic activity exercises and strengthens your heart and lungs.
+  sent: Aerobic exercise gets the heart pumping and helps you to burn fat.
+  roots:
+
+  related:
+    - anaerobic
+
 
 antibiotic      5143    29      *gwei-
 autobiography   7122    18      *gwei-
-revival 5488    14      *gwei-
 biography       4932    10      *gwei-
-biological      2588    -1      *gwei-
-biology 4266    -1      *gwei-
-biologist       5149    -1      *gwei-
+  biographical    13717   -1      *gwei-
 whiskey 7136    -1      *gwei-, *wed-
-aerobic 8954    -1      *gwei-
 microbe 10376   -1      *gwei-
 biopsy  10675   -1      *gwei-, *okw-
 biographer      10796   -1      *gwei-
 microbial       13199   -1      *gwei-
-biographical    13717   -1      *gwei-
 amphibian       17127   -1      *ambhi-,        *gwei-
-anaerobic       17400   -1      *gwei-, *wer-
-microbiologist  19459   -1      *gwei-
+aerobic 8954    -1      *gwei-
+  anaerobic       17400   -1      *gwei-, *wer-
 
 
 

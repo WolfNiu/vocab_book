@@ -863,7 +863,7 @@ misc:
     - windbreaker
 "*gwei-":
   meaning: to live
-  exp: 首先是超常用词quick(1309,225)。字母互换上，由于q发/k/的音，因此q=g(清浊辅音), u=w。这里live给人的感觉是lively, active，也就是活蹦乱跳的感觉，因此和quick息息相关。下一个survive(1349,75) = sur(=super-:over, beyond) + vive(=*gwei-)。这个词涉及到了从*gwei-发展出的常用词根viv，它也表示to live的意思。这个词的互换比较难想，viv中的第一个v和*gwei-中的w可互换，而第一个g被省掉了。到于第二个v嘛，由于在元音后面，省了也就省了。下一个词vital(2939,199) = vit(=*gwei-) + al(=-al)，表示necessary, very important。如果一个事物对于活下来很重要(essential to life)，那这个玩意当然就很重要。vitamin(3751,-1) = vit(=*gwei-) + amine。这个词的中文"维生素"翻译得非常好——你看，维持生命的元素，里面天然就带了live的感觉。至于amine表示胺类物质，表明了vitamin的化学成分。
+  exp: 首先是超常用词quick(1309,225)。字母互换上，由于q发/k/的音，因此q=g(清浊辅音), u=w。这里live给人的感觉是lively, active，也就是活蹦乱跳的感觉，因此和quick息息相关。下一个survive(1349,75) = sur(=super-:over, beyond) + vive(=*gwei-)。这个词涉及到了从*gwei-发展出的常用词根viv，它也表示to live的意思。这个词的互换比较难想，viv中的第一个v和*gwei-中的w可互换，而第一个g被省掉了。到于第二个v嘛，由于在元音后面，省了也就省了。下个词biological(2588,-1) = bio(=bio-:life=*gwei-) + logi(=-logy:science)——一个研究生命的学科。这里涉及了一个*gwei-旗下的常用前缀bio-，表示life, biology。注意bio-和*gwei-中b=w，这是由于b=v，而v=w。下一个词vital(2939,199) = vit(=*gwei-) + al(=-al)，表示necessary, very important。如果一个事物对于活下来很重要(essential to life)，那这个玩意当然就很重要。vitamin(3751,-1) = vit(=*gwei-) + amine。这个词的中文"维生素"翻译得非常好——你看，维持生命的元素，里面天然就带了live的感觉。至于amine表示胺类物质，表明了vitamin的化学成分。
   related:
     - quickly
     - quicken
@@ -871,3 +871,6 @@ misc:
     - survivor
     - quickness
     - vitality
+    - biology
+    - biologist
+    - microbiologist
