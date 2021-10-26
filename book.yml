@@ -7377,23 +7377,66 @@
   meaning: Aerobic activity exercises and strengthens your heart and lungs.
   sent: Aerobic exercise gets the heart pumping and helps you to burn fat.
   roots:
-
+    aero: aero- | air, atmosphere; gases
+    bi:
+      meaning: bio | life
+      roots:
+        bio: "*gwei | to live"
+  exp: 这个词的另一个意思(也是最初的意思)是好氧生物(aerobic organism)——也确实make sense，是live + air。另外这个词也涉及到了bio。可见它即可以是词根，也可以像在biology(4266,-1)里面那样当前缀。
+  connect:
+    live:
+      - heart
+      - lungs
   related:
     - anaerobic
-
+- word: biography
+  freq: 4932
+  use: 10
+  pos: COUNTABLE NOUN
+  meaning: A biography of someone is an account of their life, written by someone else.
+  sent: '...recent biographies of Stalin.'
+  roots:
+    bio:
+      meaning: bio | life
+      roots:
+        bio: "*gwei | to live"
+    graphy: -graphy | process of writing or recording; a writing, recording, or description
+  exp: 整个词表达了description of life的意思。
+  connect:
+    life:
+      - life
+    writing:
+      - account
+      - written
+  related:
+    - biographical
+    - autobiography
+    - biographer
+- word: microbe
+  freq: 10376
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A microbe is a very small, living thing, which you can only see if you use a microscope.
+  sent: '...a type of bacteria that include the microbes responsible for tuberculosis and leprosy.'
+  root:
+    micro: micro- | small
+    be:
+      meaning: bio | life
+      roots:
+        bio: "*gwei | to live"
+  exp: 释义中已经有small和living了，不解释。
+  connect:
+    small:
+      - small
+      - microscope
+    life:
+      - living
+  related:
+    - microbial
 
 antibiotic      5143    29      *gwei-
-autobiography   7122    18      *gwei-
-biography       4932    10      *gwei-
-  biographical    13717   -1      *gwei-
-whiskey 7136    -1      *gwei-, *wed-
-microbe 10376   -1      *gwei-
 biopsy  10675   -1      *gwei-, *okw-
-biographer      10796   -1      *gwei-
-microbial       13199   -1      *gwei-
 amphibian       17127   -1      *ambhi-,        *gwei-
-aerobic 8954    -1      *gwei-
-  anaerobic       17400   -1      *gwei-, *wer-
 
 
 
