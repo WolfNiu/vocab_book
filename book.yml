@@ -7381,7 +7381,7 @@
     bi:
       meaning: bio | life
       roots:
-        bio: "*gwei | to live"
+        bio: "*gwei- | to live"
   exp: 这个词的另一个意思(也是最初的意思)是好氧生物(aerobic organism)——也确实make sense，是live + air。另外这个词也涉及到了bio。可见它即可以是词根，也可以像在biology(4266,-1)里面那样当前缀。
   connect:
     live:
@@ -7399,7 +7399,7 @@
     bio:
       meaning: bio | life
       roots:
-        bio: "*gwei | to live"
+        bio: "*gwei- | to live"
     graphy: -graphy | process of writing or recording; a writing, recording, or description
   exp: 整个词表达了description of life的意思。
   connect:
@@ -7423,7 +7423,7 @@
     be:
       meaning: bio | life
       roots:
-        bio: "*gwei | to live"
+        bio: "*gwei- | to live"
   exp: 释义中已经有small和living了，不解释。
   connect:
     small:
@@ -7432,20 +7432,94 @@
     life:
       - living
   related:
-    - microbial
+- word: antibiotic
+  freq: 5143
+  use: 29
+  pos: COUNTABLE NOUN
+  meaning: Antibiotics are medical drugs used to kill bacteria and treat infections.
+  sent: Your doctor may prescribe antibiotics.
+  roots:
+    anti: anti- | against
+    biot:
+      meaning: bio | life
+      roots:
+        bio: "*gwei- | to live"
+    ic: -ic
+  exp: against + life很好地对应了中文"抗生素"的概念。
+  connect:
+    against:
+      - kill
+      - treat
+    life:
+      - bacteria
+      - infections
+- word: biopsy
+  freq: 10675
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A biopsy is the removal and examination of fluids or tissue from a patient's body in order to discover why they are ill.
+  sent: James had a biopsy of the tumor over his right ear.
+  roots:
+    bio:
+      meaning: bio | life
+      roots:
+        bio: "*gwei- | to live"
+    opsy: "okw- | to see"
+  exp: 检查(see)病人的生命(life)指标。注意这里opsy中的p和*okw-中的w可互换(p=v=w)。
+  connect:
+    life:
+      - fluids
+      - tissue
+      - body
+      - ill
+    see:
+      - examination
+      - discover
+- word: solemn
+  freq: 9361
+  use: 126
+  pos: ADJECTIVE
+  meaning: Someone or something that is solemn is very serious rather than cheerful or humorous.
+  sent: His solemn little face broke into smiles.
+  roots:
+    sol: "*sol- | whole, well-kept"
+  exp: whole, well-kept确实能给人一种严肃(serious)的感觉；如果不够严肃，那叫没hold住。
+  connect:
+    whole, well-kept:
+      - serious
+      - cheerful
+      - humorous
+- word: solicit
+  freq: 7864
+  use: 99
+  pos: TRANSITIVE VERB
+  meaning: If you solicit money, help, support, or an opinion from someone, you ask them for it.
+  sent: He's already solicited their support on health care reform.
+  roots:
+    sol: "*sol- | whole, well-kept"
+    cit: "*keie- | to set in motion"
+  exp: solicit本来表达的是disturb, stimulate, provoke的感觉，也就是麻烦(ask for)别人，对应词根意思中的set in motion。至于*sol-起的作用是whole, entire，和*keie-合起来表示整个事物都被搅动了。
+  related:
+    - unsolicited
+    - solicitor
+    - solicitation
 
-antibiotic      5143    29      *gwei-
-biopsy  10675   -1      *gwei-, *okw-
-amphibian       17127   -1      *ambhi-,        *gwei-
-
+consolidate     7273    77      *sol-
+  consolidated    13772   0       *sol-
+  consolidation   8663    26      *sol-
+sage    8391    70      *sol-
+salute  9169    48      *sol-
+holocaust       17980   30      *sol-
+Catholic        1769    0       *sol-
+salvage 9097    -1      *sol-
+holistic        10050   -1      *sol-
+hologram        19341   -1      *sol-
 
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # TODO: *kar-
 # (34, '*ambhi-'),
-# (35, '*gwei-'),
-# (35, '*sol-'),
 # (35, '*tag-'),
 # (36, '*deru-'),
 # (36, '*medhyo-'),

@@ -17988,8 +17988,9 @@
 - word: sage
   freq: 8391
   use: 70
-  pos: UNCOUNTABLE NOUN
-  meaning: Sage is a herb used in cooking.
+  pos: ADJECTIVE
+  meaning: Having, showing, or indicating profound wisdom.
+  sent: They nodded in agreement with these sage remarks.
 - word: noticeable
   freq: 8652
   use: 70

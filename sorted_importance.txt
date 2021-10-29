@@ -2647,7 +2647,7 @@ compartment	6669	70	*pere-
 squash	7030	70	*kes-
 allowance	7820	70
 comforting	7893	70
-sage	8391	70	*sol-
+sage	8391	70
 noticeable	8652	70	*gno-
 vantage	9197	70
 heed	9338	70
