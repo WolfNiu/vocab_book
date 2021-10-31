@@ -7559,7 +7559,71 @@
   connect:
     whole:
       - save
+- word: entrust
+  freq: 10685
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you entrust something important to someone or entrust them with it, you make them responsible for looking after it or dealing with it.
+  sent: He entrusted his cash to a business partner for investment in a series of
+    projects.
+  roots:
+    en: in- | in
+    trust:
+      meaning: trust
+      roots:
+        trust: "*deru- | be firm, solid, steadfast"
+  exp: 直接用trust记就好。
+  connect:
+    trust:
+      - make them responsible
+- word: mistrust
+  freq: 14309
+  use: 33
+  pos: UNCOUNTABLE NOUN
+  meaning: Mistrust is the feeling that you have toward someone who you do not trust.
+  sent: There was mutual mistrust between the two men.
+  roots:
+    mis: mis-(1) | bad, wrong
+    trust:
+      meaning: trust
+      roots:
+        trust: "*deru- | be firm, solid, steadfast"
+  exp: 直接用trust记就好。
+  connect:
+    bad, wrong:
+      - not
+    trust:
+      - trust
+- word: distrust
+  freq: 10926
+  use: 32
+  pos: TRANSITIVE VERB
+  meaning: If you distrust someone or something, you think they are not honest, reliable, or safe.
+  sent: I don't have any particular reason to distrust them.
+  roots:
+    dis: dis- | lack of, not
+    trust:
+      meaning: trust
+      roots:
+        trust: "*deru- | be firm, solid, steadfast"
+  exp: 直接用trust记就好。
+  connect:
+    lack of, not:
+      - not
+    trust:
+      - honest
+      - reliable
+      - safe
 
+trim    4975    260     *deru-
+dour    18406   83      *deru-
+durable 8100    38      *deru-
+  durability      12021   18      *deru-
+duration        5492    36      *deru-
+trough  11269   27      *deru-
+tar     12242   11      *deru-
+truce   11357   8       *deru-
+tray    4520    -1      *deru-
 
 
 ## TODO: finish all "related" tabs in root.yml
