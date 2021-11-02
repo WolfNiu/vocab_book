@@ -976,9 +976,9 @@
 - word: trim
   freq: 4975
   use: 260
-  pos: ADJECTIVE
-  meaning: Something that is trim is neat, and attractive.
-  sent: The neighbors' gardens were trim and neat.
+  pos: TRANSITIVE VERB
+  meaning: If you trim something, for example, someone's hair, you cut off small amounts of it in order to make it look neater.
+  sent: My friend trims my hair every eight weeks.
 - word: desolate
   freq: 12342
   use: 260

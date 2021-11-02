@@ -7614,11 +7614,49 @@
       - honest
       - reliable
       - safe
+- word: trim
+  freq: 4975
+  use: 260
+  pos: TRANSITIVE VERB
+  meaning: If you trim something, for example, someone's hair, you cut off small amounts of it in order to make it look neater.
+  sent: My friend trims my hair every eight weeks.
+  roots:
+    trim: "*deru- | be firm, solid, steadfast"
+  exp: 修剪之后能让头发更strong, stable；不剪的话就都耷拉在一块儿了。
+  connect:
+    firm, solid, steadfast:
+      - neater
+- word: dour
+  freq: 18406
+  use: 83
+  pos: ADJECTIVE
+  meaning: If you describe someone as dour, you mean that they are very serious and unfriendly.
+  sent: '...a dour, taciturn man.'
+  roots:
+    dour: "deru- | be firm, solid, steadfast"
+  exp: firm, solid确实会给人一种比较严肃、不可战胜的感觉。
+  connect:
+    firm, solid, steadfast:
+      - serious
+      - unfriendly
+- word: durable
+  freq: 8100
+  use: 38
+  pos: ADJECTIVE
+  meaning: Something that is durable is strong and lasts a long time without breaking or becoming weaker.
+  sent: Fine bone china is eminently practical, since it is strong and durable.
+  roots:
+    dur: "deru- | be firm, solid, steadfast"
+    able: -able | capable of
+  connect:
+    firm, solid, steadfast:
+      - strong
+      - lasts
+      - breaking
+      - weaker
+  related:
+    - durability
 
-trim    4975    260     *deru-
-dour    18406   83      *deru-
-durable 8100    38      *deru-
-  durability      12021   18      *deru-
 duration        5492    36      *deru-
 trough  11269   27      *deru-
 tar     12242   11      *deru-
