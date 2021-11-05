@@ -7656,12 +7656,53 @@
       - weaker
   related:
     - durability
+- word: duration
+  freq: 5492
+  use: 36
+  pos: UNCOUNTABLE NOUN
+  meaning: The duration of an event or state is the time during which it happens or exists.
+  sent: He was given the task of protecting her for the duration of the trial.
+  roots:
+    dur: "deru- | be firm, solid, steadfast"
+  exp: 和during(198,7)一样，用的都是*deru-中last, endure, continue的那层意思。
+  connect:
+    firm, solid, steadfast:
+      - during
+- word: trough
+  freq: 11269
+  use: 27
+  pos: COUNTABLE NOUN
+  meaning: A trough is a long narrow container from which farm animals drink or eat.
+  sent: The old stone cattle trough still sits by the main entrance.
+  roots:
+    trough: "deru- | be firm, solid, steadfast"
+  exp: trough和tree(596,0)一样，用的是*deru-中wood, tree的那层意思，因为大树很坚固(firm)。
+- word: truce
+  freq: 11357
+  use: 8
+  pos: COUNTABLE NOUN
+  meaning: A truce is an agreement between two people or groups of people to stop fighting or arguing for a short time.
+  sent: The fighting of recent days has given way to an uneasy truce between the two sides.
+  roots:
+    truce: "*deru- | be firm, solid, steadfast"
+  exp: 从词根中的firm, solid发展出faithfulness的感觉，对应释义中的agreement。
+  connect:
+    firm, solid, steadfast:
+      - agreement
+- word: tar
+  freq: 12242
+  use: 11
+  pos: UNCOUNTABLE NOUN
+  meaning: Tar is a thick, black, sticky substance that is used especially for making roads.
+  sent: The oil has hardened to tar.
+  roots: "*deru- | be firm, solid, steadfast"
+  exp: tar本来表示树分泌出的粘液，而树又和firm相关。后来才用来指铺柏油马路用的材料。
+  connect:
+    firm, solid, steadfast:
+      - thick
+      - sticky
 
-duration        5492    36      *deru-
-trough  11269   27      *deru-
-tar     12242   11      *deru-
-truce   11357   8       *deru-
-tray    4520    -1      *deru-
+
 
 
 ## TODO: finish all "related" tabs in root.yml
