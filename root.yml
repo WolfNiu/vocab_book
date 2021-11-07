@@ -902,16 +902,18 @@ misc:
     - endurance
 "*ked-":
   meaning: to go, yield
-  exp: 超常用词success = suc(=sub:next to, after) + cess(=*ked-:to go, yield)本来表示的是很中性的意思——come after, follow after，衍生词中的successor(5502,26)，继任者，successive(8209,16)，连续的，沿袭的就是这一层意思。后来才衍化出accomplishment of desired end (good success)的感觉，并由此发展出了常用词successful(1105,41)。其动词形式succeed(2035,-1)也是常用词。
-  access(1117,67)
-  necessary(985,99)
-  proceed(2720,-1)
-  exceed(3308,47)
-  recession(3611,25)
+  exp: 超常用词success = suc(=sub:next to, after) + cess(=*ked-:to go, yield)本来表示的是很中性的意思——come after, follow after，衍生词中的successor(5502,26)，继任者，successive(8209,16)，连续的，沿袭的就是这一层意思。后来才衍化出accomplishment of desired end (good success)的感觉，并由此发展出了常用词successful(1105,41)。其动词形式succeed(2035,-1)也是常用词。neccessary = nec(=ne-:not) + cess(=*ked-)，把词根的意思拼起来就是not yielding，也就是不妥协、不让步的感觉。proceed(2720,-1) = (=pro-:forward) + ceed(=*ked-)，就是go forward的感觉，不解释。access(1117,67) = ac(=ad-:to) + cess(=*ked-)，go对应了access中approach的感觉。exceed(3308,47) = ex(=ex-:out) + ceed(=*ked-)，表达go out/beyond的感觉。recession(3611,25) = re(=re-:back) + cess(=*ked-)，是going back的感觉，不解释。
   related:
-    -
+    - recess
+    - recede
+    - successfully
     - unsuccessful
+    - unsuccessfully
     - successor
     - successive
+    - succession
     - unnecessary
     - necessarily
+    - excess
+    - proceeds
+    - proceedings

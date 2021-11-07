@@ -7716,45 +7716,38 @@
       - break
     go:
       - break
+- word: concede
+  freq: 4232
+  use: 95
+  pos: TRANSITIVE VERB
+  meaning: If you concede something, you admit, often unwillingly, that it is true or correct.
+  sent: Bess finally conceded that Nancy was right.
+  roots:
+    con: con- | intensive prefix
+    cede: "*ked- | to go, yield"
+  exp: 词根意思中的yield表示投降、让步，对应释义中的admit unwillingly。注意下棋的时候认输也是这词，认负的一方有时会说一句"I resign."
+  connect:
+    yield:
+      - admit
+      - unwillingly
+  related:
+    - concession
 
-
-recess  7897    156     *ked-
 cease   4518    113     *ked-
-recede  7814    105     *ked-
-necessary       985     99      *ked-
-concede 4232    95      *ked-
 antecedent      17181   91      *ant-,  *ked-
 cede    12586   78      *ked-
-access  1117    67      *ked-
-concession      5059    62      *ked-
-success 778     59      *ked-
-excess  5825    49      *ked-
-exceed  3308    47      *ked-
 incessant       15157   43      *ked-
-successful      1105    41      *ked-
 precedent       5698    35      *ked-
 ancestor        4178    34      *ant-,  *ked-
 deceased        8684    33      *ked-
 accede  18767   32      *ked-
-proceeds        8059    30      *ked-,  *per-
 intercede       19900   28      *ked-
 cessation       14743   27      *ked-
-successor       5502    26  *ked-
-recession       3611    25      *ked-
 unprecedented   4450    22      *ked-
-unnecessary     5465    22      *ked-
 predecessor     5325    18      *ked-
-successive      8209    16  *ked-
 precedence      13362   13      *ked-
 cease-fire      7188    8       *ked-
 precede 5675    4       *ked-
-necessarily     1971    3       *ked-
-successfully    3205    0   *ked-
-proceedings     5436    0       *ked-,  *per-
-unsuccessfully  11680   0   *ked-
-succeed 2035    -1      *ked-
-proceed 2720    -1      *ked-,  *per-
-succession      6484    -1  *ked-
 secession       15134   -1      *ked-
 secede  18480   -1      *ked-
 abscess 19996   -1      *ked-
