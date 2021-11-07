@@ -7701,7 +7701,63 @@
     firm, solid, steadfast:
       - thick
       - sticky
+- word: recess
+  freq: 7897
+  use: 156
+  pos: VARIABLE NOUN
+  meaning: A recess is a break between the periods of work of an official body such as a committee, a court of law, or a government.
+  sent: The conference broke for a recess, but the 10-minute break stretched to two hours.
+  roots:
+    re: re- | back
+    cess: "*ked- | to go, yield"
+  exp: 词根总体上表达go back的感觉，对应释义中的break——休息之后就该回去干正事了。
+  connect:
+    back:
+      - break
+    go:
+      - break
 
+
+recess  7897    156     *ked-
+cease   4518    113     *ked-
+recede  7814    105     *ked-
+necessary       985     99      *ked-
+concede 4232    95      *ked-
+antecedent      17181   91      *ant-,  *ked-
+cede    12586   78      *ked-
+access  1117    67      *ked-
+concession      5059    62      *ked-
+success 778     59      *ked-
+excess  5825    49      *ked-
+exceed  3308    47      *ked-
+incessant       15157   43      *ked-
+successful      1105    41      *ked-
+precedent       5698    35      *ked-
+ancestor        4178    34      *ant-,  *ked-
+deceased        8684    33      *ked-
+accede  18767   32      *ked-
+proceeds        8059    30      *ked-,  *per-
+intercede       19900   28      *ked-
+cessation       14743   27      *ked-
+successor       5502    26  *ked-
+recession       3611    25      *ked-
+unprecedented   4450    22      *ked-
+unnecessary     5465    22      *ked-
+predecessor     5325    18      *ked-
+successive      8209    16  *ked-
+precedence      13362   13      *ked-
+cease-fire      7188    8       *ked-
+precede 5675    4       *ked-
+necessarily     1971    3       *ked-
+successfully    3205    0   *ked-
+proceedings     5436    0       *ked-,  *per-
+unsuccessfully  11680   0   *ked-
+succeed 2035    -1      *ked-
+proceed 2720    -1      *ked-,  *per-
+succession      6484    -1  *ked-
+secession       15134   -1      *ked-
+secede  18480   -1      *ked-
+abscess 19996   -1      *ked-
 
 
 
@@ -7710,7 +7766,6 @@
 # TODO: *kar-
 # (34, '*ambhi-'),
 # (35, '*tag-'),
-# (36, '*deru-'),
 # (36, '*medhyo-'),
 # (38, '*ked-'),
 # (38, '*me-'),

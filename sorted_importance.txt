@@ -6471,7 +6471,7 @@ commerce	5375	26
 dinosaur	5397	26
 vanilla	5443	26
 venue	5460	26	*gwa-
-successor	5502	26
+successor	5502	26  *ked-
 goose	5602	26
 daddy	5616	26
 undoubtedly	5618	26
@@ -7867,7 +7867,7 @@ intercourse	7867	16	*kers-
 marvel	7948	16
 generosity	8101	16
 expressive	8146	16	*per-
-successive	8209	16
+successive	8209	16  *ked-
 inventor	8346	16	*gwa-
 nightclub	8455	16
 duct	8809	16	*deuk-
@@ -9716,7 +9716,7 @@ sue	3163	0	*sekw-
 pine	3185	0
 manufacturing	3188	0
 God	3202	0
-successfully	3205	0
+successfully	3205	0   *ked-
 shrug	3219	0
 garage	3237	0	*wer-
 gifted	3267	0	*ghabh-
@@ -10317,7 +10317,7 @@ axe	11659	0
 yolk	11664	0
 noticeably	11667	0
 acutely	11678	0
-unsuccessfully	11680	0
+unsuccessfully	11680	0   *ked-
 rented	11686	0
 bidder	11691	0
 debilitating	11695	0
@@ -12518,7 +12518,7 @@ download	6473	-1
 recruitment	6474	-1	*ker-
 oddly	6476	-1
 flashlight	6478	-1	*bhel-
-succession	6484	-1
+succession	6484	-1  *ked-
 waitress	6487	-1
 elk	6490	-1
 Brazilian	6495	-1
