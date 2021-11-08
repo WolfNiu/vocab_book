@@ -7732,23 +7732,65 @@
       - unwillingly
   related:
     - concession
+- word: cease
+  freq: 4518
+  use: 113
+  pos: INTRANSITIVE VERB
+  meaning: If something ceases, it stops happening or existing.
+  sent: At one o'clock the rain had ceased.
+  roots:
+    cease: "*ked- | to go, yield"
+  exp: yield本身就有停止，离开的感觉，对应释义中的stop。
+  connect:
+    yield:
+      - stops
+  related:
+    - cessation
+    - cease-fire
+- word: incessant
+  freq: 15157
+  use: 43
+  pos: ADJECTIVE
+  meaning: An incessant process or activity is one that continues without stopping.
+  sent: Incessant rain made conditions almost intolerable.
+  roots:
+    in: in-(1) | not
+    cess: "*ked- | to go, yield"
+  exp: 这个词直接用cease(4518,113)记就好，整个词表示unceasing。
+  connect:
+    not:
+      - without
+    yield:
+      - stopping
+- word: secession
+  freq: 15134
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: The secession of a region or group from the country or larger group to
+    which it belongs is the action of formally becoming separate.
+  sent: '...the Ukraine''s secession from the Soviet Union.'
+  roots:
+    se: se- | apart
+    cess: "*ked- | to go, yield"
+  exp: 承担主要意思的词根是se-，对应释义中的separate。
+  connect:
+    go:
+      - becoming
+    apart:
+      - separate
 
-cease   4518    113     *ked-
+
 antecedent      17181   91      *ant-,  *ked-
 cede    12586   78      *ked-
-incessant       15157   43      *ked-
 precedent       5698    35      *ked-
 ancestor        4178    34      *ant-,  *ked-
 deceased        8684    33      *ked-
 accede  18767   32      *ked-
 intercede       19900   28      *ked-
-cessation       14743   27      *ked-
 unprecedented   4450    22      *ked-
 predecessor     5325    18      *ked-
 precedence      13362   13      *ked-
-cease-fire      7188    8       *ked-
 precede 5675    4       *ked-
-secession       15134   -1      *ked-
 secede  18480   -1      *ked-
 abscess 19996   -1      *ked-
 
