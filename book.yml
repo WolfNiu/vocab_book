@@ -7778,19 +7778,129 @@
       - becoming
     apart:
       - separate
+- word: cede
+  freq: 12586
+  use: 78
+  pos: TRANSITIVE VERB
+  meaning: If someone in a position of authority cedes land or power to someone else, they let them have the land or power, often as a result of military or political pressure.
+  sent: Only a short campaign took place in Puerto Rico, but after the war Spain ceded the island to America.
+  roots:
+    cede: "*ked- | to go, yield"
+  exp: 词根意思中的yield表示"让步"，对应释义中的let them have the land or power。
+  connect:
+    yield:
+      - let them have
+- word: deceased
+  freq: 8684
+  use: 33
+  pos: COUNTABLE NOUN
+  meaning: The deceased is used to refer to a particular person or to particular people who have recently died.
+  sent: The navy is notifying next of kin now that the identities of the deceased have been determined.
+  roots:
+    de: de- | away
+    cease: "*ked- | to go, yield"
+  exp: 词根合起来就是go away的意思——确实是掛了。和中文一样，英文里也有很多关于死亡委婉一些的说法，deceased的就是其中之一。
+  connect:
+    away:
+      - died
+    go:
+      - died
+- word: ancestor
+  freq: 4178
+  use: 34
+  pos: COUNTABLE NOUN
+  meaning: Your ancestors are the people from whom you are descended.
+  sent: '...our daily lives, so different from those of our ancestors.'
+  roots:
+    ante: "*ant- | front, forehead"
+    cest: "*ked- | to go, yield"
+  exp: 词根合起来表达fore-goer的意思。
+  connect:
+    front:
+      - descended
+- word: accede
+  freq: 18767
+  use: 32
+  pos: INTRANSITIVE VERB
+  meaning: If you accede to someone's request or demands, you do what they ask.
+  sent: I never understood why he didn't just accede to our demands at the outset.
+  roots:
+    ac: ad- | to
+    cede: "*ked- | to go, yield"
+  exp: yield有让渡、屈服的意思，对应释义中的do what they ask。
+  connect:
+    yield:
+      - do what they ask
+- word: antecedent
+  freq: 17181
+  use: 91
+  pos: NOUN
+  meaning: An antecedent of something happened or existed before it and was similar
+    to it in some way.
+  sent: We shall first look briefly at the historical antecedents of this theory.
+  roots:
+    ante: "*ant- | front, forehead"
+    cede: "*ked- | to go, yield"
+  exp: 词根合起来就是go before, precede的意思。
+  connect:
+    front:
+      - before
+    go:
+      - happened
+      - existed
+- word: intercede
+  freq: 19900
+  use: 28
+  pos: INTRANSITIVE VERB
+  meaning: If you intercede with someone, you try to persuade them to forgive someone or end their disagreement with them.
+  sent: They asked my father to intercede with the king on their behalf.
+  roots:
+    inter: inter- | between
+    cede: "*ked- | to go, yield"
+  exp: 词根合起来是go between，确实是有居中调解、说情的感觉。
+  connect:
+    go:
+      - pursuade
+      - end their disagreement
+- word: precede
+  freq: 5675
+  use: 4
+  pos: TRANSITIVE VERB
+  meaning: If one event or period of time precedes another, it happens before it.
+  sent: Intensive negotiations between the main parties preceded the vote.
+  roots:
+    pre: pre- | before
+    cede: "*ked- | to go, yield"
+  exp: 词根合起来表示to go before，对应释义中的happens before。
+  connect:
+    before:
+      - before
+    go:
+      - happens
+  related:
+    - precedent
+    - unprecedented
+    - precedence
+    - predecessor
+- word: secede
+  freq: 18480
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If a region or group secedes from the country or larger group to which it belongs, it formally becomes a separate country or stops being a member of the larger group.
+  sent: Singapore seceded from the Federation of Malaysia and became an independent sovereign state.
+  roots:
+    se: se- | apart
+    cede: "*ked- | to go, yield"
+  exp: 词根合起来表示go away，对应释义中的separate。
+  connect:
+    apart:
+      - separate
+      - stops being a member
+    go:
+      - becomes
 
 
-antecedent      17181   91      *ant-,  *ked-
-cede    12586   78      *ked-
-precedent       5698    35      *ked-
-ancestor        4178    34      *ant-,  *ked-
-deceased        8684    33      *ked-
-accede  18767   32      *ked-
-intercede       19900   28      *ked-
-unprecedented   4450    22      *ked-
-predecessor     5325    18      *ked-
-precedence      13362   13      *ked-
-precede 5675    4       *ked-
+
 secede  18480   -1      *ked-
 abscess 19996   -1      *ked-
 
