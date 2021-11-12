@@ -3331,7 +3331,7 @@ sneaky	17677	59
 outmoded	18170	59	*med-
 mossy	19474	59
 plaintive	20005	59	*plak-
-school	125	58	*segh-,	*skel-
+school	125	58	*segh-
 former	443	58	*per-
 cost	551	58	*sta-
 announce	1167	58	*neu-
@@ -6903,7 +6903,7 @@ cubicle	10748	23
 disgusted	10811	23
 encircle	10822	23	*sker-
 skyscraper	10892	23	*sker-
-schoolteacher	10898	23
+schoolteacher	10898	23  *segh-
 repercussion	11077	23	*per-
 spearhead	11345	23
 caveat	11701	23	*keu-
@@ -7605,7 +7605,7 @@ reminiscent	7656	18	*men-
 playwright	7735	18	*werg-
 foresee	7747	18	*sed-
 pier	7999	18
-schooling	8124	18	*segh-,	*skel-
+schooling	8124	18	*segh-
 eve	8144	18
 porcelain	8344	18	*porko-
 heartbeat	8430	18
@@ -8904,7 +8904,7 @@ motorcade	17263	9
 impressionist	17480	9
 step-by-step	17533	9
 bigot	17626	9
-schoolwork	17652	9
+schoolwork	17652	9   *segh-
 maximal	17858	9
 tuft	17896	9
 self-awareness	18135	9	*wer-
@@ -9486,7 +9486,7 @@ coincidence	5895	3	*kad-
 racist	6480	3
 archive	6616	3
 instability	7042	3
-preschool	7123	3	*segh-,	*skel-
+preschool	7123	3	*segh-
 pottery	7233	3
 obesity	7290	3	*ed-
 pancake	7456	3
@@ -14132,7 +14132,7 @@ relational	11384	-1
 shingle	11387	-1	*skei-
 pee	11399	-1
 iris	11401	-1	*wei-
-schoolchild	11408	-1
+schoolchild	11408	-1  *segh-
 militarily	11409	-1
 backseat	11417	-1
 third-party	11419	-1
@@ -14205,7 +14205,7 @@ seventy-five	11679	-1
 palate	11682	-1
 washer	11688	-1	*wed-
 seminal	11690	-1	*sē-
-after-school	11692	-1
+after-school	11692	-1  *segh-
 rainforest	11696	-1
 geopolitical	11698	-1
 spore	11703	-1
@@ -14307,7 +14307,7 @@ mast	12085	-1
 cyberspace	12086	-1
 giftedness	12088	-1
 situational	12090	-1	*tkei-
-preschooler	12092	-1
+preschooler	12092	-1  *segh-
 interplay	12098	-1	*dlegh-
 acculturation	12099	-1
 clinically	12100	-1
@@ -15176,7 +15176,7 @@ minnow	15230	-1
 outfitter	15234	-1
 compressor	15238	-1	*per-
 fat-free	15259	-1
-schoolhouse	15268	-1
+schoolhouse	15268	-1  *segh-
 anyplace	15270	-1	*plat-
 blacksmith	15276	-1	*bhel-
 interdependent	15278	-1	*(s)pen-
@@ -15373,7 +15373,7 @@ unremarkable	15509	-1	*merg-
 blistering	15510	-1
 toaster	15511	-1	*ters-
 frosted	15512	-1
-school-based	15513	-1
+school-based	15513	-1  *segh-
 asymmetry	15515	-1	*me-
 wallow	15516	-1	*wel-
 stallion	15517	-1	*stel-
@@ -16203,7 +16203,7 @@ dispenser	16538	-1	*(s)pen-
 margarita	16541	-1
 fatten	16542	-1
 alleyway	16543	-1	*ambhi-
-schoolgirl	16545	-1	*segh-,	*skel-
+schoolgirl	16545	-1	*segh-
 coursework	16548	-1
 top-down	16551	-1
 lifeboat	16552	-1
@@ -16320,7 +16320,7 @@ sauna	16939	-1
 gelatin	16950	-1	*gel-
 urinary	16951	-1
 duality	16952	-1	*dwo-
-schoolyard	16955	-1
+schoolyard	16955	-1  *segh-
 interfaith	16956	-1	*bheidh-
 student-athlete	16957	-1
 high-resolution	16960	-1  *leu-
@@ -16369,7 +16369,7 @@ risotto	17085	-1
 anti-inflammatory	17088	-1
 oncologist	17092	-1
 mink	17093	-1
-schoolboy	17098	-1	*segh-,	*skel-
+schoolboy	17098	-1	*segh-
 imam	17105	-1
 PVC	17106	-1
 grandpa	17108	-1
@@ -16662,7 +16662,7 @@ forty-four	17946	-1
 herpes	17950	-1
 trivialize	17953	-1	*wegh-
 Likert-type	17957	-1
-school-age	17958	-1
+school-age	17958	-1  *segh-
 inwardly	17959	-1	*wer-
 cystic	17962	-1
 disinfectant	17967	-1	*dhe-
@@ -17175,7 +17175,7 @@ bayou	19078	-1
 quarterfinal	19079	-1
 demote	19080	-1
 timbre	19081	-1
-old-school	19082	-1	*segh-,	*skel-
+old-school	19082	-1	*segh-
 capitulate	19083	-1	*kaput-
 stag	19084	-1	*stegh-
 wiretap	19085	-1
@@ -17553,7 +17553,7 @@ laminated	19943	-1
 paintbrush	19944	-1
 mental-health	19949	-1
 undersea	19951	-1
-schoolmate	19952	-1
+schoolmate	19952	-1  *segh-
 interlocutor	19953	-1	*tolkw-
 concerto	19954	-1	*krei-
 sax	19956	-1
