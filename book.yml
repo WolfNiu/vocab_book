@@ -7898,19 +7898,44 @@
       - stops being a member
     go:
       - becomes
+- word: behalf
+  freq: 4483
+  use: -1
+  pos: NOUN
+  meaning: support, interest, side, etc.
+  sent: This means you both have to sign documents on behalf of your mother.
+  roots:
+    be: be
+    half: "*skel-(1) | to cut"
+  exp: on behalf of是个超常用短语，一定要会用。behalf这个词很造得很有意思。首先half在这里表示"side"，因为本来两边都有，cut完可就剩一边儿了。而behalf表达的意思是"on one's side"，也就是站边边，是对对方的support。
+  connect:
+    cut:
+      - side
+      - support
+      - interest
+- word: shield
+  freq: 5678
+  use: 72
+  pos: COUNTABLE NOUN
+  meaning: Something or someone which is a shield against a particular danger or risk provides protection from it.
+  sent: He used his left hand as a shield against the reflecting sunlight.
+  roots:
+    shield: "*skel-(1) | to cut"
+  exp: 最开始盾牌就是一片切(cut)出来的木头。
+  related:
+    - windshield
+- word: scalp
+  freq: 8833
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Your scalp is the skin under the hair on your head.
+  sent: He smoothed his hair back over his scalp.
+  roots:
+    scalp: "*skel-(1) | to cut"
+  exp: 古人打仗的时候会把死人头皮切(cut)下来当战利品。
 
 
-shield  5678    72      *skel-
-nutshell        16841   70      *skel-
-upscale 8437    18      *skel-
-bombshell       17100   14      *skel-
-sculpture       3457    12      *skel-
-shell   2582    -1      *skel-
-behalf  4483    -1      *skel-
-windshield      7130    -1      *skel-
-scalp   8833    -1      *skel-
-scallop 12759   -1      *skel-
-shellfish       13497   -1      *skel-
+
 shale   15487   -1      *skel-
 scalpel 15746   -1      *skel-
 shelve  16392   -1      *skel-
