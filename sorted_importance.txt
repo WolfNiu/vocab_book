@@ -3069,7 +3069,7 @@ friend	266	62	*pri-
 suggest	431	62
 court	542	62	*gher-
 strategy	847	62	*ag-,	*stere-
-ball	915	62	*bhel-,	*gwele-
+ball	915	62	*bhel-
 customer	1102	62
 powerful	1162	62	*poti-
 responsible	1372	62
@@ -4775,7 +4775,7 @@ roasting	13072	41
 earthy	13213	41	*er-
 unhappiness	13370	41
 pamper	13721	41
-snowball	14079	41	*bhel-,	*gwele-
+snowball	14079	41	*bhel-
 aristocracy	14235	41	*ar-
 springtime	14772	41
 uninterrupted	14857	41
@@ -6368,7 +6368,7 @@ kinship	9063	27	*gene-
 checklist	9227	27
 gangster	9568	27
 gorilla	9577	27
-ballad	9608	27	*gwele-
+ballad	9608	27  *gwele-
 communion	9953	27
 omission	10774	27
 sparkle	10878	27
@@ -10264,7 +10264,7 @@ naturalist	11120	0	*gene-
 spiritually	11122	0
 baby-sitter	11157	0
 specified	11171	0
-eyeball	11200	0	*bhel-, *gwele-,    *okw-
+eyeball	11200	0	*bhel-,    *okw-
 forgiving	11202	0	*ghabh-
 stricken	11219	0
 flatly	11223	0	*plat-
@@ -10950,7 +10950,7 @@ spraying	17914	0
 spousal	17915	0
 slain	17916	0
 rinsed	17929	0
-ballgame	17933	0	*bhel-,	*gwele-
+ballgame	17933	0	*bhel-
 hilt	17942	0
 articulated	17961	0	*ar-
 awkwardness	17966	0	*apo-
@@ -11261,7 +11261,7 @@ unless	1339	-1
 principle	1348	-1	*kap-,	*per-
 annual	1368	-1
 French	1369	-1
-baseball	1380	-1	*bhel-,	*gwele-
+baseball	1380	-1	*bhel-
 anybody	1387	-1
 editor	1392	-1
 coffee	1395	-1
@@ -11270,7 +11270,7 @@ Internet	1475	-1
 classroom	1488	-1	*kele-
 eastern	1512	-1	*aus-
 studio	1524	-1
-football	1543	-1	*bhel-,	*gwele-
+football	1543	-1	*bhel-
 session	1553	-1	*sed-
 literature	1558	-1
 Russian	1571	-1	*ere-
@@ -11294,7 +11294,7 @@ English	1796	-1
 politician	1797	-1
 surgery	1807	-1	*ghes-,	*werg-
 Jewish	1809	-1
-basketball	1813	-1
+basketball	1813	-1  *bhel-
 golf	1815	-1
 significantly	1818	-1
 governor	1825	-1
@@ -12799,7 +12799,7 @@ jersey	8029	-1
 lobbying	8034	-1
 seventy	8035	-1
 bartender	8037	-1	*ten-
-volleyball	8047	-1
+volleyball	8047	-1  *bhel-
 grenade	8048	-1	*gre-no-
 radioactive	8054	-1	*ag-
 graph	8055	-1
@@ -14267,7 +14267,7 @@ secretary-general	11935	-1
 optimize	11936	-1
 fennel	11943	-1	*dhe(i)-
 low-level	11948	-1
-fastball	11955	-1
+fastball	11955	-1  *bhel-
 penguin	11958	-1	*weid-
 easel	11964	-1
 stretcher	11965	-1
@@ -15255,7 +15255,7 @@ emblematic	15369	-1	*gwele-
 corral	15370	-1	*kers-
 spoonful	15371	-1
 courteous	15372	-1	*gher-
-ballplayer	15373	-1	*dlegh-
+ballplayer	15373	-1	*bhel-, *dlegh-
 caseworker	15374	-1
 overworked	15376	-1
 frenzied	15378	-1

@@ -7933,7 +7933,57 @@
   roots:
     scalp: "*skel-(1) | to cut"
   exp: 古人打仗的时候会把死人头皮切(cut)下来当战利品。
+- word: devil
+  freq: 4956
+  use: 111
+  pos: PROPER NOUN
+  meaning: In Judaism, Christianity, and Islam, the Devil is the most powerful evil spirit.
+  sent: '...the idea of angels with wings and devils with horns and hoofs.'
+  roots:
+    de: dia- | across, through
+    vil: "*gwele- | to throw, reach"
+  exp: 首先注意devil是所有evil spirit的头头，不是所有evil都可以够到devil这个级别的；就像不是所有皇宫里的工作人员都可以称为太监一样。词根合起来是to throw across，表达的是"to slander, attack"的感觉。If it helps，可以想象一个飞斧"嗖"一下扔出去要人性命。
+- word: quell
+  freq: 13345
+  use: 71
+  pos: TRANSITIVE VERB
+  meaning: To quell opposition or violent behavior means to stop it.
+  sent: Troops eventually quelled the unrest.
+  roots:
+    quell: "*gwele- | to throw, reach --> to pierce"
+  exp: 用的是*gwele-中to pierce的那层意思。这个词本身也和kill(825,37)可互换，很好记的。
+  connect:
+    pierce:
+      - stop
+- word: quail
+  freq: 13580
+  use: 35
+  pos: INTRANSITIVE VERB
+  meaning: If someone or something makes you quail, they make you feel very afraid, often so that you hesitate.
+  sent: The very words make many of us quail.
+  roots:
+    quail: "*gwele- | to throw, reach --> to pierce"
+  exp: 把人钉(pierce)在那儿了，确实有让对方踟躕不前的感觉。注意"踟蹰"读chí chú——大家在英文水平突飞猛进的同时也不要把中文搁下。
+  connect:
+    pierce:
+      - afraid
+      - hesitate
 
+
+ballad  9608    27      *gwele-
+parole  6794    22      *gwele-
+hyperbole       17830   14      *gwele-
+parlor  6626    13      *gwele-
+parliament      5234    9       *gwele-
+parable 13292   9       *gwele-
+ballet  6655    -1      *gwele-
+parliamentary   7794    -1      *gwele-
+ballroom        9233    -1      *gwele-
+metabolism      9804    -1      *gwele-
+ballistic       10186   -1      *gwele-
+emblem  10252   -1      *gwele-
+emblematic      15369   -1      *gwele-
+ballerina       16175   -1      *gwele-
 
 
 

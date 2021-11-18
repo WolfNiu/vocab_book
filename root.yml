@@ -933,3 +933,16 @@ misc:
     - bombshell
     - upscale
     - shelve
+"*gwele-":
+  meaning: to throw, reach
+  senses:
+    - to pierce
+    - to dance
+  exp: 超常用词kill(425,187)，没人不认识。为什么这个词和throw, reach有关呢？想想飞出(throw)标枪把猎物扎死(kill)就明白了。problem(171,40) = pro(=*per-(1):forward) + blem(=*gwele-)，表达的感觉是"thing thrown forward"，也就是"扔在眼巴前，需要解决的一件事"。字母互换上比较tricky，这个problem里的b是怎么换出来的呢？是因为*gwele-中的w=v=b。ball(915,62)除了球球之外还有另外一个意思，就是"A ball is a large formal social event at which people dance."，比如"My Mama and Daddy used to have a grand Christmas ball every year."。这个throw为什么能dance联系起来呢？这就要涉及英文中独特的表达方法了：dance其实就是to throw one's body，也就是"把自己的身体扔来扔去"。这种特殊的throw的用法在其它短语里也有体现，比如"She threw herself at her friend。"就表示"她对她的朋友投怀送抱"。你看，这个"投"字确实也是对应着throw。最后来个比较难理解的：symbol(2361,-1) = sym(=syn-:together) + bol(=*gwele-)。这个词表示的感觉是"that which is thrown or cast together"。你可以想象一幅图象，就是把一个事物和代表它的符号(symbol)扔(throw)在一起——"行啦！你们俩是一码事啦！"因此这个词的两个词根中还是syn-起得作用更大一点。
+  related:
+    - killing
+    - killer
+    - problematic
+    - symbolize
+    - symbolic
+    - symbolism
