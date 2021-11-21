@@ -7968,22 +7968,74 @@
     pierce:
       - afraid
       - hesitate
+- word: ballad
+  freq: 9608
+  use: 27
+  pos: COUNTABLE NOUN
+  meaning: A ballad is a long song or poem which tells a story in simple language.
+  sent: '...an eighteenth century ballad about some lost children called the Babes in the Wood.'
+  roots:
+    ball: "*gwele- | to throw, reach --> to dance"
+  exp: 这个词的本意是dancing song。
+  connect:
+    dance:
+      - song
+      - poem
+- word: ballet
+  freq: 6655
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Ballet is a type of very skilled and artistic dancing with carefully planned movements.
+  sent: I trained as a ballet dancer.
+  roots:
+    ball: "*gwele- | to throw, reach --> to dance"
+  exp: 词根和释义中都有dance，没啥好说的。
+  connect:
+    dance:
+      - dancing
+      - movements
+  related:
+    - ballerina
+- word: ballistic
+  freq: 10186
+  use: -1
+  pos: PHRASE
+  meaning: If someone goes ballistic, they suddenly become very angry.
+  sent: The singer went ballistic after one member of his band failed to show for a sound check.
+  roots:
+    ball: "*gwele- | to throw, reach"
+  exp: If it helps，可以想象"气(angry)得想往对方身上丢(throw)东西"的场景。其实throw和angry关系还是挺紧密的，比如throw a tantrum就表示"发脾气"。
+- word: parable
+  freq: 13292
+  use: 9
+  pos: COUNTABLE NOUN
+  meaning: A parable is a short story, that is told in order to make a moral or religious point, like those in the Bible.
+  sent: '...the parable of the Good Samaritan.'
+  roots:
+    para: para-(1) | alongside
+    ble: "*gwele- | to throw, reach"
+  exp: 这个词表达的感觉是saying or story in which something is expressed in terms of something else。也就是说将两件事放(throw)在一起(alongside)类比，以达到说教的目的。
+- word: parole
+  freq: 6794
+  use: 22
+  pos: UNCOUNTABLE NOUN
+  meaning: If a prisoner is given parole, he or she is released before the official end of their prison sentence and has to promise to behave well.
+  sent: Although sentenced to life, he will become eligible for parole after serving 10 years.
+  roots:
+    parole:
+      meaning: parable | word
+      roots:
+        par: para-(1) | alongside
+        ole: "*gwele- | to throw, reach"
+  exp: 这个词用的是parable(13292,9)中word的那层意思。parable本身表示"寓言小故事"，后来才引申为word。而parole是指word of honor——也就是保证被放出去的时候不逃跑(promise by a prisoner of war not to escape if allowed to go about at liberty, or not to take up arms again if allowed to return home)。
 
-
-ballad  9608    27      *gwele-
-parole  6794    22      *gwele-
 hyperbole       17830   14      *gwele-
 parlor  6626    13      *gwele-
 parliament      5234    9       *gwele-
-parable 13292   9       *gwele-
-ballet  6655    -1      *gwele-
 parliamentary   7794    -1      *gwele-
-ballroom        9233    -1      *gwele-
 metabolism      9804    -1      *gwele-
-ballistic       10186   -1      *gwele-
 emblem  10252   -1      *gwele-
 emblematic      15369   -1      *gwele-
-ballerina       16175   -1      *gwele-
 
 
 
