@@ -8025,14 +8025,55 @@
     parole:
       meaning: parable | word
       roots:
-        par: para-(1) | alongside
-        ole: "*gwele- | to throw, reach"
+        para: para-(1) | alongside
+        ble: "*gwele- | to throw, reach"
   exp: 这个词用的是parable(13292,9)中word的那层意思。parable本身表示"寓言小故事"，后来才引申为word。而parole是指word of honor——也就是保证被放出去的时候不逃跑(promise by a prisoner of war not to escape if allowed to go about at liberty, or not to take up arms again if allowed to return home)。
+- word: hyperbole
+  freq: 17830
+  use: 14
+  pos: UNCOUNTABLE NOUN
+  meaning: If someone uses hyperbole, they say or write things that make something sound much more impressive than it really is.
+  sent: '...the hyperbole that portrays him as one of the greatest visionaries in the world.'
+  roots:
+    hyper: hyper- | beyond
+    bole: "gwele- | to throw, reach"
+  exp: 词根合起来表达"a throwing beyond"，也就是"扔过了"。学理工科的话还有个必会词是hyperbola，表示"抛物线"。
+  connect:
+    beyond:
+      - more
+    reach:
+      - sound
+- word: parlor
+  freq: 6626
+  use: 13
+  meaning: Parlor is used in the names of some types of stores that provide a service, rather than selling things.
+  sent: '...a funeral parlor.'
+  roots:
+    parlor:
+      meaning: parable | word
+      roots:
+        para: para-(1) | alongside
+        ble: "*gwele- | to throw, reach"
+  exp: 和parole一样，用的是parable中word的那层意思。既然释义中提到service嘛，就需要说话(word)。其实联系不是很紧，大家只能凑合着联想。
+  connect:
+    word:
+      - service`
+- word: parliament
+  freq: 5234
+  use: 9
+  pos: COUNTABLE NOUN
+  meaning: The parliament of some countries is the group of people who make or change its laws, and decide what policies the country should follow.
+  sent: The Bangladesh Parliament today approved the policy, but it has not yet become law.
+  roots:
+    parlia:
+      meaning: parable | word
+      roots:
+        para: para-(1) | alongside
+        ble: "*gwele- | to throw, reach"
+  exp: 和parlor, parole一样，用的是parable中word的那层意思。parliament本质上是对话(conversations)，因此和word, speak相关。
+  related:
+    - parliamentary
 
-hyperbole       17830   14      *gwele-
-parlor  6626    13      *gwele-
-parliament      5234    9       *gwele-
-parliamentary   7794    -1      *gwele-
 metabolism      9804    -1      *gwele-
 emblem  10252   -1      *gwele-
 emblematic      15369   -1      *gwele-
