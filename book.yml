@@ -8073,11 +8073,37 @@
   exp: 和parlor, parole一样，用的是parable中word的那层意思。parliament本质上是对话(conversations)，因此和word, speak相关。
   related:
     - parliamentary
-
-metabolism      9804    -1      *gwele-
-emblem  10252   -1      *gwele-
-emblematic      15369   -1      *gwele-
-
+- word: emblem
+  freq: 10252
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An emblem is a design representing a country or organization.
+  sent: '...the emblem of the Soviet Union.'
+  roots:
+    em: en- | in
+    blem: "*gwele- | to throw, reach"
+  exp: 词根合起来表示"to throw in"，本来是表达"inlaid ornamental work"，也就是"镶嵌的饰品"，对应释义中的design。
+  connect:
+    in:
+      - design
+    throw:
+      - design
+  related:
+    - emblematic
+- word: metabolism
+  freq: 9804
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Your metabolism is the way that chemical processes in your body cause food to be used in an efficient way, for example to make new cells and to give you energy.
+  sent: If you skip breakfast, your metabolism slows down.
+  roots:
+    meta: meta- | change
+    bol: "*gwele- | to throw, reach"
+  exp: 这个词主要是前缀在起作用。至于*gwele-也就是提供了reach的感觉，侧面表达了change的程度。
+  connect:
+    change:
+      - chemical processes
+      - new
 
 
 
