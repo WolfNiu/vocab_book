@@ -13440,7 +13440,7 @@ lagoon	10112	-1
 worn	10113	-1
 unavailable	10114	-1	*wal-
 dysfunctional	10115	-1	*bhrug-
-forgotten	10116	-1
+forgotten	10116	-1  *ghend-
 buyout	10117	-1
 scorer	10118	-1
 unmistakable	10120	-1	*mei-
