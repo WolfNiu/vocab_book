@@ -193,7 +193,7 @@ slam	3487	236
 miserable	5853	236
 dirty	2891	235
 trace	3047	235
-prize	3722	235	*ghend-
+prize	3722	235 *per-(5)
 vicious	6344	233
 blaze	8217	233	*bhel-,	*bhle-
 eye	243	232	*okw-
@@ -10413,7 +10413,7 @@ earned	12477	0
 bluntly	12482	0
 solemnly	12490	0
 sesame	12493	0
-prized	12506	0	*ghend-
+prized	12506	0   *per-(5)
 illustrator	12518	0
 lovingly	12527	0	*leubh-
 eater	12541	0	*ed-

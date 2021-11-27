@@ -8104,29 +8104,44 @@
     change:
       - chemical processes
       - new
-- word: comprehend
-  freq: 7008
-  use: 85
-  pos: VERB
-  meaning: If you cannot comprehend something, you cannot understand it.
-  sent: I just cannot comprehend your attitude.
+- word: reprisal
+  freq: 15450
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: If you do something to a person in reprisal, you hurt or punish them because they have done something violent or unpleasant to you.
+  sent: There were fears that some of the Western hostages might be killed in reprisal.
   roots:
+    re: re- | back
+    pris:
+      meaning: prehend | to grasp, seize
+      roots:
+        pre: pre- | before
+        hend: "*ghend- | to seize, take"
+  exp: 把人家给逮起来(seize)，确实是hurt, punish的感觉。
+  connect:
+    grasp:
+      - hurt
+      - punish
+    seize:
+      - hurt
+      - punish
+- word: prey
+  freq: 5574
+  use: 39
+  pos: COLLECTIVE UNCOUNT NOUN
+  meaning: A creature's prey are the creatures that it hunts and eats in order to live.
+  sent: Electric rays stun their prey with huge electrical discharges.
+  roots:
+    pre: pre- | before
 
 
-
-prize   3722    235     *ghend-
-  prized  12506   0       *ghend-
 
 apprehension    9683    93      *ghend-
 reprehensible   18642   91      *ghend-
 
-guess   865     82      *ghend-
 
 apprehend       11938   82      *ghend-
 pry     8654    69      *ghend-
-
-comprehensive   2919    61      *ghend-
-
 apprentice      8759    48      *ghend-
 incomprehensible        11978   44      *ghend-
 prey    5574    39      *ghend-
@@ -8136,12 +8151,9 @@ comprise        4438    27      *ghend-
 apprehensive    13875   25      *ghend-
 spree   11517   24      *ghend-
 entrepreneur    4321    19      *ghend-
-comprehension   7967    19      *ghend-
-comprehensible  20186   16      *ghend-
 apprenticeship  13049   14      *ghend-
 predatory       11289   11      *ghend-
 entrepreneurial 8780    0       *ghend-
-reprisal        15450   -1      *ghend-
 predation       15981   -1      *ghend-
 reprieve        17614   -1      *ghend-
 
