@@ -8132,26 +8132,70 @@
   meaning: A creature's prey are the creatures that it hunts and eats in order to live.
   sent: Electric rays stun their prey with huge electrical discharges.
   roots:
-    pre: pre- | before
+    prehend:
+      meaning: prehend | to seize
+      roots:
+        pre: pre- | before
+        hend: "*ghend- | to seize, take"
+  exp: 这个词从prehend被缩略成了prey，不过h本来也是可省的，因此在字母互换上也不会给我们造成太大麻烦。
+  connect:
+    seize:
+      - hunts
+      - eats
+- word: apprehend
+  freq: 11938
+  use: 82
+  pos: TRANSITIVE VERB
+  meaning: If the police apprehend someone, they catch them and arrest them.
+  sent: Police have not apprehended her killer.
+  roots:
+    ap: ad- | to
+    prehend:
+      meaning: prehend | to seize
+      roots:
+        pre: pre- | before
+        hend: "*ghend- | to seize, take"
+  exp: seize对应释义中的catch和arrest，不解释。倒是其衍生词apprehensive需要小解释一下。这个词表达的是精神上被控制住(seize)、占据(take)的感觉，所以表示"担心的"。
+  connect:
+    seize:
+      - catch
+      - arrest
+  related:
+    - apprehension
+    - apprehensive
+- word: imprison
+  freq: 8633
+  use: 34
+  pos: TRANSITIVE VERB
+  meaning: If someone is imprisoned, they are locked up or kept somewhere, usually in prison, as a punishment for a crime or for political opposition.
+  sent: He was imprisoned for 18 months on charges of theft.
+  roots:
+    im: in- | in
+    prison: prison
+  exp: 直接用常用词prison(1289,50)记就好。
+  related:
+    - imprisonment
+- word: comprise
+  freq: 4438
+  use: 27
+  pos: TRANSITIVE VERB
+  meaning: If you say that something comprises or is comprised of a number of things or people, you mean it has them as its parts or members.
+  sent: The special cabinet committee comprises Mr. Brown, Mr. Mandelson, and Mr. Straw.
+  roots:
+    com: com- | with, together
+    prise:
+      meaning: prehend | to seize
+      roots:
+        pre: pre- | before
+        hend: "*ghend- | to seize, take"
+  exp: 词根合起来表达take together的感觉，所以是"组成"。
 
 
-
-apprehension    9683    93      *ghend-
 reprehensible   18642   91      *ghend-
-
-
-apprehend       11938   82      *ghend-
-pry     8654    69      *ghend-
 apprentice      8759    48      *ghend-
-incomprehensible        11978   44      *ghend-
-prey    5574    39      *ghend-
-imprison        8633    34      *ghend-
-  imprisonment    10101   -1      *ghend-
-comprise        4438    27      *ghend-
-apprehensive    13875   25      *ghend-
+  apprenticeship  13049   14      *ghend-
 spree   11517   24      *ghend-
 entrepreneur    4321    19      *ghend-
-apprenticeship  13049   14      *ghend-
 predatory       11289   11      *ghend-
 entrepreneurial 8780    0       *ghend-
 predation       15981   -1      *ghend-

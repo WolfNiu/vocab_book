@@ -2693,7 +2693,7 @@ frantic	7578	69
 graze	7653	69
 avert	7692	69	*wer-
 preclude	8242	69	*klau-
-pry	8654	69	*ghend-
+pry	8654	69
 edgy	11602	69
 up-to-date	12207	69
 fondness	13496	69
