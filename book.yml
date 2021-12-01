@@ -8142,6 +8142,9 @@
     seize:
       - hunts
       - eats
+  related:
+    - predatory
+    - predation
 - word: apprehend
   freq: 11938
   use: 82
@@ -8189,17 +8192,66 @@
         pre: pre- | before
         hend: "*ghend- | to seize, take"
   exp: 词根合起来表达take together的感觉，所以是"组成"。
+  connect:
+    together:
+      - is comprised of
+- word: reprehensible
+  freq: 18642
+  use: 91
+  pos: ADJECTIVE
+  meaning: If you think that a type of behavior or an idea is very bad and morally wrong, you can say that it is reprehensible.
+  sent: Mr. Cramer said the violence by anti-government protestors was reprehensible.
+  roots:
+    re: re- | back
+    prehens:
+      meaning: prehend | to grasp, seize
+      roots:
+        pre: pre- | before
+        hend: "*ghend- | to seize, take"
+    ible: able
+  exp: 词根合起来表示pull back, hold back，也就是应该"拉着"不让对方做的，应该给抓回来的，因此对应释义中的bad和wrong。
+  connect:
+    back:
+      - bad
+      - wrong
+    seize:
+      - bad
+      - wrong
+- word: reprieve
+  freq: 17614
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If someone who has been sentenced in a court is reprieved, their punishment is officially delayed or canceled.
+  sent: Fourteen people, waiting to be hanged for the murder of a former prime minister, have been reprieved.
+  roots:
+    re: re- | back
+    prise:
+      meaning: prehend | to grasp, seize
+      roots:
+        pre: pre- | before
+        hend: "*ghend- | to seize, take"
+  exp: 词根合起来表示take back，暂时收回去不惩罚了。
+- word: apprentice
+  freq: 8759
+  use: 48
+  pos: COUNTABLE NOUN
+  meaning: An apprentice is a young person who works for someone in order to learn their skill.
+  sent: I started off as an apprentice and worked my way up.
+  roots:
+    ap: ad- | to
+    prentice:
+      meaning: prehend | to grasp, seize
+      roots:
+        pre: pre- | before
+        hend: "*ghend- | to seize, take"
+  exp: prehend这个词根本来就有to learn的感觉。比如comprehend(7008,85), apprehend(11938,82)都有learn的意思。而小徒弟儿嘛，就是来学习的。
+  connect:
+    grasp:
+      - learn
+  related:
+    - apprenticeship
 
 
-reprehensible   18642   91      *ghend-
-apprentice      8759    48      *ghend-
-  apprenticeship  13049   14      *ghend-
-spree   11517   24      *ghend-
-entrepreneur    4321    19      *ghend-
-  entrepreneurial 8780    0       *ghend-
-predatory       11289   11      *ghend-
-predation       15981   -1      *ghend-
-reprieve        17614   -1      *ghend-
 
 
 ## TODO: finish all "related" tabs in root.yml

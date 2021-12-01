@@ -6753,7 +6753,7 @@ adultery	11231	24	*al-
 far-reaching	11248	24	*reig-
 cavern	11336	24	*keue-
 pastime	11418	24	*pete-
-spree	11517	24	*ghend-
+spree	11517	24
 delve	11520	24
 clarification	11626	24	*dhe-,	*kele-
 recurrent	11676	24	*kers-
