@@ -1638,7 +1638,7 @@ fully	1504	95	*pele-
 duty	1765	95	*ghabh-
 manner	1831	95	*man-
 totally	1925	95
-founder	2822	95	*gheu-
+founder	2822	95
 frozen	3814	95
 repair	3910	95	*pere-
 thoroughly	4176	95
@@ -2903,7 +2903,7 @@ contemporary	1960	65	*ten-
 loud	3120	65	*kleu-
 naked	3214	65
 devote	3253	65
-confusion	3362	65
+confusion	3362	65  *gheu-
 excuse	3514	65
 grief	4131	65	*gwere-
 puzzle	4297	65
@@ -3109,7 +3109,7 @@ misuse	12387	62
 quintessential	12565	62
 unrestricted	13724	62	stringere
 awash	14261	62	*wed-
-unfounded	14618	62	*gheu-
+unfounded	14618	62
 underpinning	14775	62
 conjecture	15060	62	*ye-
 precipitous	17632	62
@@ -9901,7 +9901,7 @@ ham	6260	0
 protester	6282	0	*per-
 beautifully	6302	0
 turning	6307	0
-confusing	6319	0
+confusing	6319	0   *gheu-
 aggressively	6322	0   *ghredh-
 eagle	6347	0
 unusually	6364	0
@@ -10836,7 +10836,7 @@ greenish	17062	0
 patently	17067	0   *pete-
 Labour	17071	0
 popularly	17079	0
-foundational	17082	0	*gheu-
+foundational	17082	0
 rationalization	17086	0	*re-
 sounding	17090	0
 betting	17101	0
@@ -10936,7 +10936,7 @@ disaffected	17744	0	*dhe-
 blinking	17746	0
 surreptitiously	17752	0
 distil	17774	0
-profusely	17791	0
+profusely	17791	0   *gheu-, *per-
 spilled	17810	0
 inasmuch	17814	0	*meg-
 eon	17818	0	*aiw-
@@ -11535,7 +11535,7 @@ symptom	2269	-1	*pet-
 manufacturer	2271	-1	*dhe-,	*man-
 philosophy	2272	-1
 potato	2273	-1
-foundation	2275	-1	*gheu-
+foundation	2275	-1
 quote	2276	-1	*kwo-
 online	2277	-1
 negotiation	2279	-1	*ne-
@@ -11891,7 +11891,7 @@ roughly	2680	-1
 lawsuit	2681	-1	*legh-
 testimony	2683	-1
 bunch	2684	-1
-found	2687	-1	*gheu-
+found	2687	-1
 burden	2688	-1	*bher-
 react	2689	-1	*ag-
 chamber	2690	-1
@@ -12885,7 +12885,7 @@ creditor	8400	-1	*kerd-
 navigation	8402	-1	*ag-,	*nau-
 redemption	8405	-1	*em-
 alpine	8406	-1
-co-founder	8411	-1	*gheu-
+co-founder	8411	-1
 bamboo	8413	-1
 plasma	8414	-1	*pele-
 interception	8417	-1	*kap-
@@ -13318,7 +13318,7 @@ motivated	9924	-1
 browser	9925	-1
 centralized	9926	-1
 geologist	9928	-1
-newfound	9931	-1	*gheu-
+newfound	9931	-1
 twenty-first	9937	-1
 uniformed	9940	-1
 postseason	9952	-1

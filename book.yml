@@ -8250,8 +8250,46 @@
       - learn
   related:
     - apprenticeship
+- word: profusion
+  freq: 16593
+  use: 136
+  pos: COLLECTIVE SINGULAR NOUN
+  meaning: If there is a profusion of something or if it occurs in profusion, there is a very large quantity or variety of it.
+  sent: '...a delightful river with a profusion of wild flowers along its banks.'
+  roots:
+    pro: "*per-(1) | forward"
+    fuse: "*gheu- | to pour"
+  exp: 多得都溢(pour)出来了。
+  connect:
+    pour:
+      - very large quantity or variety
+  related:
+    - profusely
 
 
+confound        10779   120     *gheu-
+gutsy   19374   91      *gheu-
+gush    11549   88      *gheu-
+futile  9583    75      *gheu-
+gut     4340    72      *gheu-
+suffuse 17821   42      *gheu-
+infuse  9060    33      *gheu-
+fusion  7363    31      *gheu-
+font    14241   24      *gheu-
+diffuse 12763   21      *gheu-
+refund  11184   14      *gheu-
+funnel  11059   11      *gheu-
+diffusion       11375   5       *gheu-
+infusion        10321   -1      *gheu-
+gust    10382   -1      *gheu-
+fuse    10616   -1      *gheu-
+defuse  12812   -1      *gheu-
+transfusion     13520   -1      *gheu-
+futility        13938   -1      *gheu-
+fuselage        17033   -1      *gheu-
+geyser  17325   -1      *gheu-
+alchemy 17780   -1      *gheu-
+foundry 18943   -1      *gheu-
 
 
 ## TODO: finish all "related" tabs in root.yml
