@@ -8265,13 +8265,38 @@
       - very large quantity or variety
   related:
     - profusely
-
+- word: gut
+  freq: 4340
+  use: 72
+  pos: PLURAL NOUN
+  meaning: A person's or animal's guts are all the organs inside them.
+  sent: By the time they finish, the crew are standing ankle-deep in fish guts.
+  roots:
+    gut: "*gheu- | to pour"
+  exp: 造gut的人是用pour表达a channel的感觉，因为channel是用来引流的。比如我们的肠子呀，血管啊什么的，都可以看成是channel。
+  connect:
+    pour:
+      - organs
+  related:
+    - gutsy
+- word: futile
+  freq: 9583
+  use: 75
+  pos: ADJECTIVE
+  meaning: If you say that something is futile, you mean there is no point in doing it, usually because it has no chance of succeeding.
+  sent: He brought his arm up in a futile attempt to ward off the blow.
+  roots:
+    fut: "*gheu- | to pour"
+  exp: 从pour引申出的感觉是pouring out easily, easily emptied——怎么样，是不是有一种"无效"的感觉？
+  connect:
+    pour:
+      - no point
+      - no chance
+  related:
+    - futility
 
 confound        10779   120     *gheu-
-gutsy   19374   91      *gheu-
 gush    11549   88      *gheu-
-futile  9583    75      *gheu-
-gut     4340    72      *gheu-
 suffuse 17821   42      *gheu-
 infuse  9060    33      *gheu-
 fusion  7363    31      *gheu-
@@ -8285,9 +8310,7 @@ gust    10382   -1      *gheu-
 fuse    10616   -1      *gheu-
 defuse  12812   -1      *gheu-
 transfusion     13520   -1      *gheu-
-futility        13938   -1      *gheu-
 fuselage        17033   -1      *gheu-
-geyser  17325   -1      *gheu-
 alchemy 17780   -1      *gheu-
 foundry 18943   -1      *gheu-
 
