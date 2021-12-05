@@ -8294,21 +8294,92 @@
       - no chance
   related:
     - futility
+- word: confound
+  freq: 10779
+  use: 120
+  pos: TRANSITIVE VERB
+  meaning: If someone or something confounds you, they make you feel surprised or confused, often by showing you that your opinions or expectations of them were wrong.
+  sent: He momentarily confounded his critics by his cool handling of the hostage crisis.
+  roots:
+    con: con- | together
+    found: "*gheu- | to pour"
+  exp: 词根合起来表示to pour, mingle, or mix together，和confuse(3550,127)一样的感觉。
+  connect:
+    together:
+      - surprised
+      - confused
+    pour:
+      - surprised
+      - confused
+- word: suffuse
+  freq: 17821
+  use: 42
+  pos: TRANSITIVE VERB
+  meaning: If something, especially a color or feeling, suffuses a person or thing, it gradually spreads over or through them.
+  sent: A dull red flush suffused Selby's face.
+  roots:
+    suf: sub- | under
+    fuse: "*gheu- | to pour"
+  exp: 词根合起来表示"流得满处都是"的感觉，对应释义中的sread over/through。
+  connect:
+    pour:
+      - spreads
+- word: fuse
+  freq: 10616
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A fuse is a safety device in an electric plug or circuit. It contains a piece of wire which melts when there is a fault so that the flow of electricity stops.
+  sent: The fuse blew as he pressed the button to start the motor.
+  roots:
+    fuse: "*gheu- | to pour"
+  exp: fuse在危险的时候会被熔断(melt)，所以和pour相关。
+  connect:
+    pour:
+      - melts
+- word: defuse
+  freq: 12812
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you defuse a dangerous or tense situation, you calm it.
+  sent: Police administrators credited the organization with helping defuse potentially violent situations.
+  roots:
+    de: de- | down, off, away, from among, down from
+    fuse:
+      meaning: fuse
+      roots:
+        fuse: "*gheu- | to pour"
+  exp: 注意这个词是直接用fuse(10616,-1)创造的，词根合起来表示remove the fuse from (an explosive)，对应释义中的calm。
+  connect:
+    down:
+      - calm
+    fuse:
+      - calm
+- word: infuse
+  freq: 9060
+  use: 33
+  pos: TRANSITIVE VERB
+  meaning: To infuse a quality into someone or something, or to infuse them with a quality, means to fill them with it.
+  sent: Many of the girls seemed to be infused with excitement on seeing the snow.
+  roots:
+    in: in- | in
+    fuse: "*gheu- | to pour"
+  exp: 词根合起来表达"注入"的感觉，对应释义中的fill。
+  connect:
+    in:
+      - fill
+    pour:
+      - fill
+  related:
+    - infusion
 
-confound        10779   120     *gheu-
 gush    11549   88      *gheu-
-suffuse 17821   42      *gheu-
-infuse  9060    33      *gheu-
 fusion  7363    31      *gheu-
 font    14241   24      *gheu-
 diffuse 12763   21      *gheu-
 refund  11184   14      *gheu-
 funnel  11059   11      *gheu-
 diffusion       11375   5       *gheu-
-infusion        10321   -1      *gheu-
 gust    10382   -1      *gheu-
-fuse    10616   -1      *gheu-
-defuse  12812   -1      *gheu-
 transfusion     13520   -1      *gheu-
 fuselage        17033   -1      *gheu-
 alchemy 17780   -1      *gheu-
