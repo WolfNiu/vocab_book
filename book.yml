@@ -8371,19 +8371,144 @@
       - fill
   related:
     - infusion
+- word: gush
+  freq: 11549
+  use: 88
+  pos: VERB
+  meaning: When liquid gushes out of something, or when something gushes a liquid, the liquid flows out very quickly and in large quantities.
+  sent: Piping-hot water gushed out.
+  roots:
+    gush: "*gheu- | to pour"
+  exp: pour对应释义中的flow out，都是流出来的意思。
+  connect:
+    pour:
+      - flows out
+- word: fusion
+  freq: 7363
+  use: 31
+  pos: COUNTABLE NOUN
+  meaning: A fusion of different qualities, ideas, or things is something new that is created by joining them together.
+  sent: His previous fusions of jazz, pop and African melodies have proved highly successful.
+  roots:
+    fus: "*gheu- | to pour"
+  exp: 词根用pour表达了union or blending of different things的感觉，也就是把各种东西倒在一起，融合在一起，对应释义中的join together。
+  connect:
+    pour:
+      - joining them together
+- word: diffuse
+  freq: 12763
+  use: 21
+  pos: TRANSITIVE VERB
+  meaning: If something such as knowledge or information is diffused, or if it diffuses somewhere, it is made known over a wide area or to a lot of people.
+  sent: Over time, however, the technology is diffused and adopted by other countries.
+  roots:
+    dif: dis- | apart, in every direction
+    fuse: "*gheu- | to pour"
+  exp: to pour in every direction——确实是"传播、蔓延"的感觉，对应释义中的over a wide area。
+  connect:
+    in every direction:
+      - over a wide area
+      - to a lot of people
+    pour:
+      - over a wide area
+      - to a lot of people
+  related:
+    - diffusion
+- word: funnel
+  freq: 11059
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A funnel is an object with a wide, circular top and a narrow short tube at the bottom. Funnels are used to pour liquids into containers which have a small opening, for example, bottles.
+  sent: Rain falls through the funnel into the jar below.
+  roots:
+    fun: "*gheu- | to pour"
+  exp: 漏斗就是用来倒水(pour)的。
+  connect:
+    pour:
+      - pour
+- word: refund
+  freq: 11184
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A refund is a sum of money that is returned to you, for example because you have paid too much or because you have returned goods to a store.
+  sent: "Face it - you'll just have to take those cowboy boots back and ask for a refund."
+  roots:
+    re: re- | back
+    fund: "*gheu- | to pour"
+  exp: 词根合起来表示pour back, flow back，对应释义中的return。
+  connect:
+    back:
+      - returned
+    pour:
+      - returned
+- word: font
+  freq: 14241
+  use: 24
+  pos: COUNTABLE NOUN
+  meaning: In printing, a font is a set of characters of the same style and size.
+  sent: '...the immense variety of fonts available in Microsoft Word and Publisher.'
+  roots:
+    font: "*gheu- | to pour"
+  exp: 词根里的pour表示to melt, cast, pour out，其中cast(浇铸)就对应着古老的排版方式，因此和"字体"的概念相关。
+- word: alchemy
+  freq: 17780
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Alchemy was a form of chemistry studied in the Middle Ages, that was concerned with trying to discover ways to change ordinary metals into gold.
+  sent: her beauty had a potent alchemy
+  roots:
+    al: al- | the
+    chem: "*gheu- | to pour"
+  exp: 炼金术嘛，就是把金属融掉(pour)。
+  connect:
+    pour:
+      - metals
+      - gold
+- word: gust
+  freq: 10382
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A gust is a short, strong, sudden rush of wind.
+  sent: A gust of wind drove down the valley.
+  roots:
+    gust: "*gheu- | to pour"
+  exp: Gust给人的就是一种"突然涌出(pour)"的感觉。
 
-gush    11549   88      *gheu-
-fusion  7363    31      *gheu-
-font    14241   24      *gheu-
-diffuse 12763   21      *gheu-
-refund  11184   14      *gheu-
-funnel  11059   11      *gheu-
-diffusion       11375   5       *gheu-
-gust    10382   -1      *gheu-
-transfusion     13520   -1      *gheu-
-fuselage        17033   -1      *gheu-
-alchemy 17780   -1      *gheu-
-foundry 18943   -1      *gheu-
+light   465     445     *legwh-,        *leuk-
+lunatic 14750   131     *leuk-
+link    1743    79      *leuk-
+illustration    5162    75      *leuk-
+illumination    11447   74      *leuk-
+alight  18006   69      *legwh-,        *leuk-
+lighten 8756    58      *legwh-,        *leuk-
+enlighten       11853   52      *legwh-,        *leuk-
+luminary        18112   49      *leuk-
+lightness       16941   47      *legwh-,        *leuk-
+daylight        6084    45      *legwh-, *leuk-, *dyeu-
+moonlight       8097    37      *legwh-,        *leuk-
+lackluster      17551   37      *leuk-
+lightning       4614    36      *leuk-
+lightly 3424    31      *legwh-,        *leuk-
+highlight       3399    29      *legwh-,        *leuk-
+elucidate       17031   29      *leuk-
+linkage 7822    27      *leuk-
+spotlight       5558    8       *legwh-,        *leuk-
+limelight       14213   8       *legwh-,        *leuk-
+sunlight        3928    7       *legwh-,        *leuk-
+lighting        4910    0       *legwh-,        *leuk-
+light-hearted   18479   0       *legwh-,    *leuk-
+lunar   6979    -1      *leuk-
+headlight       8234    -1      *legwh-,        *leuk-
+luminous        9838    -1      *leuk-
+light-year      10051   -1      *legwh-,        *leuk-
+flinch  10152   -1      *leuk-
+translucent     10326   -1      *leuk-
+enlightened     10653   -1      *legwh-,        *leuk-
+leukemia        11251   -1      *leuk-
+enlightenment   12982   -1      *legwh-,        *leuk-
+skylight        13776   -1      *legwh-,        *leuk-
+lucid   15766   -1      *leuk-
+luster  16078   -1      *leuk-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -8400,7 +8525,6 @@ foundry 18943   -1      *gheu-
 # (41, '*gheu-'),
 # (41, '*re-'),
 # (42, '*ei-'),
-# (42, '*leuk-'),
 # (42, '*ye-'),
 # (43, '*dek-'),
 # (44, '*aiw-'),

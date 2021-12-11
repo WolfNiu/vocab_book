@@ -16342,7 +16342,7 @@ moustache	17023	-1
 refractor	17028	-1	*bhreg-
 geologic	17030	-1
 lubricant	17032	-1	*sleubh-
-fuselage	17033	-1	*gheu-
+fuselage	17033	-1
 single-parent	17034	-1
 stir-fry	17036	-1
 universality	17038	-1	*oi-no-
