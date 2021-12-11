@@ -1,43 +1,13 @@
-# TODO: Each root has a meaning to itself, and possibly also a parent. We need to design the data structure to reflect that.
-'con-': with, together
-'cern': '*krei-'
-'*krei-': to sieve
-'*stere-': to spread
-'*ag': to drive, draw out or forth, move
 '*deik-':
   meaning: to show; pronounce solemnly
   exp: 其实这个词根的衍生里有我们很熟悉的teach(546,36)和judge(1119,106)。根据字母互换规律*deik-=teach, *deik-=judge。这里要特别注意的是d=j，因为j会发/dʒ/的音(e.g. joke)，和/d/的音很相近。这样的话我们就扩展了t=d=s=z这一组互换，成了t=d=s=z，而d和j单独可互换。从*deik-来的常用词还有dictionary[=dict(=*deik-)+ion(=-ion)+ary(=-ary)]——词典的作用就是show people the meaning(s) of words and phrases.
-'*weid-': to see
-'dis-':
-  meaning:
-    - lack of, not
-    - opposite of, do the opposite of
-    - apart, away
-  exp: dis- 的前两个意思前两个意思其实差不多，都表示否定。第三个意思要着重体会那种away的感觉。比如discard。
-'guise': style, appearance
-'de-': 
-'via': way, road
-'*wegh-': 
+'*wegh-':
   'meaning': to go, move, transport in a vehicle
   'exp': 和这个词根相关的最常用词就是way(84,308)了，二者可互换，意思上也相通。而away(270,42)=a(=a-:off,from) + way，也就是不继续走这条路的感觉。这里给个小测验，看大家能不能自己把always(206,50)这个词拆开并且解释清楚，如果能的话，再试试subway(5452，-1)？另外weigh(2527, -1)和weight(957,202)也是从这个词根来的。transport in a vehicle的载体往往就是“重物”。学理工科的同学肯定对vector(10374,-1)这个词特别熟。其中的vect就和*wegh-可互换。什么是vector呢？就是从一个点指向另一个点，所以这词造得真是再形象不过了。另外为了理解这个词根，我们也被迫认识了vehicle(1300,34)。其中veh=*wegh-。再让我斗胆assume你认识wave(1405,30)这个词。它和*weigh-也可互换。古人对wave最朴素的认知就是“它在动(move)”。怎么样，现在是不是觉得它既表示“波浪”又表示“挥手”合理多了？
-'in-': 
-  meaning:
-    - '*ne-'
-    - '*en'
-'*ne-': not
-'*en': in
-'*leuk-': light, brightness
-'-able': able
-'cred': 
+'cred':
   meaning: to believe
   parent: '*kerd-'
   exp: 古人一般会认为心脏(heart)和思考有关系，所以才会从heart发展到to believe的意思。也确实是——如果你被女朋友甩了，肯定是喊“心痛”而不是“头疼”。
-'*kerd-': heart
-'en-':
-  meaning:
-    - in, into
-    - near, at, in, on, within
-lud: to play
 '*tem-':
   meaning: to cut
   exp: 这个词根最常用的词其实是temple(3648,9)。这里的tem是一种"事先分出来的预留地"的感觉，也就是"place reserved or cut out"，比较难想。
@@ -971,3 +941,5 @@ misc:
     - confused
     - confusion
     - confusing
+"*leuk-":
+  meaning:
