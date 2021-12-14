@@ -61,25 +61,6 @@
     de: de- | off
     vi: via | way, road
   exp: off the road，给人一种不走正道儿的感觉。所以和"当面一套，背后一套"有关。
-- word: illustrate
-  freq: 2368
-  use: -1
-  pos: TRANSITIVE VERB
-  meaning: If you say that something illustrates a situation that you are drawing
-    attention to, you mean that it shows that the situation exists.
-  sent: The example of the United States illustrates this point.
-  roots:
-    il: in-(2)
-    lu: '*leuk-'
-    str: -ster
-    ous: -ous
-  exp: 这个词和它的中文释义一起看会很有意思：“说明”的“明”字，就是light, brightness的感觉。
-  related:
-    - illustration
-    - illustrator
-    - illustrated
-    - illustrious
-    - illustrative
 - word: credible
   freq: 6077
   use: 49
@@ -89,8 +70,7 @@
   roots:
     cred: cred
     ible: -able
-  exp:
-    顺便提一句，creditble的衍生词incredible，以及unbelievable是市面上各种单词书最喜欢讲的两个词。为什么呢？太容易拆了，能让人产生“词根真他妈好学”的误会。但是一路下来我们应该已经发现，其实有很多词是拆不工整的：有些会莫名其妙多出几个字母，有些拆出来也不知道这些词根和单词的意思有什么联系，还有些甚至索性就有一部分完全不知道词根来源。作为英语学习者，了解这些词根学“丑恶”的一面当然就比不了解强。如果一本书只展现好的一面，就好像是找女朋友只根据用美颜修过的照片一样，最后谁哭谁知道。
+  exp: 顺便提一句，creditble的衍生词incredible，以及unbelievable是市面上各种单词书最喜欢讲的两个词。为什么呢？太容易拆了，能让人产生“词根真他妈好学”的误会。但是一路下来我们应该已经发现，其实有很多词是拆不工整的：有些会莫名其妙多出几个字母，有些拆出来也不知道这些词根和单词的意思有什么联系，还有些甚至索性就有一部分完全不知道词根来源。作为英语学习者，了解这些词根学“丑恶”的一面当然就比不了解强。如果一本书只展现好的一面，就好像是找女朋友只根据用美颜修过的照片一样，最后谁哭谁知道。
   related:
     - incredible:
       roots:
@@ -8473,44 +8453,122 @@
   roots:
     gust: "*gheu- | to pour"
   exp: Gust给人的就是一种"突然涌出(pour)"的感觉。
-
-light   465     445     *legwh-,        *leuk-
-link    1743    79      *leuk-
-lightly 3424    31      *legwh-,        *leuk-
-spotlight       5558    8       *legwh-,        *leuk-
-lightness       16941   47      *legwh-,        *leuk-
-daylight        6084    45      *legwh-, *leuk-, *dyeu-
-moonlight       8097    37      *legwh-,        *leuk-
-highlight       3399    29      *legwh-,        *leuk-
-linkage 7822    27      *leuk-
-limelight       14213   8       *legwh-,        *leuk-
-sunlight        3928    7       *legwh-,        *leuk-
-lighting        4910    0       *legwh-,        *leuk-
-light-hearted   18479   0       *legwh-,    *leuk-
-headlight       8234    -1      *legwh-,        *leuk-
-light-year      10051   -1      *legwh-,        *leuk-
-enlightened     10653   -1      *legwh-,        *leuk-
-
+- word: luminary
+  freq: 18112
+  use: 49
+  pos: COUNTABLE NOUN
+  meaning: If you refer to someone as a luminary, you mean that they are an expert in a particular subject or activity.
+  sent: '...the political opinions of such luminaries as Sartre or de Beauvoir.'
+  roots:
+    lumin: "*leuk- | light, brightness"
+  exp: 明灯，为人们指明方向，对应释义中的expert。你看，"指明"的"明"字已经自带了light, brightness的感觉。可见中英文所见略同。
+  connect:
+    light, brightness:
+      - expert
+- word: luminous
+  freq: 9838
+  use: -1
+  pos: ADJECTIVE
+  meaning: Something that is luminous shines or glows in the dark.
+  sent: The luminous dial on the clock showed five minutes to seven.
+  roots:
+    lumin: "*leuk- | light, brightness"
+  exp: 词根中的light对应释义中的shine, glow。
+  connect:
+    light, brightness:
+      - shines
+      - glows
+- word: lucid
+  freq: 15766
+  use: -1
+  pos: ADJECTIVE
+  meaning: Lucid writing or speech is clear and easy to understand.
+  sent: '...a lucid account of the history of mankind.'
+  roots:
+    luc: "*leuk- | light, brightness"
+  exp: 光能透过去，所以是clear的。
+  connect:
+    light, brightness:
+      - clear
+      - easy to understand
+- word: enlighten
+  freq: 11853
+  use: 52
+  meaning: To enlighten someone means to give them more knowledge and greater understanding about something.
+  sent: A few dedicated doctors have fought for years to enlighten the profession.
+  roots:
+    en: en-(1) | word-forming element making verbs
+    lighten:
+      meaning: lighten
+      roots:
+        light: "*leuk- | light, brightness"
+        en: en-(1) | word-forming element making verbs
+  exp: 词根合起来是supply with intellectual light。这intellectual light嘛，就是传说中的"智慧之光"了。
+  connect:
+    light, brightness:
+      - knowledge
+      - understanding
+  related:
+    - enlightened
+    - enlightenment
+- word: luster
+  freq: 16078
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Luster is gentle shining light that is reflected from a surface, for example from polished metal.
+  sent: These pearls had a fine luster.
+  roots:
+    lust: "*leuk- | light, brightness"
+  exp: 词根对应释义中的shining light，不解释。
+  connect:
+    light, brightness:
+      - shining light
+  related:
+    - lackluster
+- word: illuminate
+  freq: 5459
+  use: 113
+  pos: TRANSITIVE VERB
+  meaning: To illuminate something means to shine light on it and to make it brighter and more visible.
+  sent: No streetlights illuminated the street.
+  roots:
+    il: in- | in, into
+    lumin: "*leuk- | light, brightness"
+  exp: 词根对应释义中的shine light, make brighter，不解释。
+  connect:
+    light, brightness:
+      - shine light
+      - brighter
+      - visible
+  related:
+    - illumination
+    - illuminating
+- word: illustrate
+  freq: 2368
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you say that something illustrates a situation that you are drawing attention to, you mean that it shows that the situation exists.
+  sent: The example of the United States illustrates this point.
+  roots:
+    il: in- | in
+    lustr: "*leuk- | light, brightness"
+  exp: 这个词和它的中文释义一起看会很有意思："说明"的"明"字，就是light, brightness的感觉。
+  connect:
+    light, brightness:
+      - shows
+  related:
+    - illustration
+    - illustrator
+    - illustrated
+    - illustrious
+    - illustrative
 
 lunatic 14750   131     *leuk-
-illustration    5162    75      *leuk-
-illumination    11447   74      *leuk-
-alight  18006   69      *legwh-,        *leuk-
-lighten 8756    58      *legwh-,        *leuk-
-enlighten       11853   52      *legwh-,        *leuk-
-  enlightened     10653   -1      *legwh-,        *leuk-
-  enlightenment   12982   -1      *legwh-,        *leuk-
-luminary        18112   49      *leuk-
-lackluster      17551   37      *leuk-
-lightning       4614    36      *leuk-
 elucidate       17031   29      *leuk-
 lunar   6979    -1      *leuk-
-luminous        9838    -1      *leuk-
 flinch  10152   -1      *leuk-
 translucent     10326   -1      *leuk-
 leukemia        11251   -1      *leuk-
-lucid   15766   -1      *leuk-
-luster  16078   -1      *leuk-
 
 
 ## TODO: finish all "related" tabs in root.yml

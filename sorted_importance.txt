@@ -18,7 +18,7 @@ right	193	469	*per-,	*reg-
 charge	926	469	*kers-
 run	202	461	*rei-
 clear	564	454	*kele-
-light	465	445	*legwh-,	*leuk-
+light	465	445	*leuk-
 make	45	442	*mag-
 raise	434	442
 hot	722	435
@@ -1204,7 +1204,7 @@ impress	3081	113	*per-
 crawl	3874	113
 burning	4080	113
 cease	4518	113	*ked-
-illuminate	5459	113
+illuminate	5459	113 *leuk-
 lash	8620	113
 shred	8898	113
 snug	12317	113
@@ -2194,7 +2194,7 @@ benefit	815	79	*deu-,	*dhe-
 final	890	79
 regulation	1685	79	*reg-
 muscle	1725	79
-link	1743	79	*leuk-
+link	1743	79
 estate	1792	79	*sta-
 appointment	3048	79	*peuk-
 alliance	3405	79	*ad-,	*leig-
@@ -2701,7 +2701,7 @@ slur	14744	69
 tepid	16534	69
 affront	16888	69
 principled	16891	69	*kap-,  *per-
-alight	18006	69	*legwh-,	*leuk-
+alight	18006	69	*leuk-
 pester	18019	69	*pa-
 well-worn	18049	69
 silken	18564	69
@@ -3376,7 +3376,7 @@ irrational	8394	58	*re-
 savor	8467	58
 downturn	8560	58
 thankful	8591	58
-lighten	8756	58	*legwh-,	*leuk-
+lighten	8756	58	*leuk-
 buffer	8948	58
 swarm	9186	58
 fraternity	9463	58	*bhrater-
@@ -3811,7 +3811,7 @@ saturate	11432	52	*sa-
 quarrel	11470	52
 jig	11538	52
 bustling	11707	52	*bheue-
-enlighten	11853	52	*legwh-,	*leuk-
+enlighten	11853	52	*leuk-
 hard-line	12093	52	*kar-
 latch	12266	52
 gratification	12676	52	*dhe-,	*gwere-
@@ -4196,7 +4196,7 @@ far-flung	14509	47	*per-
 grudge	14511	47
 sumptuous	15165	47	*em-
 consternation	16617	47	*stere-
-lightness	16941	47	*legwh-,	*leuk-
+lightness	16941	47	*leuk-
 melodramatic	18053	47
 single-minded	18475	47	*sem-
 mystify	18567	47
@@ -4338,7 +4338,7 @@ accommodation	5439	45	*med-
 innocence	5469	45	*nek-
 enthusiastic	5577	45	*dhes-
 idiot	6032	45
-daylight	6084	45	*legwh-, *leuk-, *dyeu-
+daylight	6084	45	*leuk-, *dyeu-
 unbelievable	6151	45	*leubh-
 operational	6222	45	*op-
 surplus	6341	45	*pele-
@@ -5175,7 +5175,7 @@ raised	7493	37
 ignite	7519	37
 yacht	7624	37
 dove	7856	37
-moonlight	8097	37	*legwh-,	*leuk-
+moonlight	8097	37	*leuk-
 imbalance	8287	37	*dwo-
 fig	8775	37
 continental	9149	37	*ten-
@@ -5790,7 +5790,7 @@ external	2886	31
 subsequent	3295	31	*sekw-
 inquiry	3396	31
 related	3422	31
-lightly	3424	31	*legwh-,	*leuk-
+lightly	3424	31	*legwh-
 behave	3694	31	*kap-
 chaos	3764	31	*ghieh-
 insert	4345	31	*ser-
@@ -6043,7 +6043,7 @@ episode	2869	29
 elderly	2930	29	*al-
 tribe	2971	29	*bheue-
 medication	3176	29	*med-
-highlight	3399	29	*legwh-,	*leuk-
+highlight	3399	29	*leuk-
 civilization	3524	29	*kei-
 restrict	3574	29	stringere
 possession	3628	29	*poti-,	*sed-
@@ -6353,7 +6353,7 @@ voucher	7381	27	*wekw-
 openness	7455	27
 reinforcement	7639	27
 persona	7663	27
-linkage	7822	27	*leuk-
+linkage	7822	27
 ordinance	8070	27	*ar-
 accordance	8254	27	*kerd-
 thug	8262	27	*(s)teg-
@@ -8950,7 +8950,7 @@ militia	5060	8
 advisory	5172	8	*weid-
 spectator	5282	8
 murderer	5491	8	*mer-
-spotlight	5558	8	*legwh-,	*leuk-
+spotlight	5558	8	*leuk-
 corpse	5629	8	*kwrep-
 intake	6107	8
 heir	6268	8
@@ -9010,7 +9010,7 @@ nocturnal	13728	8
 inherited	13732	8
 fluke	13972	8	*plak-
 complicity	13997	8	*plek-
-limelight	14213	8	*legwh-,	*leuk-
+limelight	14213	8	*leuk-
 loyalist	14507	8	*leg-
 manly	14533	8	*man-,	*men-,	*ner-,	*wi-ro-
 commune	14640	8	*mei-
@@ -9048,7 +9048,7 @@ mall	3076	7	*mele-
 extension	3218	7	*ten-
 gym	3912	7
 indicator	3927	7
-sunlight	3928	7	*legwh-,	*leuk-
+sunlight	3928	7	*leuk-
 sharply	3945	7	*sker-
 racism	3988	7
 nominee	4123	7
@@ -9377,7 +9377,7 @@ matron	17143	5
 storied	17157	5	*weid-
 suffrage	17190	5	*bhreg-
 summons	17397	5	*men-
-illustrative	17593	5
+illustrative	17593	5   *leuk-
 didactic	17675	5
 futurist	17866	5
 henceforth	18166	5	*per-
@@ -9811,7 +9811,7 @@ routinely	4779	0
 rubber	4843	0
 steadily	4848	0
 integrated	4850	0	*tag-
-lighting	4910	0	*legwh-,	*leuk-
+lighting	4910	0	*leuk-
 contributor	4912	0	*bheue-
 shorts	4922	0	*sker-
 accurately	4950	0
@@ -10414,7 +10414,7 @@ bluntly	12482	0
 solemnly	12490	0
 sesame	12493	0
 prized	12506	0   *per-(5)
-illustrator	12518	0
+illustrator	12518	0   *leuk-
 lovingly	12527	0	*leubh-
 eater	12541	0	*ed-
 meltdown	12544	0
@@ -11007,7 +11007,7 @@ horticultural	18445	0	*gher-, *kwel-(1)
 alienating	18454	0
 feared	18459	0
 blended	18472	0
-light-hearted	18479	0	*legwh-,    *leuk-
+light-hearted	18479	0	*legwh-
 distinctively	18484	0
 delusional	18488	0
 habitually	18490	0	*ghabh-
@@ -11614,7 +11614,7 @@ maker	2364	-1	*mag-
 mood	2365	-1	*med-
 accomplish	2366	-1	*pele-
 emphasis	2367	-1	*bha-
-illustrate	2368	-1
+illustrate	2368	-1  *leuk-
 boot	2369	-1
 monitor	2370	-1	*men-
 Asian	2371	-1
@@ -12837,7 +12837,7 @@ biscuit	8222	-1	*dwo-,	*pekw-
 tortilla	8225	-1	*terkw-
 physiological	8230	-1
 bakery	8232	-1
-headlight	8234	-1	*legwh-,	*leuk-
+headlight	8234	-1	*leuk-
 apron	8236	-1
 nostalgia	8240	-1
 infected	8253	-1
@@ -13384,7 +13384,7 @@ inviting	10046	-1
 rustic	10047	-1
 invader	10049	-1
 holistic	10050	-1	*sol-
-light-year	10051	-1	*legwh-,	*leuk-
+light-year	10051	-1	*leuk-
 discrete	10052	-1
 straddle	10053	-1
 mantle	10054	-1
@@ -13917,7 +13917,7 @@ wrench	10649	-1	*wer-
 tendon	10650	-1	*ten-
 accessibility	10651	-1
 pixel	10652	-1
-enlightened	10653	-1	*legwh-,	*leuk-
+enlightened	10653	-1	*leuk-
 interrogate	10654	-1	*reg-
 zucchini	10655	-1
 ecstatic	10656	-1
@@ -14540,7 +14540,7 @@ twelfth	12960	-1	*dwo-
 influenza	12969	-1	*bhel-
 ta	12973	-1
 Medicaid	12980	-1	*ad-
-enlightenment	12982	-1	*legwh-,	*leuk-
+enlightenment	12982	-1	*leuk-
 handwritten	12985	-1
 fauna	12990	-1
 veal	13001	-1
@@ -15824,7 +15824,7 @@ airing	16052	-1	*agro-,	*wer-
 ammo	16053	-1
 giraffe	16055	-1
 unsettling	16056	-1
-illustrated	16057	-1
+illustrated	16057	-1  *leuk-
 bottleneck	16058	-1
 interagency	16059	-1
 three-story	16060	-1
@@ -16060,7 +16060,7 @@ stacked	16317	-1
 riff	16318	-1
 contiguous	16320	-1
 attitudinal	16321	-1
-illuminated	16322	-1
+illuminated	16322	-1  *leuk-
 dissection	16323	-1	*sek-
 boundless	16324	-1	*bheue-
 tolerable	16326	-1
