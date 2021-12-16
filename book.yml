@@ -8562,13 +8562,98 @@
     - illustrated
     - illustrious
     - illustrative
+- word: lunar
+  freq: 6979
+  use: -1
+  pos: ADJECTIVE
+  meaning: Lunar means relating to the moon.
+  sent: The vast volcanic slope was eerily reminiscent of a lunar landscape.
+  roots:
+    meaning: luna | moon
+    roots:
+      luna: "*leuk- | light, brightness"
+  exp: 月亮是亮的(bright)。
+  connect:
+    moon:
+      - moon
+- word: elucidate
+  freq: 17031
+  use: 29
+  pos: VERB
+  meaning: If you elucidate something, you make it clear and easy to understand.
+  sent: Haig went on to elucidate his personal principle of war.
+  roots:
+    e: ex- | out, away
+    luc: "*leuk- | light, brightness"
+  exp: 将要说明的东西拿出来(out)放在聚光灯(light)下，对应释义中的clear + easy to understand。
+  connect:
+    light, brightness:
+      - clear
+      - easy to understand
+- word: lunatic
+  freq: 14750
+  use: 131
+  pos: COUNTABLE NOUN
+  meaning: If you describe someone as a lunatic, you think they behave in a dangerous, stupid, or annoying way.
+  sent: Her son thinks she's an absolute raving lunatic.
+  roots:
+    meaning: luna | moon
+    roots:
+      luna: "*leuk- | light, brightness"
+  exp: 这个词的本意是affected with periodic insanity dependent on the changes of the moon，也就是随着月亮的周期变疯。
+  connect:
+    moon:
+      - dangerous
+      - stupid
+      - annoying
+- word: translucent
+  freq: 10326
+  use: -1
+  pos: ADJECTIVE
+  meaning: If a material is translucent, some light can pass through it.
+  sent: The building is roofed entirely with translucent corrugated plastic.
+  roots:
+    trans: trans- | across, beyond; through
+    luc: "*leuk- | light, brightness"
+  exp: 词根合起来是light + through，和释义完全对应，哦吼吼吼。
+  connect:
+    through:
+      - through
+    light:
+      - light
 
-lunatic 14750   131     *leuk-
-elucidate       17031   29      *leuk-
-lunar   6979    -1      *leuk-
-flinch  10152   -1      *leuk-
-translucent     10326   -1      *leuk-
-leukemia        11251   -1      *leuk-
+
+mean    154     516     *medhyo-,       *mei-,  *men-
+medium  3269    177     *medhyo-
+intermediate    6977    101     *medhyo-
+meaning 1617    88      *medhyo-,       *mei-,  *men-
+meaningful      3805    79      *medhyo-,       *mei-,  *men-
+middle  991     76      *medhyo-
+medieval        5130    59      *aiw-,  *medhyo-
+mean-spirited   18026   54      *medhyo-,       *mei-,  *men-
+median  6910    48      *medhyo-
+meaningless     8156    48      *medhyo-,       *mei-,  *men-
+immediately     1145    47      *medhyo-
+mediate 7510    46      *medhyo-
+mediator        9303    29      *medhyo-
+mid     7471    28      *medhyo-
+midst   4385    23      *medhyo-
+milieu  11894   23      *medhyo-
+medal   3482    22      *medhyo-
+amid    3861    14      *medhyo-
+immediate       2199    -1      *medhyo-
+meantime        4892    -1      *medhyo-,       *mei-,  *men-
+Mediterranean   7766    -1      *medhyo-,       *ters-
+mediation       8476    -1      *medhyo-
+amidst  10083   -1      *medhyo-
+mediocre        10683   -1      *ak-,   *medhyo-
+midwife 12120   -1      *medhyo-
+medalist        12194   -1      *medhyo-
+midway  12275   -1      *medhyo-
+well-meaning    14998   -1      *medhyo-,       *mei-,  *men-
+medallion       15330   -1      *medhyo-
+mediocrity      17212   -1      *ak-,   *medhyo-
+medial  19033   -1      *medhyo-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -8576,7 +8661,6 @@ leukemia        11251   -1      *leuk-
 # TODO: *kar-
 # (34, '*ambhi-'),
 # (35, '*tag-'),
-# (36, '*medhyo-'),
 # (38, '*me-'),
 # (39, '*ped-'),
 # (39, '*skel-'),
