@@ -1848,7 +1848,7 @@ admit	1093	88
 plane	1153	88	*pele-,	*plat-
 argument	1189	88	*arg-
 hate	1535	88
-meaning	1617	88	*medhyo-,	*mei-,	*men-
+meaning	1617	88	*men-
 generate	1704	88	*gene-
 route	1961	88
 curious	3139	88
@@ -2199,7 +2199,7 @@ estate	1792	79	*sta-
 appointment	3048	79	*peuk-
 alliance	3405	79	*ad-,	*leig-
 stem	3443	79	*sta-
-meaningful	3805	79	*medhyo-,	*mei-,	*men-
+meaningful	3805	79	*men-
 suspend	3812	79	*(s)pen-
 curiosity	4570	79
 old-fashioned	4791	79	*dhe-
@@ -3674,7 +3674,7 @@ unconcerned	17828	54	*krei-
 retard	17829	54
 nominally	17840	54	*no-men-
 gregarious	17893	54	*ger-
-mean-spirited	18026	54	*medhyo-,	*mei-,	*men-
+mean-spirited	18026	54	*mei-
 fizzle	18651	54
 crafty	19488	54
 several	311	53	*pere-
@@ -4083,7 +4083,7 @@ paralyze	7261	48
 domination	7486	48	*dem-
 liberate	7631	48
 ache	7870	48
-meaningless	8156	48	*medhyo-,	*mei-,	*men-
+meaningless	8156	48	*men-
 moderately	8289	48	*med-
 ominous	8544	48
 apprentice	8759	48	*ghend-
@@ -4271,7 +4271,7 @@ noted	11125	46
 powerfully	11137	46
 collage	11380	46
 timid	11588	46
-intermediary	12000	46
+intermediary	12000	46  *medhyo-
 junkie	12042	46
 eschew	12211	46
 latent	12371	46
@@ -9654,7 +9654,7 @@ tree	596	0	*deru-
 window	608	0	*okw-,	*we-
 seven	736	0
 treatment	746	0
-media	758	0
+media	758	0   *medhyo-
 environmental	822	0
 ok	833	0
 Democrat	906	0
@@ -11057,7 +11057,7 @@ prospector	18798	0	*spek-
 electrically	18808	0
 declared	18810	0
 clumsily	18812	0
-meaningfully	18822	0
+meaningfully	18822	0   *men-(1)
 tested	19252	0
 searcher	19255	0
 renovated	19280	0
@@ -11301,7 +11301,7 @@ governor	1825	-1
 German	1837	-1	*gene-
 gender	1838	-1	*gene-
 producer	1859	-1	*deuk-,	*per-
-meanwhile	1861	-1	*kweie-
+meanwhile	1861	-1  *medhyo-,   *kweie-
 attract	1881	-1
 bedroom	1883	-1
 anywhere	1893	-1	*kwo-
@@ -12265,7 +12265,7 @@ ironically	4861	-1
 technician	4883	-1
 arrow	4887	-1
 trauma	4888	-1	*tere-
-meantime	4892	-1	*medhyo-,	*mei-,	*men-
+meantime	4892	-1	*medhyo-
 citizenship	4905	-1	*kei-
 importantly	4916	-1
 electronics	4920	-1
@@ -15114,7 +15114,7 @@ quadruple	14986	-1	*kwetwer-,	*pel-
 forty-eight	14987	-1
 sportsman	14989	-1	*per-
 neurotic	14992	-1
-well-meaning	14998	-1	*medhyo-,	*mei-,	*men-
+well-meaning	14998	-1	*men-
 chi-square	15013	-1
 Federalist	15014	-1
 reigning	15017	-1
