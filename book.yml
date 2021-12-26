@@ -5819,6 +5819,9 @@
     medi: "*medhyo- | middle"
     ocr: "*ak- | be sharp, rise (out) to a point, pierce"
   exp: 也就是中不溜儿锋利(sharp/keen)吧，所以比较平庸。
+  connect:
+    middle:
+      - average
   related:
     - mediocrity
 - word: oxygen
@@ -8621,23 +8624,61 @@
       - through
     light:
       - light
+- word: intermediate
+  freq: 6977
+  use: 101
+  pos: ADJECTIVE
+  meaning: An intermediate stage, level, or position is one that occurs between two other stages, levels, or positions.
+  sent: Do you make any intermediate stops between your home and work?
+  roots:
+    inter: inter- | betweeen
+    med: "*medhyo- | middle"
+  exp: 释义中自带between，不解释。
+  connect:
+    between:
+      - between
+    middle:
+      - between
+  related:
+    - intermediary
+- word: mediate
+  freq: 7510
+  use: 46
+  pos: VERB
+  meaning: If someone mediates between two groups of people, or mediates an agreement between them, they try to settle an argument between them by talking to both groups and trying to find things that they can both agree to.
+  sent: My mom was the one who mediated between Zelda and her mom.
+  roots:
+    med: "*medhyo- | middle"
+  exp: 居中(middle)调停，对应释义中的between。
+  connect:
+    middle:
+      - between
+      - both
+  related:
+    - mediator
+    - mediation
+- word: milieu
+  freq: 11894
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: Your milieu is the group of people or activities that you live among or are familiar with.
+  sent: They stayed, safe and happy, within their own social milieu.
+  roots:
+    mi: "*medhyo- | middle"
+    lieu: place
+  exp: 词根合起来是middle place的意思。如果以自己为中心，周围的事物自然就成了surroundings，对应释义中的"live among"。
+  connect:
+    middle:
+      - among
+    place:
+      - live
 
-
-intermediate    6977    101     *medhyo-
-  intermediary	12000	46  *medhyo-
 medieval        5130    59      *aiw-,  *medhyo-
 median  6910    48      *medhyo-
-mediate 7510    46      *medhyo-
-  mediator        9303    29      *medhyo-
-  mediation       8476    -1      *medhyo-
 mid     7471    28      *medhyo-
+  midway  12275   -1      *medhyo-
 midst   4385    23      *medhyo-
-milieu  11894   23      *medhyo-
 Mediterranean   7766    -1      *medhyo-,       *ters-
-mediocre        10683   -1      *ak-,   *medhyo-
-midwife 12120   -1      *medhyo-
-midway  12275   -1      *medhyo-
-mediocrity      17212   -1      *ak-,   *medhyo-
 medial  19033   -1      *medhyo-
 
 

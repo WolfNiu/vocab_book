@@ -14315,7 +14315,7 @@ bye-bye	12102	-1
 breaker	12107	-1	*bhreg-
 policy-making	12108	-1
 ore	12119	-1
-midwife	12120	-1	*medhyo-
+midwife	12120	-1
 nutmeg	12123	-1
 doorbell	12131	-1
 behaviour	12134	-1	*kap-
