@@ -8632,7 +8632,7 @@
   sent: Do you make any intermediate stops between your home and work?
   roots:
     inter: inter- | betweeen
-    med: "*medhyo- | middle"
+    medi: "*medhyo- | middle"
   exp: 释义中自带between，不解释。
   connect:
     between:
@@ -8648,7 +8648,7 @@
   meaning: If someone mediates between two groups of people, or mediates an agreement between them, they try to settle an argument between them by talking to both groups and trying to find things that they can both agree to.
   sent: My mom was the one who mediated between Zelda and her mom.
   roots:
-    med: "*medhyo- | middle"
+    medi: "*medhyo- | middle"
   exp: 居中(middle)调停，对应释义中的between。
   connect:
     middle:
@@ -8672,14 +8672,82 @@
       - among
     place:
       - live
+- word: medieval
+  freq: 5130
+  use: 59
+  pos: ADJECTIVE
+  meaning: Something that is medieval relates to or was made in the period of European history between the end of the Roman Empire in AD 476 and about AD 1500.
+  sent: '...a medieval castle.'
+  roots:
+    medi: "*medhyo- | middle"
+    ev:
+      meaning: aev | age
+      roots:
+        "*aiw- | vital force, life; long life, eternity"
+  exp: 词根很工整地对应中文释义"中(middle)世纪(life)"。
+  connect:
+    middle:
+      - between
+    life:
+      - period
+- word: median
+  freq: 6910
+  use: 48
+  pos: COUNTABLE NOUN
+  meaning: The median value of a set of values is the middle one when they are arranged in order. For example, if a group of five students take a test and their scores are 5, 7, 7, 8, and 10, the median score is 7.
+  sent: 7 is the median of both 1, 7, 31 and 2, 5, 9, l6
+  roots:
+    medi: "*medhyo- | middle"
+  exp: 中(middle)位数。
+  connect:
+    middle:
+      - middle
+- word: midway
+  freq: 12275
+  use: -1
+  pos: ADVERB
+  meaning: If something is midway between two places, it is between them and the same distance from each of them.
+  sent: The studio is midway between his aunt's old home and his cottage.
+  roots:
+    mid: "*medhyo- | middle"
+    way: way
+  exp: 中(middle)点，没啥好解释的。
+  connect:
+    middle:
+      - between
+      - same distance
+- word: midst
+  freq: 4385
+  use: 23
+  pos: NOUN
+  meaning: the middle or central part
+  sent: We were in the midst of a losing streak.
+  roots:
+    mid: "*medhyo- | middle"
+  exp: 释义中自带middle，不解释。
+  connect:
+    middle:
+      - middle
+- word: Mediterranean
+  freq: 7766
+  use: -1
+  pos: PROPER NOUN
+  meaning: The Mediterranean is the sea between southern Europe and North Africa.
+  sent: You have the choice of night fishing in the Mediterranean, or windsurfing on a lake in Switzerland.
+  roots:
+    Medi: "*medhyo- | middle"
+    terr:
+      meaing: terr | land, earth
+      roots:
+        terr: "*ters- | to dry"
+  exp: 词根合起来就是the sea in the miidle of the earth，因此"地中海"这个释义还是相当准确的。
+  connect:
+    middle:
+      - between
+    land, earth:
+      - southern Europe
+      - North Africa
 
-medieval        5130    59      *aiw-,  *medhyo-
-median  6910    48      *medhyo-
-mid     7471    28      *medhyo-
-  midway  12275   -1      *medhyo-
-midst   4385    23      *medhyo-
-Mediterranean   7766    -1      *medhyo-,       *ters-
-medial  19033   -1      *medhyo-
 
 
 
