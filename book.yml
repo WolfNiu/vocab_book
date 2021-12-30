@@ -160,26 +160,6 @@
   related:
     - deposition
     - depositor
-- word: integrate
-  freq: 3459
-  use: 45
-  pos: RECIPROCAL VERB
-  meaning: If someone integrates into a social group, or is integrated into it, they
-    behave in such a way that they become part of the group or are accepted into it.
-  sent: He didn't integrate successfully into the Italian way of life.
-  roots:
-    in: in- | not
-    teg: '*tag- | to touch, handle'
-    ate: -ate
-  exp: in + teg表示untouch。因为没人碰过，所以是"完整"的感觉。所以integrate就是to render (something) whole, bring together the parts of。
-  related:
-    - integral
-    - integrity
-    - integrated
-    - integration
-    - integrative
-    - distintegrate
-    - disintegration
 - word: accolade
   freq: 15754
   use: -1
@@ -8747,22 +8727,84 @@
     land, earth:
       - southern Europe
       - North Africa
+- word: attain
+  freq: 5390
+  use: 73
+  pos: TRANSITIVE VERB
+  meaning: If you attain something, you gain it or achieve it, often after a lot of effort.
+  sent: Jim is halfway to attaining his pilot's license.
+  roots:
+    at: ad- | to
+    tain: "*tag- | to touch, handle"
+  exp: 词根合起来表示"碰到(touch)终点线"的感觉，对应释义中的achieve。
+  connect:
+    touch:
+      - gain
+      - achieve
+  related:
+    - attainable
+    - unattainable
+    - attainment
+- word: intact
+  freq: 4679
+  use: 24
+  pos: ADJECTIVE
+  meaning: Something that is intact is complete and has not been damaged or changed.
+  sent: Customs men put dynamite in the water to destroy the cargo, but most of it was left intact.
+  roots:
+    in: in-(1) | not
+    tact: "*tag- | to touch, handle"
+  exp: 词根合起来就是untouched的意思，无需解释。
+  connect:
+    not:
+      - not
+      - complete
+    touch:
+      - damaged
+      - changed
+      - complete
+- word: tangible
+  freq: 7300
+  use: 22
+  pos: ADJECTIVE
+  meaning: If something is tangible, it is clear enough or definite enough to be easily seen, felt, or noticed.
+  sent: There should be some tangible evidence that the economy is starting to recover.
+  roots:
+    tang: "*tag- | to touch, handle"
+    ible: -able | capable of
+  exp: 词根合起来就是capable of being touched，对应释义中的easily seen, felt, or noticed。
+  connect:
+    capable of:
+      - easily
+    touch:
+      - clear
+      - definite
+      - seen
+      - felt
+      - noticed
+  related:
+    - intangible
+- word: contaminate
+  freq: 7531
+  use: 31
+  pos: TRANSITIVE VERB
+  meaning: If something is contaminated by dirt, chemicals, or radiation, they make it dirty or harmful.
+  sent: Have any fish been contaminated in the Arctic Ocean?
+  roots:
+    con: con- | with, together
+    tam: "*tag- | to touch, handle"
+  exp: 词根合起来表达"to bring into contact"的感觉，对应释义中的"make it dirty or harmful"。
+  connect:
+    touch:
+      - make it dirty or harmful
+  related:
+    - contamination
+    - contaminated
+    - contaminant
 
-
-
-attain  5390    73      *tag-
-  attainable      18444   68      *tag-
-  unattainable    19948   73      *tag-
-attainment      11076   47      *tag-
-contaminate     7531    31      *tag-
-intact  4679    24      *tag-
-contamination   6625    24      *tag-
-tangible        7300    22      *tag-
 tact    18260   22      *tag-
 tactile 14295   21      *tag-
-tactical        7313    19      *tag-
 contagious      11848   12      *tag-
-intangible      14351   11      *tag-
 contagion       19660   -1      *tag-
 
 
@@ -8771,7 +8813,6 @@ contagion       19660   -1      *tag-
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # TODO: *kar-
 # (34, '*ambhi-'),
-# (35, '*tag-'),
 # (38, '*me-'),
 # (39, '*ped-'),
 # (39, '*skel-'),

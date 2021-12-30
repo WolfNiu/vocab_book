@@ -12055,7 +12055,7 @@ twelve	3247	-1	*dwo-,	*leikw-
 nomination	3260	-1	*no-men-
 lung	3276	-1	*legwh-
 basket	3283	-1
-tactic	3316	-1
+tactic	3316	-1  *tag-
 identification	3317	-1
 piano	3327	-1	*pele-
 grocery	3328	-1
@@ -13634,7 +13634,7 @@ startled	10331	-1
 coordinated	10332	-1
 brutally	10333	-1
 approved	10334	-1	*per-
-contaminated	10335	-1
+contaminated	10335	-1  *tag-
 numerical	10336	-1	*nem-
 grassy	10337	-1
 winding	10338	-1
@@ -13876,7 +13876,7 @@ beaten	10603	-1	*bhau-
 moratorium	10604	-1
 sprig	10605	-1
 embryonic	10606	-1
-contaminant	10607	-1
+contaminant	10607	-1  *tag-
 resurgence	10608	-1	*reg-
 brilliantly	10609	-1
 convertible	10610	-1	*wer-

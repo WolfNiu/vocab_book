@@ -975,9 +975,11 @@ misc:
     - to evaluate, estimate, assess
   forms:
     - tang
+    - tam
     - tax
     - tact
-  exp: 要理解tax(510,54)，首先要明白*tag-的一个常用的引申义：to evaluate, estimate, assess。这些概念都是(用手)掂量的感觉，因此和touch, handle紧密相关。而tax需要对于资产的评估(assess)，然后抽走一定比例。之后tax变成了公民(或者臣民)的义务，于是task(1051,65)就继承了duty这层意思。所谓"任务"，就是一种duty。下面taste(2048,-1)也用的是evaluate, assess的这层意思——"尝试"嘛。而且"尝"这个动作本身也意味着舌头和食物的接触(touch)。contact = con(=con-:together) + tact(=*tag-)用的是*tag-最原始的意思，也就是touch，无需解释。integrate(3459,45) = in(=in-(1):not) + teg(=*tag-)，词根合起来表达了untouched的感觉——就因为没碰过，所以保持了完整性。其名词形式integration(3609,-1)也是常用词。integrity(3494,49) = in(=in-(1):not) + teg(=*tag-)也同样表达的是untouched的感觉，比如"领土完整"就是"territorial integrity"。entire(871,111) = en(=in-(1):not) + tire(=*tag-)虽说字母互换上更加不规律一点，但仍然用的是untouched的那层意思。最后touch(1170,311)这个词本身也和*tag-可互换，但是我在任何资料里都查不到二者的关系——只能当个巧记了。
+    - tain
+  exp: contact = con(=con-:together) + tact(=*tag-)用的是*tag-最原始的意思，也就是touch，无需解释。integrate(3459,45) = in(=in-(1):not) + teg(=*tag-)，词根合起来表达了untouched的感觉——就因为没碰过，所以保持了完整性。其名词形式integration(3609,-1)也是常用词。integrity(3494,49) = in(=in-(1):not) + teg(=*tag-)也同样表达的是untouched的感觉，比如"领土完整"就是"territorial integrity"。entire(871,111) = en(=in-(1):not) + tire(=*tag-)虽说字母互换上更加不规律一点，但仍然用的是untouched的那层意思。要理解tax(510,54)，首先要明白*tag-的一个常用的引申义：to evaluate, estimate, assess。这些概念都是(用手)掂量的感觉，因此和touch, handle紧密相关。而tax需要对于资产的评估(assess)，然后抽走一定比例。之后tax变成了公民(或者臣民)的义务，于是task(1051,65)就继承了duty这层意思。所谓"任务"，就是一种duty。下面taste(2048,-1)也用的是evaluate, assess的这层意思——"尝试"嘛。而且"尝"这个动作本身也意味着舌头和食物的接触(touch)。tactic(3316,-1) = tact(=*tag-)，所谓策略，就是审时度势后得出的计划，因此和evaluate, assess高度相关。最后touch(1170,311)这个词本身也和*tag-可互换，但是我在任何资料里都查不到二者的关系——只能当个巧记了。
   related:
     - taxable
     - taxation
@@ -990,3 +992,4 @@ misc:
     - tasteless
     - entirely
     - entirety
+    - tactical
