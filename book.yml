@@ -8750,6 +8750,22 @@
 
 
 
+attain  5390    73      *tag-
+  attainable      18444   68      *tag-
+  unattainable    19948   73      *tag-
+attainment      11076   47      *tag-
+contaminate     7531    31      *tag-
+intact  4679    24      *tag-
+contamination   6625    24      *tag-
+tangible        7300    22      *tag-
+tact    18260   22      *tag-
+tactile 14295   21      *tag-
+tactical        7313    19      *tag-
+contagious      11848   12      *tag-
+intangible      14351   11      *tag-
+contagion       19660   -1      *tag-
+
+
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"

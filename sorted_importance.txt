@@ -9354,7 +9354,7 @@ detractor	12811	5
 explanatory	12925	5
 forfeit	13038	5	*dhe-,	*dhwer-
 overcoat	13081	5
-entirety	13303	5
+entirety	13303	5   *tag-
 bigotry	13424	5
 trilogy	13467	5	*leg-
 diva	13500	5	*dyeu-
