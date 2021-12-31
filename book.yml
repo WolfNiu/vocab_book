@@ -8801,12 +8801,48 @@
     - contamination
     - contaminated
     - contaminant
-
-tact    18260   22      *tag-
-tactile 14295   21      *tag-
-contagious      11848   12      *tag-
-contagion       19660   -1      *tag-
-
+- word: contagious
+  freq: 11848
+  use: 12
+  pos: ADJECTIVE
+  meaning: A disease that is contagious can be caught by touching people or things
+    that are infected with it. Compare infectious.
+  sent: '...a highly contagious disease of the lungs.'
+  roots:
+    con: con- | with, together
+    tag: "*tag- | to touch, handle"
+  exp: 释义中自带touching，不解释。
+  connect:
+    touch:
+      - touching
+  related:
+    - contagion
+- word: tactile
+  freq: 14295
+  use: 21
+  pos: ADJECTIVE
+  meaning: If you describe someone as tactile, you mean that they tend to touch other people a lot when talking to them.
+  sent: The children are very tactile with warm, loving natures.
+  roots:
+    tact: "*tag- | to touch, handle"
+  exp: 释义中自带touch，不解释。
+  connect:
+    touch:
+      - touch
+- word: tact
+  freq: 18260
+  use: 22
+  pos: UNCOUNTABLE NOUN
+  meaning: Tact is the ability to avoid upsetting or offending people by being careful not to say or do things that would hurt their feelings.
+  sent: Her tact and intuition never failed.
+  roots:
+    tact: "*tag- | to touch, handle"
+  exp: 中文里有个词叫"触怒"，体现了touch和upset/offend之间的关系。所谓tact就是小心翼翼别碰着人家。
+  connect:
+    touch:
+      - upsetting
+      - offending
+      - hurt
 
 
 ## TODO: finish all "related" tabs in root.yml
