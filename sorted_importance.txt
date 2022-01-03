@@ -5018,7 +5018,7 @@ politeness	17542	39
 draconian	17613	39
 discerning	17734	39	*krei-
 anathema	17742	39	*dhe-
-allay	17871	39	*legh-,	*legwh-
+allay	17871	39	*legh-
 brainwash	18098	39
 constitutive	18267	39	*sta-
 sandbag	18364	39
@@ -10841,7 +10841,7 @@ rationalization	17086	0	*re-
 sounding	17090	0
 betting	17101	0
 alienated	17102	0
-leveraged	17111	0
+leveraged	17111	0   *legwh-
 aesthetically	17112	0
 functionality	17118	0
 landed	17119	0
@@ -14750,7 +14750,7 @@ radiator	13764	-1
 shipyard	13769	-1
 monoxide	13774	-1	*ak-
 repertory	13775	-1	*pere-
-skylight	13776	-1	*legwh-,	*leuk-
+skylight	13776	-1	*leuk-
 archival	13779	-1
 smuggling	13781	-1
 pre-war	13783	-1

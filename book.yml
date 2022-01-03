@@ -8843,7 +8843,88 @@
       - upsetting
       - offending
       - hurt
-
+- word: levy
+  freq: 13716
+  use: 74
+  pos: COUNTABLE NOUN
+  meaning: A levy is a sum of money that you have to pay, for example, as a tax to the government.
+  sent: '...an annual levy on all drivers.'
+  roots:
+    lev:
+      meaning: lev | lighten, raise, remove
+      roots:
+        lev: "*legwh- | not heavy, having little weight"
+  exp: 这个词造得超级有意思。英文里有个常用搭配是raise money(募集资金)，为什么"向上升"会和"抽税"的概念联系起来呢？各位可以想象在头顶上有个大的吸金漏斗，所有腰包里的钱都会升起来(raise)并被它吸进去。而被吸完的钱包当然也就not heavy, having little weight啦。
+  connect:
+    raise:
+      - pay
+      - tax
+- word: leverage
+  freq: 6593
+  use: 52
+  pos: UNCOUNTABLE NOUN
+  meaning: Leverage is the ability to influence situations or people so that you can control what happens.
+  sent: His position as mayor gives him leverage to get things done.
+  roots:
+    lever:
+      meaing: lever
+      roots:
+        "*legwh- | not heavy, having little weight"
+  exp: 要理解leverage，首先要理解lever(7625,17)。所谓杠杆，就是让被撬动的东西变轻(not heavy)的工具。而leverage也是这样一种能掌控全局，事半功倍的工具，对应释义中的"control what happens"。
+  connect:
+    lever:
+      - influence
+      - control
+  related:
+    - leveraged
+    - lever
+- word: alleviate
+  freq: 7662
+  use: 39
+  pos: TRANSITIVE VERB
+  meaning: If you alleviate pain, suffering, or an unpleasant condition, you make it less intense or severe.
+  sent: Nowadays, a great deal can be done to alleviate back pain.
+  roots:
+    ad: ad- | to
+    lev:
+      meaning: lev | lighten, raise, remove
+      roots:
+        lev: "*legwh- | not heavy, having little weight"
+  exp: 用的是*legwh-中lighten, remove的那层意思，对应释义中的less intense/severe。
+  connect:
+    lighten:
+      - less intense or severe
+- word: levee
+  freq: 10187
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A levee is a raised bank alongside a river.
+  sent: Water poured over a levee and flooded about 75 percent of Montegut.
+  roots:
+    lev:
+      meaning: lev | lighten, raise, remove
+      roots:
+        lev: "*legwh- | not heavy, having little weight"
+  exp: 用的是*legwh-中raise的那层意思，而释义中也确实自带raise。
+  connect:
+    raise:
+      - raised
+- word: carnival
+  freq: 12867
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A carnival is a traveling show which is held in a park or field and at which there are machines to ride on, entertainments, and games.
+  sent: a carnival atmosphere
+  roots:
+    carn:
+      meaning: car | flesh
+      roots:
+        car: "*sker-(1) | to cut"
+    (n)iv:
+      meaning: lev | lighten, raise, remove
+      roots:
+        lev: "*legwh- | not heavy, having little weight"
+  exp: 词根合起来就表示"to remove meat"，也就是把肉都吃光的感觉。因为古时候肉比较稀缺，所以用这种活动表示狂欢。
 
 ## TODO: finish all "related" tabs in root.yml
 ## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
@@ -8854,7 +8935,6 @@
 # (39, '*skel-'),
 # (39, '*wel-'),
 # (40, '*kad-'),
-# (41, '*gheu-'),
 # (41, '*re-'),
 # (42, '*ei-'),
 # (42, '*ye-'),

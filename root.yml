@@ -993,3 +993,17 @@ misc:
     - entirely
     - entirety
     - tactical
+"*legwh-":
+  meaning: not heavy, having little weight
+  senses:
+    - lighten, raise, remove
+  exp: light(465,445)其中一个意思是"轻的"，就源自*legwh-，字母互换上也还算工整。relieve(3799,71) = re(=re-:intensive prefix) + lieve(=*legwh-)，表达的感觉是alleviation of distress——人无压力轻飘飘嘛，所以和not heavy相关。其名词形式relief(1826,70)也是常用词。relevant = re(=re-:intensive prefix) + lev(=*legwh-) + ant(=-ant)和relieve用的是同样的感觉，最早表示"helpful"——能帮人减轻负担嘛，肯定还是挺helpful的。后来才发展出了to the purpose, applicable, pertinent to the matter at hand的感觉。这个词发展得比较绕其实。下一个lung(3276,-1)，因为吸的都是气儿，所以肯定是not heavy。最后一个elevator = e(=ex-:out) + lev(=*legwh-)，电梯把你往上举，你肯定就觉得自己not heavy了。
+  related:
+    - irrelevant
+    - elevate
+    - elevation
+    - lightly
+    - relevance
+    - lighter
+    - light-hearted
+    - reliever
