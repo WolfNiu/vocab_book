@@ -1007,3 +1007,13 @@ misc:
     - lighter
     - light-hearted
     - reliever
+"*kers-":
+  meaning: to run
+  forms:
+    - car
+  senses:
+    - to load a wagon or cart
+  exp: car(290,28)就不用说了，能跑(run)。carry(488,178) = car(=*kers-)，表达的是transport in a vehicle的感觉。charge(926,469)表示"冲击"的时候明显和run相关，但它为什么还能表示"收钱"呢？这时候charge用的是*kers-中"to load, burden, weigh down"的感觉。收钱嘛，就会给别人加重负担(burden)。course(419,205)表示"跑道"，自带一个"跑"字，不解释。不过大家更好奇的可能是"of course"为啥能表示"当然"。of course表达的感觉是"by consequence, in regular or natural order, of the ordinary course"，也就是说一件事，按照它既定的路线，肯定会发展成什么样，因此其引申义是"something to be expected"。career(741,90) = car(=*kers-)，其实就是前进的路线，和course用到的感觉差不多。current(653,127) = cur(=*kers-)，水流嘛，就是一直要前run的。至于它为什么还是表示"目前的"，就是因为"似水流年"嘛——时间的流逝总是和水流的概念挂钩的。其衍生词currency(3774,46)也可以从中文里找到线索。当我们提到"货币"的时候，经常会说"流通货币"，可见货币也是在流动的。更何况英文里也有cashflow一词，这就是我们常说的"现金流"。
+  related:
+    - currently
+    - recharge

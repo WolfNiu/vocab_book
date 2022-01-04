@@ -8926,8 +8926,51 @@
         lev: "*legwh- | not heavy, having little weight"
   exp: 词根合起来就表示"to remove meat"，也就是把肉都吃光的感觉。因为古时候肉比较稀缺，所以用这种活动表示狂欢。
 
+
+  occur   757     31      *kers-
+    occurrence      6310    29      *kers-
+  discourse       3282    41      *kers-
+  horse   1286    19      *ekwo-, *kers-
+  corridor        3507    21      *kers-
+  carrier 3298    0       *kers-
+  curriculum      2094    -1      *kers-
+
+discharge       6299    202     *kers-
+caricature      11029   75      *kers-
+concur  9367    61      *kers-
+carriage        6636    31      *kers-
+recurrence      11024   28      *kers-
+horsepower      12758   25      *ekwo-, *kers-
+recurring       9954    24      *kers-
+recurrent       11676   24      *kers-
+concurrent      12630   24      *kers-
+incursion       14472   24      *kers-
+cargo   4958    23      *kers-
+courier 13521   22      *kers-
+excursion       8447    20      *kers-
+intercourse     7867    16      *kers-
+chariot 16483   12      *kers-
+recourse        11631   9       *kers-
+surcharge       16536   9       *kers-
+concourse       20051   7       *kers-
+horseback       9531    0       *ekwo-, *kers-
+incur   8206    -1      *kers-
+carpenter       8212    -1      *kers-
+precursor       9902    -1      *kers-
+curricular      10487   -1      *kers-
+horseman        12720   -1      *ekwo-, *kers-
+recur   13421   -1      *kers-
+miscarriage     13449   -1      *kers-
+horseshoe       14464   -1      *ekwo-, *kers-
+corral  15370   -1      *kers-
+cursory 16261   -1      *kers-
+undercurrent    16849   -1      *kers-
+carousel        18004   -1      *kers-
+charger 19149   -1      *kers-
+workhorse       19576   -1      *ekwo-, *kers-
+
+
 ## TODO: finish all "related" tabs in root.yml
-## TODO: when some root is a word itself, we should adopt the format as in "unequivocal"
 # TODO: *kar-
 # (34, '*ambhi-'),
 # (38, '*me-'),
@@ -8965,7 +9008,6 @@
 # (53, '*pau-'),
 # (53, '*sem-'),
 # (55, '*ker-'),
-# (55, '*kers-'),
 # (55, '*kwo-'),
 # (55, '*plek-'),
 # (56, '*(s)pen-'),
