@@ -6620,7 +6620,7 @@ mash	12270	25	*meik-
 probing	12305	25
 whiff	12364	25
 suspense	12422	25	*(s)pen-
-horsepower	12758	25	*ekwo-,	*kers-
+horsepower	12758	25
 sneer	13095	25
 wasteful	13305	25	*eue-
 recognized	13366	25
@@ -7374,7 +7374,7 @@ either	559	19	*kwo-
 page	709	19	*pag-
 marriage	1014	19
 conversation	1168	19	*wer-
-horse	1286	19	*ekwo-,	*kers-
+horse	1286	19
 background	1409	19
 rely	1872	19	*leig-
 characterize	2907	19
@@ -10192,7 +10192,7 @@ advancing	9483	0
 burgeoning	9513	0
 academically	9527	0
 editing	9529	0
-horseback	9531	0	*ekwo-,	*kers-
+horseback	9531	0
 racially	9551	0
 socialization	9554	0	*sekw-
 crackdown	9562	0
@@ -14481,7 +14481,7 @@ unarmed	12704	-1	*ar-
 paradoxical	12706	-1	*dek-
 thyroid	12714	-1	*dhwer-
 runner-up	12717	-1	*rei-
-horseman	12720	-1	*ekwo-,	*kers-
+horseman	12720	-1
 snowflake	12723	-1	*plak-
 eighteenth-century	12724	-1
 pairing	12739	-1
@@ -14951,7 +14951,7 @@ mainline	14441	-1
 zebra	14442	-1
 coke	14455	-1
 three-hour	14456	-1
-horseshoe	14464	-1	*ekwo-,	*kers-
+horseshoe	14464	-1
 orthopedic	14465	-1	*pau-
 pager	14468	-1	*pag-
 scaffolding	14471	-1
@@ -17423,7 +17423,7 @@ breakaway	19565	-1	*bhreg-
 trucking	19566	-1
 Anglo-Saxon	19570	-1
 curd	19572	-1
-workhorse	19576	-1	*ekwo-,	*kers-
+workhorse	19576	-1
 gated	19578	-1
 epilepsy	19579	-1
 disembodied	19581	-1

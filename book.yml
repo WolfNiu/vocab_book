@@ -8925,25 +8925,62 @@
       roots:
         lev: "*legwh- | not heavy, having little weight"
   exp: 词根合起来就表示"to remove meat"，也就是把肉都吃光的感觉。因为古时候肉比较稀缺，所以用这种活动表示狂欢。
+- word: discharge
+  freq: 6299
+  use: 202
+  pos: TRANSITIVE VERB
+  meaning: When someone is discharged from a hospital, prison, or one of the armed services, they are officially allowed to leave, or told that they must leave.
+  sent: He has a broken nose but may be discharged today.
+  roots:
+    dis: dis- | do the opposite of
+    charge:
+      meaning: car | to load a wagon or cart
+      roots:
+        car: "*kers- | to run"
+  exp: 词根合起来表示unload，也就是把病人"卸下去"的感觉。
+  connect:
+    do the opposite of:
+      - leave
+    load:
+      - leave
+- word: caricature
+  freq: 11029
+  use: 75
+  pos: COUNTABLE NOUN
+  meaning: A caricature of someone is a drawing or description of them that exaggerates their appearance or behavior in a humorous or critical way.
+  sent: The poster showed a caricature of Hitler with a devil's horns and tail.
+  roots:
+    car:
+      meaning: car | to load a wagon or cart
+      roots:
+        car: "*kers- | to run"
+  exp: 这个词是从load发展出了overloading的意思(别问我那个多出的"over"是怎么来的)，再从overloading引申出exaggeration的感觉。
+  connect:
+    load:
+      - exaggerates
+- word: concur
+  freq: 9367
+  use: 61
+  pos: RECIPROCAL VERB
+  meaning: If one person concurs with another person, the two people agree. You can also say that two people concur.
+  sent: Local feeling does not necessarily concur with the press.
+  roots:
+    con: con- | together
+    cur: "*kers- | to run"
+  exp: 词根合起来就是"to run together"的意思。由此发展出to happen at the same time的感觉，进而引申为to agree in opinion。
+  connect:
+    together:
+      - agree
+    run:
+      - agree
+  related:
+    - concurrent
 
-
-  occur   757     31      *kers-
-    occurrence      6310    29      *kers-
-  discourse       3282    41      *kers-
-  horse   1286    19      *ekwo-, *kers-
-  corridor        3507    21      *kers-
-  carrier 3298    0       *kers-
-  curriculum      2094    -1      *kers-
-
-discharge       6299    202     *kers-
-caricature      11029   75      *kers-
-concur  9367    61      *kers-
 carriage        6636    31      *kers-
-recurrence      11024   28      *kers-
-horsepower      12758   25      *ekwo-, *kers-
 recurring       9954    24      *kers-
-recurrent       11676   24      *kers-
-concurrent      12630   24      *kers-
+  recurrence      11024   28      *kers-
+  recurrent       11676   24      *kers-
+  recur   13421   -1      *kers-
 incursion       14472   24      *kers-
 cargo   4958    23      *kers-
 courier 13521   22      *kers-
@@ -8953,21 +8990,15 @@ chariot 16483   12      *kers-
 recourse        11631   9       *kers-
 surcharge       16536   9       *kers-
 concourse       20051   7       *kers-
-horseback       9531    0       *ekwo-, *kers-
 incur   8206    -1      *kers-
 carpenter       8212    -1      *kers-
 precursor       9902    -1      *kers-
 curricular      10487   -1      *kers-
-horseman        12720   -1      *ekwo-, *kers-
-recur   13421   -1      *kers-
 miscarriage     13449   -1      *kers-
-horseshoe       14464   -1      *ekwo-, *kers-
 corral  15370   -1      *kers-
 cursory 16261   -1      *kers-
-undercurrent    16849   -1      *kers-
 carousel        18004   -1      *kers-
 charger 19149   -1      *kers-
-workhorse       19576   -1      *ekwo-, *kers-
 
 
 ## TODO: finish all "related" tabs in root.yml
