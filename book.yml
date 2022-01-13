@@ -8975,26 +8975,115 @@
       - agree
   related:
     - concurrent
+- word: excursion
+  freq: 8447
+  use: 20
+  pos: COUNTABLE NOUN
+  meaning: You can refer to a short trip as an excursion, especially if it is taken for pleasure or enjoyment.
+  sent: In Bermuda, Sam's father took him on an excursion to a coral barrier.
+  roots:
+    ex: ex- | out
+    curs: "*kers- | to run"
+  exp: 词根合起来就是run out的意思，没啥可解释的。
+  connect:
+    out:
+      - trip
+    run:
+      - trip
+- word: miscarriage
+  freq: 13449
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: If a pregnant woman has a miscarriage, her baby is born before it is properly formed, and it dies.
+  sent: No one had any idea she had had a miscarriage.
+  roots:
+    mis: mis-(1) | wrongly
+    car:
+      meaning: car | to load
+      roots:
+        car: "*kers- | to run"
+  exp: 怀孕就是把baby carry在肚子里。如果carry不成功，就成了miscarriage。
+  connect:
+    wrongly:
+      - dies
+- word: incur
+  freq: 8206
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you incur something unpleasant, it happens to you because of something you have done.
+  sent: The government had also incurred huge debts.
+  roots:
+    in: in- | upon
+    cur: "*kers- | to run"
+  exp: 词根合起来表达run into or against，之后引申出happen的意思。
+  connect:
+    upon:
+      - happens
+    run:
+      - happens
+  related:
+    - incursion
+- word: recurring
+  freq: 9954
+  use: 24
+  pos: ADJECTIVE
+  meaning: If something is recurring, it happens at regularly occurring intervals.
+  sent: More than 60 percent of recurring costs were attributable directly to materials, products, and services purchased from external suppliers.
+  roots:
+    re: re- | back, again
+    cur: "*kers- | to run"
+  exp: 词根合起来是to return, run back的感觉，所以才是happen again and again的意思。
+  connect:
+    run:
+      - happens
+    back, again:
+      - regularly occurring intervals
+  related:
+    - recurrence
+    - recurrent
+    - recur
+- word: cargo
+  freq: 4958
+  use: 23
+  pos: VARIABLE NOUN
+  meaning: The cargo of a ship or plane is the goods that it is carrying.
+  sent: The boat calls at the main port to load its regular cargo of bananas.
+  roots:
+    car:
+      meaning: car | to load a wagon or cart
+      roots:
+        car: "*kers- | to run"
+  exp: 词根中的load对应释义中的carry。
+  connect:
+    load:
+      - carrying
+- word: recourse
+  freq: 11631
+  use: 9
+  pos: UNCOUNTABLE NOUN
+  meaning: If you achieve something without recourse to a particular course of action, you succeed without carrying out that action. To have recourse to a particular course of action means to have to do that action in order to achieve something.
+  sent: It enabled its members to settle their differences without recourse to war.
+  roots:
+    re: re- | back, again
+    course: "*kers- | to run"
+  exp: 词根合起来是run back, return的意思，结合例句中"recourse to war"的用法，很容易理解recourse表达的感觉。
+- word: concourse
+  freq: 20051
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A concourse is a wide hall in a public building, for example a hotel, airport, or station.
+  sent: the domestic arrivals concourse
+  roots:
+    con: con- | together
+    cur: "*kers- | to run"
+  exp: 词根合起来是"run together"的感觉——确实，那么大的大厅就是为了让大家一起走的。concourse另一个意思是"a crowd or assembly of people"，比如"a vast concourse of learned men"，也和词根紧密相关。
 
-carriage        6636    31      *kers-
-recurring       9954    24      *kers-
-  recurrence      11024   28      *kers-
-  recurrent       11676   24      *kers-
-  recur   13421   -1      *kers-
-incursion       14472   24      *kers-
-cargo   4958    23      *kers-
 courier 13521   22      *kers-
-excursion       8447    20      *kers-
 intercourse     7867    16      *kers-
-chariot 16483   12      *kers-
-recourse        11631   9       *kers-
 surcharge       16536   9       *kers-
-concourse       20051   7       *kers-
-incur   8206    -1      *kers-
 carpenter       8212    -1      *kers-
 precursor       9902    -1      *kers-
 curricular      10487   -1      *kers-
-miscarriage     13449   -1      *kers-
 corral  15370   -1      *kers-
 cursory 16261   -1      *kers-
 carousel        18004   -1      *kers-
