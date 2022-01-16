@@ -12831,7 +12831,7 @@ cardiac	8186	-1	*kerd-
 computerized	8194	-1
 postmodern	8200	-1
 incur	8206	-1	*kers-
-carpenter	8212	-1	*kers-
+carpenter	8212	-1
 GDP	8221	-1
 biscuit	8222	-1	*dwo-,	*pekw-
 tortilla	8225	-1	*terkw-

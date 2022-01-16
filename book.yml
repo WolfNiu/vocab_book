@@ -9077,17 +9077,85 @@
     con: con- | together
     cur: "*kers- | to run"
   exp: 词根合起来是"run together"的感觉——确实，那么大的大厅就是为了让大家一起走的。concourse另一个意思是"a crowd or assembly of people"，比如"a vast concourse of learned men"，也和词根紧密相关。
+- word: courier
+  freq: 13521
+  use: 22
+  pos: COUNTABLE NOUN
+  meaning: A courier is a person who is paid to take letters and packages direct from one place to another.
+  sent: '...a motorcycle courier.'
+  roots:
+    cour: "*kers- | to run"
+  exp: 怎么送信？跑呗。
+  connect:
+    run:
+      - connect
+      - from one place to another
+- word: intercourse
+  freq: 7867
+  use: 16
+  pos: UNCOUNTABLE NOUN
+  meaning: Intercourse is the act of having sex.
+  sent: '...sexual intercourse.'
+  roots:
+    inter: inter- | between
+    course: "*kers- | to run"
+  exp: 词根合起来表示a running between，它的本意是"social communication between persons"，后来引申为啪啪啪了。这是Sheldon常用词之一，一定要会:)
+- word: surcharge
+  freq: 16536
+  use: 9
+  pos: COUNTABLE NOUN
+  meaning: A surcharge is an extra payment of money in addition to the usual payment for something. It is added for a specific reason, for example by a company because costs have risen or by a government as a tax.
+  sent: The government introduced a 15% surcharge on imports.
+  roots:
+    sur: sur-(1) | over
+    charge:
+      meaning: charge
+      roots:
+        charge: "*kers- | to run"
+  exp: 词根合起来表示overcharge，也就是charge too much expense。如果追溯到词根的话，overcharge其实也就是overload, overburden，而load确实也是*kers-的引申义之一。
+  connect:
+    over:
+      - extra
+      - in addition
+      - added
+    charge:
+      - payment
+      - money
+      - costs
+      - tax
+- word: precursor
+  freq: 9902
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A precursor of something is a similar thing that happened or existed before it, often something that led to the existence or development of that thing.
+  sent: He said that the deal should not be seen as a precursor to a merger.
+  roots:
+    pre: pre- | before
+    curs: "*kers- | to run"
+  exp: 词根合起来是forerunner的意思，没毛病。
+  connect:
+    before:
+      - before
+    run:
+      - happened
+      - existed
+- word: cursory
+  freq: 16261
+  use: -1
+  pos: ADJECTIVE
+  meaning: A cursory glance or examination is a brief one in which you do not pay much attention to detail.
+  sent: Burke cast a cursory glance at the menu, then flapped it shut.
+  roots:
+    curs: "*kers- | to run"
+  exp: 跑(run)的时候比较快，由此引申出了hasty的意思。
+  connect:
+    run:
+      - brief
+      - do not pay much attention or detail
 
-courier 13521   22      *kers-
-intercourse     7867    16      *kers-
-surcharge       16536   9       *kers-
-carpenter       8212    -1      *kers-
-precursor       9902    -1      *kers-
 curricular      10487   -1      *kers-
 corral  15370   -1      *kers-
-cursory 16261   -1      *kers-
 carousel        18004   -1      *kers-
-charger 19149   -1      *kers-
 
 
 ## TODO: finish all "related" tabs in root.yml
