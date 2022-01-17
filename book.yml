@@ -9152,11 +9152,18 @@
     run:
       - brief
       - do not pay much attention or detail
-
-curricular      10487   -1      *kers-
-corral  15370   -1      *kers-
-carousel        18004   -1      *kers-
-
+- word: corral
+  freq: 15370
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: To corral a person or animal means to capture or confine them.
+  sent: Within hours, police corralled the three men Lewis had named.
+  roots:
+    cor:
+      meaning: car | to load a wagon or cart
+      roots:
+        car: "*kers- | to run"
+  exp: 大概就是"装在车上拉走"的感觉，就像国内对待需要隔离的人一样。
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
