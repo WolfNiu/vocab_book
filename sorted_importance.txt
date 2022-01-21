@@ -818,7 +818,7 @@ weighty	14375	138	*wegh-
 multiplicity	14888	138	*mel-(1),	*pel-
 threadbare	20045	138	*tere-
 report	451	137	*per-
-easy	550	137
+easy	550	137 *ye-
 effective	1136	137	*dhe-
 circle	1515	137	*sker-
 crab	5163	137

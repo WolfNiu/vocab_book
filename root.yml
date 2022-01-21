@@ -1009,10 +1009,8 @@ misc:
     - reliever
 "*kers-":
   meaning: to run
-  forms:
-    - car
   senses:
-    - car | to load
+    car: to load
   exp: car(290,28)就不用说了，能跑(run)。carry(488,178) = car(=*kers-)，表达的是transport in a vehicle的感觉。charge(926,469)表示"冲击"的时候明显和run相关，但它为什么还能表示"收钱"呢？这时候charge用的是*kers-中"to load, burden, weigh down"的感觉。收钱嘛，就会给别人加重负担(burden)。course(419,205)表示"跑道"，自带一个"跑"字，不解释。不过大家更好奇的可能是"of course"为啥能表示"当然"。of course表达的感觉是"by consequence, in regular or natural order, of the ordinary course"，也就是说一件事，按照它既定的路线，肯定会发展成什么样，因此其引申义是"something to be expected"。career(741,90) = car(=*kers-)，其实就是前进的路线，和course用到的感觉差不多。curriculum(2094,-1)，本意是"a running, course, career"，也就是人生的既定通道，所以和run有关。current(653,127) = cur(=*kers-)，水流嘛，就是一直要前run的。至于它为什么还是表示"目前的"，就是因为"似水流年"嘛——时间的流逝总是和水流的概念挂钩的。其衍生词currency(3774,46)也可以从中文里找到线索。当我们提到"货币"的时候，经常会说"流通货币"，可见货币也是在流动的。更何况英文里也有cashflow一词，这就是我们常说的"现金流"。occur(757,31) = oc(=ob-:against,toward) + cur(=*kers-)，本意是表示"run to meet, run against"，后来引申出现在appear, happen的感觉。discourse = dis(dis-:apart) + course(=*kers-)，表达了"a running over a subject in speech"的感觉。corridor(3507,21)是可以过人的地方，所以和run相关。
   related:
     - currently
@@ -1023,3 +1021,24 @@ misc:
     - undercurrent
     - carriage
     - curricular
+"*ye-":
+  meaning: to throw
+  senses:
+    iac: to lie, rest
+  exp: project(1156,128) = pro(=pro-:forward) + ject(=*ye-)，如果单看它其中一个动词意思"突出"的话，会觉得很好理解。那它的最常用意思"项目"呢？这是因为project之前表示的是"plan"的感觉。而所谓plan，就是"cast forward in the mind"——在大脑中预想一下。object= ob(=ob-:in front of, towards, against) + ject(=*ye-)，词根合起来表示purpose, thing aimed at，后来才从"目的"的概念引申为"tangible thing"，进而成为了"物体"的统称。object的形容词形式objective(2427,-1)也是常用词。下一个超常用词easy(550,137) = e(=ad-:to) + (e)as(=iac)。这个词虽然叫easy，但要想明白它那是相当地不easy。首先它用的是*ye-的一个引申义：to lie, rest。我们在疲劳的时候，面对沙发和床唯一能做的就是自由落体——也就是把自己"扔"在床上。这里面的"扔"表达了一种身不由己的感觉，因此才发展出了to lie, rest的意思。而休息会让我们感到comfort, pleasure，这才是easy这个词意思的由来。ease(3257,252)也是同理。至于disease = dis(=dis-:without,away) + ease(=ease)，当我们没有comfort，只有discomfort的时候，当然就是患了disease啦。
+
+  jet     3170    157     *ye-
+  subject 670     113     *ye-
+  reject  2046    -1      *ye-
+  related:
+    - jetty
+    - objection
+    - objectivity
+    - rejection
+    - projection
+    - projector
+    - projectile
+    - projected
+    - diseased
+    - subjective
+    - subjectivity

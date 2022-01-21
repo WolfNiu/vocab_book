@@ -9165,6 +9165,25 @@
         car: "*kers- | to run"
   exp: 大概就是"装在车上拉走"的感觉，就像国内对待需要隔离的人一样。
 
+
+eject   11221   80      *ye-
+jut     11433   76      *ye-
+conjecture      15060   62      *ye-
+jettison        16717   61      *ye-
+adjacent        6752    42      *ye-
+interject       14979   31      *ye-
+gist    18471   31      *ye-
+inject  5672    30      *ye-
+  injection       5812    -1      *ye-
+objection       4789    46      *ye-
+  objectionable   15740   -1      *ye-
+abject  17227   15      *ye-
+trajectory      7885    14      *ye-
+adjective       10591   -1      *ad-,   *ye-
+catheter        16472   -1      *ye-
+joist   19892   -1      *ye-
+
+
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
@@ -9175,7 +9194,6 @@
 # (40, '*kad-'),
 # (41, '*re-'),
 # (42, '*ei-'),
-# (42, '*ye-'),
 # (43, '*dek-'),
 # (44, '*aiw-'),
 # (44, '*ant-'),
