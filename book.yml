@@ -9164,24 +9164,181 @@
       roots:
         car: "*kers- | to run"
   exp: 大概就是"装在车上拉走"的感觉，就像国内对待需要隔离的人一样。
+- word: eject
+  freq: 11221
+  use: 80
+  pos: TRANSITIVE VERB
+  meaning: If you eject someone from a place, you force them to leave.
+  sent: Officials used guard dogs to eject the protesters.
+  roots:
+    e: ex- | out
+    ject: "*ye- | to throw, impel"
+  exp: 词根合起来是throw out, cast out。况且impel也确实自带"强迫(force)"的感觉。
+  connect:
+    throw, impel:
+      - force
+      - leave
+- word: inject
+  freq: 5672
+  use: 30
+  pos: TRANSITIVE VERB
+  meaning: To inject a substance such as a medicine into someone means to put it into their body using a device with a needle called a syringe.
+  sent: He was injected with a sedative and discharged the same day.
+  roots:
+    in: in- | in
+    ject: "*ye- | to throw, impel"
+  exp: 词根合起来表示to throw in, insert, brining into。
+  connect:
+    in:
+      - into
+    throw, impel:
+      - put
+  related:
+    - injection
+- word: conjecture
+  freq: 15060
+  use: 62
+  pos: VARIABLE NOUN
+  meaning: A conjecture is a conclusion that is based on information that is not certain or complete.
+  sent: That was a conjecture, not a fact.
+  roots:
+    con: con- | together
+    ject: "*ye- | to throw, impel"
+  exp: 词根合起来表示to throw together，大概的意思就是把所有线索放在一起，得出结论。
+  connect:
+    together:
+      - conjecture
+    throw:
+      - conjecture
+- word: adjacent
+  freq: 6752
+  use: 42
+  pos: ADJECTIVE
+  meaning: If one thing is adjacent to another, the two things are next to each other.
+  sent: He sat in an adjacent room and waited.
+  roots:
+    ad: ad- | to
+    jac:
+      meaning: iac | to lie, rest
+      roots:
+        iac: "*ye- | to throw, impel"
+  exp: 词根合起来是lie near，也就是"放在一起"的感觉。
+- word: trajectory
+  freq: 7885
+  use: 14
+  pos: NOUN
+  meaning: The trajectory of a moving object is the path that it follows as it moves.
+  sent: '...the trajectory of an artillery shell.'
+  roots:
+    tra: trans- | to across, beyond
+    ject: "*ye- | to throw, impel"
+  exp: 词根合起来就是throw/shoot across的意思，不解释。
+  connect:
+    across:
+      - path
+    throw:
+      - moves
+- word: interject
+  freq: 14979
+  use: 31
+  meaning: If you interject, or interject something, you say it and interrupt someone else who is speaking.
+  sent: '"Surely there''s something we can do?" interjected Wahid.'
+  roots:
+    inter: inter- | between
+    ject: "*ye- | to throw, impel"
+  exp: 词根合起来是to throw between, set between的意思，对应释义中的interrupt。
+  connect:
+    between:
+      - interrupt
+    throw:
+      - interrupt
+- word: abject
+  freq: 17227
+  use: 15
+  pos: ADJECTIVE
+  meaning: You use abject to emphasize that a situation or quality is extremely bad.
+  sent: Both of them died in abject poverty.
+  roots:
+    ab: ab- | off, away from
+    ject: "*ye- | to throw, impel"
+  exp: 词根合起来意思再明显不过了，就是throw away，对应释义中的extremely bad——特别差劲的东西就扔了算了。
+  connect:
+    away:
+      - bad
+    throw:
+      - bad
+- word: gist
+  freq: 18471
+  use: 31
+  pos: SINGULAR NOUN
+  meaning: The gist of a speech, conversation, or piece of writing is its general meaning.
+  sent: He related the gist of his conversation to Sam.
+  roots:
+    gist:
+      meaning: iac | to lie, rest
+      roots:
+        iac: "*ye- | to throw, impel"
+  exp: 词根表示"it consists in, it lies in"，也就是潜藏(lie)的事物内部的东西，对应释义中的general meaning，也就是"核心意思"、"中心思想"的概念。
+- word: jut
+  freq: 11433
+  use: 76
+  pos: INTRANSITIVE VERB
+  meaning: If something juts out, it sticks out above or beyond a surface.
+  sent: The northern end of the island juts out like a long, thin finger into the sea.
+  roots:
+    jut: "*ye- | to throw, impel"
+  exp: 用的是*ye-中extend forward beyond the main body的感觉。
+  connect:
+    throw:
+      - sticks out
+- word: jettison
+  freq: 16717
+  use: 61
+  pos: TRANSITIVE VERB
+  meaning: If you jettison something, such as an idea or a plan, you deliberately reject it or decide not to use it.
+  sent: The governor seems to have jettisoned the plan.
+  roots:
+    jet: "*ye- | to throw, impel"
+  exp: 词根表达了"扔在一边"、"放弃"的感觉，对应释义中的reject。
+  connect:
+    throw:
+      - reject
+      - not to use
+- word: objection
+  freq: 4789
+  use: 46
+  pos: VARIABLE NOUN
+  meaning: If you express or raise an objection to something, you say that you do not like it or agree with it.
+  sent: Despite objections by the White House, the Senate voted today to cut off aid.
+  roots:
+    ob: ob- | in front of, towards, against
+    ject: "*ye- | to throw, impel"
+  exp: 词根合起来是throw against，表达"拒绝"的感觉。
+  connect:
+    against:
+      - do not like or agree
+    throw:
+      - do not like or agree
+  related:
+    - objectionable
+- word: adjective
+  freq: 10591
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An adjective is a word such as 'big,' 'dead,' or 'financial' that describes a person or thing, or gives extra information about them. Adjectives usually come before nouns or after linking verbs.
+  sent: an adjective phrase
+  roots:
+    ad: ad- | to
+    ject: "*ye- | to throw, impel"
+  exp: 用词根中的throw to表达"added"的感觉，也就是"that is added to (the noun)"。确实，adjectives就是用来修饰nouns的，因此是"added to the noun"。
+  connect:
+    to:
+      - describes
+      - gives extra information
+    throw:
+      - describes
+      - gives extra information
 
-
-eject   11221   80      *ye-
-jut     11433   76      *ye-
-conjecture      15060   62      *ye-
-jettison        16717   61      *ye-
-adjacent        6752    42      *ye-
-interject       14979   31      *ye-
-gist    18471   31      *ye-
-inject  5672    30      *ye-
-  injection       5812    -1      *ye-
-objection       4789    46      *ye-
-  objectionable   15740   -1      *ye-
-abject  17227   15      *ye-
-trajectory      7885    14      *ye-
-adjective       10591   -1      *ad-,   *ye-
-catheter        16472   -1      *ye-
-joist   19892   -1      *ye-
 
 
 ## TODO: finish all "related" tabs in root.yml
