@@ -3786,7 +3786,7 @@ soften	4925	52
 hood	5248	52
 continually	5582	52
 eternal	5700	52	*aiw-
-aftermath	5732	52	*me-
+aftermath	5732	52
 harmful	5891	52
 armor	5963	52	*ar-
 intriguing	5977	52
@@ -4843,7 +4843,7 @@ spiral	8184	40
 frank	8384	40
 faded	8590	40
 nestle	8890	40	*sed-
-three-dimensional	8971	40
+three-dimensional	8971	40  *me-
 fend	9216	40
 biased	11001	40	*sker-
 determinant	11307	40
@@ -6019,7 +6019,7 @@ incendiary	18088	30	*kand-
 lance	18234	30
 misdeed	18320	30	*dhe-
 ascension	18608	30
-one-dimensional	18703	30
+one-dimensional	18703	30  *me-
 idealist	18811	30	*weid-
 neophyte	19595	30	*bheue-
 deciding	19623	30
@@ -11108,7 +11108,7 @@ shamelessly	19606	0
 front-line	19610	0
 angled	19619	0
 divination	19621	0	*dyeu-
-dimensional	19630	0
+dimensional	19630	0   *me-
 mete	19646	0	*med-
 -turn	19661	0
 unconditionally	19670	0	*dhe-
@@ -14720,7 +14720,7 @@ one-man	13671	-1
 geneticist	13673	-1	*gene-
 fanfare	13674	-1
 father-in-law	13676	-1
-two-dimensional	13679	-1
+two-dimensional	13679	-1  *me-
 wiry	13683	-1
 chemically	13685	-1
 scuba	13686	-1
