@@ -1038,9 +1038,9 @@ misc:
     - diseased
     - subjective
     - subjectivity
-"*me-":
+"*me-(2)":
   meaning: to measure
-  exp: 这个词根涉及不少明显和measure相关的词，比如measure(943,192)本身，meter(3050,12)和math(3008,16)。这个词根引申出的一个重要概念是time——"计时"嘛，时间就是用来计量事件长短的。由此产生的词有month(237,-1)和moon(2471,-1)。推而广之，只要是可以数的其实都可以往measure这个概念上靠。比如dimension(2440,-1) = di(=dis-:to) + mens(=*me-)。空间维度也是可以往上数的：一维、二维、三维...最后一个略微难想的是meal(1722,26)，这个词的本意是"an appointed time for eating"，也就是定时定点吃饭，因此也和time的概念相关。
+  exp: 这个词根涉及不少明显和measure相关的词，比如measure(943,192)本身，meter(3050,12)和math(3008,16)。这个词根引申出的一个重要概念是time——"计时"嘛，时间就是用来计量事件长短的。由此产生的词有month(237,-1)和moon(2471,-1)。推而广之，只要是可以数的其实都可以往measure这个概念上靠。比如dimension(2440,-1) = di(=dis-:to) + mens(=*me-(2))。空间维度也是可以往上数的：一维、二维、三维...最后一个略微难想的是meal(1722,26)，这个词的本意是"an appointed time for eating"，也就是定时定点吃饭，因此也和time的概念相关。
   related:
     - measured
     - measurable
@@ -1051,3 +1051,6 @@ misc:
     - three-dimensional
     - dimensional
     - moonlit
+    - centimeter
+    - millimeter
+    - oatmeal

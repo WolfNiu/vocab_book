@@ -6475,7 +6475,7 @@ successor	5502	26  *ked-
 goose	5602	26
 daddy	5616	26
 undoubtedly	5618	26
-meadow	5652	26	*me-
+meadow	5652	26	*me-(4)
 crust	5737	26	*kreus-
 rebellion	6425	26
 evidently	6436	26	*weid-
@@ -13220,7 +13220,7 @@ plentiful	9816	-1	*pele-
 caretaker	9817	-1
 microscopic	9818	-1
 defining	9819	-1
-mower	9820	-1	*me-
+mower	9820	-1	*me-(4)
 lofty	9821	-1
 rusty	9822	-1	*reudh-
 staggering	9823	-1
@@ -13283,7 +13283,7 @@ thermometer	9884	-1	*me-
 savvy	9886	-1
 arousal	9887	-1	*ere-
 finite	9888	-1
-mow	9889	-1	*me-
+mow	9889	-1	*me-(4)
 disdain	9890	-1	*dek-
 cape	9891	-1	*kaput-
 unnatural	9892	-1	*gene-
@@ -14939,7 +14939,7 @@ high-energy	14398	-1
 earner	14400	-1
 visualization	14411	-1
 paternity	14413	-1
-menstrual	14416	-1	*me-
+menstrual	14416	-1	*me-(2)
 percussion	14417	-1	*per-
 rupture	14418	-1
 Scandinavian	14424	-1

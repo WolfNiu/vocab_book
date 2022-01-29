@@ -9338,30 +9338,124 @@
     throw:
       - describes
       - gives extra information
+- word: diameter
+  freq: 5323
+  use: -1
+  pos: NOUN
+  meaning: The diameter of a round object is the length of a straight line that can be drawn across it, passing through the middle of it.
+  sent: '...a tube less than a fifth of the diameter of a human hair.'
+  roots:
+    dia: dia- | across, through
+    meter: "*me-(2) | to measure"
+  exp: 词根合起来表达the length of a diameter, diagonal of a circle。
+  connect:
+    across, through:
+      - across
+      - through
+    measure:
+      - length
+- word: perimeter
+  freq: 6692
+  use: 44
+  pos: COUNTABLE NOUN
+  meaning: The perimeter of an area of land is the whole of its outer edge or boundary.
+  sent: '...the perimeter of the airport.'
+  roots:
+    peri: peri- | around, about
+    meter: "*me-(2) | to measure"
+  exp: 在四周量(measure)一圈儿(around)，表达"周长"的概念。
+  connect:
+    around, about:
+      - outer edge
+      - boundary
+    measure:
+      - area
+- word: immense
+  freq: 5721
+  use: 169
+  pos: ADJECTIVE
+  meaning: If you describe something as immense, you mean that it is extremely large or great.
+  sent: '...an immense cloud of smoke.'
+  roots:
+    im: in-(1) | not, opposite of
+    mense: "*me-(2) | to measure"
+  exp: 词根合起来表达了immeasurable, great beyond measure的感觉。
+  connect:
+    not, opposite of:
+      - extremely
+    measure:
+      - large
+      - great
+  related:
+    - immensely
+- word: menopause
+  freq: 10875
+  use: -1
+  pos: SINGULAR NOUN
+  meaning: Menopause is the time during which a woman gradually stops menstruating, usually when she is about fifty years old.
+  sent: '...alternative therapies to fight the symptoms of menopause.'
+  roots:
+    meno: "*me-(2) | to measure"
+    pause: pause
+  exp: measure能和"绝经"有什么关系呢？这是因为古人用moon as the measurer of time。而"月经"嘛，本身自带一个"月"字，一般来说每月一次。
+  connect:
+    measure:
+      - menstruating
+    pause:
+      - stops
+- word: menstrual
+  freq: 14416
+  use: -1
+  pos: ADJECTIVE
+  meaning: Menstrual means relating to menstruation.
+  sent: '...the menstrual cycle.'
+  roots:
+    mens:
+      meaning: mens | moon
+      roots:
+        mens: "*me-(2) | to measure"
+  exp: 每月一次，不解释。
+  connect:
+    moon:
+      - menstruation
+- word: commensurate
+  freq: 17387
+  use: 18
+  pos: ADJECTIVE
+  meaning: If the level of one thing is commensurate with another, the first level is in proportion to the second.
+  sent: Employees are paid salaries commensurate with those of teachers.
+  roots:
+    com: com- | together
+    mens: "*me-(2) | to measure"
+  exp: 词根合起来表达"having the same boundaries", "corresponding in amount, degree, or magnitude"的感觉，也就是"一个数/重量级"的。
+  connect:
+    together:
+      - in proportion to
+    measure:
+      - level
+- word: symmetry
+  freq: 10432
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: The quality of being made up of exactly similar parts facing each other or around an axis.
+  sent: '...the incredible beauty and symmetry of a snowflake.'
+  roots:
+    sym: syn- | together
+    metr: "*me-(2) | to measure"
+  exp: 这个词的释义没有采用Collins的，因为它给出的解释是"Something that has symmetry is symmetrical in shape, design, or structure."——用symmetrical(14165,36)来解释symmetry，真有一种"听君一席话，如听一席话"的感觉。
+  connect:
+    together:
+      - exactly similar
+  related:
+    - symmetrical
+    - asymmetry
+    - asymmetrical
 
-immense 5721    169     *me-
-perimeter       6692    44      *me-
-symmetrical     14165   36      *me-
 geometry        7991    29      *me-
-meadow  5652    26      *me-
-asymmetrical    16837   22      *me-
-commensurate    17387   18      *me-
-mesa    14839   6       *me-
-diameter        5323    -1      *me-
 parameter       5462    -1      *me-
 semester        5541    -1      *me-
-mower   9820    -1      *me-
 thermometer     9884    -1      *me-
-mow     9889    -1      *me-
-immensely       10282   -1      *me-
 metric  10417   -1      *me-
-symmetry        10432   -1      *me-
-menopause       10875   -1      *me-
-centimeter      11002   -1      *me-
-oatmeal 11228   -1      *me-,   *mele-
-millimeter      13013   -1      *me-
-menstrual       14416   -1      *me-
-asymmetry       15515   -1      *me-
 trimester       18781   -1      *me-
 
 
