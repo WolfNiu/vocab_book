@@ -9346,7 +9346,10 @@
   sent: '...a tube less than a fifth of the diameter of a human hair.'
   roots:
     dia: dia- | across, through
-    meter: "*me-(2) | to measure"
+    meter:
+      meaning: -meter | device or instrument for measuring
+      roots:
+        meter: "*me-(2) | to measure"
   exp: 词根合起来表达the length of a diameter, diagonal of a circle。
   connect:
     across, through:
@@ -9362,7 +9365,10 @@
   sent: '...the perimeter of the airport.'
   roots:
     peri: peri- | around, about
-    meter: "*me-(2) | to measure"
+    meter:
+      meaning: -meter | device or instrument for measuring
+      roots:
+        meter: "*me-(2) | to measure"
   exp: 在四周量(measure)一圈儿(around)，表达"周长"的概念。
   connect:
     around, about:
@@ -9441,7 +9447,10 @@
   sent: '...the incredible beauty and symmetry of a snowflake.'
   roots:
     sym: syn- | together
-    metr: "*me-(2) | to measure"
+    metry:
+      meaning: -metry | process of measuring
+      roots:
+        metr: "*me-(2) | to measure"
   exp: 这个词的释义没有采用Collins的，因为它给出的解释是"Something that has symmetry is symmetrical in shape, design, or structure."——用symmetrical(14165,36)来解释symmetry，真有一种"听君一席话，如听一席话"的感觉。
   connect:
     together:
@@ -9450,13 +9459,97 @@
     - symmetrical
     - asymmetry
     - asymmetrical
-
-geometry        7991    29      *me-
-parameter       5462    -1      *me-
-semester        5541    -1      *me-
-thermometer     9884    -1      *me-
-metric  10417   -1      *me-
-trimester       18781   -1      *me-
+- word: geometry
+  freq: 7991
+  use: 29
+  pos: UNCOUNTABLE NOUN
+  meaning: Geometry is the branch of mathematics concerned with the properties and relationships of lines, angles, curves, and shapes.
+  sent: '...the very ordered way in which mathematics and geometry describe nature.'
+  roots:
+    geo: geo- | earth
+    metry:
+      meaning: -metry | process of measuring
+      roots:
+        metr: "*me-(2) | to measure"
+  exp: 这个词本来表示measurement of earth or land，后来引申出"几何"的概念。
+  connect:
+    earth:
+      - lines
+      - angles
+      - curves
+      - shapes
+    measure:
+      - mathematics
+- word: thermometer
+  freq: 9884
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: an instrument for measuring temperatures, consisting of a graduated glass tube with a sealed, capillary bore in which mercury, colored alcohol, etc. rises or falls as it expands or contracts from changes in temperature
+  sent: Measure the temperature of the water with a digital thermometer.
+  roots:
+    thermo:
+      meaning: thermo- | hot, heat, temperature
+      roots:
+        therm: "*gwher- | to heat, warm"
+    meter:
+      meaning: -meter | device or instrument for measuring
+      roots:
+        meter: "*me-(2) | to measure"
+  exp: 释义中自带"masuring temperatures"， 不解释。
+  connect:
+    temperature:
+      - temperatures
+    measure:
+      - measuring
+- word: parameter
+  freq: 5462
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Parameters are factors or limits that affect the way something can be done or made.
+  sent: '...some of the parameters that determine the taste of a wine.'
+  roots:
+    para: para-(1) | beside, subsidiary
+    meter:
+      meaning: -meter | device or instrument for measuring
+      roots:
+        meter: "*me-(2) | to measure"
+  exp: 词根合起来表达"boundary, limit, characteristic factor"——一个事物的界限/边界即是其"特征"。
+  connect:
+    beside:
+      - factors
+      - limits
+- word: semester
+  freq: 5541
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: In colleges and universities in some countries, a semester is one of the two main periods into which the year is divided.
+  sent: '...February 22nd when most of their students begin their spring semester.'
+  roots:
+    se: sex | six
+    mester:
+      menaing: mens | month
+      roots:
+        mens: "*me-(2) | to measure"
+  exp: 一个semeter是six months。
+  connect:
+    six:
+      - periods
+      - year
+    month:
+      - periods
+      - year
+- word: metric
+  freq: 10417
+  use: -1
+  pos: ADJECTIVE
+  meaning: Metric means relating to the metric system.
+  sent: Around 180,000 metric tons of food aid is required.
+  roots:
+    metr: "*me-(2) | to meausre"
+  exp: metric system就是用来measure的。
+  connect:
+    measure:
+      - metric
 
 
 ## TODO: finish all "related" tabs in root.yml
