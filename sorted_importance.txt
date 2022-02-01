@@ -1066,7 +1066,7 @@ hitch	11491	121
 horrendous	12109	121
 stalwart	18243	121	*sta-,	*wer-
 star	539	120	*ster-
-outside	812	120	*oi-no-
+outside	812	120
 trial	901	120
 average	1306	120
 speed	1397	120
@@ -1220,7 +1220,7 @@ fill	687	112	*pele-
 general	806	112	*gene-
 expert	902	112	*per-
 peace	936	112	*pag-
-inside	967	112	*oi-no-
+inside	967	112
 dismiss	2826	112
 adequate	3326	112
 march	3511	112	*merg-
@@ -1916,7 +1916,7 @@ dictatorial	19257	87	*deik-
 dislocate	19705	87
 will	48	86
 home	225	86	*tkei-
-side	249	86	*oi-no-
+side	249	86
 add	341	86	*ad-,	*do-
 table	540	86
 imagine	912	86	*aim-
@@ -4279,7 +4279,7 @@ fable	12547	46	*bha-
 covet	12975	46
 agitated	13386	46	*ag-
 burly	13459	46
-sidestep	13470	46	*oi-no-
+sidestep	13470	46
 ordering	13866	46
 age-old	13868	46	*aiw-
 surmise	13942	46
@@ -4314,7 +4314,7 @@ contact	1489	45	*tag-
 repeat	1611	45	*pet-
 partnership	2935	45	*pere-
 exciting	2949	45	*keie-
-besides	3037	45	*oi-no-
+besides	3037	45
 incredible	3054	45	*kerd-
 operating	3235	45
 integrate	3459	45	*tag-
@@ -4860,7 +4860,7 @@ mayhem	12666	40
 transgression	12869	40	*ghredh-
 provocation	12974	40  *wekw-
 impasse	13075	40	*pete-
-one-sided	13151	40	*oi-no-
+one-sided	13151	40
 stardom	13447	40	*ster-
 writhe	13547	40	*wer-
 avant-garde	14164	40	*ant-,	*wer-
@@ -5925,7 +5925,7 @@ wolf	4192	30
 bonus	4213	30	*deu-
 anonymous	4363	30	*no-men-
 filter	4419	30	*pel-
-outsider	4495	30	*oi-no-
+outsider	4495	30
 confrontation	4508	30
 steer	4673	30	*sta-
 confession	4871	30	*bha-
@@ -6448,7 +6448,7 @@ expensive	1674	26	*(s)pen-
 thinking	1707	26
 meal	1722	26	*me-,	*mele-
 pepper	1937	26
-beside	1992	26	*oi-no-
+beside	1992	26
 quarterback	3335	26	*kwetwer-
 norm	3416	26
 seemingly	3576	26
@@ -7434,7 +7434,7 @@ tactical	7313	19	*tag-
 allegiance	7355	19	*‌‌lē-
 betrayal	7416	19	*do-
 luggage	7460	19
-sideways	7505	19	*oi-no-
+sideways	7505	19
 persistence	7612	19	*per-,	*sta-
 genocide	7698	19	*gene-,	*kae-id-
 patriotic	7772	19
@@ -8672,7 +8672,7 @@ literacy	5225	10
 pesticide	5295	10	*kae-id-
 compile	5358	10
 hut	5392	10	*(s)keu-
-insider	5405	10	*oi-no-
+insider	5405	10
 ethnicity	5500	10
 overhead	5599	10	*kaput-
 wool	5642	10
@@ -9469,7 +9469,7 @@ driver	1231	3
 village	1251	3	*weik-
 twice	1417	3	*dwo-
 fuel	1567	3
-aside	1892	3	*oi-no-
+aside	1892	3
 necessarily	1971	3	*ked-
 chef	3193	3	*kaput-
 artistic	3281	3	*ar-
@@ -10514,7 +10514,7 @@ idiosyncratic	13248	0
 jumping	13251	0
 named	13262	0
 elegantly	13269	0
-upside	13270	0	*oi-no-
+upside	13270	0
 weathered	13272	0
 biologically	13282	0
 layered	13290	0
@@ -12109,7 +12109,7 @@ respectively	3762	-1	*spek-
 astronomer	3779	-1	*nem-
 contractor	3781	-1
 disk	3798	-1	*deik-
-sidewalk	3806	-1	*oi-no-
+sidewalk	3806	-1
 Olympics	3807	-1
 technological	3808	-1	*teks-
 sodium	3821	-1
@@ -13032,7 +13032,7 @@ high-risk	9078	-1
 causal	9080	-1
 cross-country	9088	-1
 arbitration	9089	-1
-bedside	9093	-1	*oi-no-
+bedside	9093	-1
 excavation	9094	-1	*keue-
 salvage	9097	-1	*sol-
 surrogate	9104	-1	*reg-
@@ -14115,7 +14115,7 @@ generalized	11274	-1
 upwards	11275	-1
 marginalize	11277	-1	*merg-
 Nigerian	11284	-1
-sidebar	11285	-1	*oi-no-
+sidebar	11285	-1
 treasurer	11290	-1	*dhe-
 optimum	11297	-1
 treasury	11298	-1
@@ -14449,7 +14449,7 @@ week-long	12587	-1
 regularity	12589	-1	*reg-
 freestyle	12592	-1
 utilitarian	12603	-1
-seaside	12607	-1	*oi-no-
+seaside	12607	-1
 tulip	12608	-1
 anti-abortion	12611	-1
 UFO	12613	-1
@@ -14774,7 +14774,7 @@ chronological	13838	-1
 wastewater	13839	-1	*eue-
 hotline	13842	-1
 Parisian	13845	-1
-siding	13846	-1	*oi-no-
+siding	13846	-1
 miniseries	13849	-1
 landscaping	13850	-1
 cod	13851	-1
@@ -15952,7 +15952,7 @@ canteen	16194	-1
 montage	16195	-1	*men-
 epidemiologist	16196	-1
 strengthening	16197	-1
-lopsided	16198	-1	*oi-no-
+lopsided	16198	-1
 resolutely	16199	-1
 congenital	16200	-1	*gene-
 archetype	16201	-1
@@ -16734,7 +16734,7 @@ full-service	18153	-1
 meteorological	18154	-1	*wer-
 collarbone	18164	-1
 hazelnut	18165	-1
-wayside	18169	-1	*oi-no-
+wayside	18169	-1
 discriminant	18171	-1
 unicorn	18179	-1	*ker-,	*oi-no-
 supersonic	18185	-1	*swen-
@@ -16780,7 +16780,7 @@ Aryan	18289	-1
 respiration	18293	-1
 hemlock	18296	-1
 lacquer	18300	-1
-sidle	18309	-1	*oi-no-
+sidle	18309	-1
 cropland	18312	-1
 unexplored	18317	-1
 buttery	18322	-1	*gwou-,	*teue-
