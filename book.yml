@@ -9550,30 +9550,74 @@
   connect:
     measure:
       - metric
+- word: unite
+  freq: 4184
+  use: 89
+  pos: VERB
+  meaning: If a group of people or things unite or if something unites them, they join together and act as a group.
+  sent: We need to unite against terrorism.
+  roots:
+    un: "*oi-no- | one, unique"
+  exp: 联合成一个整体。
+  connect:
+    one, unique:
+      - join together
+      - a group
+  related:
+    - reunite
+- word: atonement
+  freq: 17499
+  use: -1
+  pos: NOUN
+  meaning: If you do something as an atonement for doing something wrong, you do it to show that you are sorry.
+  sent: He's living in a monastery in a gesture of atonement for human rights abuses committed under his leadership.
+  roots:
+    at: at
+    one:
+      meaning: one
+      roots:
+        one: "*oi-no- | one, unique"
+  exp: atone本身也是个动词，由at + one构成，表达"让事物完好如初，回归整体"的感觉，之后引申出make up (for errors or deficiencies)和make reparations的意思。
+- word: unanimous
+  freq: 9017
+  use: 29
+  pos: ADJECTIVE
+  meaning: When a group of people are unanimous, they all agree about something or all vote for the same thing.
+  sent: Editors were unanimous in their condemnation of the proposals.
+  roots:
+    un: "*oi-no- | one, unique"
+    anim: "*ane- | to breathe"
+  exp: 大家一个鼻孔出气。
+- word: 'null'
+  freq: 15641
+  use: -1
+  pos: ADJECTIVE
+  meaning: without legal force; not binding; invalid
+  sent: a null expression
+  roots:
+    n: ne- | not, no
+    ull: "*oi-no- | one, unique"
+  exp: 词根合起来是"not any, none"——也就是"一个都没有"的感觉。
+  connect:
+    not, no:
+      - without
+      - not
+      - invalid
+  related:
+    - nullify
 
-
-unite   4184    89      *oi-no-
 on      17      80      *oi-no-
 inch    8331    77      *oi-no-
-alpha   6823    54      *oi-no-
 anyway  1400    41      *oi-no-
 onslaught       11406   39      *oi-no-
 unison  9638    35      *oi-no-,        *swen-
-unanimous       9017    29      *ane-,  *oi-no-
 alphabet        9403    22      *oi-no-
 onward  12466   12      *oi-no-
 any     109     11      *oi-no-
 a       5       0       *oi-no-
 onto    929     0       *oi-no-
-eleventh        13843   0       *leikw-,        *oi-no-
-sidewalk        3806    -1      *oi-no-
-eleven  4319    -1      *leikw-,        *oi-no-
-reunion 6157    -1      *oi-no-
-reunite 8906    -1      *oi-no-
 unilateral      9603    -1      *oi-no-
 anyhow  10164   -1      *oi-no-
-null    15641   -1      *ne-,   *oi-no-
-atonement       17499   -1      *ad-,   *oi-no-
 unicorn 18179   -1      *ker-,  *oi-no-
 
 

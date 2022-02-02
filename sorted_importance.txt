@@ -2460,7 +2460,7 @@ peculiarity	17161	74
 decadent	17260	74
 surmount	17382	74	*men-
 standby	17401	74
-nullify	17772	74	*dhe-,	*ne-
+nullify	17772	74	*dhe-,	*ne-,   *oi-no-
 mishandle	19814	74	*man-
 impassive	20010	74
 war	350	73
@@ -3621,7 +3621,7 @@ embargo	6441	54	*gwere-
 freezing	6463	54
 thinker	6503	54
 spontaneous	6673	54
-alpha	6823	54	*oi-no-
+alpha	6823	54
 charitable	6875	54	*ka-
 insufficient	7235	54	*dhe-
 substantive	7266	54
