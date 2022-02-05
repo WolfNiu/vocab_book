@@ -2153,7 +2153,7 @@ loll	18264	81
 tiresome	18755	81
 wintry	20105	81
 incapacitate	20185	81	*kap-
-on	17	80	*oi-no-
+on	17	80
 red	598	80	*reudh-
 pressure	766	80	*per-
 attempt	1232	80
@@ -4979,7 +4979,7 @@ improbable	10951	39
 roadway	10958	39
 rouse	11213	39	*ere-
 cognition	11282	39	*gno-
-onslaught	11406	39	*oi-no-
+onslaught	11406	39
 allusion	11452	39
 thorn	11465	39	*ster-
 subdued	11494	39
@@ -8455,7 +8455,7 @@ rationalize	12249	12	*re-
 contracting	12273	12
 conceivably	12315	12
 sculpt	12357	12
-onward	12466	12	*oi-no-
+onward	12466	12
 citizenry	12531	12	*kei-
 cadence	12560	12	*kad-
 sailboat	12929	12	*bheid-
@@ -9658,7 +9658,7 @@ media	758	0   *medhyo-
 environmental	822	0
 ok	833	0
 Democrat	906	0
-onto	929	0	*oi-no-
+onto	929	0
 camera	952	0	*gembh-
 sexual	1009	0
 Mrs	1038	0
