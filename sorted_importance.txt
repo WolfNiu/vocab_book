@@ -7042,7 +7042,7 @@ commemorate	8869	22	*(s)mer-
 barracks	9023	22
 greatness	9071	22
 hone	9145	22
-alphabet	9403	22	*oi-no-
+alphabet	9403	22
 sponge	9508	22
 needless	9519	22
 ordinarily	9613	22
@@ -11150,7 +11150,7 @@ skinless	19942	0	*sek-
 fluttering	19945	0   *pleu-
 blow-up	19960	0
 engraved	19973	0
-revamped	19988	0
+revamped	19988	0   *ped-
 enforceable	19992	0	*bhergh-
 inscribed	19999	0
 whispered	20004	0
@@ -13982,7 +13982,7 @@ margarine	10755	-1
 pew	10757	-1	*ped-
 neural	10758	-1
 Austrian	10759	-1
-pedestal	10762	-1	*stel-
+pedestal	10762	-1	*stel-, *ped-
 cot	10765	-1
 nostalgic	10766	-1
 scroll	10770	-1

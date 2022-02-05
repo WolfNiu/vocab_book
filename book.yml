@@ -9662,12 +9662,70 @@
       - letters
       - words
       - language
+- word: revamp
+  freq: 13559
+  use: 91
+  pos: TRANSITIVE VERB
+  meaning: If someone revamps something, they make changes to it in order to try and improve it.
+  sent: All the country's political parties have accepted that it is time to revamp the system.
+  roots:
+    re: re- | again
+    vamp:
+      meaning: vamp (v.) | patch up, replace the upper front part of a shoe
+      roots:
+        vam:
+          meaning: avant | in front
+          roots:
+            av: ab- | from
+            ant: "*ant- | front, forehead"
+        p: "*ped- | foot"
+  exp: 这词的本意就是"修鞋"，之后引申为make changes, improve。
+  connect:
+    patch up:
+      - make changes
+      - improve
+  related:
+    - revamped
+
+
+pioneer 4521    92      *ped-
+impeccable      13267   92      *ped-
+pilot   1785    90      *ped-
+impair  7577    84      *ped-
+pedestrian      7713    81      *ped-
+impede  8975    76      *ped-
+fetch   6853    73      *ped-
+footing 9632    73      *ped-
+impeach 14220   67      *ped-
+impediment      10832   66      *ped-
+expedite        19774   43      *ped-
+foot    381     39      *ped-
+expedition      4705    34      *ped-
+pawn    12996   33      *ped-
+pessimism       13054   33      *ped-
+impairment      5846    28      *ped-
+pedigree        14923   28      *ped-
+afoot   18078   16      *ped-
+foothold        14582   14      *ped-
+vampire 7159    10      *ant-,  *ped-
+podium  8116    10      *ped-
+footstep        6097    6       *ped-
+impeachment     7732    0       *ped-
+pedal   7935    0       *ped-
+footage 5986    -1      *ped-
+pajamas 9170    -1      *ped-
+footnote        10365   -1      *ped-
+pew     10757   -1      *ped-
+tripod  11980   -1      *ped-
+far-fetched     15646   -1      *ped-
+octopus 17060   -1      *ped-
+polyp   19158   -1      *ped-,  *pele-
+autopilot       19457   -1      *ped-
 
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
-# (38, '*me-'),
 # (39, '*ped-'),
 # (39, '*skel-'),
 # (39, '*wel-'),
