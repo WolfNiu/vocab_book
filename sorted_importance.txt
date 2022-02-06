@@ -8688,7 +8688,7 @@ exert	6203	10	*ser-
 meditation	6294	10	*med-
 burial	6325	10	*bhergh-
 laborer	7051	10
-vampire	7159	10	*ant-,	*ped-
+vampire	7159	10
 informant	7220	10
 glue	7399	10
 shack	7420	10
@@ -13433,7 +13433,7 @@ hard-core	10104	-1
 revel	10105	-1
 humorous	10106	-1
 blackness	10107	-1	*bhel-
-impaired	10108	-1
+impaired	10108	-1  *ped-
 vista	10109	-1	*weid-
 melon	10110	-1
 lagoon	10112	-1

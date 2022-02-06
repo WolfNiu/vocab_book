@@ -9686,41 +9686,70 @@
       - improve
   related:
     - revamped
-
+- word: pedal
+  freq: 7935
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: The pedals on a bicycle are the two parts that you push with your feet in order to make the bicycle move.
+  sent: a brake pedal
+  roots:
+    ped: "*ped- | foot"
+  exp: pedal就是用脚(foot)踩的。
+  connect:
+    foot:
+      - feet
+- word: pajamas
+  freq: 9170
+  use: -1
+  pos: PLURAL NOUN
+  meaning: A pair of pajamas consists of loose pants and a top that people wear to bed.
+  sent: I don't want to get out of my pajamas in the morning.
+  roots:
+    pa: "*ped- | foot"
+    jamas: jamah | clothing, garment
+  exp: jamah不是常用词根，用不着记。词根合起来表示leg clothing，后来引申成"睡衣"的概念。
+  connect:
+    foot:
+      - pants
+    clothing, garment:
+      - pants
+      - wear
+- word: impair
+  freq: 7577
+  use: 84
+  pos: TRANSITIVE VERB
+  meaning: If something impairs something such as an ability or the way something works, it damages it or makes it worse.
+  sent: Consumption of alcohol impairs your ability to drive a car or operate machinery.
+  roots:
+    im: in- | into, in
+    pair: "*ped- | foot"
+  exp: 这词本来表达的是stumble，也就是"脚下拌蒜"的感觉。后来才引申出"make worse"的概念。
+  connect:
+    foot:
+      - mamages
+      - worse
+  related:
+    - impairment
+    - impared
 
 pioneer 4521    92      *ped-
 impeccable      13267   92      *ped-
-pilot   1785    90      *ped-
-impair  7577    84      *ped-
 pedestrian      7713    81      *ped-
 impede  8975    76      *ped-
 fetch   6853    73      *ped-
-footing 9632    73      *ped-
 impeach 14220   67      *ped-
 impediment      10832   66      *ped-
 expedite        19774   43      *ped-
-foot    381     39      *ped-
 expedition      4705    34      *ped-
 pawn    12996   33      *ped-
 pessimism       13054   33      *ped-
-impairment      5846    28      *ped-
 pedigree        14923   28      *ped-
-afoot   18078   16      *ped-
-foothold        14582   14      *ped-
-vampire 7159    10      *ant-,  *ped-
 podium  8116    10      *ped-
-footstep        6097    6       *ped-
 impeachment     7732    0       *ped-
-pedal   7935    0       *ped-
-footage 5986    -1      *ped-
-pajamas 9170    -1      *ped-
-footnote        10365   -1      *ped-
-pew     10757   -1      *ped-
 tripod  11980   -1      *ped-
 far-fetched     15646   -1      *ped-
 octopus 17060   -1      *ped-
 polyp   19158   -1      *ped-,  *pele-
-autopilot       19457   -1      *ped-
 
 
 ## TODO: finish all "related" tabs in root.yml

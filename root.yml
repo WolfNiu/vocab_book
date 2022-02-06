@@ -1071,3 +1071,14 @@ misc:
     - reunion
     - eleventh
     - anyhow
+"*ped-":
+  meaning: foot
+  exp: foot(381,39)这个词本身就从*ped-来，注意字母互换f=p, oo=e, t=d。pilot(1785,90) = pil(=*ped-)，由"foot"的概念引申为"移动方向"，之后再引申出"驾驶员"的意思。
+  related:
+    - footing
+    - afoot
+    - foothold
+    - footstep
+    - footage
+    - footnote
+    - autopilot
