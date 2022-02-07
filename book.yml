@@ -9731,21 +9731,85 @@
   related:
     - impairment
     - impared
+- word: pioneer
+  freq: 4521
+  use: 92
+  pos: COUNTABLE NOUN
+  meaning: Someone who is referred to as a pioneer in a particular area of activity is one of the first people to be involved in it and develop it.
+  sent: '...one of the leading pioneers of photojournalism.'
+  roots:
+    pion: "*ped-"
+  exp: 本意是foot-soldier，用来开疆拓土的。后来才引申出"先驱者"的概念。
+  related:
+    - pioneering
+- word: impeccable
+  freq: 13267
+  use: 92
+  pos: ADJECTIVE
+  meaning: If you describe something such as someone's behavior or appearance as impeccable, you are emphasizing that it is perfect and has no faults.
+  sent: She had impeccable taste in clothes.
+  roots:
+    im: in-(1) | not, opposite of
+    pec: "*ped- | foot"
+    able: -able | capable of
+  exp: 这词本来表达的是stumble，也就是"脚下拌蒜"的感觉，对应释义中的fault。而前缀in-(1)又给它加了一层否定。
+  connect:
+    not, opposite:
+      - no
+    foot:
+      - faults
+- word: impeach
+  freq: 14220
+  use: 67
+  pos: TRANSITIVE VERB
+  meaning: If a court or a group in authority impeaches a president or other senior official, it charges them with committing a crime that makes them unfit for office.
+  sent: '...an opposition move to impeach the president.'
+  roots:
+    im: in- | into, in
+    peach: "*ped- | foot"
+  exp: 词根合起来就是"给对方上脚镣(to shackle the feet)"——也就是to impede, hidner, prevent的感觉。
+  connect:
+    in:
+      - charges them with committing a crime
+    foot:
+      - charges them with committing a crime
+  related:
+    - impeachment
+- word: impede
+  freq: 8975
+  use: 76
+  pos: TRANSITIVE VERB
+  meaning: If you impede someone or something, you make their movement, development, or progress difficult.
+  sent: Debris and fallen rock are impeding the progress of the rescue workers.
+  roots:
+    im: in- | into, in
+    pede: "*ped- | foot"
+  exp: 词根合起来就是to shackle the feet的意思。和impeach(14220,67)表达的感觉类似。
+  connect:
+    in:
+      - difficult
+    foot:
+      - difficult
+  related:
+    - impediment
+- word: pessimism
+  freq: 13054
+  use: 33
+  pos: UNCOUNTABLE NOUN
+  meaning: Pessimism is the belief that bad things are going to happen.
+  sent: '...universal pessimism about the economy.'
+  roots:
+    pess: "*ped- | foot"
+  exp: 用的是*ped-中stumble, impair的那层意思，整个词表达worst condition possible。
 
-pioneer 4521    92      *ped-
-impeccable      13267   92      *ped-
+
 pedestrian      7713    81      *ped-
-impede  8975    76      *ped-
 fetch   6853    73      *ped-
-impeach 14220   67      *ped-
-impediment      10832   66      *ped-
-expedite        19774   43      *ped-
 expedition      4705    34      *ped-
+  expedite        19774   43      *ped-
 pawn    12996   33      *ped-
-pessimism       13054   33      *ped-
 pedigree        14923   28      *ped-
 podium  8116    10      *ped-
-impeachment     7732    0       *ped-
 tripod  11980   -1      *ped-
 far-fetched     15646   -1      *ped-
 octopus 17060   -1      *ped-

@@ -10214,7 +10214,7 @@ promotional	9782	0	*meue-
 containment	9786	0	*ten-
 prescribed	9936	0
 bearded	9938	0
-pioneering	9948	0
+pioneering	9948	0   *ped-
 furiously	9982	0
 gracefully	10724	0
 progressively	10732	0
