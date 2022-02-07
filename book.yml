@@ -9801,25 +9801,88 @@
   roots:
     pess: "*ped- | foot"
   exp: 用的是*ped-中stumble, impair的那层意思，整个词表达worst condition possible。
+- word: pedestrian
+  freq: 7713
+  use: 81
+  pos: COUNTABLE NOUN
+  meaning: A pedestrian is a person who is walking, especially in a town or city, rather than traveling in a vehicle.
+  sent: Ingrid was a walker, even in Los Angeles, where a pedestrian is a rare sight.
+  roots:
+    ped: "*ped- | foot"
+  exp: 词根表达的感觉就是"on foot"。
+  connect:
+    foot:
+      - walking
+- word: fetch
+  freq: 6853
+  use: 73
+  pos: TRANSITIVE VERB
+  meaning: If you fetch something or someone, you go and get them from the place where they are.
+  sent: Sylvia fetched a towel from the bathroom.
+  roots:
+    fetch: "*ped- | foot"
+  exp: 用脚(foot)走才能fetch嘛。注意字母互换f=p。
+  connect:
+    foot:
+      - go
+  related:
+    - far-fetched
+- word: pedigree
+  freq: 14923
+  use: 28
+  pos: COUNTABLE NOUN
+  meaning: If a dog, cat, or other animal has a pedigree, its ancestors are known and recorded. An animal is considered to have a good pedigree when all its known ancestors are of the same type.
+  sent: 60 percent of dogs and ten percent of cats have pedigrees.
+  roots:
+    ped: "*ped- | foot"
+    gree: gru | crane
+  exp: 这个词造得很有意思，词根合起来是foot of a crane，也就是"鹤之足迹"，以此来表达genealogical table or chart的涵义。先祖走出的一个个脚印象征着我们的pedigree。注意gru这个词根无比不常用，因此直接用crane(8561,34)记就好。
+- word: pawn
+  freq: 12996
+  use: 33
+  pos: TRANSITIVE VERB
+  meaning: If you say that someone is using you as a pawn, you mean that they are using you for their own advantage.
+  sent: It looks as though he is being used as a political pawn by the president.
+  roots:
+    pawn: "*ped- | foot"
+  exp: 词根表示foot soldier，后来引申为国际象棋里的兵。兵这个东西嘛，在国际象棋和中国象棋里一般来说都没有那些大子重要，因此经常被舍弃——"弃卒"就是这么来的。
+- word: expedition
+  freq: 4705
+  use: 34
+  pos: COUNTABLE NOUN
+  meaning: An expedition is an organized trip made for a particular purpose such as exploration.
+  sent: '...Byrd''s 1928 expedition to Antarctica.'
+  roots:
+    ex: ex- | out
+    ped: "*ped- | foot"
+  exp: 词根合起来表达了"free the feet from fetters"，也就是将脚从枷锁中抽出的感觉。抽出完了干啥去呢？探险去呗。
+  connect:
+    out:
+      - trip
+      - exploration
+    foot:
+      - trip
+      - exploration
+  related:
+    - expedite
+- word: podium
+  freq: 8116
+  use: 10
+  pos: COUNTABLE NOUN
+  meaning: A podium is a small platform on which someone stands in order to give a lecture or conduct an orchestra.
+  sent: Unsteadily he mounted the podium, adjusted the microphone, coughed, and went completely blank.
+  roots:
+    pod: "*ped- | foot"
+  exp: 这podium嘛，本质上就是个raised platform，作用就是供人站立，因此和foot相关。
+  connect:
+    foot:
+      - stands
 
-
-pedestrian      7713    81      *ped-
-fetch   6853    73      *ped-
-expedition      4705    34      *ped-
-  expedite        19774   43      *ped-
-pawn    12996   33      *ped-
-pedigree        14923   28      *ped-
-podium  8116    10      *ped-
-tripod  11980   -1      *ped-
-far-fetched     15646   -1      *ped-
-octopus 17060   -1      *ped-
-polyp   19158   -1      *ped-,  *pele-
 
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
-# (39, '*ped-'),
 # (39, '*skel-'),
 # (39, '*wel-'),
 # (40, '*kad-'),
