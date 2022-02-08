@@ -6105,7 +6105,7 @@ combatant	11062	29
 budding	11934	29
 undeniable	12328	29	*ne-
 concussion	12523	29
-casing	12633	29	*kad-,	*kap-
+casing	12633	29	*kap-
 tantrum	12895	29
 sheath	12995	29	*skei-
 redundant	13368	29	*wed-
@@ -6398,7 +6398,7 @@ inundate	13417	27	*wed-
 mounting	13488	27
 failing	13554	27
 uncontrollable	13568	27
-encase	13622	27	*kad-,	*kap-
+encase	13622	27	*kap-
 deduce	13706	27	*deuk-
 veneer	13836	27	*per-
 artistry	14137	27	*ar-
@@ -7412,7 +7412,7 @@ notably	5334	19
 humanitarian	5339	19	*dhghem-
 systematic	5476	19	*sta-
 wallet	5661	19	*wel-
-suitcase	5685	19	*kad-,	*kap-
+suitcase	5685	19	*kap-
 nursery	5711	19	*sna-
 intimacy	5749	19
 additionally	6039	19
@@ -12684,7 +12684,7 @@ condo	7414	-1  *dem-
 focal	7417	-1
 baggage	7418	-1
 traumatic	7423	-1	*tere-
-showcase	7426	-1	*kad-,	*kap-
+showcase	7426	-1	*kap-
 renewable	7437	-1
 torso	7442	-1
 Pakistani	7446	-1
@@ -12873,7 +12873,7 @@ socket	8356	-1	*sē-
 cycling	8359	-1
 start-up	8367	-1	*ster-
 subdivision	8368	-1
-cassette	8370	-1	*kad-,	*kap-
+cassette	8370	-1	*kap-
 colon	8372	-1
 algorithm	8376	-1
 Dominican	8377	-1	*dem-

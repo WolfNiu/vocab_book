@@ -9877,7 +9877,35 @@
   connect:
     foot:
       - stands
+- word: deciduous
+  freq: 19871
+  use: 32
+  pos: ADJECTIVE
+  meaning: A deciduous tree or bush is one that loses its leaves in the fall every year.
+  roots:
+    de: de- | down
+    cid: "*kad- | to fall"
+  exp: 一个长得像decide(457,167)但和它没太大关系的词(连词根都不是一个)。词根合起来表达to fall off, fall down的意思。另外普及一个小知识：为啥秋天在英文里叫fall(411,321)呢？因为树叶都在落呀。
+  connect:
+    down:
+      - loses
+    fall:
+      - loses
 
+decay   8081    118     *kad-
+cheat   4415    108     *kad-
+  cheating        20002   45      *kad-
+  cheater 18907   -1      *kad-
+coincide        6760    76      *kad-
+  coincidence     5895    3       *kad-
+  coincidental    19070   -1      *kad-
+  coincidentally  13935   13      *kad-
+decadence       18727   68      *kad-
+casualty        4272    51      *kad-
+cadence 12560   12      *kad-
+cadaver 17338   8       *kad-
+cascade 11923   5       *kad-
+chute   10890   -1      *kad-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -9935,7 +9963,6 @@
 # (70, '*pel-'),
 # (74, '*man-'),
 # (79, '*leg-'),
-# (79, '*oi-no-'),
 # (83, '*bha-'),
 # (83, '*sekw-'),
 # (87, '*bher-'),

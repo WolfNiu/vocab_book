@@ -1082,3 +1082,12 @@ misc:
     - footage
     - footnote
     - autopilot
+"*kad-":
+  meaning: to fall
+  exp: 首先是超常用词case(186,168)，它表达的是to fall的引申义——an event, happening。你在大街上走着走着，天上掉下来一坨鸟粪，这就是event；牛顿往树底下一坐，被榴莲砸了，这也是event。理解了这个引申义，就更容易明白chance(614,148)想要表达的那种accident, fortune, luck(天上掉馅儿饼)的感觉。这样连带着accident = ac(=ad-:to) + cid(=*kad-) + ent(=-ent)，incident = in(=in-:on) + cid(=*kad-)，和occasion(2282,-1) = oc(=ob-:down,away) + cas(=*kad-) + ion(=-ion)就都好理解了。从occasion还发展出两个常用的衍生词，分别是occasional(3542,63)和occasionally(2507,-1)。从case还发展出一个casual，也用的是accident, event的这层意思。
+  related:
+    - incidentally
+    - accidental
+    - accidentally
+    - incidental
+    - incidence
