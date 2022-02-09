@@ -9891,18 +9891,73 @@
       - loses
     fall:
       - loses
+- word: decay
+  freq: 8081
+  use: 118
+  pos: INTRANSITIVE VERB
+  meaning: When something such as a dead body, a dead plant, or a tooth decays, it is gradually destroyed by a natural process.
+  sent: The bodies buried in the fine ash slowly decayed.
+  roots:
+    de: de- | off
+    cay: "*kad- | to fall"
+  exp: 词根合起来是to fall off的意思，对应释义中的destroy。
+  connect:
+    off:
+      - destroyed
+    fall:
+      - destroyed
+  related:
+    - decaying
+- word: cheat
+  freq: 4415
+  use: 108
+  pos: INTRANSITIVE VERB
+  meaning: When someone cheats, they do not obey a set of rules which they should be obeying, for example in a game or exam.
+  sent: Students may be tempted to cheat in order to get into top schools.
+  roots:
+    cheat: "*kad- | to fall"
+  exp: 这个词好记但是难讲，不是对词根抱有极大热情的可以跳过。cheat从一个不常用的词escheat = es(=ex-:out) + cheat(=*kad-)发展出来。这个词表示"政府没收找不到继承人的财产"。后来由于这里面猫腻太多，才有了今天cheat的意思。这么复杂的历史我们看一遍还可以图个乐儿，但记下来就有点不值得了，因此这里提供一个巧记的方法。fall本身就有"被骗"的意思，比如He didn't expect Duncan to fall for a cheap trick like that. 因此fall和cheat高度相关，证毕。
+  related:
+    - cheating
+    - cheater
+- word: coincide
+  freq: 6760
+  use: 76
+  pos: RECIPROCAL VERB
+  meaning: If one event coincides with another, they happen at the same time.
+  sent: The exhibition coincides with the 50th anniversary of his death.
+  roots:
+    co: com- | with, togehter
+    incide:
+      meaning: incid | to fall upon
+      roots:
+        in- | upon
+        cide: "*kad- | to fall"
+  exp: 词根合起来就是"to fall upon together"的意思，对应释义中的happen at the same time。
+  connect:
+    together:
+      - at the same time
+    fall upon:
+      - happen
+  related:
+    - coincidence
+    - coincidental
+    - coincidentally
+- word: cadence
+  freq: 12560
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: The cadence of someone's voice is the way their voice gets higher and lower as they speak.
+  sent: He recognized the Polish cadences in her voice.
+  roots:
+    cad: "*kad- | to fall"
+  exp: 这个fall能和语音语调有啥关系呢？这里的fall表示the rising and falling in modulation of tones in reciting，也就是声音的抑扬顿挫。
+  connect:
+    fall:
+      - higher and lower
 
-decay   8081    118     *kad-
-cheat   4415    108     *kad-
-  cheating        20002   45      *kad-
-  cheater 18907   -1      *kad-
-coincide        6760    76      *kad-
-  coincidence     5895    3       *kad-
-  coincidental    19070   -1      *kad-
-  coincidentally  13935   13      *kad-
-decadence       18727   68      *kad-
+
 casualty        4272    51      *kad-
-cadence 12560   12      *kad-
 cadaver 17338   8       *kad-
 cascade 11923   5       *kad-
 chute   10890   -1      *kad-
