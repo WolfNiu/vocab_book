@@ -9955,12 +9955,60 @@
   connect:
     fall:
       - higher and lower
+- word: cadaver
+  freq: 17338
+  use: 8
+  pos: COUNTABLE NOUN
+  meaning: A cadaver is a dead body.
+  sent: Cadavers are used to teach med students surgical skills and anatomy.
+  roots:
+    cad: "*kad- | to fall"
+  exp: 倒下(fall)，变成dead body。
+  connect:
+    fall:
+      - dead
+- word: cascade
+  freq: 11923
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: If you refer to a cascade of something, you mean that there is a large amount of it.
+  sent: The women have lustrous cascades of black hair.
+  roots:
+    cas: "*kad- | to fall"
+  exp: 这词本来就是用来表达waterfall的。既然是瀑布，肯定是有大量(a large amount)的水。
+  connect:
+    fall:
+      - large amount
+- word: chute
+  freq: 10890
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A chute is a steep, narrow slope down which people or things can slide.
+  sent: Passengers escaped from the plane's front exits by sliding down emergency chutes.
+  roots:
+    chute: "*kad- | to fall"
+  exp: chute就是用来slide down的，因此和fall要关。
+  connect:
+    fall:
+      - down
+      - slide
+- word: parachute
+  freq: 9898
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A parachute is a device that enables a person to jump from an aircraft and float safely to the ground. It consists of a large piece of thin cloth attached to your body by strings.
+  sent: They fell 41,000 ft. before opening their parachutes.
+  roots:
+    para: para- | defense against
+    chute: "*kad- | to fall"
+  exp: 词根合起来表示that which protects against a fall。
+  connect:
+    defense against:
+      - safely
+    fall:
+      - jump
+      - float
 
-
-casualty        4272    51      *kad-
-cadaver 17338   8       *kad-
-cascade 11923   5       *kad-
-chute   10890   -1      *kad-
 
 
 ## TODO: finish all "related" tabs in root.yml

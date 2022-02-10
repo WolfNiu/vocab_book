@@ -9956,7 +9956,7 @@ strangely	6886	0
 translator	6888	0
 preside	6892	0	*sed-
 catalogue	6899	0	*leg-
-casually	6904	0
+casually	6904	0   *kad-
 battered	6929	0   *bhau-
 buying	6931	0
 viewing	6941	0	*weid-
@@ -13289,7 +13289,7 @@ cape	9891	-1	*kaput-
 unnatural	9892	-1	*gene-
 trafficking	9895	-1
 impart	9896	-1	*pere-
-parachute	9898	-1	*pere-
+parachute	9898	-1	*pere-, *kad-
 vibrate	9899	-1	*weip-
 comer	9900	-1	*gwa-
 poignant	9901	-1	*peuk-
