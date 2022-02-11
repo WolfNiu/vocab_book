@@ -77,31 +77,6 @@
         in: in-(1)
         credible: credible
     - credibility
-- word: courage
-  freq: 3355
-  use: 35
-  pos: UNCOUNTABLE NOUN
-  meaning: Courage is the quality shown by someone who decides to do something difficult
-    or dangerous, even though they may be afraid.
-  sent: General Lewis Mackenzie has impressed everyone with his authority and personal
-    courage.
-  roots:
-    cour: '*kerd-'
-    age: -age
-  exp: 勇气由心生
-  related:
-    - encourage:
-      roots:
-        en: en-(1)
-        courage: courage
-      exp: 注入勇气即为鼓励。
-      related:
-        - encouraging
-        - encouragement
-    - discourage:
-      related:
-        - discouraging
-    - courageous
 - word: anatomy
   freq: 8308
   use: 28
@@ -10010,6 +9985,22 @@
       - float
 
 
+discredit       9165    160     *kerd-
+accredit        17146   131     *kerd-
+  accreditation   10474   -1      *kerd-
+  accredited      18225   0       *kerd-
+cordial 14954   96      *kerd-
+incredulous     14623   83      *kerd-
+discourage      4254    67      *kerd-
+discord 15267   67      *kerd-
+credence        14855   36      *kerd-
+creed   12367   21      *kerd-
+credo   18664   21      *kerd-
+discouraging    15291   0       *kerd-
+credential      6253    -1      *kerd-
+cardiac 8186    -1      *kerd-
+quarry  10007   -1      *kerd-, *kwetwer-
+
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
@@ -10023,7 +10014,6 @@
 # (44, '*aiw-'),
 # (44, '*ant-'),
 # (44, '*legwh-'),
-# (45, '*kerd-'),
 # (45, '*ne-'),
 # (45, '*ster-'),
 # (45, '*weik-'),

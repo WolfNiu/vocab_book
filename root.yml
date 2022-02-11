@@ -1093,3 +1093,22 @@ misc:
     - incidence
     - casually
     - casualty
+"*kerd-":
+  meaning: heart
+  exp: heart分为具象概念和抽象概念。具象概念用的就是heart的本意，比如heart(461,131)。抽象概念就比较多了，比如credit(1128,149) = cred(=*kerd-)，看来造词的人认为belief, faith, trust都是由心生的(当然今天我们都知道这些归脑子管)。继承同样的概念的还有incredible = in(=in-(1):not) + cred(=*kerd-) + ible(=-able:capable of)和grant(1921,123)，注意后者的字母互换g=k。courage(3355,35) = cour(=*kerd-) + age(=-age)，看来勇气也由心生。encourage(1188,172) = en(=en-(1):make, put in) + courage，因此"注入勇气即为鼓励"。最神奇的是古人认为记忆也归heart管，比如record = re(=re-:again) + cord(=*kerd-)就表达了"learn by heart"的感觉。core(1968,125)则用的是heart"中心"、"核心"的那层意思，你看，我们中文里这两个词也是自带"心"字的。最后according(479,0) = ac(=ad-:to) + cord(=*kerd-) + ing(=-ing)。accord(6159,171)这个词表达的是agreement的概念，也就是"be of one heart, bring heart to heart"的感觉，于是according也表示agreeing。
+  related:
+    - sweetheart
+    - heartily
+    - heartless
+    - courageous
+    - accord
+    - accordance
+    - hearty
+    - accordingly
+    - recorder
+    - creditor
+    - heartland
+    - credit-card
+    - accordion
+    - credible
+    - encouragement
