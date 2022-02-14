@@ -13346,7 +13346,7 @@ vigor	10003	-1	*weg-
 scarcity	10004	-1	*kerp-
 darkened	10005	-1
 stiffen	10006	-1
-quarry	10007	-1	*kerd-,	*kwetwer-
+quarry	10007	-1	*kwetwer-
 pediatrician	10008	-1
 uninsured	10009	-1
 incompetent	10010	-1	*pet-

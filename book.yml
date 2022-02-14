@@ -9983,23 +9983,196 @@
     fall:
       - jump
       - float
+- word: cordial
+  freq: 14954
+  use: 96
+  pos: ADJECTIVE
+  meaning: Cordial means friendly.
+  sent: He had never known him to be so chatty and cordial.
+  roots:
+    cord: "*kerd- | heart"
+  exp: 词根表达了"走心"的感觉。
+  connect:
+    heart:
+      - friendly
+- word: credence
+  freq: 14855
+  use: 36
+  pos: UNCOUNTABLE NOUN
+  meaning: If something lends or gives credence to a theory or story, it makes it easier to believe.
+  sent: Good studies are needed to lend credence to the notion that genuine progress can be made in this important field.
+  roots:
+    cred:
+      meaning: cred | to believe, trust
+      roots:
+        "*kerd- | heart"
+  exp: 用的是*kerd-中belief, trust的那层意思。
+  connect:
+    heart:
+      - believe
+- word: discredit
+  freq: 9165
+  use: 160
+  pos: TRANSITIVE VERB
+  meaning: To discredit someone or something means to cause them to lose people's respect or trust.
+  sent: '...a secret unit within the company that had been set up to discredit its major rival.'
+  roots:
+    dis: dis- | opposite of
+    credit:
+      meaning: credit
+      roots:
+        cred:
+          meaning: cred | to believe, trust
+          roots:
+            "*kerd- | heart"
+  exp: 用的是*kerd-中belief, faith, trust的那层意思。
+  connect:
+    opposite of:
+      - lose
+    credit:
+      - respect
+      - trust
+- word: accredit
+  freq: 17146
+  use: 131
+  meaning: If an educational qualification or institution is accredited, it is officially declared to be of an approved standard.
+  sent: This degree program is fully accredited by the Institution of Electrical Engineers.
+  roots:
+    ac: ad- | to
+    credit:
+      meaning: credit
+      roots:
+        cred:
+          meaning: cred | to believe, trust
+          roots:
+            "*kerd- | heart"
+  exp: 用的是*kerd-中belief, faith, trust的那层意思。
+  connect:
+    credit:
+      - approved
+  related:
+    - accredited
+    - accreditation
+- word: incredulous
+  freq: 14623
+  use: 83
+  pos: ADJECTIVE
+  meaning: If someone is incredulous, they are unable to believe something because it is very surprising or shocking.
+  sent: '"He made you do it?" Her voice was incredulous.'
+  roots:
+    in: in-(1) | not
+    cred:
+      meaning: cred | to believe, trust
+      roots:
+        "*kerd- | heart"
+  exp: 用的是*kerd-中belief, faith, trust的那层意思。
+  connect:
+    not:
+      - unable
+    believe, trust:
+      - believe
+- word: discourage
+  freq: 4254
+  use: 67
+  pos: TRANSITIVE VERB
+  meaning: If someone or something discourages you, they cause you to lose your enthusiasm about your actions.
+  sent: It may be difficult to do at first. Don't let this discourage you.
+  roots:
+    dis: dis- | away
+    courage:
+      meaing: courage
+      roots:
+        cour: "*kerd- | heart"
+  exp: courage + away，就失去了勇气。
+  connect:
+    away:
+      - lose
+    courage:
+      - enthusiasm
+  related:
+    - discouraging
+- word: discord
+  freq: 15267
+  use: 67
+  pos: UNCOUNTABLE NOUN
+  meaning: Discord is disagreement and argument between people.
+  sent: a prosperous family who showed no signs of discord
+  roots:
+    dis: dis- | apart
+    cord: "*kerd- | heart"
+  exp: 不是一条心。
+  connect:
+    apart:
+      - disagreement
+      - argument
+    heart:
+      - disagreement
+      - argument
+- word: credential
+  freq: 6253
+  use: -1
+  pos: NOUN
+  meaning: entitling to credit, confidence, etc.; accrediting
+  sent: recruitment is based mainly on academic credentials
+  roots:
+    cred:
+      meaning: cred | to believe, trust
+      roots:
+        "*kerd- | heart"
+  exp: 表达值得信赖的程度。
+  connect:
+    believe, trust:
+      - credit
+      - confidence
+      - accrediting
+- word: creed
+  freq: 12367
+  use: 21
+  pos: COUNTABLE NOUN
+  meaning: A creed is a set of beliefs, principles, or opinions that strongly influence the way people live or work.
+  sent: '...their devotion to their creed of self-help.'
+  roots:
+    creed:
+      meaning: cred | to believe, trust
+      roots:
+        "*kerd- | heart"
+  exp: 词根中的believe对应释义中的belief。
+  connect:
+    believe, trust:
+      - beliefs
+      - principles
+      - opinions
+- word: credo
+  freq: 18664
+  use: 21
+  pos: COUNTABLE NOUN
+  meaning: A credo is a set of beliefs, principles, or opinions that strongly influence the way a person lives or works.
+  sent: Harry's personal credo is doing the best he can.
+  roots:
+    cred:
+      meaning: cred | to believe, trust
+      roots:
+        "*kerd- | heart"
+  exp: 词根中的believe对应释义中的belief。
+  connect:
+    believe, trust:
+      - beliefs
+      - principles
+      - opinions
+- word: cardiac
+  freq: 8186
+  use: -1
+  pos: ADJECTIVE
+  meaning: Cardiac means relating to the heart.
+  sent: The man was suffering from cardiac weakness.
+  roots:
+    card: "*kerd- | heart"
+  exp: 释义中自带heart，不解释。
+  connect:
+    heart:
+      - heart
 
 
-discredit       9165    160     *kerd-
-accredit        17146   131     *kerd-
-  accreditation   10474   -1      *kerd-
-  accredited      18225   0       *kerd-
-cordial 14954   96      *kerd-
-incredulous     14623   83      *kerd-
-discourage      4254    67      *kerd-
-discord 15267   67      *kerd-
-credence        14855   36      *kerd-
-creed   12367   21      *kerd-
-credo   18664   21      *kerd-
-discouraging    15291   0       *kerd-
-credential      6253    -1      *kerd-
-cardiac 8186    -1      *kerd-
-quarry  10007   -1      *kerd-, *kwetwer-
 
 
 ## TODO: finish all "related" tabs in root.yml
