@@ -1112,3 +1112,42 @@ misc:
     - accordion
     - credible
     - encouragement
+"*mei-(2)":
+  meaning: small
+  exp:
+
+administer      3695    97      *mei-
+  administration  636     48      *mei-
+  minute  309     237     *mei-
+diminish        3995    146     *mei-
+  diminished      14215   0       *mei-
+minister        1924    76      *mei-
+  ministry        4284    37      *mei-
+minor   2633    -1      *mei-
+  minority        1642    12      *mei-
+minimum 3668    15      *mei-
+menu    3113    58      *mei-
+
+"*mei-(1)":
+  meaning: to change, go, move
+  exp:
+mad     2595    -1      *mei-
+  madly   14132   26      *mei-
+  madman  14399   2       *mei-
+  madden  11587   61      *mei-
+common  713     312     *mei-
+mutual  2821    -1      *mei-
+  mistake 1436    58      *mei-
+  communicate     2695    -1      *mei-
+  communication   1256    26      *mei-
+  related:
+    - commonplace
+    - uncommon
+    - commonwealth
+    - commonly
+    - commoner
+    - commons
+    - commonality
+    - mistaken
+    - missed
+    - missing

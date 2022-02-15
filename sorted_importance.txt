@@ -8,7 +8,7 @@ drop	691	553
 hard	439	548	*kar-
 set	295	539	*sed-
 fine	705	518
-mean	154	516	*medhyo-,	*mei-,	*men-
+mean	154	516	*medhyo-,	*men-
 head	252	506	*kaput-
 take	63	501
 down	118	498
@@ -10449,7 +10449,7 @@ falsely	12737	0
 delayed	12751	0
 looting	12757	0
 respectfully	12761	0
-missed	12765	0
+missed	12765	0   *mei-(1)
 hard-liner	12787	0
 emigration	12790	0	*mei-
 securely	12817	0
@@ -11602,7 +11602,7 @@ championship	2346	-1
 fundamental	2349	-1
 severe	2350	-1	*segh-
 enhance	2351	-1	*al-
-mystery	2352	-1	*mei-
+mystery	2352	-1
 impose	2353	-1
 poverty	2354	-1	*pau-
 entry	2356	-1
