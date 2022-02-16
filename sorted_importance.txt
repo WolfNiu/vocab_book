@@ -1818,7 +1818,7 @@ hire	1500	89
 estimate	1811	89
 dump	3671	89
 govern	3743	89
-mysterious	4132	89	*mei-
+mysterious	4132	89
 unite	4184	89	*oi-no-
 verdict	4285	89	*deik-,	*were-o-
 collar	4597	89	*kwel-

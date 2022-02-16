@@ -1114,24 +1114,20 @@ misc:
     - encouragement
 "*mei-(2)":
   meaning: small
-  exp:
+  exp: 把时间分成一小份一小份的，就成了minute(309,237) = min(=*mei-(2))。minimum(3668, 15) = min(=*mei-(2))表示最小的，minor(2633,-1)也表示小的，这些不用解释。于是minor的衍生词minority(1642,12)才表示"少数"。比如我们去了美国，就成了minority。diminish(3995,146) = di(=de-:completely) + mini(=*mei-(2)) + ish(=-ish)表达的是"make small"的感觉。minitser(1924,76) = min(=*mei-(2))这个词造得很有意思。虽说它表示"部长"，但从词根里可以看出它其实表达了subordinate, servant——也就是"仆从"的感觉。从这个角度看，自称"父母官"的人显然是没搞清楚到底谁是爹谁是儿子——或者换句话说"谁养了谁"。
+  related:
+    - diminished
+    - ministry
 
 administer      3695    97      *mei-
   administration  636     48      *mei-
-  minute  309     237     *mei-
-diminish        3995    146     *mei-
-  diminished      14215   0       *mei-
-minister        1924    76      *mei-
-  ministry        4284    37      *mei-
-minor   2633    -1      *mei-
-  minority        1642    12      *mei-
-minimum 3668    15      *mei-
 menu    3113    58      *mei-
 
 "*mei-(1)":
   meaning: to change, go, move
   exp:
 mad     2595    -1      *mei-
+  madness 6666    79      *mei-
   madly   14132   26      *mei-
   madman  14399   2       *mei-
   madden  11587   61      *mei-
@@ -1151,3 +1147,4 @@ mutual  2821    -1      *mei-
     - mistaken
     - missed
     - missing
+    - unmistakable
