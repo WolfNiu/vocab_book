@@ -10171,10 +10171,21 @@
   connect:
     heart:
       - heart
+- word: mite
+  freq: 12462
+  use: 130
+  pos: COUNTABLE NOUN
+  meaning: Mites are very tiny creatures that live on plants, for example, or in animals' fur.
+  sent: '...an itching skin disorder caused by parasitic mites.'
+  roots:
+    mite: "*mei-(2) | small"
+  exp: 螨虫都很小，对应释义中的tiny。
+  connect:
+    small:
+      - tiny
 
 
 demean  18395   147     *mei-
-mite    12462   130     *mei-
 amiss   18373   117     *mei-
 diminutive      14885   102     *mei-
 minuscule       13668   73      *mei-

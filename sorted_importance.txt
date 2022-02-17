@@ -1583,7 +1583,7 @@ sustain	3011	97	*ten-
 principal	3149	97	*kap-,	*per-
 sin	3313	97	*es-
 fold	3525	97	*pel-
-administer	3695	97	*mei-
+administer	3695	97	*mei-(2)
 jar	4304	97
 rattle	5522	97
 primitive	5883	97	*per-
@@ -4055,7 +4055,7 @@ fact	236	48	*dhe-
 member	286	48
 later	296	48	*‌‌lē-
 behind	422	48
-administration	636	48	*mei-
+administration	636	48	*mei-(2)
 identify	771	48
 improve	998	48	*es-,	*per-
 reality	1035	48	*reg-
@@ -8535,7 +8535,7 @@ discrimination	3194	11	*krei-
 interrupt	3435	11
 candy	3477	11
 sponsor	3484	11
-administrative	3543	11
+administrative	3543	11  *mei-(2)
 lend	3583	11
 ownership	3619	11	*aik-
 ideology	3678	11	*weid-
@@ -11734,7 +11734,7 @@ construct	2499	-1	*stere-
 viewer	2500	-1	*weid-
 pan	2501	-1	*pete-
 consultant	2502	-1
-administrator	2505	-1
+administrator	2505	-1  *mei-(2)
 occasionally	2507	-1	*kad-
 mayor	2508	-1	*meg-
 consideration	2509	-1
