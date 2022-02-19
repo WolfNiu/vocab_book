@@ -10183,33 +10183,136 @@
   connect:
     small:
       - tiny
-
+- word: diminutive
+  freq: 14885
+  use: 102
+  pos: ADJECTIVE
+  meaning: A diminutive person or object is very small.
+  sent: Her eyes scanned the room until they came to rest on a diminutive figure standing at the entrance.
+  roots:
+    de: de- | completely
+    min: "*mei-(2) | small"
+  exp: 释义中自带small，不解释。
+  connect:
+    small:
+      - small
+- word: minuscule
+  freq: 13668
+  use: 73
+  pos: ADJECTIVE
+  meaning: If you describe something as minuscule, you mean that it is very small.
+  sent: The film was shot in 17 days, a minuscule amount of time.
+  roots:
+    min: "*mei-(2) | small"
+  exp: 释义中自带small，不解释。
+  connect:
+    small:
+      - small
+- word: mince
+  freq: 8326
+  use: 12
+  pos: TRANSITIVE VERB
+  meaning: If you mince food such as meat or vegetables, you cut or grind it up into very small pieces, usually in a machine.
+  sent: Perhaps I'll buy lean meat and mince it myself.
+  roots:
+    min: "*mei-(2) | small"
+  exp: 释义中自带small，不解释。
+  connect:
+    small:
+      - small
+- word: minutia
+  freq: 19596
+  use: -1
+  pos: SINGULAR NOUN
+  meaning: small, precise, or trifling details
+  sent: the minutiae of his craft
+  roots:
+    min: "*mei-(2) | small"
+  exp: 用到了*mei-(2)中detailed的那层意思。注意minutiae是minutia的复数形式。
+  connect:
+    small:
+      - small
+      - precise
+      - trifling
+- word: minimal
+  freq: 4358
+  use: 15
+  pos: ADJECTIVE
+  meaning: Something that is minimal is very small in quantity, value, or degree.
+  sent: The cooperation between the two is minimal.
+  roots:
+    min: "*mei-(2) | small"
+  exp: 释义中自带small，不解释。
+  connect:
+    small:
+      - small
+  related:
+    - minimally
+    - minimalist
+- word: immutable
+  freq: 19899
+  use: 23
+  pos: ADJECTIVE
+  meaning: Something that is immutable will never change or cannot be changed.
+  sent: '...the eternal and immutable principles of right and wrong.'
+  roots:
+    im: in- | not, opposite of
+    mut: "*mei-(1) | to change, go, move"
+  exp: 词根合起来表达unchangeable的意思。
+  connect:
+    not, opposite of:
+      - never
+      - cannot
+    change:
+      - change
+      - changed
+- word: mutant
+  freq: 13141
+  use: 30
+  pos: COUNTABLE NOUN
+  meaning: A mutant is an animal or plant that is physically different from others of the same species because of a change in its genes.
+  sent: New species are merely mutants of earlier ones.
+  roots:
+    mut: "*mei-(1) | to change, go, move"
+  exp: 释义中自带change，不解释。妈妈，我终于会说"忍者神龟"的英文啦——teenage mutant ninja turtles。
+  connect:
+    change:
+      - different
+      - change
+- word: zenith
+  freq: 16457
+  use: 36
+  pos: SINGULAR NOUN
+  meaning: The zenith of something is the time when it is most successful or powerful.
+  sent: His career is now at its zenith.
+  roots:
+    ze: se- | apart
+    nith: "*mei-(1) | to change, go, move"
+  exp: 词根合起来表达了thing going off to the side的感觉，以前被拿来表示"通天之路"，即the way over the head。后来引申为现在的highest point or state的意思。注意这个词用到了两组字母互换，分别是z=s和n=m。
+  connect:
+    apart:
+      - successful
+      - powerful
+    go, move:
+      - successful
+      - powerful
 
 demean  18395   147     *mei-
+  demeaning       16568   31      *mei-
 amiss   18373   117     *mei-
-diminutive      14885   102     *mei-
-minuscule       13668   73      *mei-
 emigrate        10925   67      *mei-
 maim    17531   65      *mei-
 minus   8802    57      *mei-
 mean-spirited   18026   54      *mei-
-zenith  16457   36      *mei-
-demeaning       16568   31      *mei-
-mutant  13141   30      *mei-
-immutable       19899   23      *mei-
 municipal       4719    18      *kap-,  *mei-
   municipality    8864    15      *kap-,  *mei-
 commute 6971    16      *mei-
   commuter        6952    -1      *mei-
-minimal 4358    15      *mei-
-  minimally       13805   0       *mei-
-  minimalist      16246   -1      *mei-
 mutate  16936   15      *mei-
   mutation        8798    -1      *mei-
-mince   8326    12      *mei-
 commune 14640   8       *mei-
   communal        6494    39      *mei-
-mutually        8151    0       *mei-
+  communism       7207    -1      *mei-
 emigration      12790   0       *mei-
 immune  4240    -1      *mei-
   immunity        7054    21      *mei-
@@ -10218,9 +10321,7 @@ immune  4240    -1      *mei-
   autoimmune      17388   -1      *mei-
 migrate 6607    -1      *mei-
   migration       4558    -1      *mei-
-communism       7207    -1      *mei-
 permeate        9848    -1      *mei-,  *per-
-minutia 19596   -1      *mei-
 
 
 ## TODO: finish all "related" tabs in root.yml

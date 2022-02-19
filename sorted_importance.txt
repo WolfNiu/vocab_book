@@ -7054,7 +7054,7 @@ unspoken	11015	22
 mindful	11085	22	*men-
 horde	11189	22
 revolutionize	11331	22	*wel-
-mistakenly	11364	22
+mistakenly	11364	22  *mei-(1)
 incorrectly	11434	22
 improperly	11600	22
 wrongly	11603	22	*wer-
@@ -10074,7 +10074,7 @@ doctoral	8078	0	*dek-
 struggling	8083	0
 casting	8102	0
 bowling	8105	0	*bhel-
-revised	8106	0	*weid-
+revised	8106	0	*weid
 dropout	8113	0
 flooding	8127	0
 stimulation	8133	0
