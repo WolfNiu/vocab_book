@@ -10296,24 +10296,99 @@
     go, move:
       - successful
       - powerful
+- word: emigrate
+  freq: 10925
+  use: 67
+  pos: INTRANSITIVE VERB
+  meaning: If you emigrate, you leave your own country to live in another country.
+  sent: He emigrated to Belgium.
+  roots:
+    e: ex- | out
+    migr: "*mei-(1) | to change, go, move"
+  exp: 词根合起来就是move out，对应释义中的leave。
+  connect:
+    out:
+      - leave
+    move:
+      - leave
+  related:
+    - emigration
+- word: demean
+  freq: 18395
+  use: 147
+  pos: TRANSITIVE VERB
+  meaning: To demean someone or something means to make people have less respect for them.
+  sent: Some groups say that pornography demeans women and incites rape.
+  roots:
+    de: de- | down
+    mean:
+      meaning: mean
+      roots:
+        mean: "*mei-(1) | to change, go, move"
+  exp: 用的是*mei-(1)中"of common or low origin"的那层意思。
+  related:
+    - demeaning
+- word: mutate
+  freq: 16936
+  use: 15
+  pos: INTRANSITIVE VERB
+  meaning: If an animal or plant mutates, or something mutates it, it develops different characteristics as the result of a change in its genes.
+  sent: The virus mutates in the carrier's body.
+  roots:
+    mut: "*mei-(1) | to change, go, move"
+  exp: 释义中自带change，不解释。讨论新冠疫情必会词。一类病毒(virus(2724,-1))可能会有很多变种(variants(9062,41))，because viruses constantly change through mutation。喜欢丧尸题材的同学mutate也属于必会词。
+  connect:
+    change:
+      - different
+      - change
+  related:
+    - mutation
+- word: commute
+  freq: 6971
+  use: 16
+  pos: INTRANSITIVE VERB
+  meaning: If you commute, you travel a long distance every day between your home and your place of work.
+  sent: Mike commutes to Miami every day.
+  roots:
+    com: com- | with, together
+    mute: "*mei-(1) | to change, go move"
+  exp: 词根合起来就是go/move together的意思，对应释义中的travel。
+  connect:
+    go, move:
+      - travel
+  related:
+    - commuter
+- word: communal
+  freq: 6494
+  use: 39
+  pos: ADJECTIVE
+  meaning: Communal means relating to particular groups in a country or society.
+  sent: Communal violence broke out in different parts of the country.
+  roots:
+    com: com- | with, together
+    mun: "*mei-(1) | to change, go, move"
+  exp: 用的是*mei-(1)中"exchange, shared by all"的那层意思，因此词根合起来表示"that which is common"，对应释义中的groups。communal还有个在我们的教育中频繁出现的衍生词，就是communism(7207,-1)。目前世界195个国家中，执政党奉行共产主义的一共有4个国家，分别是我国，越南，老挝和古巴。有很多人误以为朝鲜是，但其实早就不是了。
+  related:
+    - commune
+    - communism
+- word: municipal
+  freq: 4719
+  use: 18
+  pos: ADJECTIVE
+  meaning: Municipal means associated with or belonging to a city or town that has its own local government.
+  sent: The municipal authorities gave the go-ahead for the march.
+  roots:
+    muni: "*mei-(1) | to change, go, move"
+    cip: "*kap- | to grasp"
+  exp: 用的是*mei-(1)中"exchange, shared by all"的那层意思，因此municipal和community的概念相关。
+  related:
+    - municipality
 
-demean  18395   147     *mei-
-  demeaning       16568   31      *mei-
+
 amiss   18373   117     *mei-
-emigrate        10925   67      *mei-
 maim    17531   65      *mei-
 minus   8802    57      *mei-
 mean-spirited   18026   54      *mei-
-municipal       4719    18      *kap-,  *mei-
-  municipality    8864    15      *kap-,  *mei-
-commute 6971    16      *mei-
-  commuter        6952    -1      *mei-
-mutate  16936   15      *mei-
-  mutation        8798    -1      *mei-
-commune 14640   8       *mei-
-  communal        6494    39      *mei-
-  communism       7207    -1      *mei-
-emigration      12790   0       *mei-
 immune  4240    -1      *mei-
   immunity        7054    21      *mei-
   immunize        19650   -1      *mei-
