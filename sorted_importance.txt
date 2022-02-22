@@ -2943,7 +2943,7 @@ nameless	14701	65	*no-men-
 complacent	14991	65
 trifle	17099	65
 nuanced	17395	65
-maim	17531	65	*mei-
+maim	17531	65
 courtly	17971	65	*gher-
 debunk	18409	65
 facsimile	19296	65	*dhe-,	*sem-

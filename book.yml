@@ -10383,20 +10383,66 @@
   exp: 用的是*mei-(1)中"exchange, shared by all"的那层意思，因此municipal和community的概念相关。
   related:
     - municipality
+- word: immune
+  freq: 4240
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you are immune to a particular disease, you cannot be affected by it.
+  sent: About 93 percent of U.S. residents are immune to measles either because they were vaccinated or they had the disease as a child.
+  roots:
+    im: in-(1) | not, opposite of
+    mune: "*mei-(1) | to change, go, move"
+  exp: 这个词本身发展过程比较复杂，不过可以巧记——词根合起来可以看成是"not change"，就算disease来了也不会有什么变化。
+  related:
+    - immunity
+    - immunize
+    - immunization
+    - autoimmune
+- word: migrate
+  freq: 6607
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If people migrate, they move from one place to another, especially in order to find work or to live somewhere for a short time.
+  sent: People migrate to cities like Jakarta in search of work.
+  roots:
+    migr: "*mei-(1) | to change, go, move"
+  exp: 释义中自带move，不解释。
+  connect:
+    go, move:
+      - move
+  related:
+    - migration
+- word: permeate
+  freq: 9848
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If an idea, feeling, or attitude permeates a system or permeates society, it affects every part of it or is present throughout it.
+  sent: Bias against women permeates every level of the judicial system.
+  roots:
+    per: "*per-(1) | forward"
+    me: "*mei-(1) | to change, go, move"
+  exp: 词根合起来表示to pass through的意思，也就是"穿透"、"蔓延"的感觉。
+  connect:
+    forward:
+      - affects
+      - present
+    go, move:
+      - affects
+      - present
+- word: minus
+  freq: 8802
+  use: 57
+  pos: CONJUNCTION
+  meaning: You use minus to show that one number or quantity is being subtracted from another.
+  sent: One minus one is zero.
+  roots:
+    min: "*mei-(2) | small"
+  exp: 越减越小(small)。
+  connect:
+    small:
+      - subtracted
 
 
-amiss   18373   117     *mei-
-maim    17531   65      *mei-
-minus   8802    57      *mei-
-mean-spirited   18026   54      *mei-
-immune  4240    -1      *mei-
-  immunity        7054    21      *mei-
-  immunize        19650   -1      *mei-
-  immunization    14000   -1      *mei-
-  autoimmune      17388   -1      *mei-
-migrate 6607    -1      *mei-
-  migration       4558    -1      *mei-
-permeate        9848    -1      *mei-,  *per-
 
 
 ## TODO: finish all "related" tabs in root.yml
