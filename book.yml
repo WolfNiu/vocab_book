@@ -10443,6 +10443,20 @@
       - subtracted
 
 
+medieval        5130    59      *aiw-,  *medhyo-
+eternal 5700    52      *aiw-
+utopian 11886   30      *aiw-
+hygiene 11094   26      *aiw-
+primeval        19306   25      *aiw-,  *per-
+eternity        8533    24      *aiw-
+utopia  14956   7       *aiw-
+eon     17818   0       *aiw-
+longevity       9055    -1      *aiw-
+aye     10693   -1      *aiw-
+nay     19010   -1      *aiw-,  *ne-
+  naysayer        20188   7       *aiw-,  *ne-
+  nope    9972    -1      *aiw-,  *ne-
+  nah     13694   -1      *aiw-,  *ne-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -10454,7 +10468,6 @@
 # (41, '*re-'),
 # (42, '*ei-'),
 # (43, '*dek-'),
-# (44, '*aiw-'),
 # (44, '*ant-'),
 # (44, '*legwh-'),
 # (45, '*ne-'),
