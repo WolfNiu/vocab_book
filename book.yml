@@ -10441,22 +10441,109 @@
   connect:
     small:
       - subtracted
+- word: eternal
+  freq: 5700
+  use: 52
+  pos: ADJECTIVE
+  meaning: Something that is eternal lasts forever.
+  sent: '...the quest for eternal youth.'
+  roots:
+    e: "*aiw- | vital force, life, long life, eternity"
+  exp: 词根中的eternity对应释义中的last forever。
+  connect:
+    long life, eternity:
+      - lasts forever
+  related:
+    - eternity
+- word: medieval
+  freq: 5130
+  use: 59
+  pos: ADJECTIVE
+  meaning: Something that is medieval relates to or was made in the period of European history between the end of the Roman Empire in AD 476 and about AD 1500.
+  sent: '...a medieval castle.'
+  roots:
+    medi: "*medhyo- | middle"
+    ev:
+      meaning: ev | age
+      roots:
+        "*aiw- | vital force, life, long life, eternity"
+  exp: 用的是*aiw-中age的那层意思，因此词根合起来其实是middle age的意思。
+  connect:
+    middle:
+      - between
+    age:
+      - period
+      - hisotry
+- word: utopia
+  freq: 14956
+  use: 7
+  pos: VARIABLE NOUN
+  meaning: If you refer to an imaginary situation as a utopia, you mean that it is one in which society is perfect and everyone is happy.
+  sent: We weren't out to design a contemporary utopia.
+  roots:
+    u: "*aiw- | vital force, life, long life, eternity"
+    top: topos | place
+  exp: 从词根可以看出来，utopia是个eternal place——确实很理想化。至于词根topos其实还算常用，比如topic<1873,49>，学物理化学必会的isotope<15900,-1>，以及学数学必会的topology。
+  connect:
+    long life, eternity:
+      - perfect
+      - everyone is happy
+    place:
+      - society
+  related:
+    - utopian
+- word: primeval
+  freq: 19306
+  use: 25
+  pos: ADJECTIVE
+  meaning: You use primeval to describe things that belong to a very early period in the history of the world.
+  sent: '...the dense primeval forests that once covered inland Virginia.'
+  roots:
+    prime: prime
+    (e)v:
+      meaning: ev | age
+      roots:
+        "*aiw- | vital force, life, long life, eternity"
+  exp: prime在这里表示"原始"，所以词根合起来就表示"原始时代"。
+  connect:
+    prime:
+      - early
+    age:
+      - period
+      - history
+- word: longevity
+  freq: 9055
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Longevity is long life.
+  sent: Human longevity runs in families.
+  roots:
+    long: long
+    ev:
+      meaning: ev | age
+      roots:
+        "*aiw- | vital force, life, long life, eternity"
+  exp: 释义中自带long life，不解释。
+  connect:
+    long:
+      - long
+    age:
+      - life
+- word: hygiene
+  freq: 11094
+  use: 26
+  pos: UNCOUNTABLE NOUN
+  meaning: Hygiene is the practice of keeping yourself and your surroundings clean, especially in order to prevent illness or the spread of diseases.
+  sent: Be extra careful about personal hygiene.
+  roots:
+    hy: "*aiw- | vital force, life, long life, eternity"
+  exp: 词根表达的是living well的感觉。字母互换方面比较诡异，只能咬牙接受。
+  connect:
+    life:
+      - clean
+      - illness
+      - diseases
 
-
-medieval        5130    59      *aiw-,  *medhyo-
-eternal 5700    52      *aiw-
-utopian 11886   30      *aiw-
-hygiene 11094   26      *aiw-
-primeval        19306   25      *aiw-,  *per-
-eternity        8533    24      *aiw-
-utopia  14956   7       *aiw-
-eon     17818   0       *aiw-
-longevity       9055    -1      *aiw-
-aye     10693   -1      *aiw-
-nay     19010   -1      *aiw-,  *ne-
-  naysayer        20188   7       *aiw-,  *ne-
-  nope    9972    -1      *aiw-,  *ne-
-  nah     13694   -1      *aiw-,  *ne-
 
 
 ## TODO: finish all "related" tabs in root.yml
