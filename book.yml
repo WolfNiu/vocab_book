@@ -10543,21 +10543,116 @@
       - clean
       - illness
       - diseases
-
-
-stark   6687    202     *ster-
-startle 5530    74      *ster-
-strut   11772   62      *ster-
-sterile 9575    54      *ster-
-  sterilize       15411   -1      *ster-
-  sterilization   16516   -1      *ster-
-starch  13943   45      *ster-
-thorn   11465   39      *ster-
-  thorny  13610   43      *ster-
-starve  7576    -1      *ster-
-  starvation      9815    -1      *ster-
-stern   10298   -1      *sta-,  *ster-
-torpedo 13346   7       *ster-
+- word: stark
+  freq: 6687
+  use: 202
+  pos: ADJECTIVE
+  meaning: Stark choices or statements are harsh and unpleasant.
+  sent: Companies face a stark choice if they want to stay competitive.
+  roots:
+    star: "*ster-(1) | stiff"
+  exp: stiff象征着severe(严重)，对应释义中的harsh, unpleasant。相对应地，如果要是很放松的话，就说明事情不是很severe。
+  connect:
+    stiff:
+      - harsh
+      - unpleasant
+  related:
+    - starkly
+- word: stern
+  freq: 10298
+  use: -1
+  pos: ADJECTIVE
+  meaning: Stern words or actions are very severe.
+  sent: Mr. Monroe issued a stern warning to those who persist in violence.
+  roots:
+    ster: "*ster-(1) | stiff"
+  exp: stiff象征着severe(严重)。相对应地，如果要是很放松的话，就说明事情不怎么severe。
+  connect:
+    stiff:
+      - severe
+  related:
+    - sternly
+- word: starve
+  freq: 7576
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If people starve, they suffer greatly from lack of food which sometimes leads to their death.
+  sent: A number of the prisoners we saw are starving.
+  roots:
+    star: "*ster-(1) | stiff"
+  exp: 吃饱了肯定浑身酸软不想动换，反之如果饿着的话人就比较stiff，需要时刻盯着哪儿有吃的。
+  related:
+    - starvation
+- word: thorn
+  freq: 11465
+  use: 39
+  pos: COUNTABLE NOUN
+  meaning: Thorns are the sharp points on some plants and trees, for example, on a rose bush.
+  sent: Roses will always have thorns but with care they can be avoided.
+  roots:
+    thor: "ster-(1) | stiff"
+  exp: 刺儿肯定是硬的，对应词根意思中的stiff。
+  connect:
+    stiff:
+      - sharp
+  related:
+    - horny
+- word: strut
+  freq: 11772
+  use: 62
+  pos: INTRANSITIVE VERB
+  meaning: Someone who struts walks in a proud way, with their head held high and their chest out, as if they are very important.
+  sent: He struts around town like he owns the place.
+  roots:
+    str: "*ster-(1) | stiff"
+  exp: 挺胸抬头地走是stiff的感觉，如果吊儿郎当地走那才是放松的感觉。
+  connect:
+    stiff:
+      - proud
+      - head held high
+      - chest out
+- word: startle
+  freq: 5530
+  use: 74
+  pos: TRANSITIVE VERB
+  meaning: If something sudden and unexpected startles you, it surprises and frightens you slightly.
+  sent: The telephone startled him.
+  roots:
+    star: "*ster-(1) | stiff"
+  exp: 人受到惊吓之后第一反应就是僵着(stiff)一动不动。
+  connect:
+    stiff:
+      - surprises
+      - frightens
+  related:
+    - startling
+    - startlingly
+    - startled
+- word: sterile
+  freq: 9575
+  use: 54
+  pos: ADJECTIVE
+  meaning: Something that is sterile is completely clean and free from germs.
+  sent: He always made sure that any cuts were protected by sterile dressings.
+  roots:
+    ster: "*ster-(1) | stiff"
+  exp: stiff总会给人一种僵死的，寸草不生的感觉，对应释义中的free from germs。注意表达"不孕不育"可也是这词，比如"The diease had made him sterile."。
+  connect:
+    stiff:
+      - completely clean
+      - free from germs
+  related:
+    - sterilize
+    - sterilization
+- word: starch
+  freq: 13943
+  use: 45
+  pos: MASS NOUN
+  meaning: Starch is a substance that is found in foods such as bread, potatoes, pasta, and rice and gives you energy.
+  sent: She reorganized her eating so that she was taking more fruit and vegetables and less starch, salt, and fat.
+  roots:
+    star: "*ster-(1) | stiff"
+  exp: 吃starch能让身体强健，更加的stiff。
 
 
 star    539     120     *ster-

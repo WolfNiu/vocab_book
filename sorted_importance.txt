@@ -3433,7 +3433,7 @@ imitate	6238	57	*aim-
 recite	6492	57	*keie-
 messy	6753	57
 giggle	7474	57
-startling	7542	57
+startling	7542	57  *ster-(1)
 sickness	7545	57
 chaotic	7546	57	*ghieh-
 infamous	7804	57	*bha-
@@ -10806,7 +10806,7 @@ graphically	16830	0
 eviction	16833	0	*weik-
 fanatical	16835	0	*dhes-
 noisily	16836	0
-starkly	16839	0
+starkly	16839	0   *ster-(1)
 agreed	16853	0
 normalization	16857	0
 hitting	16859	0
@@ -11074,7 +11074,7 @@ yellowish	19343	0
 breathlessly	19360	0
 offensively	19366	0
 abbreviated	19367	0	*mregh-u-
-startlingly	19382	0
+startlingly	19382	0   *ster-(1)
 bye	19391	0	*ambhi-
 interconnection	19393	0
 destroyed	19403	0
@@ -13630,7 +13630,7 @@ zest	10327	-1
 fitting	10328	-1
 psychosocial	10329	-1	*sekw-
 poisonous	10330	-1	*po(i)-
-startled	10331	-1
+startled	10331	-1  *ster-(1)
 coordinated	10332	-1
 brutally	10333	-1
 approved	10334	-1	*per-
@@ -15797,7 +15797,7 @@ conventionally	16023	-1
 volley	16024	-1
 created	16025	-1
 insatiable	16026	-1
-sternly	16028	-1
+sternly	16028	-1  *ster-(1)
 broach	16029	-1
 thirty-one	16031	-1
 decomposition	16032	-1
