@@ -10545,12 +10545,6 @@
       - diseases
 
 
-start   173     273     *ster-
-  jump-start      19282   99      *ster-
-  restart 13411   30      *ster-
-  starter 3989    0       *ster-
-  start-up        8367    -1      *ster-
-  upstart 16039   -1      *ster-
 stark   6687    202     *ster-
 startle 5530    74      *ster-
 strut   11772   62      *ster-
@@ -10560,12 +10554,10 @@ sterile 9575    54      *ster-
 starch  13943   45      *ster-
 thorn   11465   39      *ster-
   thorny  13610   43      *ster-
-stare   1134    40      *ster-
 starve  7576    -1      *ster-
   starvation      9815    -1      *ster-
 stern   10298   -1      *sta-,  *ster-
 torpedo 13346   7       *ster-
-cholesterol     3144    -1      *ghel-, *ster-
 
 
 star    539     120     *ster-
