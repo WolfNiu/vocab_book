@@ -10653,24 +10653,88 @@
   roots:
     star: "*ster-(1) | stiff"
   exp: 吃starch能让身体强健，更加的stiff。
-
-
-star    539     120     *ster-
-stellar 8061    102     *ster-
-constellation   7323    88      *ster-
-astronomical    7170    75      *nem-,  *ster-
-stardom 13447   40      *ster-
-superstar       7127    29      *ster-
-starry  16514   24      *ster-
-interstellar    12058   6       *ster-
-disaster        2341    -1      *ster-
-astronaut       5736    -1      *nau-,  *ster-
-all-star        6169    -1      *ster-
-asteroid        6267    -1      *ster-
-astronomy       6564    -1      *nem-,  *ster-
-co-star 11174   -1      *ster-
-starlight       16844   -1      *ster-
-asterisk        19333   -1      *ster-
+- word: stellar
+  freq: 8061
+  use: 102
+  pos: ADJECTIVE
+  meaning: Stellar is used to describe anything connected with stars.
+  sent: A stellar wind streams outward from the star.
+  roots:
+    stel: "*ster-(2) | star"
+  exp: 释义中自带stars，不解释。
+  connect:
+    star:
+      - stars
+- word: interstellar
+  freq: 12058
+  use: 6
+  pos: ADJECTIVE
+  meaning: Interstellar means between the stars.
+  sent: '...interstellar space.'
+  roots:
+    inter: inter- | between
+    stel: "*ster-(2) | star"
+  exp: 词根合起来表示between the stars。
+  connect:
+    between:
+      - between
+    star:
+      - stars
+- word: constellation
+  freq: 7323
+  use: 88
+  pos: COUNTABLE NOUN
+  meaning: A constellation is a group of stars which form a pattern and have a name.
+  sent: '...a planet orbiting a star in the constellation of Cepheus.'
+  roots:
+    con: con- | with, together
+    stel: "*ster-(2) | star"
+  exp: 词根合起来表示a collection of stars。
+  connect:
+    together:
+      - group
+    star:
+      - stars
+- word: astronaut
+  freq: 5736
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An astronaut is a person who is trained for traveling in a spacecraft.
+  roots:
+    astr:
+      meaning: astro- | star
+      roots:
+        astro: "*ster-(2) | star"
+    nau: "*nau- | boat"
+  exp: 词根合起来表达space-traveler的意思。
+  connect:
+    star:
+      - spacecraft
+    boat:
+      - traveling
+- word: asteroid
+  freq: 6267
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: a small rocky body orbiting the sun. Large numbers of these, ranging in size from nearly 600 miles (1,000 km) across (Ceres) to dust particles, are found (as the asteroid belt) especially between the orbits of Mars and Jupiter, though some have more eccentric orbits, and a few pass close to the earth or enter the atmosphere as meteors.
+  roots:
+    aster: "*ster-(2) | star"
+    oid: -oid | like, like that of, thing like a
+  exp: 比较像star的东西，但又不是。
+  connect:
+    star:
+      - body
+- word: asterisk
+  freq: 19333
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An asterisk is the sign *. It is used especially to indicate that there is further information about something in another part of the text.
+  roots:
+    aster: "*ster-(2) | star"
+  exp: 虽说词频不高，但学计算机和数学/物理都是必会的符号。
+  connect:
+    star:
+      - *
 
 
 ## TODO: finish all "related" tabs in root.yml

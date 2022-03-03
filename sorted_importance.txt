@@ -3492,7 +3492,7 @@ lengthy	6115	56
 jewel	6160	56
 drape	6340	56
 elevation	6798	56	*legwh-
-disastrous	7375	56
+disastrous	7375	56  *ster-(2)
 unleash	7473	56
 impatient	7572	56
 informed	7871	56
@@ -12106,7 +12106,7 @@ southeast	3744	-1	*sawel-
 wherever	3746	-1	*kwo-
 vitamin	3751	-1	*gwei-
 respectively	3762	-1	*spek-
-astronomer	3779	-1	*nem-
+astronomer	3779	-1	*nem-,  *ster-(2)
 contractor	3781	-1
 disk	3798	-1	*deik-
 sidewalk	3806	-1

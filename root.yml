@@ -1163,6 +1163,16 @@ misc:
     - restart
     - start-up
     - upstart
-
 "*ster-(2)":
   meaning: star
+  exp: 涉及的最常用词就是star<539,120>本身。其次是disaster<2341,-1> = dis[=dis-:lack of, not] + aster(=*ster-(2))。古人(以及部分脑子不好的现代人)会认为天上星星的排列方式和命运息息相关，因此这个词的词根合起来就表示ill-starred。最后是astronomer<3779,-1> = astr[=*ster-(2)] + nom[=*nem-:assign, allot; take] + er(=-er:man who has to do with)，所谓天文学家，其实就是研究天体（star)运行规律(rule)的。
+  related:
+    - starry
+    - superstar
+    - stardom
+    - co-star
+    - all-star
+    - starlight
+    - disastrous
+    - astronomy
+    - astronomical
