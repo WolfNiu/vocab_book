@@ -10735,6 +10735,152 @@
   connect:
     star:
       - *
+- word: dainty
+  freq: 17571
+  use: 153
+  pos: ADJECTIVE
+  meaning: If you describe a movement, person, or object as dainty, you mean that they are small, delicate, and pretty.
+  sent: The girls were dainty and feminine.
+  roots:
+    dain: "*dek- | to take, accept"
+  exp: 用的是*dek-中worthy, proper, fitting的那层意思。
+  connect:
+    accept:
+      - small, delicate, and pretty
+- word: orthodox
+  freq: 5411
+  use: 60
+  pos: ADJECTIVE
+  meaning: Orthodox beliefs, methods, or systems are ones which are accepted or used by most people.
+  sent: Many of these ideas are now being incorporated into orthodox medical treatment.
+  roots:
+    ortho: ortho- | straight, upright, rectangular, regular; true, correct, proper
+    dox: "*dek- | to take, accept"
+  exp: 释义中自带accept，不解释。
+  connect:
+    accept:
+      - accepted
+      - used
+  related:
+    - unorthodox
+    - orthodoxy
+- word: decorate
+  freq: 4373
+  use: 57
+  pos: TRANSITIVE VERB
+  meaning: If you decorate something, you make it more attractive by adding things to it.
+  sent: He decorated his room with pictures of all his favorite sports figures.
+  roots:
+    dec: "*dek- | to take, accept"
+  exp: 用的是*dek-中"make to appear right"的那层意思，毕竟装饰就是为了看着更顺眼嘛。
+  connect:
+    accept:
+      - attractive
+  related:
+    - decorative
+    - decorator
+    - decorated
+    - decoration
+    - decor
+- word: docile
+  freq: 19876
+  use: 45
+  pos: ADJECTIVE
+  meaning: A person or animal that is docile is quiet, not aggressive, and easily controlled.
+  sent: '...docile, obedient children.'
+  roots:
+    doc: "*dek- | to take, accept"
+  exp: 不管说啥都接受(accept)。
+  connect:
+    accept:
+      - quiet
+      - not agreesive
+      - easily controlled
+- word: decorum
+  freq: 17800
+  use: 30
+  pos: UNCOUNTABLE NOUN
+  meaning: Decorum is behavior that people consider to be correct, polite, and respectable.
+  sent: I was treated with decorum and respect throughout the investigation.
+  roots:
+    dec: "*dek- | to take, accept"
+  exp: correct, polite和respectable的行为才更容易让人接受(accept)。
+  connect:
+    accept:
+      - correct
+      - polite
+      - respectable
+- word: dignity
+  freq: 4141
+  use: 19
+  pos: UNCOUNTABLE NOUN
+  meaning: If someone behaves or moves with dignity, they are calm, controlled, and admirable.
+  sent: '...her extraordinary dignity and composure.'
+  roots:
+    dign: "*dek- | to take, accept"
+  exp: calm, controlled, and admirable的行为更容易被人授受(accept)。
+  connect:
+    accept:
+      - calm
+      - controlled
+      - admirable
+  related:
+    - dignitary
+    - dignified
+    - indignity
+    - indignation
+    - indignant
+- word: disdain
+  freq: 9890
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: If you feel disdain for someone or something, you dislike them because you think that they are inferior or unimportant.
+  sent: Janet looked at him with disdain.
+  roots:
+    dis: dis- | do the opposite of
+    dain: "*dek- | to take, accept"
+  exp: 用的是*dek-中worthy<5165,30>的那层意思，和前缀dis-合起来之后就成了unworthy<15223,-1>的感觉。
+  connect:
+    do the opposite of:
+      - dislike
+      - inferior
+      - unimportant
+    accept:
+      - dislike
+      - inferior
+      - unimportant
+- word: dogma
+  freq: 12106
+  use: 19
+  pos: VARIABLE NOUN
+  meaning: If you refer to a belief or a system of beliefs as a dogma, you disapprove of it because people are expected to accept that it is true, without questioning it.
+  sent: Their political dogma has blinded them to the real needs of the country.
+  roots:
+    dog: "*dek- | to take, accept"
+  exp: 释义中自带accept，不解释。乔布斯演讲必会词：Don't be trapped by dogma — which is living with the results of other people's thinking.
+  connect:
+    accept:
+      - accept
+      - without questioning
+  related:
+    - dogmatic
+- word: paradox
+  freq: 6871
+  use: 8
+  pos: COUNTABLE NOUN
+  meaning: You describe a situation as a paradox when it involves two or more facts or qualities that seem to contradict each other.
+  sent: The paradox is that the region's most dynamic economies have the most primitive financial systems.
+  roots:
+    para: para-(1) | contrary to
+    dox: "*dek- | to take, accept"
+  exp: 词根合起来对应释义中的contradict<6974,49>。
+  connect:
+    contrary:
+      - contradict
+    accept:
+      - contradict
+  related:
+    - paradoxical
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -10742,10 +10888,8 @@
 # (34, '*ambhi-'),
 # (39, '*skel-'),
 # (39, '*wel-'),
-# (40, '*kad-'),
 # (41, '*re-'),
 # (42, '*ei-'),
-# (43, '*dek-'),
 # (44, '*ant-'),
 # (45, '*ne-'),
 # (45, '*weik-'),
