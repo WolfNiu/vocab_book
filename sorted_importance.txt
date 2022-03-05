@@ -7820,7 +7820,7 @@ actress	3263	16
 miracle	3307	16
 transformation	3318	16
 reinforce	3360	16
-trunk	3566	16	*tere-
+trunk	3566	16
 supervisor	3623	16	*weid-
 doll	3858	16
 donor	3884	16	*do-

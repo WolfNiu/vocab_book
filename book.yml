@@ -10883,6 +10883,35 @@
     - paradoxical
 
 
+
+thrash  11766   173     *tere-
+drill   4814    109     *tere-
+threshold       4777    60      *tere-
+thread  4767    59      *tere-
+  threadbare      20045   138     *tere-
+detriment       14761   53      *tere-
+  detrimental     11121   53      *tere-
+thrill  5941    51      *tere-
+  thriller        8811    2       *tere-
+detour  12524   42      *tere-
+tribulation     17834   40      *tere-
+diatribe        20018   32      *tere-
+entrench        13548   29      *tere-
+avatar  17184   18      *tere-
+detritus        19483   16      *tere-
+contour 8067    14      *tere-
+trench  6555    12      *tere-
+attrition       12154   10      *tere-
+trauma  4888    -1      *tere-
+  traumatize      15536   -1      *tere-
+  traumatic       7423    -1      *tere-
+trout   5106    -1      *tere-
+nostril 8816    -1      *nas-,  *tere-
+nectar  15496   -1      *nek-,  *tere-
+turnip  15823   -1      *tere-
+transom 18330   -1      *tere-
+
+
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
@@ -10905,7 +10934,6 @@
 # (50, '*gwere-'),
 # (50, '*ser-'),
 # (50, '*stere-'),
-# (50, '*tere-'),
 # (51, '*do-'),
 # (51, '*ghabh-'),
 # (51, '*gno-'),
