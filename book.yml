@@ -10881,26 +10881,149 @@
       - contradict
   related:
     - paradoxical
+- word: thrash
+  freq: 11766
+  use: 173
+  pos: TRANSITIVE VERB
+  meaning: If one player or team thrashes another in a game or contest, they defeat them easily or by a large score.
+  sent: The Kings were thrashed by the Knicks last night.
+  roots:
+    thr: "*tere-(1) | to rub, turn"
+  exp: 这词本来表示beat (someone) with (or as if with) a flail。而这flail<13236,71>(连枷)嘛，就是需要转(turn)好多圈蓄力才最后抡出去打人的。
+- word: drill
+  freq: 4814
+  use: 109
+  pos: COUNTABLE NOUN
+  meaning: A drill is a tool or machine that you use for making holes.
+  sent: "...a dentist's drill."
+  roots:
+    dr: "*tere-(1) | to rub, turn"
+  exp: drill通过不停旋转(turn)钻孔。另外大家看到dentist's drill是不是有了本能的恐惧呢？反正我是这样的。
+- word: thread
+  freq: 4767
+  use: 59
+  pos: VARIABLE NOUN
+  meaning: Thread or a thread is a long very thin piece of a material such as cotton, nylon, or silk, especially one that is used in sewing.
+  sent: This time I'll do it right with a spool of thread.
+  roots:
+    thr: "*tere-(1) | to rub, turn"
+  exp: 词根表达的其实就是twisted<8173,22>的意思。纺织嘛，大概的感觉就是把线扭来扭去的。
+  related:
+    - threadbare
+- word: detrimental
+  freq: 11121
+  use: 53
+  pos: ADJECTIVE
+  meaning: Something that is detrimental to something else has a harmful or damaging effect on it.
+  sent: Many foods are suspected of being detrimental to health because of the chemicals and additives they contain.
+  roots:
+    de: de- | away
+    tr: "*tere-(1) | to rub, turn"
+  exp: 词根合起来表达了a rubbing off，进而引申出damage的感觉。
+  connect:
+    away:
+      - harmful
+      - damaging
+    rub:
+      - harmful
+      - damaging
+  related:
+    - detriment
+- word: thrill
+  freq: 5941
+  use: 51
+  pos: COUNTABLE NOUN
+  meaning: If something gives you a thrill, it gives you a sudden feeling of great excitement, pleasure, or fear.
+  sent: I can remember the thrill of not knowing what I would get on Christmas morning.
+  roots:
+    thr: "*tere-(2) | cross over, pass through, overcome"
+  exp: 词根表达的是一种"pierced, perforated"——也就是"被穿透"的感觉。当人们像释义中说的那样有sudden feeling of great pleasure时，会感觉像电流穿过全身。
+  connect:
+    pass through:
+      - sudden feeling of great excitement, pleasure, or fear
+  related:
+    - thriller
+- word: detour
+  freq: 12524
+  use: 42
+  pos: COUNTABLE NOUN
+  meaning: If you make a detour on a trip, you go by a route which is not the shortest way, because you want to avoid something such as a traffic jam, or because there is something you want to do on the way.
+  sent: He did not take the direct route to his home, but made a detour around the outskirts of the city.
+  roots:
+    de: dis- | aside
+    tour: "*tere-(1) | to rub, turn"
+  exp: 词根合起来表达turn aside的意思，所以是"绕路"。
+  connect:
+    aside:
+      - not the shortest way
+    turn:
+      - go
+- word: tribulation
+  freq: 17834
+  use: 40
+  pos: VARIABLE NOUN
+  meaning: You can refer to the suffering or difficulty that you experience in a particular situation as tribulations.
+  sent: '...the trials and tribulations of everyday life.'
+  roots:
+    trib: "*tere-(1) | to rub, turn"
+  exp: rub是啥？就是"磨"，用它造的词有"磨炼"、"折磨"、"磨难"——都是distress, trouble, affliction的感觉。
+  connect:
+    rub:
+      - suffering
+      - difficulty
+- word: diatribe
+  freq: 20018
+  use: 32
+  pos: NOUN
+  meaning: A diatribe is an angry speech or article which is extremely critical of someone's ideas or activities.
+  sent: The book is a diatribe against the academic left.
+  roots:
+    dia: dia- | away
+    tribe: "*tere-(1) | to rub, turn"
+  exp: 把对方的观点"层层剥皮"，确实是rub + away的感觉。
+  connect:
+    away:
+      - critical
+    rub:
+      - critical
+- word: entrench
+  freq: 13548
+  use: 29
+  pos: TRANSITIVE VERB
+  meaning: If something such as power, a custom, or an idea is entrenched, it is firmly established, so that it would be difficult to change it.
+  sent: '...a series of measures designed to entrench democracy and the rule of law.'
+  roots:
+    en: en-(1) | make, put in
+    trench:
+      meaning: trench
+      roots:
+        trench: "*tere-(2) | cross over, pass through, overcome"
+  exp: 这个词直接用trench<6555,12>理解就好——想法已经深深地嵌(put in)在trench里了，拔不出来了，对应释义中的firmly established。
+  connect:
+    put in:
+      - firmly established
+      - difficult to change
+    trench:
+      - firmly established
+      - difficult to change
+  related:
+    - entrenched
+- word: trench
+  freq: 6555
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: A trench is a long narrow channel in the ground used by soldiers in order to protect themselves from the enemy. People often refer to the battlegrounds of the First World War in Northern France and Belgium as the trenches.
+  sent: We fought with them in the trenches.
+  roots:
+    trench: "*tere-(2) | cross over, pass through, overcome"
+  exp: trench就是一长条(long narrow channel)，从一边通到另一边，所以是cross over, pass through的感觉。
+  connect:
+    cross over, pass through:
+      - long narrow channel
 
-
-
-thrash  11766   173     *tere-
-drill   4814    109     *tere-
-threshold       4777    60      *tere-
-thread  4767    59      *tere-
-  threadbare      20045   138     *tere-
-detriment       14761   53      *tere-
-  detrimental     11121   53      *tere-
-thrill  5941    51      *tere-
-  thriller        8811    2       *tere-
-detour  12524   42      *tere-
-tribulation     17834   40      *tere-
-diatribe        20018   32      *tere-
-entrench        13548   29      *tere-
 avatar  17184   18      *tere-
 detritus        19483   16      *tere-
 contour 8067    14      *tere-
-trench  6555    12      *tere-
 attrition       12154   10      *tere-
 trauma  4888    -1      *tere-
   traumatize      15536   -1      *tere-

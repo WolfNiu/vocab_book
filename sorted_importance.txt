@@ -3204,7 +3204,7 @@ profession	2909	60	*bha-
 persist	4397	60	*per-,	*sta-
 alike	4440	60
 valid	4758	60	*wal-
-threshold	4777	60	*tere-
+threshold	4777	60
 probe	5241	60	*per-
 orthodox	5411	60	*dek-
 bitch	5726	60
@@ -5102,7 +5102,7 @@ aristocratic	12167	38
 watchful	12727	38	*weg-
 indulgence	12845	38	*dlegh-
 erroneous	12968	38
-entrenched	13018	38
+entrenched	13018	38  *tere-(2)
 baptize	13239	38
 nagging	13391	38
 allot	13613	38
