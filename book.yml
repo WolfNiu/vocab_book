@@ -11020,19 +11020,114 @@
   connect:
     cross over, pass through:
       - long narrow channel
+- word: avatar
+  freq: 17184
+  use: 18
+  pos: COUNTABLE NOUN
+  meaning: An avatar is an image that represents you on the screen in an online game or chatroom.
+  sent: My avatar has long hair.
+  roots:
+    ava: ava- | off, down
+    tar: "*tere-(2) | cross over, pass through, overcome"
+  exp: 前缀ava-并不常用，可以不理。这个词本来表示descent (of a deity to the earth in incarnate form)，也就是说一个神儿从天界穿行(cross over)到人间，那么这个穿过来的哥们就相当于神的代言。同样，avatar也是其背后玩家的代言。
+- word: detritus
+  freq: 19483
+  use: 16
+  pos: NOUN
+  meaning: Detritus is the small pieces of trash or waste material that remain after an event has finished or when something has been used.
+  sent: '...the detritus of war.'
+  roots:
+    de: de- | away
+    tri: "*tere-(1) | to rub, turn"
+  exp: 词根合起来表达wear away的意思，最后只剩渣渣。
+  connect:
+    away:
+      - trash
+      - waste
+      - remain
+    rub:
+      - trash
+      - waste
+      - remain
+- word: contour
+  freq: 8067
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: You can refer to the general shape or outline of an object as its contours.
+  sent: '...the texture and color of the skin, the contours of the body.'
+  roots:
+    con: com- | with, together
+    tour: "*tere-(1) | to rub, turn"
+  exp: 词根合起来表示to go around的意思，对应释义中的outline。
+  connect:
+    together:
+      - shape
+      - outline
+    turn:
+      - shape
+      - outline
+- word: attrition
+  freq: 12154
+  use: 10
+  pos: UNCOUNTABLE NOUN
+  meaning: Attrition is a process in which you steadily reduce the strength of an enemy by continually attacking them.
+  sent: The rebels have declared a cease-fire in their war of attrition against the government.
+  roots:
+    at: ad- | to
+    tri: "*tere-(1) | to rub, turn"
+  exp: 词根合起来表达a rubbing against的意思，对应释义中的continually attacking。
+  connect:
+    rub:
+      - attacking
+- word: trauma
+  freq: 4888
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Trauma is a very severe shock or very upsetting experience, which may cause psychological damage.
+  sent: I'd been through the trauma of losing a house.
+  roots:
+    trau: "*tere-(1) | to rub, turn"
+  exp: 词根表达"磨破了"的感觉，因此和wound, hurt, defeat这些概念相关。
+  connect:
+    rub:
+      - shock
+      - upsetting
+      - damage
+  related:
+    - traumatic
+    - traumatize
+- word: nostril
+  freq: 8816
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Your nostrils are the two openings at the end of your nose.
+  sent: Keeping your mouth closed, breathe in through your nostrils.
+  roots:
+    nos: "*nas- | nose"
+    tril: "*tere-(2) | cross over, pass through, overcome"
+  exp: 鼻子上用来通气儿(pass through)的部分就是nostrils。
+  connect:
+    nose:
+      - nose
+    pass through:
+      - openings
+- word: nectar
+  freq: 15496
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Nectar is a sweet liquid produced by flowers, which bees and other insects collect.
+  sent: your words are nectar to me
+  roots:
+    nect: "*nek-(1) | death"
+    tar: "*tere-(2) | cross over, pass through, overcome"
+  exp: 看来古人是认为nectar可以overcome death。
+- word: transom
+  freq: 18330
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: The transom of a boat is the surface that forms its stern.
+  sent: Her name and port of registration (Jersey) are painted on her transom in navy blue.
 
-avatar  17184   18      *tere-
-detritus        19483   16      *tere-
-contour 8067    14      *tere-
-attrition       12154   10      *tere-
-trauma  4888    -1      *tere-
-  traumatize      15536   -1      *tere-
-  traumatic       7423    -1      *tere-
-trout   5106    -1      *tere-
-nostril 8816    -1      *nas-,  *tere-
-nectar  15496   -1      *nek-,  *tere-
-turnip  15823   -1      *tere-
-transom 18330   -1      *tere-
 
 
 ## TODO: finish all "related" tabs in root.yml
