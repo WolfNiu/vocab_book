@@ -1353,7 +1353,7 @@ uphill	12254	107	*kel-
 strenuous	13012	107
 rustle	13188	107
 chime	13306	107
-irk	18533	107	*werg-
+irk	18533	107
 about	46	106	*ambhi-
 together	325	106
 judge	1119	106	*deik-

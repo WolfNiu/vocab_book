@@ -11121,13 +11121,35 @@
     nect: "*nek-(1) | death"
     tar: "*tere-(2) | cross over, pass through, overcome"
   exp: 看来古人是认为nectar可以overcome death。
-- word: transom
-  freq: 18330
-  use: -1
-  pos: COUNTABLE NOUN
-  meaning: The transom of a boat is the surface that forms its stern.
-  sent: Her name and port of registration (Jersey) are painted on her transom in navy blue.
+- word: allergy
+  freq: 7343
+  use: 36
+  pos: VARIABLE NOUN
+  meaning: If you have a particular allergy, you become ill or get a rash when you eat, smell, or touch something that does not normally make people ill.
+  sent: Food allergies can result in an enormous variety of different symptoms.
+  roots:
+    al: al-(1) | beyond
+    erg:
+      meaning: erg | work, activity
+      roots:
+        "*werg- | to do"
+  exp: 用的是*werg-中activity的那层意思，因此词根合起来表示activity beyond，也就是非正常的activities。这个概念后来就引申成了"过敏"。另外注意al + 双写的时候有可能不是ad-，而是别的前缀。
+  connect:
+    beyond:
+      - not normally
+    activity:
+      - become
+      - get
+  related:
+    - allergic
+    - allergen
 
+
+
+liturgy 11756   -1      *werg-
+  liturgical      13870   -1      *werg-
+synergy 15387   -1      *werg-
+orgy    16492   -1      *werg-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -11147,7 +11169,6 @@
 # (48, '*kwel-'),
 # (48, '*pag-'),
 # (48, '*plat-'),
-# (48, '*werg-'),
 # (50, '*es-'),
 # (50, '*gwere-'),
 # (50, '*ser-'),

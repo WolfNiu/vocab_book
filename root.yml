@@ -1206,3 +1206,29 @@ misc:
     - thorough
     - breakthrough
     - thoroughfare
+"*werg-":
+  meaning: to do
+  exp: 首先是超常用词work<117,402>，和to do高度相关。其衍生词worker<574,28>，network<885,60>，works<1646,0>，working<2843,86>。下一个energy<616,71> = en[=en-(2):at] + erg[=*werg-]，有了energy才能work。organ<3423,57> = org[=*werg-]，表达的意思是"that with which one works"——没有organ，您就甭想work。又由于organs都是各司其职，于是引申出了organize<1659,63> = organ[=organ] + ize[=-ize:verb-forming element denoting the doing of the noun or adjective to which it is attached]。其衍生词organization<600,53>也是常用词。organ的另一个衍生词organic<3094,-1>也是常用词。在美国organic food(有机食品)需要在包装上特别注明，一般售价也比非有机食品高，是比较典型的智商税。最后一个surgery<1807,-1> = s[=*ghes-:the hand] + urg[=*werg-]，词根合起来表示working or done by hand，确实是"手术"的感觉。
+    urg: "*werg- | to do"
+  related:
+    - rework
+    - fireworks
+    - handiwork
+    - workout
+    - hard-working
+    - workable
+    - co-worker
+    - workman
+    - artwork
+    - workday
+    - energetic
+    - energize
+    - organism
+    - organically
+    - inorganic
+    - organized
+    - organizer
+    - reorganization
+    - reorganize
+    - surgeon
+    - neurosurgeon
