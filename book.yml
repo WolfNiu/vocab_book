@@ -11176,22 +11176,20 @@
     activity:
       - behave in a very uncontrolled way
       - activity
+- word: dread
+  freq: 9384
+  use: 114
+  pos: TRANSITIVE VERB
+  meaning: If you dread something which may happen, you feel very anxious and unhappy about it because you think it will be unpleasant or upsetting.
+  sent: I'm dreading Christmas this year.
+  roots:
+    d: and- | against
+    read: "*re- | to reason, count"
+  exp: 词根合起来表达advise against的意思，一看就是"不想碰"的感觉。and-这个前缀并不是很常见，可以无视。
+  related:
+    - dreadful
 
 
-reason  360     184     *re-
-  reasonable      2533    -1      *re-
-  reasoning       5884    39      *re-
-  unreasonable    9447    79      *re-
-ritual  3433    58      *re-
-read    338     50      *re-
-  reading 1591    16      *re-
-  reader  1274    9       *re-
-  readership      15056   -1      *re-
-  misread 16432   -1      *re-
-  readable        17990   -1      *re-
-
-dreadful        9500    214     *ant-,  *re-
-dread   9384    114     *ant-,  *re-
 kindred 19717   90      *gene-, *re-
 rational        4533    71      *re-
   rationality     11501   -1      *re-
@@ -11201,12 +11199,12 @@ rational        4533    71      *re-
   rationalization 17086   0       *re-
 riddle  12015   60      *krei-, *re-
 ratify  9259    46      *dhe-,  *re-
+  ratification    14585   0       *dhe-,  *re-
 hatred  5322    43      *re-
 ration  11822   38      *re-
   rationing       17693   0       *re-
 rite    6611    20      *re-
 arithmetic      11702   16      *re-
-ratification    14585   0       *dhe-,  *re-
 rhyme   10457   -1      *re-,   *sreu-
 
 

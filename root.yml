@@ -1233,4 +1233,10 @@ misc:
     - neurosurgeon
 "*re-":
   meaning: to reason, count
-  exp: 这个词根发展出来的词基本上分为两部分，一部分继承了其原始意思count<1338,86>，而另一部分则继承了count的引申义reason<360,184>。从count到reason的发展很容易理解：如果我掰着手指着一项一项数，做出的就是比较理智的决定；如果我只是一拍脑袋，做出来的就是相对unreasonable的决定。我们首先从和count相关的词开始说起。首先是rate<458,140>，"比率"的概念和"计算"相关，也就相当于和count有关。其衍生词rating<1834,0>和ratio<3112,6>也都是常用词。下面一个就好玩儿了，hundred<622,127> = hund[=*dekm-:ten] + red[=*re-]，把ten数十次，就得到了hundred。
+  exp: 这个词根发展出来的词基本上分为两部分，一部分继承了其原始意思count<1338,86>，而另一部分则继承了count的引申义reason<360,184>。从count到reason的发展很容易理解：如果我掰着手指着一项一项数，做出的就是比较理智的决定；如果我只是一拍脑袋，做出来的就是相对unreasonable的决定。我们首先从和count相关的词开始说起。首先是rate<458,140>，"比率"的概念和"计算"相关，也就相当于和count有关。其衍生词rating<1834,0>和ratio<3112,6>也都是常用词。下面一个就好玩儿了，hundred<622,127> = hund[=*dekm-:ten] + red[=*re-]，把ten数十次，就得到了hundred。下面再说和引申义reason相关的词。首先reason = reas(=*re-)，无需解释。其衍生词reasonable<2533,-1>也是常用词。超常用词read<338,50>也是一种理性的行为，一般不会reason的人也不会去读东西。其衍生词reading<1591,16>和reader<1274,9>也都是常用词。
+  related:
+    - reasoning
+    - unreasonable
+    - readership
+    - misread
+    - readable

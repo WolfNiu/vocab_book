@@ -3347,7 +3347,7 @@ bite	3179	58	*bheid-
 wander	3211	58
 cookie	3297	58
 recruit	3344	58	*ker-
-ritual	3433	58	*re-
+ritual	3433	58
 trigger	3704	58
 automatic	4084	58	*men-
 proclaim	4504	58	*kele-,	*per-
