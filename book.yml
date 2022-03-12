@@ -11143,13 +11143,71 @@
   related:
     - allergic
     - allergen
+- word: synergy
+  freq: 15387
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: If there is synergy between two or more organizations or groups, they are more successful when they work together than when they work separately.
+  sent: Of course, there's quite obviously a lot of synergy between the two companies.
+  roots:
+    syn: syn- | together
+    erg:
+      meaning: erg | work, activity
+      roots:
+        erg: "*werg- | to do"
+  connect:
+    together:
+      - together
+    do:
+      - work
+- word: orgy
+  freq: 16492
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An orgy is a party in which people behave in a very uncontrolled way, especially one involving sexual activity.
+  sent: It was reminiscent of a scene from a Roman orgy.
+  roots:
+    org:
+      meaning: erg | work, activity
+      roots:
+        erg: "*werg- | to do"
+  exp: 释义中自带activity，不解释。
+  connect:
+    activity:
+      - behave in a very uncontrolled way
+      - activity
 
 
+reason  360     184     *re-
+  reasonable      2533    -1      *re-
+  reasoning       5884    39      *re-
+  unreasonable    9447    79      *re-
+ritual  3433    58      *re-
+read    338     50      *re-
+  reading 1591    16      *re-
+  reader  1274    9       *re-
+  readership      15056   -1      *re-
+  misread 16432   -1      *re-
+  readable        17990   -1      *re-
 
-liturgy 11756   -1      *werg-
-  liturgical      13870   -1      *werg-
-synergy 15387   -1      *werg-
-orgy    16492   -1      *werg-
+dreadful        9500    214     *ant-,  *re-
+dread   9384    114     *ant-,  *re-
+kindred 19717   90      *gene-, *re-
+rational        4533    71      *re-
+  rationality     11501   -1      *re-
+  irrational      8394    58      *re-
+  rationale       6132    18      *re-
+  rationalize     12249   12      *re-
+  rationalization 17086   0       *re-
+riddle  12015   60      *krei-, *re-
+ratify  9259    46      *dhe-,  *re-
+hatred  5322    43      *re-
+ration  11822   38      *re-
+  rationing       17693   0       *re-
+rite    6611    20      *re-
+arithmetic      11702   16      *re-
+ratification    14585   0       *dhe-,  *re-
+rhyme   10457   -1      *re-,   *sreu-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -11157,7 +11215,6 @@ orgy    16492   -1      *werg-
 # (34, '*ambhi-'),
 # (39, '*skel-'),
 # (39, '*wel-'),
-# (41, '*re-'),
 # (42, '*ei-'),
 # (44, '*ant-'),
 # (45, '*ne-'),
