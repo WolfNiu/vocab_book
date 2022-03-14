@@ -1807,7 +1807,7 @@ hare	14978	90
 cryptic	14997	90
 chum	16998	90
 double-edged	19556	90	*dwo-
-kindred	19717	90	*gene-,	*re-
+kindred	19717	90	*gene-
 other	75	89	*al-
 choose	601	89	*geus-
 manage	948	89	*man-
@@ -7266,7 +7266,7 @@ lieutenant	6139	20	*ten-
 don	6297	20
 greeting	6419	20
 differentiate	6479	20	*bher-
-rite	6611	20	*re-
+rite	6611	20
 firearm	6700	20	*paewr-
 discriminate	6896	20	*krei-
 multicultural	6903	20
@@ -13743,7 +13743,7 @@ babe	10453	-1
 legion	10454	-1	*leg-
 proficiency	10455	-1	*dhe-
 deplete	10456	-1	*pele-
-rhyme	10457	-1	*re-,	*sreu-
+rhyme	10457	-1	*sreu-
 coronary	10458	-1
 shattered	10459	-1
 martini	10462	-1

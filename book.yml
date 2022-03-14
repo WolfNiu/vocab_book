@@ -11188,24 +11188,85 @@
   exp: 词根合起来表达advise against的意思，一看就是"不想碰"的感觉。and-这个前缀并不是很常见，可以无视。
   related:
     - dreadful
-
-
-kindred 19717   90      *gene-, *re-
-rational        4533    71      *re-
-  rationality     11501   -1      *re-
-  irrational      8394    58      *re-
-  rationale       6132    18      *re-
-  rationalize     12249   12      *re-
-  rationalization 17086   0       *re-
-riddle  12015   60      *krei-, *re-
-ratify  9259    46      *dhe-,  *re-
-  ratification    14585   0       *dhe-,  *re-
-hatred  5322    43      *re-
-ration  11822   38      *re-
-  rationing       17693   0       *re-
-rite    6611    20      *re-
-arithmetic      11702   16      *re-
-rhyme   10457   -1      *re-,   *sreu-
+- word: rational
+  freq: 4533
+  use: 71
+  pos: ADJECTIVE
+  meaning: Rational decisions and thoughts are based on reason rather than on emotion.
+  sent: He's asking you to look at both sides of the case and come to a rational decision.
+  roots:
+    rat: "*re- | to reason, count"
+  exp: 释义中自带reason，不解释。
+  connect:
+    reason:
+      - reason
+  related:
+    - rationality
+    - irrational
+    - rationale
+    - rationalize
+    - rationalization
+- word: ration
+  freq: 11822
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: When there is not enough of something, your ration of it is the amount that you are allowed to have.
+  sent: The meat ration was down to one pound per person per week.
+  roots:
+    rat: "*re- | to reason, count"
+  exp: 释义中的amount显然和count的概念相关。
+  connect:
+    count:
+      - amount
+  related:
+    - rationing
+- word: riddle
+  freq: 12015
+  use: 60
+  pos: COUNTABLE NOUN
+  meaning: A riddle is a puzzle or joke in which you ask a question that seems to be nonsense but which has a clever or amusing answer.
+  sent: All comers to the Sphinx were asked a riddle, and failure to solve it meant death.
+  roots:
+    rid: "*re- | to reason, count"
+  exp: riddle需要reasoning才能回答。
+  connect:
+    reason:
+      - question
+      - answer
+- word: ratify
+  freq: 9259
+  use: 46
+  pos: TRANSITIVE VERB
+  meaning: When national leaders or organizations ratify a treaty or written agreement, they make it official by giving their formal approval to it, usually by signing it or voting for it.
+  sent: The parliaments of Australia and Indonesia have yet to ratify the treaty.
+  roots:
+    rat: "*re- | to reason, count"
+    fy: "-fy | make, make into"
+  exp: 用的是*re-中confirm, approve的那层意思。词根合起来表达make it count的感觉。
+  connect:
+    reason, count:
+      - official
+      - approval
+    make:
+      - make
+      - giving
+  related:
+    - ratification
+- word: arithmetic
+  freq: 11702
+  use: 16
+  pos: UNCOUNTABLE NOUN
+  meaning: Arithmetic is the part of mathematics that is concerned with the addition, subtraction, multiplication, and division of numbers.
+  sent: '...teaching the basics of reading, writing and arithmetic.'
+  roots:
+    arith: "*re- | to reason, count"
+  exp: 和count高度相关，不解释。
+  connect:
+    count:
+      - addition
+      - subtraction
+      - multiplication
+      - division
 
 
 ## TODO: finish all "related" tabs in root.yml
