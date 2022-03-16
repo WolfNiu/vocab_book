@@ -1240,3 +1240,17 @@ misc:
     - readership
     - misread
     - readable
+"*pag-":
+  meaning: to fasten
+  exp: impact<922,160> = im[=in-:in] + pact[=*pag-:to fasten]用的是fasten的原始意思，是push/drive into, strike against的感觉。pole<2815,-1>则是把棍儿戳在地上的感觉。page<709,19>表达的是把纸都钉起来，因此和fasten相关。fasten还有个很自然的引申义，就是a binding together。什么能让二者的连接更紧密呢？那就是agreement。比如peace<936,112>用的就是这种感觉。pay<287,117>的感觉也差不多——双方有aggrement才会形成交易。
+  related:
+    - peacetime
+    - peaceful
+    - repay
+    - repayment
+    - payment
+    - payer
+    - taxpayer
+    - payable
+    - paid
+    - unpaid

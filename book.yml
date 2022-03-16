@@ -11269,6 +11269,22 @@
       - division
 
 
+compact 6289    152     *pag-
+travail 18391   141     *pag-
+pacify  19834   116     *pag-
+appease 12789   76      *pag-
+propagate       12217   43      *pag-
+  propagation     16285   -1      *pag-
+impinge 19383   37      *pag-
+pact    6783    27      *pag-
+pageant 9750    21      *pag-
+patio   6984    12      *pag-
+pagan   12800   5       *pag-
+fang    14805   0       *pag-
+peasant 4733    -1      *pag-
+palette 7506    -1      *pag-
+
+
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
@@ -11283,7 +11299,6 @@
 # (48, '*ad-'),
 # (48, '*krei-'),
 # (48, '*kwel-'),
-# (48, '*pag-'),
 # (48, '*plat-'),
 # (50, '*es-'),
 # (50, '*gwere-'),

@@ -344,7 +344,7 @@ sight	1638	194
 halt	5336	194
 darling	6519	194
 abate	13658	194	*ad-
-travel	1085	193	*pag-
+travel	1085	193
 dim	5815	193
 weary	6857	193
 dispatch	7489	193
@@ -774,7 +774,7 @@ plug	5659	141
 humble	6221	141	*dhghem-
 irregular	8578	141	*reg-
 palatable	15072	141
-travail	18391	141	*pag-
+travail	18391	141
 offer	374	140	*bher-
 rate	458	140	*pau-,	*re-
 score	1074	140	*sker-
@@ -1088,7 +1088,7 @@ especially	516	119
 exactly	749	119	*ag-
 particularly	781	119	*pere-
 appropriate	1502	119	*per-
-pale	2958	119	*pag-,	*pel-
+pale	2958	119	*pel-
 angle	3014	119
 register	3199	119
 abstract	4045	119
@@ -2125,7 +2125,7 @@ dive	5184	81
 tense	6353	81	*ten-
 icy	6559	81
 astonishing	6601	81
-polar	6905	81	*kwel-,	*pag-,	*pele-
+polar	6905	81	*kwel-
 outraged	7177	81
 batter	7352	81	*bhau-
 graceful	7368	81	*gwere-
@@ -6387,7 +6387,7 @@ utmost	12071	27
 candlelight	12084	27
 formality	12329	27
 rapport	12398	27	*ad-,	*per-
-polarize	12517	27	*kwel-,	*pag-,	*pele-
+polarize	12517	27	*kwel-
 healthful	12793	27
 priceless	12829	27	*per-
 floppy	12919	27
@@ -8657,7 +8657,7 @@ leaf	1568	10
 visitor	1710	10	*weid-
 rope	3337	10
 landing	3723	10
-peel	3955	10	*pag-
+peel	3955	10
 protective	4153	10	*(s)teg-,	*per-
 alongside	4243	10	*ant-
 predator	4753	10
@@ -9179,7 +9179,7 @@ ratio	3112	6	*re-
 differently	3158	6
 herb	3607	6
 fiscal	3669	6
-traveler	3831	6	*pag-
+traveler	3831	6
 inmate	4135	6
 wagon	4234	6	*wegh-
 syndrome	4322	6
@@ -10049,7 +10049,7 @@ humiliation	7834	0	*dhghem-
 proven	7860	0	*per-
 politely	7865	0
 thinly	7866	0
-paid	7873	0
+paid	7873	0   *pag-
 trained	7880	0
 opener	7901	0
 sliced	7905	0
@@ -11780,7 +11780,7 @@ jail	2551	-1
 diversity	2553	-1	*wer-
 honest	2554	-1
 Palestinian	2555	-1
-pace	2556	-1	*pag-,	*pete-
+pace	2556	-1	*pete-
 employment	2557	-1	*plek-
 speaker	2558	-1
 impression	2559	-1	*per-
@@ -14017,7 +14017,7 @@ anti-semitism	10851	-1
 kayak	10866	-1
 storefront	10868	-1
 viral	10871	-1
-bipolar	10872	-1	*kwel-,	*pag-,	*pele-
+bipolar	10872	-1	*kwel-
 menopause	10875	-1	*me-
 electrode	10877	-1
 stylistic	10879	-1
@@ -14564,7 +14564,7 @@ cameraman	13082	-1
 ANOVA	13083	-1
 Parmesan	13085	-1
 espresso	13093	-1	*per-
-polarization	13096	-1	*kwel-,	*pag-,	*pele-
+polarization	13096	-1	*kwel-
 workman	13105	-1	*werg-
 conceptualization	13107	-1
 vaginal	13108	-1
@@ -14953,7 +14953,7 @@ coke	14455	-1
 three-hour	14456	-1
 horseshoe	14464	-1
 orthopedic	14465	-1	*pau-
-pager	14468	-1	*pag-
+pager	14468	-1
 scaffolding	14471	-1
 thirteenth	14473	-1	*dekm-
 overtone	14475	-1
@@ -17264,7 +17264,7 @@ aegis	19180	-1
 horseradish	19181	-1	*wrād-
 juggernaut	19183	-1	*gwa-
 platelet	19184	-1	*plat-
-polarity	19185	-1	*kwel-,	*pag-,	*pele-
+polarity	19185	-1	*kwel-
 italics	19186	-1
 cropped	19187	-1
 fascinated	19188	-1
