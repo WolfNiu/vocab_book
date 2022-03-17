@@ -11267,14 +11267,78 @@
       - subtraction
       - multiplication
       - division
+- word: compact
+  freq: 6289
+  use: 152
+  pos: ADJECTIVE
+  meaning: Compact things are small or take up very little space. You use this word when you think this is a good quality.
+  sent: '...my compact office in Washington.'
+  roots:
+    com: com- | with, together
+    pact: "*pag- | to fasten"
+  exp: 词根合起来表达fasten together, closely and firmly united的感觉，对应释义中的small + take up little space。
+  connect:
+    together:
+      - small
+      - take up very little space
+    fasten:
+      - small
+      - take up very little space
+- word: pacify
+  freq: 19834
+  use: 116
+  pos: TRANSITIVE VERB
+  meaning: If you pacify someone who is angry, upset, or not pleased, you succeed in making them calm or pleased.
+  sent: Is this a serious step, or is this just something to pacify the critics?
+  roots:
+    pac:
+      meaning: peace
+      roots:
+        peace: "*pag- | to fasten"
+    fy: -fy | make, make into
+  exp: 直接用peace<936,112>记就好。词根合起来是make peace的意思。
+  connect:
+    peace:
+      - calm
+      - pleased
+    make:
+      - making
+- word: appease
+  freq: 12789
+  use: 76
+  pos: TRANSITIVE VERB
+  meaning: If you try to appease someone, you try to stop them from being angry by giving them what they want.
+  sent: Gandhi was accused by some of trying to appease both factions of the electorate.
+  roots:
+    ap: ad- | to
+    pease:
+      meaning: peace
+      roots:
+        peace: "*pag- | to fasten"
+  exp: 直接用peace<936,112>记就好。词根合起来表示"bring to peace"。
+  connect:
+    peace:
+      - stop them from being angry
+- word: propagate
+  freq: 12217
+  use: 43
+  pos: TRANSITIVE VERB
+  meaning: If people propagate an idea or piece of information, they spread it and try to make people believe it or support it.
+  sent: They propagated political doctrines that promised to tear apart the fabric of society.
+  roots:
+    pro: pro- | forth
+    pag: "*pag- | to fasten"
+  exp: 用的是*pag-中agree, unite的那层意思，对应释义中的believe和support。而且这种unite还被向前方(forth)传播了，所以是"蔓延"的感觉。
+  connect:
+    forth:
+      - spread
+    fasten:
+      - believe
+      - support
+  related:
+    - propagation
 
 
-compact 6289    152     *pag-
-travail 18391   141     *pag-
-pacify  19834   116     *pag-
-appease 12789   76      *pag-
-propagate       12217   43      *pag-
-  propagation     16285   -1      *pag-
 impinge 19383   37      *pag-
 pact    6783    27      *pag-
 pageant 9750    21      *pag-
