@@ -11337,16 +11337,56 @@
       - support
   related:
     - propagation
+- word: impinge
+  freq: 19383
+  use: 37
+  pos: INTRANSITIVE VERB
+  meaning: Something that impinges on you affects you to some extent.
+  sent: '...the cuts in defense spending that have impinged on two of the region''s largest employers.'
+  roots:
+    im: in- | into, in, on, upon
+    pinge: "*pag- | to fasten"
+  exp: 词根合起来表达了drive into, strike against的感觉，以此来表达影响力，对应释义中的affect。
+  connect:
+    upon:
+      - affects
+    fasten:
+      - affects
+- word: pact
+  freq: 6783
+  use: 27
+  pos: COUNTABLE NOUN
+  meaning: A pact is a formal agreement between two or more people, organizations, or governments to do a particular thing or to help each other.
+  sent: Last month he signed a new non-aggression pact with Germany.
+  roots:
+    pact: "*pag- | to fasten"
+  exp: 用的是*pag-中binding的那层意思，这种"联结"的感觉引申出了agreement的概念。
+  connect:
+    fasten:
+      - agreement
+- word: fang
+  freq: 14805
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: Fangs are the two long, sharp, upper teeth that some animals have.
+  sent: The cobra sank its venomous fangs into his hand.
+  roots:
+    fang: "*pag- | to fasten"
+  exp: 用的是*pag-中seize, take, capture的那层意思。这蛇牙么，一咬上就特别紧(fasten)。
+- word: peasant
+  freq: 4733
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A peasant is a poor person of low social status who works on the land; used to refer to people who live in countries where farming is still a common way of life.
+  sent: '...the peasants in the Peruvian highlands.'
+  roots:
+    peas: "*pag- | to fasten"
+  exp: 用的是*pag-中fix的那层意思。所谓peasant，就是被限制在一块土地上，也没怎么见识过别的地方的人。
+  connect:
+    fasten:
+      - land
+      - countries
 
-
-impinge 19383   37      *pag-
-pact    6783    27      *pag-
-pageant 9750    21      *pag-
-patio   6984    12      *pag-
-pagan   12800   5       *pag-
-fang    14805   0       *pag-
-peasant 4733    -1      *pag-
-palette 7506    -1      *pag-
 
 
 ## TODO: finish all "related" tabs in root.yml

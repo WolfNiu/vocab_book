@@ -7178,7 +7178,7 @@ deprivation	9398	21	*per-
 germ	9465	21	*gene-
 contingent	9480	21
 cultivation	9600	21	*kwel-
-pageant	9750	21	*pag-
+pageant	9750	21
 riches	9776	21	*reg-
 remorse	10752	21	*mer-
 cadre	10792	21	*kwetwer-
@@ -12697,7 +12697,7 @@ tariff	7479	-1
 prostate	7487	-1	*per-,	*sta-
 multimedia	7499	-1
 arthritis	7502	-1	*ar-
-palette	7506	-1	*pag-
+palette	7506	-1
 lipstick	7509	-1
 genome	7513	-1	*gene-
 basil	7528	-1
