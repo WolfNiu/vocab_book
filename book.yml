@@ -11057,7 +11057,7 @@
   sent: '...the texture and color of the skin, the contours of the body.'
   roots:
     con: com- | with, together
-    tour: "*tere-(1) | to rub, turn"
+    tour: "*tere-(1) | to rub, turn
   exp: 词根合起来表示to go around的意思，对应释义中的outline。
   connect:
     together:
@@ -11386,6 +11386,51 @@
     fasten:
       - land
       - countries
+- word: ensemble
+  freq: 5286
+  use: 21
+  pos: COUNTABLE NOUN
+  meaning: An ensemble is a group of musicians, actors, or dancers who regularly perform together.
+  sent: '...an ensemble of young musicians.'
+  roots:
+    en: en- | intensive prefix
+    sem: "*sem- | one; as one, together with"
+  exp: 释义中自带together，不解释。
+  connect:
+    as one, together:
+      - group
+      - together
+- word: simulate
+  freq: 8044
+  use: 25
+  pos: TRANSITIVE VERB
+  meaning: If you simulate an action or a feeling, you pretend that you are doing it or feeling it.
+  sent: They rolled about on the Gilligan Road, simulating a bloodthirsty fight.
+  roots:
+    sim: "*sem- | one; as one, together with"
+  exp: 和同源词similar<721,50>一样，用的是*sem-中"相似"的那层意思，这回是让现时与虚拟的感觉"as one"。
+  connect:
+    as one:
+      - pretend
+  related:
+    - simulation
+    - simulated
+
+ace     12262   208     *sem-
+anomalous       17424   68      *sem-
+abnormal        8398    67      *sem-
+  abnormality     11731   44      *sem-
+assimilate      9655    67      *sem-
+  assimilation    9592    -1      *sem-
+facsimile       19296   65      *dhe-,  *sem-
+anomaly 9064    44      *sem-
+disassemble     19396   38      *sem-
+homily  18534   22      *sem-
+simultaneously	3696	12  *sem-
+  simultaneous    8883    8       *sem-
+homosexual      6902    -1      *sem-
+  homosexuality   6781    -1      *sem-
+heterosexual    7777    -1      *sem-
 
 
 
@@ -11412,7 +11457,6 @@
 # (51, '*ghabh-'),
 # (51, '*gno-'),
 # (53, '*pau-'),
-# (53, '*sem-'),
 # (55, '*ker-'),
 # (55, '*kwo-'),
 # (55, '*plek-'),

@@ -4961,7 +4961,7 @@ resemblance	7696	39	*sem-
 troubling	7703	39
 conjure	7876	39
 forearm	8039	39	*ar-
-simplify	8647	39	*dhe-
+simplify	8647	39	*sem-,  *dhe-
 illicit	8968	39
 preoccupation	8979	39	*kap-
 outspoken	8994	39
@@ -6826,7 +6826,7 @@ team	308	23	*deuk-
 already	335	23
 teacher	372	23	*deik-
 building	502	23	*bheue-
-simply	584	23
+simply	584	23 *sem-
 language	723	23	*dnghu-
 environment	858	23
 citizen	1088	23	*kei-
@@ -8378,7 +8378,7 @@ headline	3320	12	*kaput-
 sculpture	3457	12	*skel-
 logic	3497	12	*leg-
 sandwich	3564	12
-simultaneously	3696	12
+simultaneously	3696	12  *sem-
 forehead	3825	12	*kaput-
 carve	3840	12
 expertise	3936	12	*per-
@@ -10691,7 +10691,7 @@ gratefully	14771	0
 playfully	14779	0
 walk-in	14793	0	*wel-
 charred	14798	0
-simplified	14804	0
+simplified	14804	0   *sem-,  *dhe-
 fang	14805	0	*pag-
 idealized	14819	0
 coolly	14831	0	*gel-
@@ -11092,7 +11092,7 @@ dreaming	19480	0
 chomp	19510	0
 clockwork	19526	0
 directed	19533	0
-simplification	19541	0	*dhe-
+simplification	19541	0	*sem-,  *dhe-
 fired	19546	0
 offered	19552	0
 underwriting	19553	0

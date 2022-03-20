@@ -48324,6 +48324,9 @@ Jenny's writing a film script.
 - word: ensemble
   freq: 5286
   use: 21
+  pos: COUNTABLE NOUN
+  meaning: An ensemble is a group of musicians, actors, or dancers who regularly perform together.
+  sent: '...an ensemble of young musicians.'
 - word: convenient
   freq: 5438
   use: 21
