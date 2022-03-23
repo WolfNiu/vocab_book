@@ -1242,7 +1242,7 @@ misc:
     - readable
 "*pag-":
   meaning: to fasten
-  exp: impact<922,160> = im[=in-:in] + pact[=*pag-:to fasten]用的是fasten的原始意思，是push/drive into, strike against的感觉。pole<2815,-1>则是把棍儿戳在地上的感觉。page<709,19>表达的是把纸都钉起来，因此和fasten相关。fasten还有个很自然的引申义，就是a binding together。什么能让二者的连接更紧密呢？那就是agreement。比如peace<936,112>用的就是这种感觉。pay<287,117>的感觉也差不多——双方有aggrement才会形成交易。
+  exp: impact<922,160> = im[=in-:in] + pact[=*pag-]用的是fasten的原始意思，是push/drive into, strike against的感觉。pole<2815,-1>则是把棍儿戳在地上的感觉。page<709,19>表达的是把纸都钉起来，因此和fasten相关。fasten还有个很自然的引申义，就是a binding together，因为fasten象征着物体之间的紧密连接。什么能让二者的连接更紧密呢？那就是agreement。比如peace<936,112>用的就是这种感觉。pay<287,117>的感觉也差不多——双方有aggrement才会形成交易。
   related:
     - peacetime
     - peaceful
@@ -1256,7 +1256,7 @@ misc:
     - unpaid
 "*sem-":
   meaning: one; as one, together with
-  exp: simple<764,318> = simp[=*sem-]。单一的(one)往往就是简单的(simple)，比如打一份工就没有身兼数职难，一根筋的脑子也不是很复杂，因为只能想一件事。其衍生词simply<584,23>也是常用词。这个same<161,36>就不用说了吧？两个事物相同(same)，说明二者是一(one)码事。similar<721,50> = sim[=*sem-]表达"相似"的概念，也用的是同样的感觉。seem<165,15>表达的是"似乎"、"好像"的概念，也和similar的感觉差不多。其衍 生词seemingly<3576,26>也是常用词。some<60,39>作为绝世常用词，表示的是"某一个"或"某一种"，比如someone<420,9>，sometimes<446,38>，以及更加抽象一些的somehow<1658,4>和somewhat<1910,48>。single<633,59>也很好解释——就一个嘛。resemble<3083,18> = re[re-:intensive prefix] + sem[=*sem-]，这里前缀re-具体表示什么不重要，关键是*sem-的部分再次用了"相似"的概念。assemble<3591,156> = as[=ad-:to] + sem[=*sem-]，表达"to put parts together"的感觉。
+  exp: simple<764,318> = simp[=*sem-]。单一的(one)往往就是简单的(simple)，比如打一份工就没有身兼数职难，一根筋的脑子也不是很复杂，因为只能想一件事。其衍生词simply<584,23>也是常用词。这个same<161,36>就不用说了吧？两个事物相同(same)，说明二者是一(one)码事。similar<721,50> = sim[=*sem-]表达"相似"的概念，也用的是同样的感觉。seem<165,15>表达的是"似乎"、"好像"的概念，也和similar的感觉差不多。其衍 生词seemingly<3576,26>也是常用词。some<60,39>作为绝世常用词，表示的是"某一个"或"某一种"，比如someone<420,9>，sometimes<446,38>，以及更加抽象一些的somehow<1658,4>和somewhat<1910,48>。single<633,59>也很好解释——就一个嘛。resemble<3083,18> = re[re-:intensive prefix] + sem[=*sem-]，这里前缀re-具体表示什么不重要，关键是*sem-的部分再次用了"相似"的概念。assemble<3591,156> = as[=ad-:to] + sem[=*sem-]，表达"to put parts together"的感觉。最后simultaneously<3696,12> = sim[:*sem-]表达的是"at the same time"的感觉。
   related:
     - simplicity
     - simplistic
@@ -1276,3 +1276,5 @@ misc:
     - seeming
     - resemblance
     - assemblage
+    - disassemble
+    - simultaneous

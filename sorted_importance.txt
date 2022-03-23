@@ -2809,7 +2809,7 @@ pending	6915	67	*(s)pen-
 scarcely	7095	67
 sweetheart	7345	67	*kerd-
 degradation	7910	67	*ghredh-
-abnormal	8398	67	*sem-
+abnormal	8398	67
 improper	8408	67	*per-
 bitterness	8479	67	*bheid-
 high-level	8627	67
@@ -4094,7 +4094,7 @@ trendy	9635	48
 locus	9703	48
 stained	9930	48
 focused	10891	48
-homogeneous	11504	48	*gene-
+homogeneous	11504	48	*sem-,  *gene-
 ax	11614	48
 pointless	11739	48	*peuk-
 blockade	11868	48
@@ -4467,7 +4467,7 @@ derivative	11038	44	*rei-
 valuation	11129	44	*wal-
 clerical	11333	44
 hem	11338	44
-abnormality	11731	44	*sem-
+abnormality	11731	44
 ingenious	11844	44	*gene-
 incomprehensible	11978	44	*ghend-
 groundwork	12079	44
@@ -15623,7 +15623,7 @@ bingo	15789	-1
 wryly	15792	-1	*wer-
 devaluation	15794	-1	*wal-
 philanthropic	15795	-1	*ner-
-homophobia	15796	-1
+homophobia	15796	-1  *sem-
 directional	15797	-1
 earnestly	15798	-1
 scum	15799	-1	*(s)keu-
@@ -15921,7 +15921,7 @@ tendril	16160	-1	*ten-
 rigorously	16161	-1
 subcontractor	16162	-1
 carver	16163	-1
-homogeneity	16164	-1
+homogeneity	16164	-1  *homo-, *gene-
 terrier	16165	-1	*ters-
 altruism	16167	-1	*al-
 orphaned	16168	-1

@@ -11415,24 +11415,130 @@
   related:
     - simulation
     - simulated
-
-ace     12262   208     *sem-
-anomalous       17424   68      *sem-
-abnormal        8398    67      *sem-
-  abnormality     11731   44      *sem-
-assimilate      9655    67      *sem-
-  assimilation    9592    -1      *sem-
-facsimile       19296   65      *dhe-,  *sem-
-anomaly 9064    44      *sem-
-disassemble     19396   38      *sem-
-homily  18534   22      *sem-
-simultaneously	3696	12  *sem-
-  simultaneous    8883    8       *sem-
-homosexual      6902    -1      *sem-
-  homosexuality   6781    -1      *sem-
-heterosexual    7777    -1      *sem-
-
-
+- word: ace
+  freq: 12262
+  use: 208
+  pos: COUNTABLE NOUN
+  meaning: An ace is a playing card with a single symbol on it. In most card games, the ace of a particular suit has either the highest or the lowest value of the cards in that suit.
+  sent: '...the ace of hearts.'
+  roots:
+    ace: "*sem- | one; as one, together with"
+  exp: ace其实就是"一"，在扑克牌中，ace一般要么是正数第一大，要么是倒数第一大。
+  connect:
+    one:
+      - the highest or the lowest value
+- word: anomaly
+  freq: 9064
+  use: 44
+  pos: COUNTABLE NOUN
+  meaning: If something is an anomaly, it is different from what is usual or expected.
+  sent: The space shuttle had stopped transmitting data, a very serious anomaly for the mission.
+  roots:
+    an: an-(1) | not
+    om: "*sem- | one; as one, together with"
+  exp: 词根合起来是"not as one, not together with"，说明跟其他人不在一个频道上，对应释义中的"different from what is usual or expected"。字母互换上有一点tricky，因为*sem-中的s被直接省掉了。
+  connect:
+    not:
+      - different
+    as one, together with:
+      - usual
+      - expected
+  related:
+    - anomalous
+- word: assimilate
+  freq: 9655
+  use: 67
+  pos: TRANSITIVE VERB
+  meaning: When people such as immigrants assimilate into a community or when that community assimilates them, they become an accepted part of it.
+  sent: There is every sign that new Asian-Americans are just as willing to assimilate.
+  roots:
+    as: ad- | to
+    sim: "*sem- | one; as one, together with"
+  exp: 融入社群就是together with的感觉。
+  connect:
+    as one, together with:
+      - accepted
+  related:
+    - assimilation
+- word: facsimile
+  freq: 19296
+  use: 65
+  pos: COUNTABLE NOUN
+  meaning: A facsimile of something is a copy or an imitation of it.
+  sent: '...a facsimile edition of Beethoven''s musical manuscripts.'
+  roots:
+    fac: "*dhe- | to set, put"
+    sim: "*sem- | one; as one, together with"
+  exp: 词根合起来表示make similar，所以是copy/imitation。
+  connect:
+    as one, together with:
+      - copy
+      - imitation
+- word: homily
+  freq: 18534
+  use: 22
+  pos: COUNTABLE NOUN
+  meaning: A homily is a speech or piece of writing in which someone complains about the state of something or tells people how they ought to behave.
+  sent: '...a receptive audience for his homily on moral values.'
+  roots:
+    hom: "*sem- | one; as one, together with"
+  exp: 词根表达的是"an assembled crowd"的意思，也就是大家聚在一起听某个人BB。
+- word: homosexual
+  freq: 6902
+  use: -1
+  pos: ADJECTIVE
+  meaning: A homosexual relationship is a sexual relationship between people of the same sex.
+  sent: '...partners in a homosexual relationship.'
+  roots:
+    homo:
+      meaning: homo- | same, the same, equal, like"
+      roots:
+        homo-: "*sem- | one; as one, together with"
+    sex: sex
+  exp: 释义中自带same，不解释。顺便提一下，歧视同性恋是开倒车的表现，当然我们对这种历史的倒退也算见怪不怪了。
+  connect:
+    same:
+      - same
+    sex:
+      - sex
+  related:
+    - homosexuality
+    - homophobia
+- word: heterosexual
+  freq: 7777
+  use: -1
+  pos: ADJECTIVE
+  meaning: A heterosexual relationship is a sexual relationship between a man and a woman.
+  sent: An increasing number of people are becoming infected with HIV through heterosexual sex.
+  roots:
+    hetero:
+      meaning: hetero- | other, different
+      roots:
+        he: "*sem- | one; as one, together with"
+        ter: -ter | other
+    sex: sex
+  exp: 词根合起来表达的是"the other sex"的意思。其实后缀-ter也还算有用，比如alter<2910,24> = al[=*al-(1):beyond] + ter[-ter]。
+- word: homogeneous
+  freq: 11504
+  use: 48
+  pos: ADJECTIVE
+  meaning: Homogeneous is used to describe a group or thing which has members or parts that are all the same.
+  sent: The unemployed are not a homogeneous group.
+  roots:
+    homo:
+      meaning: homo- | same, the same, equal, like"
+      roots:
+        homo-: "*sem- | one; as one, together with"
+    gene: "*gene- | give birth, beget"
+  exp: 词根合起来表达"of the same kind"的意思。
+  connect:
+    same:
+      - same
+    give birth:
+      - group
+      - thing
+      - members
+      - parts
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
