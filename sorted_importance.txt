@@ -12,7 +12,7 @@ mean	154	516	*medhyo-,	*men-
 head	252	506	*kaput-
 take	63	501
 down	118	498
-low	361	485	*kele-,	*klei-,	*legh-
+low	361	485	*legh-
 beat	1040	477	*bhau-
 right	193	469	*per-,	*reg-
 charge	926	469	*kers-
@@ -1230,7 +1230,7 @@ erect	6449	112	*reg-
 handcuff	11521	112
 further	11556	112	*per-
 unqualified	14684	112	*dhe-
-belie	15222	112	*legh-
+belie	15222	112
 half	548	111	*skel-
 certain	578	111	*krei-
 entire	871	111	*tag-
@@ -1462,7 +1462,7 @@ diminutive	14885	102	*mei-
 tasteless	18513	102	*geus-,	*tag-
 overbearing	19991	102	*bher-
 realize	621	101	*reg-
-lie	752	101	*legh-
+lie	752	101
 recall	1132	101	*gal-
 conflict	1183	101
 aspect	1364	101	*spek-
@@ -2219,7 +2219,7 @@ garnish	9691	79	*wer-
 inexperienced	10895	79	*per-
 bristle	11363	79
 replication	13330	79	*plek-
-lowly	14064	79	*kele-,	*klei-,	*legh-
+lowly	14064	79	*legh-
 grueling	14691	79
 endearing	16523	79
 psycho	16684	79
@@ -5572,7 +5572,7 @@ reflect	1007	33
 ahead	1028	33	*kaput-
 strength	1282	33
 sample	1318	33	*em-
-below	1457	33	*kele-,	*klei-,	*legh-
+below	1457	33	*legh-
 yellow	1675	33	*ghel-
 doubt	1920	33	*dwo-
 cabin	3178	33
@@ -8959,7 +8959,7 @@ selective	6292	8	*leg-
 mainland	6300	8
 spirituality	6558	8
 clergy	6605	8
-liar	6779	8	*legh-
+liar	6779	8
 landlord	6835	8
 paradox	6871	8	*dek-
 gratitude	7175	8	*gwere-
@@ -11359,7 +11359,7 @@ virtually	2063	-1	*wi-ro-
 addition	2065	-1	*ad-,	*do-
 sharp	2066	-1	*sker-
 creative	2067	-1	*ker-
-lower	2068	-1	*kele-,	*klei-,	*legh-
+lower	2068	-1	*legh-
 approve	2070	-1	*per-
 explanation	2071	-1	*pele-
 gay	2073	-1

@@ -11539,6 +11539,29 @@
       - thing
       - members
       - parts
+- word: lazy
+  freq: 6331
+  use: 111
+  pos: ADJECTIVE
+  meaning: If someone is lazy, they do not want to work or make any effort to do anything.
+  sent: Lazy and incompetent police officers are letting the public down.
+  roots:
+    laz: "*legh- | to lie down, lay"
+  exp: 懒人就是整天躺着。
+  connect:
+    lie down, lay:
+      - do not want to work or make any effort
+  related:
+    - laziness
+    - lazily
+
+
+litter  8243    82      *legh-
+lair    18236   42      *legh-
+allay   17871   39      *legh-
+ledge   8472    -1      *legh-
+  ledger  12775   19      *legh-
+
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
