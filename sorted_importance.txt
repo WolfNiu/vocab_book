@@ -12901,7 +12901,7 @@ demonstrator	8461	-1	*men-
 microscope	8463	-1
 subscription	8466	-1
 cucumber	8471	-1
-ledge	8472	-1	*legh-
+ledge	8472	-1
 mediation	8476	-1	*medhyo-
 best-seller	8477	-1
 relay	8481	-1	*leip-
