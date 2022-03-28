@@ -11057,7 +11057,7 @@
   sent: '...the texture and color of the skin, the contours of the body.'
   roots:
     con: com- | with, together
-    tour: "*tere-(1) | to rub, turn
+    tour: "*tere-(1) | to rub, turn"
   exp: 词根合起来表示to go around的意思，对应释义中的outline。
   connect:
     together:
@@ -11603,9 +11603,69 @@
   roots:
     ledg: "*legh- | to lie down, lay"
   exp: 词根表达的是"a book that lies permanently in some specified place"。因为是账本儿嘛，不能老挪地方。顺便提一下，随着cryptocurrency(加密货币)的兴起，ledger八成会成为未来的超常用词。所以能记还是记一下吧。
+- word: neophyte
+  freq: 19595
+  use: 30
+  pos: COUNTABLE NOUN
+  meaning: A neophyte is someone who is new to a particular activity.
+  sent: '...the self-proclaimed political neophyte Ross Perot.'
+  roots:
+    neo: neo- | new, young, recent
+    phyte: "*bheue- | to be, exist, grow"
+  exp: 词根合起来表达"全新的存在"。
+  connect:
+    new:
+      - new
+    be:
+      - is
+- word: fiat
+  freq: 14395
+  use: 23
+  pos: NOUN
+  meaning: If something is done by fiat, it is done because of an official order given by someone in authority.
+  sent: He has tried to impose solutions to the country's problems by fiat.
+  roots:
+    fiat: "*bheue- | to be, exist, grow"
+  exp: 用的是*bheue-中come into existence的那层意思。这种权威机构颁布的政令，一经发出就不能更改了。
+  connect:
+    exist:
+      - official
+      - authority
+- word: tribunal
+  freq: 7275
+  use: 9
+  pos: COLLECTIVE COUNTABLE NOUN
+  meaning: A tribunal is a special court or committee that is appointed to deal with particular problems.
+  sent: His case comes before an industrial tribunal in March.
+  roots:
+    trib:
+      meaning: tribe
+      roots:
+        tri: tri- | three
+        be: "*bheue- | to be, exist, grow"
+  exp: tribune本来指的就是head of a tribe，后来才发展出了"特殊法庭"的概念。
 
 
-  ledger  12775   19      *legh-
+bond    1894    86      *bhendh-,       *bheue-
+  bonding 9985    5       *bhendh-,       *bheue-
+  bondage 16822   15      *bheue-
+physical        804     45      *bheue-
+  physician       2058    -1      *bheue-
+  physics 3446    0       *bheue-
+  physicist       5638    -1      *bheue-
+  astrophysicist  16832   -1      *bheue-
+  physique        14312   9       *bheue-
+husband 638     35      *bheue-
+boundary        2800    -1      *bheue-
+  bound   8153    156     *bheue-
+  boundless       16324   -1      *bheue-
+neighbor        1446    27      *bheue-
+  neighborhood    1137    39      *bheue-
+
+tribute 5009    27      *bheue-
+  tributary       11725   11      *bheue-
+forebear        16535   21      *bheue-
+booth   4346    -1      *bheue-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -11637,7 +11697,6 @@
 # (56, '*(s)pen-'),
 # (56, '*wegh-'),
 # (57, '*kel-'),
-# (59, '*bheue-'),
 # (59, '*dwo-'),
 # (60, '*ar-'),
 # (60, '*spek-'),

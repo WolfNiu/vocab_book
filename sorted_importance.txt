@@ -633,7 +633,7 @@ eat	544	154	*ed-
 healthy	1476	154
 appreciate	1751	154	*per-
 suspicion	3800	154	*spek-
-bustle	13857	154	*bheue-
+bustle	13857	154
 determine	774	153
 observe	1301	153	*ser-
 grade	1432	153	*ghredh-
@@ -1663,7 +1663,7 @@ nefarious	19872	95	*bha-,	*ne-
 child	115	94
 completely	1173	94	*pele-
 complex	1607	94	*plek-
-boom	3198	94	*bheue-
+boom	3198	94
 bay	3561	94
 nightmare	3620	94	*mer-
 anxious	3864	94	*angh-
@@ -3810,7 +3810,7 @@ misty	11379	52	*meigh-
 saturate	11432	52	*sa-
 quarrel	11470	52
 jig	11538	52
-bustling	11707	52	*bheue-
+bustling	11707	52
 enlighten	11853	52	*leuk-
 hard-line	12093	52	*kar-
 latch	12266	52
@@ -3846,7 +3846,7 @@ float	3166	51	*pleu-
 venture	3322	51
 curve	3493	51	*sker-
 missing	3530	51	*mei-
-beam	3777	51	*bheue-
+beam	3777	51
 hug	3895	51
 inventory	4005	51	*gwa-
 casualty	4272	51	*kad-

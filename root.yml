@@ -1309,3 +1309,17 @@ misc:
     - low-key
     - lowly
     - fellowship
+"*bheue-":
+  meaning: to be, exist, grow
+  exp: be<2,105>及其衍生词being<1686,73>都来源于这个词根。怎么样？看到词频为2的单词是不是有种见到老大的感觉。future<655,54> = fut(=*bheue-)，表达"going to be, yet to be"的意思。build<409,84>用的是*bheue-中grow的那层意思。其衍生词building<502,23>和rebuild<3826,-1> = re[:re-:back,again] + build[=*bheue-]也都是常用词。下面我们先跳到tribe<2971,29> = tri[=tri-:three] + be[=*bheue-]，因为需要用它来引出一大家子常用词。tribe的原始意思是"one of the three political/ethnic divisions of the original Roman state"，而词根合起来的意思正是"三个存在"。之后从tribe的概念引申出了trib这个词根，意思是"to allot,pay,assign,give,bestow"，其实就是在表达"allot among the tribes"的感觉(三个部落打来的战利品总还是要在内部分一分)。由此概念衍生出的常用词有一堆。distribute<2968,106> = dis[=dis-:apart,away] + tribute[=trib]，是很明显的"分发"的感觉。其衍生词distribution<2394,-1>也是常用词。attribute<3377,68> = at[=ad-:to] + tribute[=trib]，表达的是"归因"的概念，因此也和assign(分配)高度相关。下面contribute<1319,48> = con[=con-:with,together] + tribute[=trib]，用的是"pay,give"概念。其衍生词contribution<1789,17>也是衍生词。
+  related:
+    - futuristic
+    - builder
+    - tribal
+    - tribesman
+    - distributor
+    - redistribute
+    - redistribution
+    - attribution
+    - attributable
+    - contributor
