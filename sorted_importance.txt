@@ -3944,7 +3944,7 @@ ragged	8314	50
 facet	8962	50	*dhe-
 relinquish	9677	50	*leikw-
 envelop	10923	50
-metaphysical	11126	50
+metaphysical	11126	50  *bheue-
 inadequacy	12013	50
 snarl	12649	50
 drench	13348	50
@@ -9720,7 +9720,7 @@ successfully	3205	0   *ked-
 shrug	3219	0
 garage	3237	0	*wer-
 gifted	3267	0	*ghabh-
-physically	3271	0
+physically	3271	0   *bheue-
 fighting	3285	0
 carrier	3298	0	*kers-
 recording	3348	0
@@ -15443,7 +15443,7 @@ hiatus	15587	-1	*ghieh-
 misstep	15588	-1
 chug	15589	-1
 restitution	15590	-1	*sta-
-metaphysics	15591	-1
+metaphysics	15591	-1  *bheue-
 self-serving	15593	-1
 calming	15594	-1
 genitals	15595	-1	*gene-
