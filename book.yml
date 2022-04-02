@@ -11644,23 +11644,110 @@
         tri: tri- | three
         be: "*bheue- | to be, exist, grow"
   exp: tribune本来指的就是head of a tribe，后来才发展出了"特殊法庭"的概念。
+- word: tribute
+  freq: 5009
+  use: 27
+  pos: VARIABLE NOUN
+  meaning: A tribute is something that you say, do, or make to show your admiration and respect for someone.
+  sent: The song is a tribute to Roy Orbison.
+  roots:
+    trib:
+      meaning: trib | to pay, assign, grant
+      roots:
+        tri: tri- | three
+        be: "*bheue- | to be, exist, grow"
+  exp: 用的是*bheue-中pay, assign, allot的那层意思，因为一般我们会说pay respect to someone。另外，这回我们终于知道"致敬"应该怎么说啦。
+  connect:
+    pay:
+      - admiration
+      - respect
+  related:
+    - tributary
+- word: forebear
+  freq: 16535
+  use: 21
+  pos: NOUN
+  meaning: Your forebears are your ancestors.
+  sent: I'll come back to the land of my forebears.
+  roots:
+    fore: fore- | before
+    be: "*bheue- | to be, exist, grow"
+    ar: -er | man who has to do with
+  exp: 词根合起来表示"one who exists before me"，果然是ancestor<4178,34>的感觉啊。
+  connect:
+    before:
+      - ancestors
+    exist:
+      - ancestors
+    man:
+      - ancestors
+- word: booth
+  freq: 4346
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A booth is a small area separated from a larger public area by screens or thin walls where, for example, people can make a telephone call or vote in private.
+  sent: I called her from a public phone booth near the entrance to the bar.
+  roots:
+    booth: "*bheue- | to be, exist, grow"
+  exp: 用的是*bheue-中dwell<7296,61>的那层意思。booth原本就表示"temporary dwelling"。
 
 
-physics 3446    0       *bheue-
-  physical        804     45      *bheue-
-  physically      3271    0   *bheue-
-  physician       2058    -1      *bheue-
-  physicist       5638    -1      *bheue-
-  physique        14312   9       *bheue-
+educate 3059    56      *deuk-
+  educational     1596    29      *deuk-
+  education       377     27      *deuk-
+  educator        2450    -1      *deuk-
+  educated        6023    84      *deuk-
+  uneducated      16344   -1      *deuk-
+introduce       1230    139     *deuk-
+  introduction    2926    22      *deuk-
+  reintroduce     12959   -1      *deuk-
+produce 543     244     *deuk-, *per-
+  producer        1859    -1      *deuk-, *per-
+  reproduce       5044    58      *deuk-, *per-
+  reproduction    5739    39      *deuk-, *per-
+  reproductive    5951    -1      *deuk-, *per-
+  productive      4006    88      *deuk-, *per-
+  productivity    4197    13      *deuk-, *per-
+  counterproductive       11814   20      *deuk-, *per-
+  unproductive    18089   76      *deuk-, *per-
+  production      962     38      *deuk-
+reduce  702     95      *deuk-
+  reduction       2290    -1      *deuk-
+team    308     23      *deuk-
+  teamwork        12135   12      *deuk-
+conduct 1166    171     *deuk-
+  conductor       5996    -1      *deuk-
+  semiconductor   8921    -1      *deuk-
+  misconduct      9112    67      *deuk-
+tie     1510    84      *deuk-
+  untie   14676   18      *deuk-
 
-metaphysics     15591   -1  *bheue-
-  metaphysical    11126   50  *bheue-
-astrophysicist  16832   -1      *bheue-
 
-tribute 5009    27      *bheue-
-  tributary       11725   11      *bheue-
-forebear        16535   21      *bheue-
-booth   4346    -1      *bheue-
+con     5691    161     *deuk-, *gno-
+induce  5326    130     *deuk-
+  induction       10979   31      *deuk-
+  inducement      17568   14      *deuk-
+contrary        5566    116     *deuk-, *gno-
+tug     6303    94      *deuk-
+dock    4965    93      *deuk-
+teeming 14247   38      *deuk-
+seduce  8781    30      *deuk-
+  seduction       12718   17      *deuk-
+  seductive       10064   -1      *deuk-
+deduce  13706   27      *deuk-
+  deduction       7141    49      *deuk-
+  deductible      14357   -1      *deuk-
+conduit 12418   23      *deuk-
+conducive       11286   17      *deuk-
+tow     9198    20      *deuk-
+abduct  11732   20      *deuk-
+  abduction       11329   5       *deuk-
+duct    8809    16      *deuk-
+docket  19787   15      *deuk-
+taut    10701   -1      *deuk-
+contraception   12742   -1      *deuk-, *gno-
+duke    13528   -1      *deuk-
+transducer      17554   -1      *deuk-
 
 
 ## TODO: finish all "related" tabs in root.yml
