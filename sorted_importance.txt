@@ -562,7 +562,7 @@ look	85	161
 public	334	161
 absorb	3145	161
 neat	4734	161
-con	5691	161	*deuk-,	*gno-
+con	5691	161
 dreary	13238	161
 peck	14919	161
 pull	472	160
@@ -1148,7 +1148,7 @@ stroke	3133	116
 weird	3731	116	*wer-
 steep	4011	116
 depart	4886	116	*pere-
-contrary	5566	116	*deuk-,	*gno-
+contrary	5566	116
 formidable	6323	116
 bait	6437	116	*bheid-
 comeback	6594	116
@@ -1694,7 +1694,7 @@ violence	1041	93
 alone	1101	93	*oi-no-
 swallow	3569	93
 needle	3841	93
-dock	4965	93	*deuk-
+dock	4965	93
 bizarre	5007	93
 plague	6742	93	*plak-
 withhold	6756	93	*kel-

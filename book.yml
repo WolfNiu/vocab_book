@@ -11690,58 +11690,110 @@
   roots:
     booth: "*bheue- | to be, exist, grow"
   exp: 用的是*bheue-中dwell<7296,61>的那层意思。booth原本就表示"temporary dwelling"。
+- word: tug
+  freq: 6303
+  use: 94
+  pos: COUNTABLE NOUN
+  meaning: If you tug something or tug at it, you give it a quick and usually strong pull.
+  sent: A little boy came running up and tugged at his sleeve excitedly.
+  roots:
+    tug: "*deuk- | to lead"
+  exp: 用的是*deuk-中to draw, pull, drag的那层意思，对应释义中的pull。
+  connect:
+    lead:
+      - pull
+- word: induce
+  freq: 5326
+  use: 130
+  pos: TRANSITIVE VERB
+  meaning: To induce a state or condition means to cause it.
+  sent: Doctors said surgery could induce a heart attack.
+  roots:
+    in: in- | into, in, on, upon
+    duce: "*deuk- | to lead"
+  exp: 词根合起来表示lead into，对应释义中的cause。
+  connect:
+    into:
+      - cause
+    lead:
+      - cause
+  related:
+    - induction
+    - inducement
+- word: seduce
+  freq: 8781
+  use: 30
+  pos: TRANSITIVE VERB
+  meaning: If something seduces you, it is so attractive that it makes you do something that you would not otherwise do.
+  sent: The view of lake and plunging cliffs seduces visitors.
+  roots:
+    se: se- | aside, away
+    duce: "*deuk- | to lead"
+  exp: 词根合起来表示lead away, lead astray。
+  connect:
+    away:
+      - attractive
+    lead:
+      - attractive
+  related:
+    - seduction
+    - seductive
+- word: deduce
+  freq: 13706
+  use: 27
+  pos: TRANSITIVE VERB
+  meaning: If you deduce something or deduce that something is true, you reach that conclusion because of other things that you know to be true.
+  sent: Alison cleverly deduced that I was the author of the letter.
+  roots:
+    de: de- | down
+    duce: "*deuk- | to lead"
+  exp: 词根合起来表达了lead down, derive的感觉。
+  connect:
+    down:
+      - reach
+      - conclusion
+    lead:
+      - reach
+      - conclusion
+- word: deduction
+  freq: 7141
+  use: 49
+  pos: COUNTABLE NOUN
+  meaning: A deduction is an amount that has been subtracted from a total.
+  sent: Most homeowners can get a federal income tax deduction on interest payments to a home equity loan.
+  roots:
+    de: de- | down
+    duct: "*deuk- | to lead"
+  exp: 词根合起来表达lead or bring away or down，确实是subtract的感觉。
+  connect:
+    down:
+      - subtract
+    lead:
+      - subtract
+  related:
+    - deductible
+- word: abduct
+  freq: 11732
+  use: 20
+  pos: TRANSITIVE VERB
+  meaning: If someone is abducted by another person, he or she is taken away illegally, usually using force.
+  sent: He was on his way to the airport when his car was held up and he was abducted by four gunmen.
+  roots:
+    ab: ab- | off, away from
+    duct: "*deuk- | to lead"
+  exp: 词根合起来表示to lead away, take away, arrest。
+  connect:
+    away:
+      - away
+    lead:
+      - taken
+  related:
+    - abduction
 
-
-educate 3059    56      *deuk-
-  educational     1596    29      *deuk-
-  education       377     27      *deuk-
-  educator        2450    -1      *deuk-
-  educated        6023    84      *deuk-
-  uneducated      16344   -1      *deuk-
-introduce       1230    139     *deuk-
-  introduction    2926    22      *deuk-
-  reintroduce     12959   -1      *deuk-
-produce 543     244     *deuk-, *per-
-  producer        1859    -1      *deuk-, *per-
-  reproduce       5044    58      *deuk-, *per-
-  reproduction    5739    39      *deuk-, *per-
-  reproductive    5951    -1      *deuk-, *per-
-  productive      4006    88      *deuk-, *per-
-  productivity    4197    13      *deuk-, *per-
-  counterproductive       11814   20      *deuk-, *per-
-  unproductive    18089   76      *deuk-, *per-
-  production      962     38      *deuk-
-reduce  702     95      *deuk-
-  reduction       2290    -1      *deuk-
-team    308     23      *deuk-
-  teamwork        12135   12      *deuk-
-conduct 1166    171     *deuk-
-  conductor       5996    -1      *deuk-
-  semiconductor   8921    -1      *deuk-
-  misconduct      9112    67      *deuk-
-tie     1510    84      *deuk-
-  untie   14676   18      *deuk-
-
-
-con     5691    161     *deuk-, *gno-
-induce  5326    130     *deuk-
-  induction       10979   31      *deuk-
-  inducement      17568   14      *deuk-
-contrary        5566    116     *deuk-, *gno-
-tug     6303    94      *deuk-
-dock    4965    93      *deuk-
 teeming 14247   38      *deuk-
-seduce  8781    30      *deuk-
-  seduction       12718   17      *deuk-
-  seductive       10064   -1      *deuk-
-deduce  13706   27      *deuk-
-  deduction       7141    49      *deuk-
-  deductible      14357   -1      *deuk-
 conduit 12418   23      *deuk-
 conducive       11286   17      *deuk-
 tow     9198    20      *deuk-
-abduct  11732   20      *deuk-
-  abduction       11329   5       *deuk-
 duct    8809    16      *deuk-
 docket  19787   15      *deuk-
 taut    10701   -1      *deuk-
