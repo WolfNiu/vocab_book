@@ -11789,18 +11789,166 @@
       - taken
   related:
     - abduction
+- word: teeming
+  freq: 14247
+  use: 38
+  pos: ADJECTIVE
+  meaning: abounding in people, fish, insects, etc
+  sent: The city's normally teeming streets were virtually deserted.
+  roots:
+    teem: "*deuk- | to lead"
+  exp: 这个词的发展过程有点烧脑。首先是从lead发展出了bring forth, produce, give birth to的概念。又因为下崽一下就是一窝(要是鱼什么的更多)，所以有了abound, swarm, be prolific的感觉。
+  connect:
+    lead:
+      - abounding
+- word: conducive
+  freq: 11286
+  use: 17
+  pos: ADJECTIVE
+  meaning: If one thing is conducive to another thing, it makes the other thing likely to happen.
+  sent: Make your bedroom as conducive to sleep as possible.
+  roots:
+    con: con- | with, together
+    duc: "*deuk- | to lead"
+  exp: 英文里有个短语叫"one thing led to another"，在《Friends》里就出现过很多次，确实是make the other thing happen的感觉。
+  connect:
+    lead:
+      - makes
+      - happen
+- word: tow
+  freq: 9198
+  use: 20
+  pos: TRANSITIVE VERB
+  meaning: If one vehicle tows another, it pulls it along behind it.
+  sent: He had been using the vehicle to tow his work trailer..
+  roots:
+    tow: "*deuk- | to lead"
+  exp: 用的是*deuk-中to draw, pull, drag的那层意思，对应释义中的pull。在美国停车场经常能看到"towing enforced"的字样，这时候就不能瞎七八停啦。
+  connect:
+    lead:
+      - pulls
+- word: conduit
+  freq: 12418
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A conduit is a person or country that links two or more other people or countries.
+  sent: The region became a conduit for drugs produced in Afghanistan.
+  roots:
+    con: con- | with, together
+    duit: "*deuk- | to lead"
+  exp: 词根合起来表示to lead or bring together，对应释义中的link。
+  connect:
+    together:
+      - links
+    lead:
+      - links
+- word: duct
+  freq: 8809
+  use: 16
+  pos: COUNTABLE NOUN
+  meaning: A duct is a pipe, tube, or channel which carries a liquid or gas.
+  sent: '...a big air duct in the ceiling.'
+  roots:
+    duct: "*deuk- | to lead"
+  exp: lead是"引导"的概念，对应释义中的carry。
+  connect:
+    lead:
+      - carries
+- word: taut
+  freq: 10701
+  use: -1
+  pos: ADJECTIVE
+  meaning: Something that is taut is stretched very tight.
+  sent: The clothes line is pulled taut and secured.
+  roots:
+    taut: "*deuk- | to lead"
+  exp: 用的是*deuk-中to draw, pull, drag的那层意思，对应释义中的stretched。
+  connect:
+    lead:
+      - stretched
+      - tight
+- word: duke
+  freq: 13528
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A duke is a man with a very high social rank in the nobility of some countries.
+  sent: '...the Queen and the Duke of Edinburgh.'
+  roots:
+    duke: "*deuk- | to lead"
+  exp: 公爵嘛，大官儿，是leader。
+  connect:
+    lead:
+      - high social rank
+      - nobility
+- word: transducer
+  freq: 17554
+  use: -1
+  pos: NOUN
+  meaning: any of various devices that transmit energy from one system to another, sometimes one that converts the energy in form, as a speaker that converts electrical impulses into sound
+  sent: The input device, with a transducer in it, senses the quantity under measurement and changes it to a proportional electrical signal.
+  roots:
+    trans: trans- | across, beyond
+    duc: "*deuk- | to lead"
+  exp: 从一种形式传导到另一种形式。
+  connect:
+    across:
+      - from one system to another
+      - into
+    lead:
+      - transmit
+      - converts
 
-teeming 14247   38      *deuk-
-conduit 12418   23      *deuk-
-conducive       11286   17      *deuk-
-tow     9198    20      *deuk-
-duct    8809    16      *deuk-
-docket  19787   15      *deuk-
-taut    10701   -1      *deuk-
-contraception   12742   -1      *deuk-, *gno-
-duke    13528   -1      *deuk-
-transducer      17554   -1      *deuk-
 
+  ahead   1028    33      *kaput-
+  headline        3320    12      *kaput-
+  forehead        3825    12      *kaput-
+  overhead        5599    10      *kaput-
+  headliner       20030   8       *kaput-
+  headlong        19265   85      *kaput-
+  heady   11477   108     *kaput-
+  warhead 10076   -1      *kaput-
+  behead  19143   -1      *kaput-
+  headless        19805   -1      *kaput-
+  redhead 15664   -1      *kaput-
+  headway 16123   -1      *kaput-
+  bulkhead        16152   -1      *kaput-
+  headphone       11837   -1      *kaput-
+  heading 10002   -1      *kaput-
+  skinhead        17242   -1      *kaput-
+  head-on 14854   3       *kaput-
+capital 1064    207     *kaput-
+  capitalism      5168    -1      *kaput-
+  capitalist      7990    15      *kaput-
+  capitalize      8108    30      *kaput-
+  capitalization  17493   -1      *kaput-
+chief   1453    197     *kaput-
+  chiefly 11296   53      *kaput-
+  handkerchief    8660    5       *kaput-,        *wer-
+  chieftain       18220   -1      *kaput-
+achieve 1155    78      *kaput-
+  achievement     2038    -1      *kaput-
+  achievable      17329   41      *kaput-
+captain 3375    125     *kaput-
+
+mischief        12141   31      *kaput-
+  mischievous     14372   129     *kaput-
+capricious      18043   85      *kaput-
+rehearse        7933    75      *kaput-
+  rehearsal       5480    7       *kaput-
+cabbage 7101    46      *kaput-
+chapter 3001    30      *kaput-
+corporal        19477   18      *kaput-,        *kwrep-
+precipice       19836   7       *kaput-
+chef    3193    3       *kaput-
+cadet   8267    3       *kaput-
+caddie  17668   0       *kaput-
+cap     2326    -1      *kaput-
+cattle  3664    -1      *kaput-
+cape    9891    -1      *kaput-
+precipitate     10499   -1      *kaput-
+  precipitation   12083   23      *kaput-
+biceps  12465   -1      *kaput-
+capitulate      19083   -1      *kaput-
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
@@ -11834,12 +11982,10 @@ transducer      17554   -1      *deuk-
 # (59, '*dwo-'),
 # (60, '*ar-'),
 # (60, '*spek-'),
-# (61, '*kaput-'),
 # (61, '*med-'),
 # (63, '*al-'),
 # (63, '*deik-'),
 # (63, '*ghel-'),
-# (65, '*deuk-'),
 # (66, '*kele-'),
 # (68, '*gwa-'),
 # (70, '*pel-'),

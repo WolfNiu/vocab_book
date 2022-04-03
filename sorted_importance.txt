@@ -8092,7 +8092,7 @@ narcissistic	18678	15
 gravestone	19468	15	*gwere-
 wanderer	19594	15
 servitude	19780	15
-docket	19787	15	*deuk-
+docket	19787	15
 kitsch	19884	15
 steppe	20034	15
 bereaved	20084	15
@@ -14485,7 +14485,7 @@ horseman	12720	-1
 snowflake	12723	-1	*plak-
 eighteenth-century	12724	-1
 pairing	12739	-1
-contraception	12742	-1	*deuk-,	*gno-
+contraception	12742	-1
 reddish	12743	-1	*reudh-
 juxtaposition	12748	-1	*yeug-
 industrialization	12749	-1	*stere-
