@@ -11897,38 +11897,24 @@
     lead:
       - transmit
       - converts
+- word: handkerchief
+  freq: 8660
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A handkerchief is a small square piece of fabric which you use for blowing your nose.
+  roots:
+    hand: hand
+    kerchief:
+      meaning: kerchief
+      roots:
+        ker: cover
+        chief: "*kaput- | head"
+  exp: 词根合起来表示"cloth for covering the head"。
 
-
-  ahead   1028    33      *kaput-
-  headline        3320    12      *kaput-
-  forehead        3825    12      *kaput-
-  overhead        5599    10      *kaput-
-  headliner       20030   8       *kaput-
-  headlong        19265   85      *kaput-
-  heady   11477   108     *kaput-
-  warhead 10076   -1      *kaput-
-  behead  19143   -1      *kaput-
-  headless        19805   -1      *kaput-
-  redhead 15664   -1      *kaput-
-  headway 16123   -1      *kaput-
-  bulkhead        16152   -1      *kaput-
-  headphone       11837   -1      *kaput-
-  heading 10002   -1      *kaput-
-  skinhead        17242   -1      *kaput-
-  head-on 14854   3       *kaput-
-capital 1064    207     *kaput-
-  capitalism      5168    -1      *kaput-
-  capitalist      7990    15      *kaput-
-  capitalize      8108    30      *kaput-
-  capitalization  17493   -1      *kaput-
-chief   1453    197     *kaput-
-  chiefly 11296   53      *kaput-
-  handkerchief    8660    5       *kaput-,        *wer-
-  chieftain       18220   -1      *kaput-
 achieve 1155    78      *kaput-
   achievement     2038    -1      *kaput-
   achievable      17329   41      *kaput-
-captain 3375    125     *kaput-
+captain 3375    125     *kaput- 写个词的时候对比一下"chieftain"
 
 mischief        12141   31      *kaput-
   mischievous     14372   129     *kaput-

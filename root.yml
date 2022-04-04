@@ -1353,4 +1353,25 @@ misc:
     - misconduct
 "*kaput-":
   meaning: head
-  exp: 首先超常用词head<252,506>。注意这里h=k，是一组常用但反直觉的字母互换。
+  exp: 首先超常用词head<252,506>。注意这里h=k，是一组常用但反直觉的字母互换。其衍生词ahead<1028,33>，headline<3320,12>，和forehead<3825,12> = fore[=fore-:front] + head[=head]都是常用词。capital<1064,207> = cap[=*kaput-]，这个词作为"首都"时，释义自带一个"首"(head)字。 后来由于head同时具有"main, principal, chief, first in importance"的感觉，因此也用来表示"资本"——因为资本确实很重要哇。chief<1453,197>，说白了就是"头头儿"，确实和head相关。
+  related:
+    - overhead
+    - headliner
+    - headlong
+    - heady
+    - warhead
+    - behead
+    - headless
+    - redhead
+    - headway
+    - bulkhead
+    - headphone
+    - heading
+    - skinhead
+    - head-on
+    - capitalism
+    - capitalist
+    - capitalize
+    - capitalization
+    - chiefly
+    - chieftain
