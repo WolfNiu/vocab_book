@@ -1353,7 +1353,7 @@ misc:
     - misconduct
 "*kaput-":
   meaning: head
-  exp: 首先超常用词head<252,506>。注意这里h=k，是一组常用但反直觉的字母互换。其衍生词ahead<1028,33>，headline<3320,12>，和forehead<3825,12> = fore[=fore-:front] + head[=head]都是常用词。capital<1064,207> = cap[=*kaput-]，这个词作为"首都"时，释义自带一个"首"(head)字。 后来由于head同时具有"main, principal, chief, first in importance"的感觉，因此也用来表示"资本"——因为资本确实很重要哇。chief<1453,197>，说白了就是"头头儿"，确实和head相关。
+  exp: 首先超常用词head<252,506>。注意这里h=k，是一组常用但反直觉的字母互换。其衍生词ahead<1028,33>，headline<3320,12>，和forehead<3825,12> = fore[=fore-:front] + head[=head]都是常用词。capital<1064,207> = cap[=*kaput-]，这个词作为"首都"时，释义自带一个"首"(head)字。 后来由于head同时具有"main, principal, chief, first in importance"的感觉，因此也用来表示"资本"——因为资本确实很重要哇。同理，cattle<3664,-1> = cat[=*kaput-]本来也表示property, stock，后来才专门表示畜牲的。chief<1453,197>，说白了就是"头头儿"，确实和head相关。chef<3193,3>和captain<3375,125> = capt[=*kaput-]也都是同样的感觉。achieve<1155,78> = a[=ad-:to] + chieve[=*kaput-]，词根合起来表示"to come to a head"——到头了，所以是finish, accomplish, complete的感觉。其衍生词achievement<2038,-1>也是常用词。cap<2326,-1>是带在头(head)上的，很好理解。chapter<3001,30> = chapt[=*kaput-]，每个新的chapter一般都有个标题，也重新有个开头，因此和head相关。
   related:
     - overhead
     - headliner
@@ -1375,3 +1375,4 @@ misc:
     - capitalization
     - chiefly
     - chieftain
+    - achievable
