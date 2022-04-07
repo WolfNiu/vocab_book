@@ -11910,21 +11910,76 @@
         ker: cover
         chief: "*kaput- | head"
   exp: 词根合起来表示"cloth for covering the head"。
+- word: mischief
+  freq: 12141
+  use: 31
+  pos: UNCOUNTABLE NOUN
+  meaning: Mischief is playing harmless tricks on people or doing things you are not supposed to do. It can also refer to the desire to do this.
+  sent: The little boy was a real handful. He was always up to mischief.
+  roots:
+    mis: mis-(2) | badly
+    chief: "*kaput- | head"
+  exp: 就像achieve<1155,78>一样，用的是*kaput-中finish, accomplish, complete的那层意思。因此词根合起来表达的是"accomplish something bad"的感觉。
+  related:
+    - mischievous
+- word: cabbage
+  freq: 7101
+  use: 46
+  pos: VARIABLE NOUN
+  meaning: 'a common vegetable (Brassica oleracea var. capitata) of the crucifer family, with thick leaves formed into a round, compact head on a short, thick stalk: cultivated as early as 2000 b. c.'
+  sent: Steam or boil the cabbage until it is tender.
+  roots:
+    cab: "*kaput- | head"
+  exp: cabbage其实就是"vegetable that grows a rounded head of thick leaves"，长得就跟个大脑袋似的，所以和head相关。
+  connect:
+    head:
+      - head
+- word: corporal
+  freq: 19477
+  use: 18
+  pos: ADJECTIVE
+  meaning: A corporal is a noncommissioned officer in the army or United States Marines.
+  sent: The corporal shouted an order at the men.
+  roots:
+    corp: "*kaput- | head"
+  exp: officer嘛，也是"头头儿"的感觉，所以和head相关。
+  connect:
+    head:
+      - officer
+- word: precipice
+  freq: 19836
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: If you say that someone is on the edge of a precipice, you mean that they are in a dangerous situation in which they are extremely close to disaster or failure.
+  sent: The king now stands on the brink of a political precipice.
+  roots:
+    pre: pre- | before, forth
+    cip: "*kaput- | head"
+  exp: 词根合起来表达steep, headlong, headfirst的感觉，也就是再往前(forth)一步就要头(head)朝下栽下去了。
+- word: precipitate
+  freq: 10499
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If something precipitates an event or situation, usually a bad one, it causes it to happen suddenly or sooner than normal.
+  sent: The killings in Vilnius have precipitated the worst crisis yet.
+  roots:
+    pre: pre- | before, forth
+    cip: "*kaput- | head"
+  exp: 词根合起来表示to throw or dive headlong，有点顾头不顾腚，急匆匆的感觉，因此引申出了hasty的意思。
+  connect:
+    forth:
+      - suddenly
+      - sooner than normal
+    head:
+      - suddenly
+      - sonner than normal
+  related:
+    - precipitation
 
 
-mischief        12141   31      *kaput-
-  mischievous     14372   129     *kaput-
-capricious      18043   85      *kaput-
-rehearse        7933    75      *kaput-
-  rehearsal       5480    7       *kaput-
-cabbage 7101    46      *kaput-
-corporal        19477   18      *kaput-,        *kwrep-
-precipice       19836   7       *kaput-
 cadet   8267    3       *kaput-
 caddie  17668   0       *kaput-
 cape    9891    -1      *kaput-
-precipitate     10499   -1      *kaput-
-  precipitation   12083   23      *kaput-
 biceps  12465   -1      *kaput-
 capitulate      19083   -1      *kaput-
 

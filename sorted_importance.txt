@@ -1981,7 +1981,7 @@ zap	15088	85
 unambiguous	16597	85	*ag-,	*ambhi-
 overhang	16647	85
 sanguine	17645	85
-capricious	18043	85	*kaput-
+capricious	18043	85
 gratify	18546	85	*dhe-,	*gwere-
 headlong	19265	85	*kaput-
 stingy	19470	85	*stegh-
@@ -2382,7 +2382,7 @@ sincere	6980	75	*ker-
 planetary	7062	75	*pele-
 astronomical	7170	75	*nem-,	*ster-
 fuzzy	7450	75
-rehearse	7933	75	*kaput-
+rehearse	7933	75
 aspire	7970	75
 plow	8188	75
 mundane	9009	75
@@ -9063,7 +9063,7 @@ republican	4897	7
 ridge	4908	7	*sker-
 manuscript	5176	7	*man-,	*skribh-
 chorus	5345	7
-rehearsal	5480	7	*kaput-
+rehearsal	5480	7
 tin	5494	7
 parenting	5524	7	*pere-
 dual	5676	7	*dwo-
