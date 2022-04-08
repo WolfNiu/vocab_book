@@ -11975,13 +11975,72 @@
       - sonner than normal
   related:
     - precipitation
+- word: cadet
+  freq: 8267
+  use: 3
+  pos: COUNTABLE NOUN
+  meaning: A cadet is a young man or woman who is being trained in the armed services or the police force.
+  sent: '...army cadets.'
+  roots:
+    cad: "*kaput- | head"
+    et: -et | diminutive suffix
+  exp: 词根合起来表示little head，这个词的本意正好也是inferior head of a family。
+  connect:
+    head:
+      - man
+      - woman
+    diminutive suffix:
+      - young
+- word: caddie
+  freq: 17668
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: In golf, a caddie is a person who carries golf clubs and other equipment for a player.
+  roots:
+    cad: "*kaput- | head"
+  exp: 跟班的小人头儿。
+  connect:
+    head:
+      - person
+- word: cape
+  freq: 9891
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A cape is a large piece of land that sticks out into the sea from the coast.
+  sent: Naomi James became the first woman to sail solo around the world via Cape Horn.
+  roots:
+    cape: "*kaput- | head"
+  exp: 这脑袋嘛，说白了就是从身体突出来的一大块，对应释义中的land that sticks out。
+  connect:
+    head:
+      - large piece
+- word: biceps
+  freq: 12465
+  use: -1
+  pos: PLURAL NOUN
+  meaning: Your biceps are the large muscles at the front of the upper part of your arms.
+  roots:
+    bi: bi- | two
+    cep: "*kaput- | head"
+  exp: 中文叫"肱二(two)头(head)肌"——瞧瞧瞧瞧，翻得多好。这块肌肉你细看是有两个突起的，如果看不到说明肌肉没练到家。
+  connect:
+    head:
+      - large muscles
+- word: capitulate
+  freq: 19083
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If you capitulate, you stop resisting and do what someone else wants you to do.
+  sent: The club eventually capitulated and now grants equal rights to women.
+  roots:
+    capit: "*kaput- | head"
+  exp: 如果你想巧记的话，把它理解成"低头(head)认输"就好了。这个词实际的发展过程比较绕。它的词根表达是heading，之后引申出to draw up a writing in chapters or articles (under headings)。而一般两国签订的条款都是针对投降的那一方的，于是capitulate才表示了yield，surrender<5085,134>。怎么样，看完这些是不是觉得还是按"低头认输"比较好记？
+  connect:
+    head:
+      - stop resisting
+      - do what someone else wants you to do
 
 
-cadet   8267    3       *kaput-
-caddie  17668   0       *kaput-
-cape    9891    -1      *kaput-
-biceps  12465   -1      *kaput-
-capitulate      19083   -1      *kaput-
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
