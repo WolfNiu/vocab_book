@@ -12042,6 +12042,21 @@
 
 
 
+
+
+persecution     9040    -1      *per-,  *sekw-
+  persecute       13298   124     *per-,  *sekw-
+suite   4780    73      *sekw-
+sequel  9098    52      *sekw-
+sequester       18621   49      *sekw-
+seal    4062    41      *sekw-
+intrinsic       7566    39      *sekw-
+extrinsic       16716   22      *sekw-
+consecutive     4896    16      *sekw-
+ensue   9761    9       *sekw-
+sect    10464   -1      *sek-,  *sekw-
+sectarian       10491   -1      *sek-,  *sekw-
+
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
@@ -12084,7 +12099,6 @@
 # (74, '*man-'),
 # (79, '*leg-'),
 # (83, '*bha-'),
-# (83, '*sekw-'),
 # (87, '*bher-'),
 # (89, '*pere-'),
 # (95, '*weid-'),

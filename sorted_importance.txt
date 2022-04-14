@@ -535,7 +535,7 @@ myriad	7222	165
 disposition	7351	165
 occult	19851	165	*kel-
 reach	423	164	*reig-
-significant	720	164	*dhe-,	*sekw-
+significant	720	164	*dhe-
 mountain	1246	164	*men-
 rip	3606	164
 genius	4105	164	*gene-
@@ -806,7 +806,7 @@ cunning	13237	139	*gno-
 noxious	15912	139	*nek-
 dandy	17223	139
 last	130	138	*lois-,	*‌‌lē-
-design	837	138	*sekw-
+design	837	138
 murder	1388	138	*mer-
 welcome	1555	138	*gwa-
 bloody	4169	138	*bhel-
@@ -1740,7 +1740,7 @@ nutty	15000	92
 botch	18657	92
 white	302	91
 feed	1324	91	*pa-
-significance	2960	91	*dhe-,	*sekw-
+significance	2960	91	*dhe-
 standing	3105	91	*sta-
 instruct	4286	91	*stere-
 tolerate	4364	91
@@ -2066,7 +2066,7 @@ shot	1057	82	*skeud-
 ticket	1585	82
 angry	1717	82	*angh-
 aim	1945	82
-assignment	3152	82	*sekw-
+assignment	3152	82
 sanction	3245	82
 slice	3363	82
 ruling	4065	82	*reg-
@@ -2340,7 +2340,7 @@ happiness	3907	76
 icon	4404	76
 boast	4584	76
 exhaust	4786	76
-designate	5310	76	*sekw-
+designate	5310	76
 absent	5589	76	*es-
 coincide	6760	76	*kad-
 interim	6942	76
@@ -2436,7 +2436,7 @@ revolve	7521	74	*wel-
 discretion	7686	74
 trivial	8340	74	*wegh-
 crook	8831	74
-insignificant	9077	74	*dhe-,	*sekw-
+insignificant	9077	74	*dhe-
 contentious	9129	74	*ten-
 outlaw	9628	74	*legh-
 bulky	9733	74	*bhel-
@@ -3035,7 +3035,7 @@ collide	7727	63
 enjoyment	7767	63
 slippery	7858	63	*sleubh-
 familiarity	8215	63
-designation	8341	63	*sekw-
+designation	8341	63
 liaison	8369	63	*leig-
 harden	8379	63	*kar-
 stifle	8416	63
@@ -3311,7 +3311,7 @@ wring	10753	59	*wer-
 cleanse	10804	59
 surreal	10805	59
 theorize	10902	59	*wer-
-redesign	10913	59	*sekw-
+redesign	10913	59
 suggestive	10995	59
 strife	11145	59
 mute	11207	59
@@ -4077,7 +4077,7 @@ appliance	6127	48	*plek-
 configuration	6232	48	*dheigh-
 governance	6566	48
 distort	6724	48	*terkw-
-signify	6790	48	*dhe-,	*sekw-
+signify	6790	48	*dhe-
 median	6910	48	*medhyo-
 paralyze	7261	48
 domination	7486	48	*dem-
@@ -5247,7 +5247,7 @@ own	148	36	*aik-
 same	161	36	*sem-
 official	527	36	*dhe-,	*op-
 teach	546	36	*deik-
-sign	760	36	*sekw-
+sign	760	36
 analysis	814	36	*leu-
 method	1001	36
 machine	1025	36	*magh-
@@ -5684,7 +5684,7 @@ possess	2864	32	*poti-,	*sed-
 comedy	3243	32
 cognitive	3370	32	*gno-
 boyfriend	3407	32	*pri-
-resign	3419	32	*sekw-
+resign	3419	32
 retail	3509	32
 facilitate	3604	32	*dhe-
 hesitate	3958	32
@@ -5889,7 +5889,7 @@ rote	17696	31
 behest	17947	31	*keie-
 derogatory	17951	31	*reg-
 amalgam	17956	31	*mel-(1)
-resigned	18027	31	*sekw-
+resigned	18027	31
 gist	18471	31	*ye-
 dowry	18478	31	*do-
 sup	18489	31
@@ -7575,7 +7575,7 @@ slot	4902	18
 transit	4917	18	*ei-
 bride	4931	18	*bhreu-
 nationwide	4983	18	*gene-
-subsequently	5070	18
+subsequently	5070	18  *sekw-
 predecessor	5325	18	*ked-
 sunset	5816	18	*sed-
 skate	5834	18
@@ -9297,7 +9297,7 @@ ethics	3259	5
 pregnancy	3356	5	*gene-,	*per-
 suck	3651	5
 railroad	3684	5	*reg-
-signature	3809	5	*sekw-
+signature	3809	5
 offering	4022	5	*bher-
 cab	4261	5
 skull	4287	5
@@ -9776,7 +9776,7 @@ alleged	4129	0	*ag-
 seventh	4150	0
 tightly	4152	0
 tuck	4154	0
-associated	4171	0
+associated	4171	0   *sekw-
 opposed	4216	0
 voting	4222	0
 Cuban	4230	0
@@ -9998,7 +9998,7 @@ printed	7240	0
 governing	7243	0
 sneakers	7248	0
 ethic	7254	0
-designated	7259	0	*sekw-
+designated	7259	0
 underway	7271	0
 knight	7287	0
 lingering	7332	0
@@ -11378,7 +11378,7 @@ alternative	2089	-1	*al-
 interaction	2090	-1	*ag-
 column	2091	-1	*kel-
 personality	2092	-1
-signal	2093	-1	*sekw-
+signal	2093	-1
 curriculum	2094	-1	*kers-
 honor	2096	-1
 passenger	2097	-1	*pete-
@@ -11687,7 +11687,7 @@ fellow	2443	-1	*legh-
 smooth	2444	-1
 nearby	2445	-1
 peer	2446	-1
-designer	2447	-1	*sekw-
+designer	2447	-1
 personnel	2448	-1
 educator	2450	-1	*deuk-
 relative	2451	-1
@@ -11848,7 +11848,7 @@ barrier	2632	-1	*gwere-
 minor	2633	-1	*mei-
 provision	2634	-1
 killer	2635	-1	*gwele-
-assign	2636	-1	*sekw-
+assign	2636	-1
 gang	2637	-1
 developing	2638	-1
 classic	2639	-1	*kele-
@@ -12401,7 +12401,7 @@ Vietnamese	5828	-1
 gardener	5829	-1	*gher-
 dairy	5833	-1	*dheigh-
 Saudi	5839	-1
-resignation	5841	-1	*sekw-
+resignation	5841	-1
 reconciliation	5845	-1	*kele-
 Latino	5847	-1
 skier	5874	-1	*skei-
@@ -13860,7 +13860,7 @@ clad	10586	-1
 monstrous	10587	-1	*men-
 profess	10588	-1	*bha-,	*per-
 aquarium	10589	-1	*akwa-
-scarlet	10590	-1	*sekw-
+scarlet	10590	-1
 adjective	10591	-1	*ad-,	*ye-
 inception	10592	-1	*kap-
 jihad	10593	-1
@@ -15037,7 +15037,7 @@ boardroom	14728	-1
 rosary	14732	-1
 vertigo	14733	-1	*wer-
 elasticity	14735	-1
-sequencing	14738	-1
+sequencing	14738	-1  *sekw-
 taxonomy	14741	-1	*nem-
 long-lasting	14757	-1
 dumplings	14762	-1
@@ -15885,7 +15885,7 @@ reborn	16119	-1
 overgrown	16120	-1
 re-emerge	16122	-1
 headway	16123	-1	*kaput-
-consign	16125	-1	*sekw-
+consign	16125	-1
 stubby	16126	-1
 proffer	16127	-1	*bher-
 impotent	16129	-1	*poti-
@@ -15991,7 +15991,7 @@ insinuate	16237	-1
 miscellaneous	16238	-1	*meik-
 whaling	16241	-1
 clarinet	16242	-1	*kele-
-insignia	16243	-1	*sekw-
+insignia	16243	-1
 categorization	16244	-1	*ger-
 instigate	16245	-1
 minimalist	16246	-1	*mei-
@@ -16613,7 +16613,7 @@ co-chairman	17815	-1
 checkered	17823	-1
 aquaculture	17824	-1	*kwel-
 corona	17825	-1	*sker-
-signifier	17826	-1	*dhe-,	*sekw-
+signifier	17826	-1	*dhe-
 bowler	17835	-1	*bhel-
 lockout	17836	-1
 second-generation	17837	-1
@@ -16711,7 +16711,7 @@ blindfold	18084	-1	*bhel-
 enamor	18085	-1
 Icelandic	18086	-1
 filming	18087	-1
-signatory	18091	-1	*sekw-
+signatory	18091	-1
 overpriced	18092	-1
 chemo	18094	-1
 scorpion	18097	-1
