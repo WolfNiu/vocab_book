@@ -12039,23 +12039,107 @@
     head:
       - stop resisting
       - do what someone else wants you to do
+- word: persecution
+  freq: 9040
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Persecution is cruel and unfair treatment of a person or group, especially because of their religious or political beliefs, or their race.
+  sent: '...the persecution of minorities.'
+  roots:
+    per: per- | through
+    secu: "*sekw- | to follow"
+  exp: 词根合起来表示to follow, hunt down, prosecute的意思，也就是"追(follow)着打"。
+  connect:
+    through:
+      - cruel and unfair treatment
+    follow:
+      - cruel and unfair treatment
+  related:
+    - persecute
+- word: suite
+  freq: 4780
+  use: 73
+  pos: COUNTABLE NOUN
+  meaning: A suite is a set of rooms in a hotel or other building.
+  sent: They had a fabulous time during their week in a suite at the Paris Hilton.
+  roots:
+    suite: "*sekw- | to follow"
+  exp: 结合词根suite表达的感觉就是a number of things taken collectively and constituting a sequence，进而发展成a collection of things。
+  connect:
+    follow:
+      - a set of
+- word: sequel
+  freq: 9098
+  use: 52
+  pos: COUNTABLE NOUN
+  meaning: A book or movie which is a sequel to an earlier one continues the story of the earlier one.
+  sent: She is currently writing a sequel to Daphne du Maurier's "Rebecca."
+  roots:
+    sequ: "*sekw- | to follow"
+  exp: 词根中的follow对应释义中的continue。
+  connect:
+    follow:
+      - continues
+- word: intrinsic
+  freq: 7566
+  use: 39
+  pos: ADJECTIVE
+  meaning: If something has intrinsic value or intrinsic interest, it is valuable or interesting because of its basic nature or character, and not because of its connection with other things.
+  sent: Diamonds have little intrinsic value and their price depends almost entirely on their scarcity.
+  roots:
+    intr: intra- | within
+    sic: "*sekw- | to follow"
+  exp: 用的是follow中along, alongside的那层意思，也就是"跟着一起走，附带着"的感觉。因此词根合起来就表示"在里面(within)附带的"。
+  related:
+    - extrinsic
+- word: consecutive
+  freq: 4896
+  use: 16
+  pos: ADJECTIVE
+  meaning: Consecutive periods of time or events happen one after the other without interruption.
+  sent: The Cup was won for the third consecutive year by the Toronto Maple Leafs.
+  roots:
+    con: con- | with, together
+    secu: "*sekw- | to follow"
+  exp: 典型的*sekw-系列的词，从释义中的one after the other即可看出"follow"的感觉。
+  connect:
+    follow:
+      - one after the other
+- word: ensue
+  freq: 9761
+  use: 9
+  pos: VERB
+  meaning: If something ensues, it happens immediately after another event, usually as a result of it.
+  sent: If the Europeans did not reduce subsidies, a trade war would ensue.
+  roots:
+    en: in- | upon
+    sue: "*sekw- | to follow"
+  exp: 词根合起来是follow after的意思，对应释义中的happens immediately after。
+  connect:
+    follow:
+      - happens immediately after
+- word: sect
+  freq: 10464
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A sect is a group of people that has separated from a larger group and has a particular set of religious or political beliefs.
+  sent: a sect of anarchists
+  roots:
+    sect: "*sekw- | to follow"
+  exp: 用的是follow中group的那层意思，因为一个group就是大家都follow同一个目标，或者只是聚在一起。
+  connect:
+    follow:
+      - group
+- word: sectarian
+  freq: 10491
+  use: -1
+  pos: ADJECTIVE
+  meaning: Sectarian means resulting from the differences between different religions.
+  sent: He was the fifth person to be killed in sectarian violence last week.
+  roots:
+    sect: "*sekw- | to follow"
+  exp: 用的是follow中group的那层意思，因为一个group就是大家都follow同一个目标，或者只是聚在一起。
 
-
-
-
-
-persecution     9040    -1      *per-,  *sekw-
-  persecute       13298   124     *per-,  *sekw-
-suite   4780    73      *sekw-
-sequel  9098    52      *sekw-
-sequester       18621   49      *sekw-
-seal    4062    41      *sekw-
-intrinsic       7566    39      *sekw-
-extrinsic       16716   22      *sekw-
-consecutive     4896    16      *sekw-
-ensue   9761    9       *sekw-
-sect    10464   -1      *sek-,  *sekw-
-sectarian       10491   -1      *sek-,  *sekw-
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-

@@ -4042,7 +4042,7 @@ upper-class	17610	49
 carol	17979	49
 luminary	18112	49	*leuk-
 delude	18196	49
-sequester	18621	49	*sekw-
+sequester	18621	49
 frothy	18796	49
 ostracize	19266	49	*ost-
 yea	19616	49
@@ -4721,7 +4721,7 @@ continued	3296	41
 fitness	3386	41
 noon	3859	41
 clerk	3914	41
-seal	4062	41	*sekw-
+seal	4062	41
 optimistic	4183	41
 mixed	4215	41	*meik-
 mushroom	4298	41
