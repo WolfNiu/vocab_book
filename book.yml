@@ -12140,6 +12140,82 @@
     sect: "*sekw- | to follow"
   exp: 用的是follow中group的那层意思，因为一个group就是大家都follow同一个目标，或者只是聚在一起。
 
+skirt   3670    146     *sker-
+score   1074    140     *sker-
+screen  1258    126     *sker-
+bias    3962    81      *sker-
+search  1509    69      *sker-
+share   711     50      *sker-
+research        363     45      *sker-
+shore   3274    27      *sker-
+shirt   1784    0       *sker-
+sharp   2066    -1      *sker-
+  sharply 3945    7       *sker-
+  sharpen 8464    12      *sker-
+arrange 2236    -1      *sker-
+arrangement     2378    -1      *sker-
+
+
+scrap   5664    269     *sker-
+sheer   4238    148     *sker-
+shrink  4526    103     *sker-
+crisp   6280    72      *sker-
+shard   10968   70      *sker-
+curb    6836    67      *sker-
+circumstance    1794    64      *sker-, *sta-
+corkscrew       19763   64      *sker-
+scrub   7684    60      *sker-
+screw   4802    55      *sker-
+shorten 7721    54      *sker-
+curtail 9237    54      *sker-
+ringer  19854   53      *sker-
+scrape  5568    50      *sker-
+crown   5160    49      *sker-
+circus  6131    47      *sker-
+crest   7605    42      *sker-
+sharpness       18047   41      *sker-
+biased  11001   40      *sker-
+scar    5083    38      *sker-
+circumscribe    17559   38      *sker-, *skribh-
+skirmish        13592   35      *sker-
+unbiased        16471   34      *sker-
+scrimmage       17193   31      *sker-
+curvature       19724   30      *sker-
+underscore      5927    29      *sker-
+encircle        10822   23      *sker-
+skyscraper      10892   23      *sker-
+carnage 11805   20      *sker-
+scarf   6226    16      *sker-
+crispy  14907   14      *sker-
+ranch   4075    13      *sker-
+carnival        12867   11      *legwh-,        *sker-
+circuit 4063    9       *ei-,   *sker-
+ridge   4908    7       *sker-
+screenplay      9637    5       *sker-
+ranger  8832    0       *sker-
+shareholder     4691    -1      *sker-
+shrub   7270    -1      *sker-
+rancher 7616    -1      *sker-
+shoreline       9503    -1      *sker-
+ashore  9748    -1      *sker-
+incarnation     9824    -1      *sker-
+shear   9832    -1      *sker-
+ringing 10319   -1      *sker-
+rink    10814   -1      *sker-
+sweatshirt      11306   -1      *sker-
+sunscreen       11632   -1      *sker-
+crepe   13858   -1      *sker-
+screenwriter    14049   -1      *sker-
+cortex  14306   -1      *sker-
+scrapbook       15779   -1      *sker-
+circuitry       16269   -1      *ei-,   *sker-
+corona  17825   -1      *sker-
+reincarnation   18458   -1      *sker-
+outscore        18725   -1      *sker-
+scarred 19057   -1      *sker-
+circumcision    19136   -1      *kae-id-,       *sker-
+carnation       19359   -1      *sker-
+
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
@@ -12191,7 +12267,6 @@
 # (103, '*ag-'),
 # (109, '*ten-'),
 # (111, '*gene-'),
-# (117, '*sker-'),
 # (125, '*kap-'),
 # (127, '*men-'),
 # (132, '*reg-'),

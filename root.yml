@@ -1404,3 +1404,23 @@ misc:
     - execution
     - executioner
     - pursuant
+"*sker-(1)":
+  meaning: to cut
+  exp: short<628,236>，切完肯定就变短了。其衍生词shortly<2876,27>也是常用词。
+  related:
+    - shortcoming
+    - short-term
+    - shortcut
+    - shortage
+    - shortness
+    - short-lived
+    - shortfall
+    - shortstop
+    - shorts
+    - shorthand
+
+"*sker-(2)":
+  meaning: to turn, bend
+  exp: 这个词根的第一重引申义是circle, ring，因为二者都是由curve组成的。正好，ring<1688,108>，circle<1515,137> = circ[=*sekr-(2)]和curve<3493,51> = cur[=*sker-(2)]也都是从这个词根来。注意，ring和*sker-(2)的字母互换非常tricky，是g=k，r=er，别问我为啥二者是倒过来的，不知道。不过你看，morpho-这个前缀表示form，而form正好是morpho倒过来念，所以英文发展过程也不是没有把字母或读音倒过来的传统——h倒过来是y，u倒过来是n，w倒过来是m，p,b,d,q四个字母简直就是轴对称+中心对称的四个镜像。*sker-(2)的第二重引申义是rank，也就是"等级"。要理解这个词可以想象一个靶子，正中心红圈儿是十环，相当于rank 1。再往下每一圈都比之前低一个rank。range<974,186>也用的是相同的感觉，它的中文意思"范围"里自带一个"围"字，显然和circle, ring有关，可以理解为是被一个大圆圈圈起来了。比如1979年春天，就有个老人在中国南海边上画了个圈儿。圈里的经济优先发展，周边地区则暂时靠边站。
+  related:
+    - long-range
