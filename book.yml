@@ -12139,21 +12139,33 @@
   roots:
     sect: "*sekw- | to follow"
   exp: 用的是follow中group的那层意思，因为一个group就是大家都follow同一个目标，或者只是聚在一起。
+- word: underscore
+  freq: 5927
+  use: 29
+  pos: TRANSITIVE VERB
+  meaning: If you underscore something such as a word or a sentence, you draw a line underneath it in order to make people notice it or give it extra importance.
+  sent: He heavily underscored his note to Shelley.
+  roots:
+    under: under
+    score: "*sker-(1) | to cut"
+  exp: 这词如果不会词根的话就想不明白——为啥"在下面的分数"就能表示下划线了呢？但是用cut under就能想明白——无非就是在文字下面刻(cut)一条线嘛。
+  connect:
+    under:
+      - underneath
+    cut:
+      - draw
 
-skirt   3670    146     *sker-
-score   1074    140     *sker-
-screen  1258    126     *sker-
+
+
+
 bias    3962    81      *sker-
-search  1509    69      *sker-
 share   711     50      *sker-
-research        363     45      *sker-
 shore   3274    27      *sker-
-shirt   1784    0       *sker-
 sharp   2066    -1      *sker-
   sharply 3945    7       *sker-
   sharpen 8464    12      *sker-
 arrange 2236    -1      *sker-
-arrangement     2378    -1      *sker-
+  arrangement     2378    -1      *sker-
 
 
 scrap   5664    269     *sker-
@@ -12181,7 +12193,6 @@ skirmish        13592   35      *sker-
 unbiased        16471   34      *sker-
 scrimmage       17193   31      *sker-
 curvature       19724   30      *sker-
-underscore      5927    29      *sker-
 encircle        10822   23      *sker-
 skyscraper      10892   23      *sker-
 carnage 11805   20      *sker-
@@ -12191,7 +12202,6 @@ ranch   4075    13      *sker-
 carnival        12867   11      *legwh-,        *sker-
 circuit 4063    9       *ei-,   *sker-
 ridge   4908    7       *sker-
-screenplay      9637    5       *sker-
 ranger  8832    0       *sker-
 shareholder     4691    -1      *sker-
 shrub   7270    -1      *sker-
@@ -12203,15 +12213,12 @@ shear   9832    -1      *sker-
 ringing 10319   -1      *sker-
 rink    10814   -1      *sker-
 sweatshirt      11306   -1      *sker-
-sunscreen       11632   -1      *sker-
 crepe   13858   -1      *sker-
-screenwriter    14049   -1      *sker-
 cortex  14306   -1      *sker-
 scrapbook       15779   -1      *sker-
 circuitry       16269   -1      *ei-,   *sker-
 corona  17825   -1      *sker-
 reincarnation   18458   -1      *sker-
-outscore        18725   -1      *sker-
 scarred 19057   -1      *sker-
 circumcision    19136   -1      *kae-id-,       *sker-
 carnation       19359   -1      *sker-

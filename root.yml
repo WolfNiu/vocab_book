@@ -1406,7 +1406,7 @@ misc:
     - pursuant
 "*sker-(1)":
   meaning: to cut
-  exp: short<628,236>，切完肯定就变短了。其衍生词shortly<2876,27>也是常用词。
+  exp: short<628,236>，切完肯定就变短了。其衍生词shortly<2876,27>也是常用词。shirt<1784,0>，表示a cut piece。之后由shirt还发展出了skirt<3670,146>，二者都是衣服，也就都是剪裁而成的。score<1074,140>，以前人记大数都是每20个在木头上刻(cut)个标记。screen<1258,126>的本意是protect, defend，因此才有sunscreen<11632,-1>这个词。而protect其实就是切断(cut)外界的攻击。
   related:
     - shortcoming
     - short-term
@@ -1418,9 +1418,20 @@ misc:
     - shortstop
     - shorts
     - shorthand
+    - outscore
+    - scoring
+    - scorer
+    - scoreboard
+    - scorecard
+    - screening
+    - sunscreen
+    - screener
+    - big-screen
+    - screenwriter
+    - screenplay
 
 "*sker-(2)":
   meaning: to turn, bend
-  exp: 这个词根的第一重引申义是circle, ring，因为二者都是由curve组成的。正好，ring<1688,108>，circle<1515,137> = circ[=*sekr-(2)]和curve<3493,51> = cur[=*sker-(2)]也都是从这个词根来。注意，ring和*sker-(2)的字母互换非常tricky，是g=k，r=er，别问我为啥二者是倒过来的，不知道。不过你看，morpho-这个前缀表示form，而form正好是morpho倒过来念，所以英文发展过程也不是没有把字母或读音倒过来的传统——h倒过来是y，u倒过来是n，w倒过来是m，p,b,d,q四个字母简直就是轴对称+中心对称的四个镜像。*sker-(2)的第二重引申义是rank，也就是"等级"。要理解这个词可以想象一个靶子，正中心红圈儿是十环，相当于rank 1。再往下每一圈都比之前低一个rank。range<974,186>也用的是相同的感觉，它的中文意思"范围"里自带一个"围"字，显然和circle, ring有关，可以理解为是被一个大圆圈圈起来了。比如1979年春天，就有个老人在中国南海边上画了个圈儿。圈里的经济优先发展，周边地区则暂时靠边站。
+  exp: 这个词根的第一重引申义是circle, ring，因为二者都是由curve组成的。正好，ring<1688,108>，circle<1515,137> = circ[=*sekr-(2)]和curve<3493,51> = cur[=*sker-(2)]也都是从这个词根来。注意，ring和*sker-(2)的字母互换非常tricky，是g=k，r=er，别问我为啥二者是倒过来的，不知道。不过你看，morpho-这个前缀表示form，而form正好是morpho倒过来念，所以英文发展过程也不是没有把字母或读音倒过来的传统——h倒过来是y，u倒过来是n，w倒过来是m，p,b,d,q四个字母简直就是轴对称+中心对称的四个镜像。search<1509,69>也用的是circle的感觉。当你围着一个东西一圈一圈转，其实就是在go ground, explore，因为如果你不想search的话就直线往前走了。其衍生词research<363,45> = re[re-:intensive prefix] + search[=search]，也就是笔者现在在做的工作啦。*sker-(2)的第二重引申义是rank，也就是"等级"。要理解这个词可以想象一个靶子，正中心红圈儿是十环，相当于rank 1。再往下每一圈都比之前低一个rank。range<974,186>也用的是相同的感觉，它的中文意思"范围"里自带一个"围"字，显然和circle, ring有关，可以理解为是被一个大圆圈圈起来了。比如1979年春天，就有个老人在中国南海边上画了个圈儿。圈里的经济优先发展，周边地区则暂时靠边站。
   related:
     - long-range

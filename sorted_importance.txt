@@ -9805,7 +9805,7 @@ embarrassed	4654	0
 comply	4689	0	*pele-
 emotionally	4704	0
 liver	4721	0	*leip-
-screening	4748	0
+screening	4748	0   *sker-
 dancing	4760	0
 routinely	4779	0
 rubber	4843	0
@@ -9943,7 +9943,7 @@ expanded	6772	0
 talking	6778	0
 inquire	6787	0
 interrogation	6805	0	*reg-
-scoring	6811	0
+scoring	6811	0   *sker-
 publishing	6816	0
 backwards	6821	0
 frustrated	6829	0
@@ -10987,7 +10987,7 @@ conclusively	18299	0
 sympathetically	18307	0
 finisher	18318	0
 panicked	18333	0
-screener	18335	0
+screener	18335	0   *sker-
 blurred	18340	0
 wrangling	18347	0
 incriminating	18355	0
@@ -13442,7 +13442,7 @@ unavailable	10114	-1	*wal-
 dysfunctional	10115	-1	*bhrug-
 forgotten	10116	-1  *ghend-
 buyout	10117	-1
-scorer	10118	-1
+scorer	10118	-1  *sker-
 unmistakable	10120	-1	*mei-
 divisive	10121	-1
 sensational	10123	-1
@@ -15916,7 +15916,7 @@ nymph	16155	-1
 qualifier	16156	-1	*dhe-
 siphon	16157	-1
 spoils	16158	-1
-scoreboard	16159	-1
+scoreboard	16159	-1  *sker-
 tendril	16160	-1	*ten-
 rigorously	16161	-1
 subcontractor	16162	-1
@@ -16928,7 +16928,7 @@ co-found	18758	-1
 riparian	18759	-1
 preoperative	18761	-1
 tarragon	18765	-1
-scorecard	18769	-1
+scorecard	18769	-1  *sker-
 filet	18772	-1
 salmonella	18774	-1
 tomography	18778	-1	*tem-
@@ -17023,7 +17023,7 @@ navigational	18908	-1	*ag-,	*nau-
 holly	18909	-1
 repugnant	18910	-1	*peuk-
 forester	18911	-1	*dhwer-
-big-screen	18912	-1
+big-screen	18912	-1  *sker-
 earthen	18913	-1	*er-
 wily	18914	-1
 bulging	18915	-1
