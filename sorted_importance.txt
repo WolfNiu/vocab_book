@@ -1424,7 +1424,7 @@ beginning	1204	103	*ambhi-
 curtain	3659	103
 precise	3863	103	*kae-id-
 bow	4138	103	*bheug-
-shrink	4526	103	*sker-
+shrink	4526	103
 streak	4600	103
 triumph	4690	103
 goat	4726	103
@@ -13162,7 +13162,7 @@ lining	9641	-1
 beet	9643	-1
 fairway	9666	-1
 dysfunction	9667	-1	*bhrug-
-rearrange	9668	-1
+rearrange	9668	-1  *sker-(2)
 doughnut	9673	-1	*dheigh-
 medium-high	9681	-1
 forty-five	9686	-1
@@ -13618,7 +13618,7 @@ hoof	10314	-1
 invaluable	10315	-1	*wal-
 revert	10316	-1	*wer-
 spotted	10317	-1
-ringing	10319	-1	*sker-
+ringing	10319	-1
 bikini	10320	-1
 infusion	10321	-1	*gheu-
 sensual	10322	-1

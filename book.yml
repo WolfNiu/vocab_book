@@ -11142,7 +11142,7 @@
       - get
   related:
     - allergic
-    - allergen
+    - allerge
 - word: synergy
   freq: 15387
   use: -1
@@ -12154,31 +12154,57 @@
       - underneath
     cut:
       - draw
+- word: scrap
+  freq: 5664
+  use: 269
+  pos: COUNTABLE NOUN
+  meaning: A scrap of something is a very small piece or amount of it.
+  sent: A crumpled scrap of paper was found in her handbag.
+  roots:
+    scr: "*sker-(1) | to cut"
+  exp: cut对应释义中的very small piece，因为是切碎的。
+  connect:
+    cut:
+      - very small piece or amount
+- word: sheer
+  freq: 4238
+  use: 148
+  pos: ADJECTIVE
+  meaning: You can use sheer to emphasize that a state or situation is complete and does not involve or is not mixed with anything else.
+  sent: His music is sheer delight.
+  roots:
+    sheer: "*sker-(1) | to cut"
+  exp: 这词表达的感觉是clean, pure，也就是把多余部分切除(cut)的意思。
+- word: shard
+  freq: 10968
+  use: 70
+  pos: NOUN
+  meaning: Shards are pieces of broken glass, pottery, or metal.
+  sent: Eyewitnesses spoke of rocks and shards of glass flying in the air.
+  roots:
+    shar: "*sker-(1) | to cut"
+  exp: 词根表达的是cut into pieces的感觉，对应释义中的pieces。
+  connect:
+    cut:
+      - pieces
+- word: curb
+  freq: 6836
+  use: 67
+  pos: TRANSITIVE VERB
+  meaning: If you curb something, you control it and keep it within limits.
+  sent: '...advertisements aimed at curbing the spread of AIDS.'
+  roots:
+    cur: "*sker-(2) | to turn, bend"
+  exp: 用的是*sker-(2)中circle, ring的那层意思。把一个东西圈起来，就是keep it within的感觉。
+  connect:
+    turn, bend:
+      - control
+      - keep it within
 
 
-
-
-bias    3962    81      *sker-
-share   711     50      *sker-
-shore   3274    27      *sker-
-sharp   2066    -1      *sker-
-  sharply 3945    7       *sker-
-  sharpen 8464    12      *sker-
-arrange 2236    -1      *sker-
-  arrangement     2378    -1      *sker-
-
-
-scrap   5664    269     *sker-
-sheer   4238    148     *sker-
-shrink  4526    103     *sker-
-crisp   6280    72      *sker-
-shard   10968   70      *sker-
-curb    6836    67      *sker-
-circumstance    1794    64      *sker-, *sta-
 corkscrew       19763   64      *sker-
 scrub   7684    60      *sker-
 screw   4802    55      *sker-
-shorten 7721    54      *sker-
 curtail 9237    54      *sker-
 ringer  19854   53      *sker-
 scrape  5568    50      *sker-
@@ -12210,7 +12236,6 @@ shoreline       9503    -1      *sker-
 ashore  9748    -1      *sker-
 incarnation     9824    -1      *sker-
 shear   9832    -1      *sker-
-ringing 10319   -1      *sker-
 rink    10814   -1      *sker-
 sweatshirt      11306   -1      *sker-
 crepe   13858   -1      *sker-
