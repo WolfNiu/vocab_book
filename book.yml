@@ -12200,14 +12200,30 @@
     turn, bend:
       - control
       - keep it within
+- word: curtail
+  freq: 9237
+  use: 54
+  pos: TRANSITIVE VERB
+  meaning: If you curtail something, you reduce or limit it.
+  sent: NATO plans to curtail the number of troops being sent to the region.
+  roots:
+    cur: "*sker-(1) | to cut"
+  exp: 词根表达的是cut short的意思。英文里的词组cut the supply(停止供应)也表明了cut和释义中reduce, limit的联系。
+  connect:
+    cut:
+      - reduce
+      - limit
+- word: scrape
+  freq: 5568
+  use: 50
+  pos: TRANSITIVE VERB
+  meaning: If you scrape something from a surface, you remove it, especially by pulling a sharp object over the surface.
+  sent: She went around the car scraping the frost off the windows.
+  roots:
+    scr: "*sker-(1) | to cut"
+  exp:
 
 
-corkscrew       19763   64      *sker-
-scrub   7684    60      *sker-
-screw   4802    55      *sker-
-curtail 9237    54      *sker-
-ringer  19854   53      *sker-
-scrape  5568    50      *sker-
 crown   5160    49      *sker-
 circus  6131    47      *sker-
 crest   7605    42      *sker-

@@ -3001,7 +3001,7 @@ dud	17418	64
 taper	17771	64
 indentation	18339	64	*dent-
 snub	18640	64
-corkscrew	19763	64	*sker-
+corkscrew	19763	64
 brutalize	20081	64	*gwere-
 service	264	63
 relationship	487	63
@@ -3211,7 +3211,7 @@ bitch	5726	60
 gossip	6972	60
 chord	7397	60	*ghere-
 cheerful	7447	60	*ker-
-scrub	7684	60	*sker-
+scrub	7684	60
 empathy	7726	60	*kwent(h)-
 whine	8068	60
 confide	8088	60	*bheidh-
@@ -3544,7 +3544,7 @@ tackle	4136	55
 improved	4168	55
 hurricane	4561	55
 interval	4697	55
-screw	4802	55	*sker-
+screw	4802	55
 clarify	5113	55	*dhe-,	*kele-
 exile	5341	55
 breakthrough	5379	55	*tere-
