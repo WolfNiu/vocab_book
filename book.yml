@@ -12221,24 +12221,92 @@
   sent: She went around the car scraping the frost off the windows.
   roots:
     scr: "*sker-(1) | to cut"
-  exp:
+  exp: 用的是*sker-(1)中remove的那层意思，因为"切掉(cut)"就是"去掉（remove)"。
+  connect:
+    cut:
+      - remove
+      - pulling a sharp object over the surface
+  related:
+    - skyscraper
+- word: circus
+  freq: 6131
+  use: 47
+  pos: COUNTABLE NOUN
+  meaning: A circus is a group that consists of clowns, acrobats, and animals that travels around to different places and performs shows.
+  sent: My real ambition was to work in a circus.
+  roots:
+    circ: "*sker-(2) | to turn, bend"
+  exp: 用的是*sker-(2)中circle的那层意思。马戏团的跑道都是一圈儿的，便于动物类的表演。
+- word: scar
+  freq: 5083
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: A scar is a mark on the skin which is left after a wound has healed.
+  sent: He had a scar on his forehead.
+  roots:
+    scar: "*sker-(1) | to cut"
+  exp: 被切就会有伤疤(scar)。当然这只是个巧记——scar真正的词源已无从考证。倒是它的另一个释义"a precipitous rocky place or cliff"确实是从*sker-(1)来的，不过只在英式英语里出现。
+  related:
+    - scarred
+- word: skirmish
+  freq: 13592
+  use: 35
+  pos: COUNTABLE NOUN
+  meaning: A skirmish is a minor battle.
+  sent: Border skirmishes between India and Pakistan were common.
+  roots:
+    skir: "*sker-(1) | to cut"
+  exp: 用的是*sker-(1)中to protenct, defend的那层意思，所以和battle相关。在边界处将土地一分为二，确实也象征着对立。当然如果想巧记的话，直接想战争就是举着砍刀上去切(cut)人就行。
+  connect:
+    cut:
+      - battle
+- word: scrimmage
+  freq: 17193
+  use: 31
+  pos: UNCOUNTABLE NOUN
+  meaning: a confused struggle or fight
+  sent: There was a considerable scrimmage, with people anxious to obtain cabs.
+  roots:
+    scr: "*sker-(1) | to cut"
+  exp: 和skirmish<13592,35>一样，用的是*sker-(1)中to protenct, defend的那层意思，因此和struggle, fight相关。
+  connect:
+    cut:
+      - struggle
+      - fight
+- word: encircle
+  freq: 10822
+  use: 23
+  pos: TRANSITIVE VERB
+  meaning: To encircle something or someone means to surround or enclose them, or to go around them.
+  sent: A forty-foot-high concrete wall encircles the jail.
+  roots:
+    en: en-(1) | make, put in
+    circle:
+      meaning: circle
+      roots: "*sker-(2) | to turn, bend"
+  exp: 直接用circle<1515,137>记就好。
+  connect:
+    put in:
+      - surround
+      - enclose
+      - around
+    turn, bend:
+      - surround
+      - enclose
+      - around
+- word: carnage
+  freq: 11805
+  use: 20
+  pos: UNCOUNTABLE NOUN
+  meaning: Carnage is the violent killing of large numbers of people, especially in a war.
+  sent: '...his strategy for stopping the carnage in Kosovo.'
+  roots:
+    car: "*sker-(1) | to cut"
+  exp: 用的是*sker-(1)中flesh的那层意思。疯狂切肉，即为屠杀。
+  connect:
+    cut:
+      - violent killing
 
-
-crown   5160    49      *sker-
-circus  6131    47      *sker-
-crest   7605    42      *sker-
-sharpness       18047   41      *sker-
-biased  11001   40      *sker-
-scar    5083    38      *sker-
-circumscribe    17559   38      *sker-, *skribh-
-skirmish        13592   35      *sker-
-unbiased        16471   34      *sker-
-scrimmage       17193   31      *sker-
-curvature       19724   30      *sker-
-encircle        10822   23      *sker-
-skyscraper      10892   23      *sker-
-carnage 11805   20      *sker-
-scarf   6226    16      *sker-
 crispy  14907   14      *sker-
 ranch   4075    13      *sker-
 carnival        12867   11      *legwh-,        *sker-
@@ -12260,7 +12328,6 @@ scrapbook       15779   -1      *sker-
 circuitry       16269   -1      *ei-,   *sker-
 corona  17825   -1      *sker-
 reincarnation   18458   -1      *sker-
-scarred 19057   -1      *sker-
 circumcision    19136   -1      *kae-id-,       *sker-
 carnation       19359   -1      *sker-
 

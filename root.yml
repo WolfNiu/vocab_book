@@ -1409,6 +1409,7 @@ misc:
   exp: short<628,236>，切完肯定就变短了。这里注意sk=sh，因为k=h。其衍生词shortly<2876,27>也是常用词。shirt<1784,0>，表示a cut piece。之后由shirt还发展出了skirt<3670,146>，二者都是衣服，也就都是剪裁而成的。score<1074,140>，以前人记大数都是每20个在木头上刻(cut)个标记。screen<1258,126>的本意是protect, defend，因此才有sunscreen<11632,-1>这个词。而protect其实就是切断(cut)外界的攻击。share<711,50>，用的是*sker-(1)中division的那层意思——所谓cut就是分给你的一份。shore<3274,27>也用的是division的意思——这回是division between land and water。sharp<2066,-1>就太明显了，切东西用的刀总得锋利点儿不是？其衍生词sharply<3945,7>也是常用词。
   related:
     - sharpen
+    - sharpness
     - shortcoming
     - short-term
     - shortcut
@@ -1437,3 +1438,4 @@ misc:
   related:
     - long-range
     - rearrange
+    - curvature

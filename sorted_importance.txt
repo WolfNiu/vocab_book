@@ -2113,7 +2113,7 @@ ghost	3292	81
 contend	3587	81	*ten-
 broadcast	3653	81
 turkey	3775	81
-bias	3962	81	*sker-
+bias	3962	81
 bless	4202	81	*bhel-
 accomplishment	4351	81	*pele-
 blessing	4728	81	*bhel-
@@ -3988,7 +3988,7 @@ comparable	4692	49	*per-
 crowded	4792	49
 projection	4809	49	*per-,	*ye-
 marker	4865	49	*merg-
-crown	5160	49	*sker-
+crown	5160	49
 gown	5333	49
 verse	5516	49	*wer-
 excess	5825	49	*ked-
@@ -4641,7 +4641,7 @@ imaginary	6612	42	*aim-
 adjacent	6752	42	*ye-
 competency	7438	42	*pet-
 knowledgeable	7466	42	*gno-
-crest	7605	42	*sker-
+crest	7605	42
 feasible	7730	42	*dhe-
 boiling	7819	42
 imaginative	8075	42	*aim-
@@ -4845,7 +4845,7 @@ faded	8590	40
 nestle	8890	40	*sed-
 three-dimensional	8971	40  *me-
 fend	9216	40
-biased	11001	40	*sker-
+biased	11001	40
 determinant	11307	40
 shortcut	11352	40	*sker-
 coerce	11657	40
@@ -5544,7 +5544,7 @@ lanky	14519	34
 irritable	14747	34
 scribe	15008	34	*skribh-
 nomad	15117	34	*nem-
-unbiased	16471	34	*sker-
+unbiased	16471	34
 plunder	16569	34
 sizzle	16582	34
 sassy	16682	34
@@ -7841,7 +7841,7 @@ optional	5770	16
 aloud	5774	16	*kleu-
 diner	6044	16
 marginal	6180	16	*merg-
-scarf	6226	16	*sker-
+scarf	6226	16
 sampling	6233	16
 exclaim	6390	16	*kele-
 resent	6525	16
