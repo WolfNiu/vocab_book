@@ -1528,8 +1528,7 @@
   freq: 6251
   use: 19
   pos: UNCOUNTABLE NOUN
-  meaning: Toast is bread which has been cut into slices and made brown and crisp
-    by cooking at a high temperature.
+  meaning: Toast is bread which has been cut into slices and made brown and crisp by cooking at a high temperature.
   sent: '...a piece of toast.'
   roots:
     toast: "*ters- | to dry"
@@ -1550,8 +1549,7 @@
   freq: 9834
   use: -1
   pos: ADJECTIVE
-  meaning: Terrestrial means relating to the planet Earth rather than to some other
-    part of the universe.
+  meaning: Terrestrial means relating to the planet Earth rather than to some other part of the universe.
   sent: '...terrestrial life forms.'
   roots:
     ter: "*ters- | to dry"
@@ -1562,8 +1560,7 @@
   freq: 11736
   use: 127
   pos: COUNTABLE NOUN
-  meaning: You can describe something as a boon when it makes life better or easier
-    for someone.
+  meaning: You can describe something as a boon when it makes life better or easier for someone.
   sent: It is for this reason that television proves such a boon to so many people.
   roots:
     boon: "*deu- | to do, perform; show favor, revere"
@@ -1582,8 +1579,7 @@
   freq: 12954
   use: 80
   pos: TRANSITIVE VERB
-  meaning: If something is embellished with decorative features or patterns, it has
-    those features or patterns on it and they make it look more attractive.
+  meaning: If something is embellished with decorative features or patterns, it has those features or patterns on it and they make it look more attractive.
   sent: The boat was embellished with carvings in red and blue.
   roots:
     em: en- |
@@ -1606,10 +1602,8 @@
   freq: 4213
   use: 30
   pos: COUNTABLE NOUN
-  meaning: A bonus is an extra amount of money that is added to someone's pay, usually
-    because they have worked very hard.
-  sent: Workers in big firms receive a substantial part of their pay in the form of
-    bonuses and overtime.
+  meaning: A bonus is an extra amount of money that is added to someone's pay, usually because they have worked very hard.
+  sent: Workers in big firms receive a substantial part of their pay in the form of bonuses and overtime.
   roots:
     bon: "*deu- | to do, perform; show favor, revere"
   exp: bon是从*deu-发展出来的词根，表示goodness。而bonus嘛，肯定是好东西。
@@ -1617,8 +1611,7 @@
   freq: 14338
   use: -1
   pos: COUNTABLE NOUN
-  meaning: You can refer to a sudden great increase in wealth, success, or luck as
-    a bonanza.
+  meaning: You can refer to a sudden great increase in wealth, success, or luck as a bonanza.
   sent: The expected sales bonanza hadn't materialized.
   roots:
     bon: "*deu- | to do, perform; show favor, revere"
@@ -1635,8 +1628,7 @@
   freq: 14317
   use: 27
   pos: TRANSITIVE VERB
-  meaning: If you are transfixed by something, it captures all of your interest or
-    attention, so that you are unable to think of anything else or unable to act.
+  meaning: If you are transfixed by something, it captures all of your interest or attention, so that you are unable to think of anything else or unable to act.
   sent: We were all transfixed by the images of the war.
   roots:
     trans: trans- | across, beyond, through
@@ -1647,8 +1639,7 @@
   freq: 7155
   use: 7
   pos: COUNTABLE NOUN
-  meaning: Fixtures are fittings or furniture which belong to a building and are legally
-    part of it, for example, a bathtub or a toilet.
+  meaning: Fixtures are fittings or furniture which belong to a building and are legally part of it, for example, a bathtub or a toilet.
   sent: '...a detailed list of what fixtures and fittings are included in the purchase
     price.'
   roots:
@@ -1658,8 +1649,7 @@
   freq: 6996
   use: 74
   pos: COUNTABLE NOUN
-  meaning: A ditch is a long narrow channel cut into the ground at the side of a road
-    or field.
+  meaning: A ditch is a long narrow channel cut into the ground at the side of a road or field.
   sent: Both vehicles ended up in a ditch.
   roots:
     ditch: "*dheigw- | to stick, fix"
@@ -1668,8 +1658,7 @@
   freq: 18349
   use: 25
   pos: COUNTABLE NOUN
-  meaning: A dike is a thick wall that is built to stop water flooding onto very low-lying
-    land from a river or from the ocean.
+  meaning: A dike is a thick wall that is built to stop water flooding onto very low-lying land from a river or from the ocean.
   roots:
     dike: "*dheigw- | to stick, fix"
   exp: dike是起固定(fix)作用的。注意k和*dheigw-中的g互换。
@@ -1677,11 +1666,8 @@
   freq: 13215
   use: 39
   pos: NOUN
-  meaning: If you accuse a person of having a fixation on something or someone, you
-    mean they think about a particular subject or person to an extreme and excessive
-    degree.
-  sent: The country's fixation on the war may delay a serious examination of domestic
-    needs.
+  meaning: If you accuse a person of having a fixation on something or someone, you mean they think about a particular subject or person to an extreme and excessive degree.
+  sent: The country's fixation on the war may delay a serious examination of domestic needs.
   roots:
     fix: "*dheigw- | to stick, fix"
   exp: fixation是一种stick to一种事物的感觉——整个精神就固定(fix)在那件事上了。
@@ -1710,8 +1696,7 @@
   freq: 10246
   use: -1
   pos: VERB
-  meaning: If someone is acquitted of a crime in a court of law, they are formally
-    declared not to have committed the crime.
+  meaning: If someone is acquitted of a crime in a court of law, they are formally declared not to have committed the crime.
   sent: Mr. Castorina was acquitted of attempted murder.
   roots:
     ac: ad- | to
@@ -1723,8 +1708,7 @@
   freq: 15708
   use: -1
   pos: INTRANSITIVE VERB
-  meaning: If you acquiesce in something, you agree to do what someone wants or to
-    accept what they do.
+  meaning: If you acquiesce in something, you agree to do what someone wants or to accept what they do.
   sent: Steve seemed to acquiesce in the decision.
   roots:
     ac: ad- | to
@@ -1736,8 +1720,7 @@
   freq: 12165
   use: 38
   pos: TRANSITIVE VERB
-  meaning: If someone dissects the body of a dead person or animal, they carefully
-    cut it up in order to examine it scientifically.
+  meaning: If someone dissects the body of a dead person or animal, they carefully cut it up in order to examine it scientifically.
   sent: We dissected a frog in biology class.
   roots:
     dis: dis- | apart
@@ -1761,8 +1744,7 @@
   freq: 3434
   use: 35
   pos: COUNTABLE NOUN
-  meaning: An insect is a small animal that has six legs. Most insects have wings.
-    Ants, flies, butterflies, and beetles are all insects.
+  meaning: An insect is a small animal that has six legs. Most insects have wings. Ants, flies, butterflies, and beetles are all insects.
   roots:
     in: in- | into
     sect: "*sek- | to cut"
@@ -12301,35 +12283,105 @@
   meaning: Carnage is the violent killing of large numbers of people, especially in a war.
   sent: '...his strategy for stopping the carnage in Kosovo.'
   roots:
-    car: "*sker-(1) | to cut"
+    carn:
+      meaning: car | flesh
+      roots:
+        car: "*sker-(1) | to cut"
   exp: 用的是*sker-(1)中flesh的那层意思。疯狂切肉，即为屠杀。
   connect:
     cut:
       - violent killing
+- word: crispy
+  freq: 14907
+  use: 14
+  pos: ADJECTIVE
+  meaning: Food that is crispy is pleasantly hard, or has a pleasantly hard surface.
+  sent: '...crispy fried onions.'
+  roots:
+    cr: "*sker-(2) | to turn, bend"
+  exp: 弯的东西比较容易碎，平平的或者方方的则比较结实。字母互换上注意cr=ker，因为c=k, r=r，而e被缩掉了。
+- word: ranch
+  freq: 4075
+  use: 13
+  pos: COUNTABLE NOUN
+  meaning: A ranch is a large farm used for raising animals, especially cattle, horses, or sheep.
+  sent: He lives on a cattle ranch in Texas.
+  roots:
+    ranch: "*sker-(2) | to turn, bend"
+  exp: 用的是*sker-(2)中ring, circle的那层意思。ranch本来表示"group of people who eat together"，也就是大家围成一个圆圈(circle)一起吃好吃的，后来才发展成了"农场"。我们之前讲过ring和*sker-(2)的互换，因此现在只需要想ranch和ring可互换就行。
+  related:
+    - rancher
+- word: rink
+  freq: 10814
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A rink is a large area covered with ice where people go to ice-skate, or a large area of concrete where people go to roller-skate.
+  sent: The other skaters were ordered off the rink.
+  roots:
+    rink: "*sker-(2) | to turn, bend"
+  exp:用的是*sker-(2)中ring, circle的那层意思。溜冰场一般都是圆的，便于大家一圈一圈(circle)滑。我们之前讲过ring和*sker-(2)的互换，因此现在只需要想ranch和ring可互换就行。
+- word: circuit
+  freq: 4063
+  use: 9
+  pos: COUNTABLE NOUN
+  meaning: An electrical circuit is a complete route which an electric current can flow around.
+  sent: Any attempts to cut through the cabling will break the electrical circuit.
+  roots:
+    circ:
+      meaning: circum- | round
+      roots:
+        circ: "*sker-(2) | to turn, bend"
+    it: "*ei- | to go"
+  exp: 词根合起来表示go around，对应释义中的flow around。注意circum-这个前缀是从*sker-(2)来的。
+  connect:
+    round:
+      - around
+    go:
+      - flow
+  related:
+    - circuitry
+- word: incarnation
+  freq: 9824
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If you say that someone is the incarnation of a particular quality, you mean that they represent that quality or are typical of it in an extreme form.
+  sent: The regime was the very incarnation of evil.
+  roots:
+    in: in- | in
+    carn:
+      meaning: car | flesh
+      roots:
+        car: "*sker-(1) | to cut"
+  exp: 栩栩如生就是这感觉了。
+  connect:
+    flesh:
+      - represent
+      - typical
+  related:
+    - reincarnation
+- word: carnation
+  freq: 19359
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A carnation is a plant with white, pink, or red flowers.
+  sent: a carnation dress
+  roots:
+    carn:
+      meaning: car | flesh
+      roots:
+        car: "*sker-(1) | to cut"
+  exp: carnation的中文是直接音译：康乃馨。这个翻译非常好，因为"康"和"馨"分别象征了"健康"和"温馨"，跟送这种花要表达的意思相符。为啥过母亲节送carnation呢？为啥同样的花送女朋友就不合适呢？因为孩子是娘身上掉下来的肉(flesh)，过节了您得象征性地还人家一块儿。而你多半不是自己女朋友生的，所以送她carnation不合适。婚礼上也经常会用到carnation，其用意昭然若揭：其实就是在催女方早点生宝宝。
 
-crispy  14907   14      *sker-
-ranch   4075    13      *sker-
-carnival        12867   11      *legwh-,        *sker-
-circuit 4063    9       *ei-,   *sker-
 ridge   4908    7       *sker-
 ranger  8832    0       *sker-
 shareholder     4691    -1      *sker-
 shrub   7270    -1      *sker-
-rancher 7616    -1      *sker-
-shoreline       9503    -1      *sker-
-ashore  9748    -1      *sker-
-incarnation     9824    -1      *sker-
 shear   9832    -1      *sker-
-rink    10814   -1      *sker-
-sweatshirt      11306   -1      *sker-
 crepe   13858   -1      *sker-
 cortex  14306   -1      *sker-
 scrapbook       15779   -1      *sker-
-circuitry       16269   -1      *ei-,   *sker-
 corona  17825   -1      *sker-
-reincarnation   18458   -1      *sker-
 circumcision    19136   -1      *kae-id-,       *sker-
-carnation       19359   -1      *sker-
 
 
 ## TODO: finish all "related" tabs in root.yml
