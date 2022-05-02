@@ -12370,12 +12370,18 @@
       meaning: car | flesh
       roots:
         car: "*sker-(1) | to cut"
-  exp: carnation的中文是直接音译：康乃馨。这个翻译非常好，因为"康"和"馨"分别象征了"健康"和"温馨"，跟送这种花要表达的意思相符。为啥过母亲节送carnation呢？为啥同样的花送女朋友就不合适呢？因为孩子是娘身上掉下来的肉(flesh)，过节了您得象征性地还人家一块儿。而你多半不是自己女朋友生的，所以送她carnation不合适。婚礼上也经常会用到carnation，其用意昭然若揭：其实就是在催女方早点生宝宝。
+  exp: carnation的中文是直接音译：康乃馨。这个翻译非常好，因为"康"和"馨"分别象征了"健康"和"温馨"，跟送这种花要表达的意思相符。为啥过母亲节送carnation呢？为啥同样的花送女朋友就不合适呢？因为孩子是娘身上掉下来的肉(flesh)，过节了您得象征性地还人家一块儿。而你多半不是自己女朋友生的，所以送carnation不合适。婚礼上也经常会用到carnation，其用意昭然若揭：其实就是在催女方早点生宝宝。
+- word: ridge
+  freq: 4908
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A ridge is a long, narrow piece of raised land.
+  sent: '...a high road along a mountain ridge.'
+  roots:
+    ridge: "*sker-(2) | to turn, bend"
+  exp: 这次本来表示"脊背"，后来引申为"山脊"。背是可以弯的，因此和bend相关。字母互换上还是直接从同属于*sker-(2)的ring<1688,108>开始想就好：ring=ridge。
 
-ridge   4908    7       *sker-
-ranger  8832    0       *sker-
-shareholder     4691    -1      *sker-
-shrub   7270    -1      *sker-
+
 shear   9832    -1      *sker-
 crepe   13858   -1      *sker-
 cortex  14306   -1      *sker-

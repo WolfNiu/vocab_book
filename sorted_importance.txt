@@ -12649,7 +12649,7 @@ co-author	7244	-1	*aug-
 airborne	7247	-1
 someplace	7250	-1	*plat-
 thermal	7267	-1	*gwher-
-shrub	7270	-1	*sker-
+shrub	7270	-1
 grader	7272	-1	*ghredh-
 dental	7278	-1	*dent-
 cockpit	7280	-1
