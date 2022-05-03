@@ -12380,11 +12380,40 @@
   roots:
     ridge: "*sker-(2) | to turn, bend"
   exp: 这次本来表示"脊背"，后来引申为"山脊"。背是可以弯的，因此和bend相关。字母互换上还是直接从同属于*sker-(2)的ring<1688,108>开始想就好：ring=ridge。
+- word: shear
+  freq: 9832
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To shear a sheep means to cut its wool off.
+  sent: Competitors have six minutes to shear four sheep.
+  roots:
+    shear: "*sker-(1) | to cut"
+  exp: 释义中自带cut，不解释。
+  connect:
+    cut:
+      - cut
+- word: crepe
+  freq: 13858
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Crepe is a thin fabric with an uneven surface and is made of cotton, silk, or wool.
+  sent: Use a crepe bandage to support the affected area.
+  roots:
+    cre: "*sker-(2) | to turn, bend"
+  exp: 从释义中的uneven surface可以看出crepe和curled, wrinkled相关，于是也就和词根意思中的bend相关了。crepe同时美国人经常吃的一种pancake(7456,3)，看着一层一层的。有点儿像煎饼。
+- word: cortex
+  freq: 14306
+  use: -1
+  pos: NOUN
+  meaning: The cortex of the brain or of another organ is its outer layer.
+  sent: '...the cerebral cortex.'
+  roots:
+    cor: "*sker-(1) | to cut"
+  exp: 用的是*sker-(1)中"隔绝"、"分开(cut)"的那层意思。cortex包裹在大脑周围，能把软软的脑子和外界隔开。
+  connect:
+    cut:
+      - outer layer
 
-
-shear   9832    -1      *sker-
-crepe   13858   -1      *sker-
-cortex  14306   -1      *sker-
 scrapbook       15779   -1      *sker-
 corona  17825   -1      *sker-
 circumcision    19136   -1      *kae-id-,       *sker-
