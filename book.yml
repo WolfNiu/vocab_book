@@ -12148,6 +12148,8 @@
   connect:
     cut:
       - very small piece or amount
+  related:
+    - scrapbook
 - word: sheer
   freq: 4238
   use: 148
@@ -12414,9 +12416,6 @@
     cut:
       - outer layer
 
-scrapbook       15779   -1      *sker-
-corona  17825   -1      *sker-
-circumcision    19136   -1      *kae-id-,       *sker-
 
 
 ## TODO: finish all "related" tabs in root.yml
