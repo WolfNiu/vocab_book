@@ -13248,7 +13248,7 @@ dent	9845	-1
 modernist	9846	-1	*med-
 rot	9847	-1
 permeate	9848	-1	*mei-,	*per-
-remotely	9849	-1
+remotely	9849	-1  *meue-
 late-night	9850	-1
 alienation	9852	-1	*al-
 pollster	9854	-1

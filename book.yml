@@ -12418,6 +12418,25 @@
 
 
 
+
+
+automotive      8896    -1      *meue-
+locomotive      12067   -1      *meue-
+momentum        4400    24      *meue-
+mob     5789    71      *meue-
+motif   6640    61      *meue-
+commotion       11945   55      *meue-
+mobile  4739    39      *meue-
+  automobile      4042    39      *meue-
+  mobility        5783    0       *meue-
+mutiny  17056   35      *meue-
+mobster 17089   27      *meue-
+mobilize        6329    22      *meue-
+  mobilization    10301   -1      *meue-
+immobile        17253   24      *meue-
+  immobilize      17376   26      *meue-
+
+
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
@@ -12427,7 +12446,6 @@
 # (44, '*ant-'),
 # (45, '*ne-'),
 # (45, '*weik-'),
-# (46, '*meue-'),
 # (47, '*legh-'),
 # (48, '*ad-'),
 # (48, '*krei-'),
