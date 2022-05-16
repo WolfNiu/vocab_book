@@ -12415,26 +12415,172 @@
   connect:
     cut:
       - outer layer
-
-
-
-
-
-automotive      8896    -1      *meue-
-locomotive      12067   -1      *meue-
-momentum        4400    24      *meue-
-mob     5789    71      *meue-
-motif   6640    61      *meue-
-commotion       11945   55      *meue-
-mobile  4739    39      *meue-
-  automobile      4042    39      *meue-
-  mobility        5783    0       *meue-
-mutiny  17056   35      *meue-
-mobster 17089   27      *meue-
-mobilize        6329    22      *meue-
-  mobilization    10301   -1      *meue-
-immobile        17253   24      *meue-
-  immobilize      17376   26      *meue-
+- word: mutiny
+  freq: 17056
+  use: 35
+  pos: VARIABLE NOUN
+  meaning: A mutiny is a refusal by people, usually soldiers or sailors, to continue obeying a person in authority.
+  sent: A series of coup attempts and mutinies within the armed forces destabilized the regime.
+  roots:
+    mut:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+  exp: 用的是*meue-中move的那层意思。mutiny就是一场movement，是"人心浮动(move)"的感觉。
+- word: automotive
+  freq: 8896
+  use: -1
+  pos: ADJECTIVE
+  meaning: Automotive is used to refer to things relating to cars.
+  sent: '...a chain of stores selling automotive parts.'
+  roots:
+    auto: auto- | self
+    mot:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+  exp: 自己就能动，所以是cars。
+  connect:
+    move:
+      - cars
+- word: locomotive
+  freq: 12067
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A locomotive is a large vehicle that pulls a train.
+  sent: a locomotive shed
+  roots:
+    loc: loc | place
+    mot:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+  exp: 词根合起来是move from place to place的意思。
+- word: commotion
+  freq: 11945
+  use: 55
+  pos: VARIABLE NOUN
+  meaning: A commotion is a lot of noise, confusion, and excitement.
+  sent: He heard a commotion outside.
+  roots:
+    com: com- | thoroughly
+    mot:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+  exp: 词根合起来表达"violent movement or agitation"的感觉，所以才会产生noise，confusion和excitement。
+  connect:
+    move:
+      - noise
+      - confusion
+      - excitement
+- word: momentum
+  freq: 4400
+  use: 24
+  pos: UNCOUNTABLE NOUN
+  meaning: If a process or movement gains momentum, it keeps developing or happening more quickly and keeps becoming less likely to stop.
+  sent: This campaign is really gaining momentum.
+  roots:
+    mom:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+  exp: 释义中的less likely to stop其实就是keep moving的意思。
+  connect:
+    move:
+      - developing
+      - happening
+      - less likely to stop
+- word: mob
+  freq: 5789
+  use: 71
+  pos: COUNTABLE NOUN
+  meaning: A mob is a large, disorganized, and often violent crowd of people.
+  sent: The inspectors watched a growing mob of demonstrators gathering.
+  roots:
+    mob:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+  exp: 从释义里就能看出来mob一般都不老实，呆不住，因此和move相关。
+  connect:
+    move:
+      - disorganized
+      - violent
+  related:
+    - mobster
+- word: motif
+  freq: 6640
+  use: 61
+  pos: COUNTABLE NOUN
+  meaning: A motif is a design which is used as a decoration or as part of an artistic pattern.
+  sent: '...a rose motif.'
+  roots:
+    mot:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+  exp: 如果能理解中文里的"动机(motive)"，就能很好的理解motif想要表达的意思。motif的本意指的是"dominant idea, theme"，也就是"主题、动机"的概念。
+- word: mobile
+  freq: 4739
+  use: 39
+  pos: ADJECTIVE
+  meaning: You use mobile to describe something large that can be moved easily from place to place.
+  sent: '...the four-hundred seat mobile theater.'
+  roots:
+    mob:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+    ible: -able | able
+  exp: 释义中自带move，不解释。
+  connect:
+    move:
+      - moved
+  related:
+    - mobility
+    - mobilize
+    - mobilization
+- word: automobile
+  freq: 4042
+  use: 39
+  pos: COUNTABLE NOUN
+  meaning: An automobile is a car.
+  sent: '...the automobile industry.'
+  roots:
+    auto: auto- | self
+    mob:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+    ible: -able | able
+  exp: 词根合起来表示self-moving, self-movable。
+  connect:
+    self:
+      - car
+    move:
+      - car
+- word: immobile
+  freq: 17253
+  use: 24
+  pos: ADJECTIVE
+  meaning: Someone or something that is immobile is completely still.
+  sent: Joe remained immobile, as if he had been carved out of stone.
+  roots:
+    im: in-(1) | not, opposite of
+    mob:
+      meaning: move
+      roots:
+        "*meue- | to push away"
+    ible: -able | able
+  exp: 词根合起来表示"immovable"，对应释义中的"completely still"。
+  connect:
+    not:
+      - still
+    move:
+      - still
+  related:
+    - immobilize
 
 
 ## TODO: finish all "related" tabs in root.yml
