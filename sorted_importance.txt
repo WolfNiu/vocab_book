@@ -1921,7 +1921,7 @@ add	341	86	*ad-,	*do-
 table	540	86
 imagine	912	86	*aim-
 vision	1219	86	*weid-
-count	1338	86	*ei-,	*pau-
+count	1338	86	*pau-
 bond	1894	86	*bhendh-,	*bheue-
 gray	1949	86
 working	2843	86	*werg-
@@ -6063,7 +6063,7 @@ rob	5131	29
 antibiotic	5143	29	*gwei-
 aging	5376	29	*aiw-
 guerrilla	5512	29
-recount	5557	29	*ei-,	*pau-
+recount	5557	29	*pau-
 omit	5624	29
 collision	5706	29
 unconscious	5746	29	*skei-
@@ -6296,7 +6296,7 @@ intercede	19900	28	*ked-
 fawn	19947	28	*dhe(i)-
 psychopath	20050	28
 prologue	20092	28	*leg-
-constable	20138	28	*ei-,	*sta-
+constable	20138	28	*sta-
 wrenching	20168	28
 must	224	27	*med-
 education	377	27	*deuk-
@@ -8391,7 +8391,7 @@ accusation	4924	12
 epidemic	4973	12	*da-
 thief	5064	12
 fossil	5101	12
-countless	5115	12	*ei-,	*pau-
+countless	5115	12	*pau-
 salvation	5590	12
 melody	5636	12
 realization	5692	12	*reg-
@@ -8721,7 +8721,7 @@ frontal	11041	10
 childbirth	11180	10	*bher-
 overhaul	11266	10	*kele-
 pedagogical	11393	10
-janitor	11633	10	*ei-
+janitor	11633	10
 shaman	11898	10
 beggar	11990	10
 grandeur	12074	10
@@ -10203,7 +10203,7 @@ accused	9597	0
 losing	9619	0
 framed	9644	0
 undertaking	9654	0
-counting	9659	0	*ei-,	*pau-
+counting	9659	0	*pau-
 solving	9665	0
 cut-off	9694	0
 traveling	9723	0
@@ -10656,7 +10656,7 @@ deepening	14514	0
 buoy	14527	0	*bha-
 arched	14531	0
 boyish	14549	0
-issuer	14558	0
+issuer	14558	0   *ei-
 decorating	14572	0
 acknowledged	14576	0
 crippling	14577	0
@@ -11284,7 +11284,7 @@ temperature	1631	-1
 regional	1654	-1	*reg-
 Iraqi	1662	-1
 analyst	1681	-1
-county	1694	-1	*ei-
+county	1694	-1
 bridge	1698	-1
 e-mail	1703	-1
 Japanese	1731	-1
@@ -15155,7 +15155,7 @@ accordion	15142	-1	*kerd-
 tenacity	15147	-1	*ten-
 checker	15148	-1
 sixty-five	15152	-1
-countdown	15156	-1	*ei-,	*pau-
+countdown	15156	-1	*pau-
 couture	15160	-1	*syu-
 stationery	15163	-1
 corrugated	15164	-1
@@ -16106,7 +16106,7 @@ nine-year-old	16371	-1
 saber	16372	-1
 deceit	16373	-1	*kap-
 Balkan	16374	-1
-issuing	16375	-1
+issuing	16375	-1  *ei-
 repatriation	16376	-1
 creaking	16377	-1
 epitome	16379	-1	*tem-

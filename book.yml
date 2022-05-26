@@ -12581,6 +12581,154 @@
       - still
   related:
     - immobilize
+- word: entrance
+  freq: 18630
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If something or someone entrances you, they cause you to feel delight and wonder, often so that all your attention is taken up and you cannot think about anything else.
+  sent: As soon as I met Dick, he entranced me because he has a lovely voice.
+  roots:
+    en: en-(1) | put in
+    trance: trance
+  exp: 词根合起来表示"to throw into a trance"。注意entrance<2899,43>作为名词的时候是从enter<710,77>来的，和这个词写法一样但不是一码事。
+- word: commence
+  freq: 9682
+  use: 93
+  pos: VERB
+  meaning: When something commences or you commence it, it begins.
+  sent: The academic year commences at the beginning of October.
+  roots:
+    com: com- | with together
+    ence:
+      meaning: init | to initiate
+      roots:
+        in: in- | into, in
+        it: "*ei- | to go"
+  exp: initiate, go in表达了a beginning, a going in的感觉。
+  connect:
+    initiate:
+      - begins
+  related:
+    - commencement
+- word: perish
+  freq: 9696
+  use: 86
+  pos: INTRANSITIVE VERB
+  meaning: If people or animals perish, they die as a result of very harsh conditions or as the result of an accident.
+  sent: Most of the butterflies perish in the first frosts of autumn.
+  roots:
+    per: "*per-(1) | forward"
+    i: "*ei- | to go"
+  exp: 一般说人死了就是"She is gone."，因此和go相关。
+- word: ambitious
+  freq: 4331
+  use: 78
+  pos: ADJECTIVE
+  meaning: Someone who is ambitious has a strong desire to be successful, rich, or powerful.
+  sent: Chris is so ambitious, so determined to do it all.
+  roots:
+    ambi: ambi- | around
+    it: "*ei- | to go"
+  exp: 想go around的人往往雄心勃勃；老呆在家的一般都没啥志向。
+  connect:
+    around:
+      - successful
+      - rich
+      - powerful
+    go:
+      - successful
+      - rich
+      - powerful
+  related:
+    - ambition
+- word: transient
+  freq: 11028
+  use: 33
+  pos: ADJECTIVE
+  meaning: Transient is used to describe a situation that lasts only a short time or is constantly changing.
+  sent: '...the transient nature of high fashion.'
+  roots:
+    trans: trans- | across, beyond
+    i: "*ei- | to go"
+  exp: 词根合起来表达"passing over or away"，有一种"转瞬即逝"的感觉。其实人死了也叫pass away——大概是为了表达人生苦短吧。
+- word: ambient
+  freq: 12745
+  use: 22
+  pos: ADJECTIVE
+  meaning: The ambient temperature is the temperature of the air above the ground in a particular place.
+  sent: '...ambient sounds of children in the background.'
+  roots:
+    ambi: ambi- | around
+    i: "*ei- | to go"
+  exp: 词根合起来表示"go around"，之后引申出了"encircling, lying all around"的意思——也就是"周围"。
+  related:
+    - ambience
+- word: transit
+  freq: 4917
+  use: 18
+  pos: UNCOUNTABLE NOUN
+  meaning: Transit is the carrying of goods or people by vehicle from one place to another.
+  sent: During their talks, the two presidents discussed the transit of goods between the two countries.
+  roots:
+    trans: trans- | across, beyond
+    it: "*ei- | to go"
+  exp: 词根合起来是cross over, pass over的意思，对应释义中的from on place to another。
+  connect:
+    across:
+      - from one place to another
+    go:
+      - from one place to another
+- word: trance
+  freq: 12830
+  use: 18
+  pos: COUNTABLE NOUN
+  meaning: A trance is a state of mind in which someone seems to be asleep and to have no conscious control over their thoughts or actions, but in which they can see and hear things and respond to commands given by other people.
+  sent: Like a man in a trance, Blake found his way back to his rooms.
+  roots:
+    tranc: trans- | across, beyond
+    e: "*ei- | to go"
+  exp: 词根合起来是cross over的意思，表达进入"另一个世界"、"另一种精神状态"的感觉。
+- word: itinerary
+  freq: 11536
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: An itinerary is a plan of a trip, including the route and the places that you will visit.
+  sent: The next place on our itinerary was Sedona.
+  roots:
+    it: "*ei- | to go"
+  exp: itinerary说白了就是places to go，a journey的意思。
+  connect:
+    go:
+      - visit
+  related:
+    - itinerant
+- word: obituary
+  freq: 12448
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: Someone's obituary is an account of their life and character which is presented in a newspaper or broadcast soon after they die.
+  sent: His obituary was published in one edition of his own newspaper before it was discovered that he was alive.
+  roots:
+    ob: ob- | toward
+    it: "*ei- | to go"
+  exp: 英文里gone可以表示"死亡"，对应词根意思里的go。
+  connect:
+    go:
+      - die
+- word: ion
+  freq: 10549
+  use: -1
+  pos: NOUN
+  meaning: Ions are electrically charged atoms.
+  sent: A cation is a positively charged ion that moves through the electrolyte toward the cathode under the influence of a potential gradient.
+  roots:
+    i: "*ei- | to go"
+    on: -on | subatomic particle suffix
+  exp: 这是19世纪才造出来的词。一般来说越晚造的词，其词根组成越有规律可寻。这词之所以和go相关，是因为"ions move toward the electrode of opposite charge"。到于-on这个后缀别的粒子里也有，比如photon<10153,-1>，electron<5637,-1>和proton<12536,-1>。
+
+
+concomitant     15310   -1      *ei-
+errant  15643   -1      *ei-
 
 
 ## TODO: finish all "related" tabs in root.yml
