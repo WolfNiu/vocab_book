@@ -12725,10 +12725,32 @@
     i: "*ei- | to go"
     on: -on | subatomic particle suffix
   exp: 这是19世纪才造出来的词。一般来说越晚造的词，其词根组成越有规律可寻。这词之所以和go相关，是因为"ions move toward the electrode of opposite charge"。到于-on这个后缀别的粒子里也有，比如photon<10153,-1>，electron<5637,-1>和proton<12536,-1>。
+- word: concomitant
+  freq: 15310
+  use: -1
+  pos: ADJECTIVE
+  meaning: Concomitant is used to describe something that happens at the same time as another thing and is connected with it.
+  sent: Cultures that were better at trading saw a concomitant increase in their wealth.
+  roots:
+    con: con- | with, together
+    com: com- | with
+    it: "*ei- | to go"
+  exp: 词根合起来表示go together，也就是accompanying的意思。
+  connect:
+    together:
+      - at the same time
+      - connected
+    go:
+      - happen
+- word: errant
+  freq: 15643
+  use: -1
+  meaning: Errant is used to describe someone whose actions are considered unacceptable or wrong by other people. For example, an errant husband is unfaithful to his partner.
+  sent: Usually his cases involved errant husbands and wandering wives.
+  roots:
+    er: "*ei- | to go"
+  exp: 词根表达的意思是to travel or wander，描绘一个unfaithful husband的形象就是在家呆不住，老出去跑，
 
-
-concomitant     15310   -1      *ei-
-errant  15643   -1      *ei-
 
 
 ## TODO: finish all "related" tabs in root.yml
