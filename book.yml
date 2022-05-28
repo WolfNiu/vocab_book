@@ -12753,6 +12753,50 @@
 
 
 
+concern 718     172     *krei-
+  concerned       1131    0       *krei-
+  unconcerned     17828   54      *krei-
+secret  1884    120     *krei-
+  secrecy 7256    13      *krei-
+  secretly        6197    11      *krei-
+  secretive       11758   24      *krei-
+secretary       2025    -1      *krei-
+certain 578     111     *krei-
+  certainly       664     27      *krei-
+  uncertain       4336    67      *krei-
+  uncertainty     3763    23      *krei-
+  certainty       5633    23      *krei-
+critical        1129    90      *krei-
+  criticism       2111    -1      *krei-
+  criticize       2584    -1      *krei-
+crime   831     38      *krei-
+  criminal        1966    63      *krei-
+  criminality     18797   11      *krei-
+crisis  1210    41      *krei-
+discrimination  3194    11      *krei-
+  discriminate    6896    20      *krei-
+  discriminating  19727   47      *krei-
+  indiscriminate  16967   37      *krei-
+  discriminatory  11656   19      *krei-
+  indiscriminately        19114   -1      *krei-
+critic  1362    14      *krei-
+  critique        5040    15      *krei-
+concert 2537    -1      *krei-
+  concerted       11579   39      *krei-
+  concerto        19954   -1      *krei-
+
+discern 7851    92      *krei-
+  discerning      17734   39      *krei-
+  discernible     13537   39      *krei-
+decree  8565    61      *krei-
+riddle  12015   60      *krei-, *re-
+discreet        11449   51      *krei-
+cranny  19456   17      *krei-
+recrimination   19608   14      *krei-
+hypocrisy       9420    10      *krei-
+ascertain       9806    -1      *krei-
+
+
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
@@ -12764,7 +12808,6 @@
 # (45, '*weik-'),
 # (47, '*legh-'),
 # (48, '*ad-'),
-# (48, '*krei-'),
 # (48, '*kwel-'),
 # (48, '*plat-'),
 # (50, '*es-'),
