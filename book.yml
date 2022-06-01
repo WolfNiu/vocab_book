@@ -12750,51 +12750,121 @@
   roots:
     er: "*ei- | to go"
   exp: 词根表达的意思是to travel or wander，描绘一个unfaithful husband的形象就是在家呆不住，老出去跑，
+- word: discern
+  freq: 7851
+  use: 92
+  pos: TRANSITIVE VERB
+  meaning: If you can discern something, you are aware of it and know what it is.
+  sent: You need a long series of data to be able to discern such a trend.
+  roots:
+    dis: dis- | off, away
+    cern: "*krei- | to sieve"
+  exp: 用的是*krei-中discriminate, distinguish的那层意思——也就是"能分辨出某事物"。
+  connect:
+    sieve:
+      - aware of
+      - know
+  related:
+    - discerning
+    - discernible
+- word: decree
+  freq: 8565
+  use: 61
+  pos: COUNTABLE NOUN
+  meaning: A decree is an official order or decision, especially one made by the ruler of a country.
+  sent: In July he issued a decree ordering all unofficial armed groups in the country to disband.
+  roots:
+    de: de- | down
+    cree: "*krei- | to sieve"
+  exp: 用的是*krei-中judge的那层意思，由此引申出decree中to decide, pronounce a decision的感觉。
+- word: discreet
+  freq: 11449
+  use: 51
+  pos: ADJECTIVE
+  meaning: If you are discreet, you are polite and careful in what you do or say, because you want to avoid embarrassing or offending someone.
+  sent: They were gossipy and not always discreet.
+  roots:
+    dis: dis- | off, away
+    creet: "*krei- | to sieve"
+  exp: 用的是*krei-中discriminate, distinguish的那层意思。表达"说话之前先分辨哪些该说哪些不该说"的那种感觉。
+- word: cranny
+  freq: 19456
+  use: 17
+  pos: NOUN
+  meaning: Crannies are very narrow openings or spaces in something.
+  sent: They fled like lizards into crannies in the rocks.
+  roots:
+    cran: "*krei- | to sieve"
+  exp: 一般过滤用的筛子都编得很细密，因此和narrow openings/spaces相关。
+  connect:
+    sieve:
+      - narrow openings or spaces
+- word: recrimination
+  freq: 19608
+  use: 14
+  pos: NOUN
+  meaning: Recriminations are accusations that two people or groups make about each other.
+  sent: The bitter arguments and recriminations have finally ended the relationship.
+  roots:
+    re: re- | back, again
+    crim: "*krei- | to sieve"
+  exp: 用的是*krei-中charge, indictment, accusation的那层意思，也就是crime<831,38>用的意思。实际去想recrimination的时候，用crime记就好。
+- word: hypocrisy
+  freq: 9420
+  use: 10
+  pos: VARIABLE NOUN
+  meaning: If you accuse someone of hypocrisy, you mean that they pretend to have qualities, beliefs, or feelings that they do not really have.
+  sent: He accused newspapers of hypocrisy in their treatment of the story.
+  roots:
+    hypo: hypo- | under
+    cris: "*krei- | to sieve"
+  exp: 用的是*krei-中distinguish的那层意思。显得自己卓尔不群(distinguished)，实际上满不是那么回事(under)。
+- word: ascertain
+  freq: 9806
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you ascertain the truth about something, you find out what it is, especially by making a deliberate effort to do so.
+  sent: Through doing this, the teacher will be able to ascertain the extent to which the child understands what he is reading.
+  roots:
+    as: ad- | to
+    certain: certain
+  exp: 直接用certain记就好，而certain来源于词根*krei-。
 
 
 
-concern 718     172     *krei-
-  concerned       1131    0       *krei-
-  unconcerned     17828   54      *krei-
-secret  1884    120     *krei-
-  secrecy 7256    13      *krei-
-  secretly        6197    11      *krei-
-  secretive       11758   24      *krei-
-secretary       2025    -1      *krei-
-certain 578     111     *krei-
-  certainly       664     27      *krei-
-  uncertain       4336    67      *krei-
-  uncertainty     3763    23      *krei-
-  certainty       5633    23      *krei-
-critical        1129    90      *krei-
-  criticism       2111    -1      *krei-
-  criticize       2584    -1      *krei-
-crime   831     38      *krei-
-  criminal        1966    63      *krei-
-  criminality     18797   11      *krei-
-crisis  1210    41      *krei-
-discrimination  3194    11      *krei-
-  discriminate    6896    20      *krei-
-  discriminating  19727   47      *krei-
-  indiscriminate  16967   37      *krei-
-  discriminatory  11656   19      *krei-
-  indiscriminately        19114   -1      *krei-
-critic  1362    14      *krei-
-  critique        5040    15      *krei-
-concert 2537    -1      *krei-
-  concerted       11579   39      *krei-
-  concerto        19954   -1      *krei-
-
-discern 7851    92      *krei-
-  discerning      17734   39      *krei-
-  discernible     13537   39      *krei-
-decree  8565    61      *krei-
-riddle  12015   60      *krei-, *re-
-discreet        11449   51      *krei-
-cranny  19456   17      *krei-
-recrimination   19608   14      *krei-
-hypocrisy       9420    10      *krei-
-ascertain       9806    -1      *krei-
+end     279     357     *ant-
+  unending        16431   -1      *ant-
+  endless 3758    59      *ant-
+  ending  5249    56      *ant-
+answer  768     173     *ant-
+  unanswered      10138   -1      *ant-
+dread   9384    114     *ant-,  *re-
+  dreadful        9500    214     *ant-,  *re-
+advantage       1308    108     *ant-
+  disadvantage    6383    68      *ant-
+  disadvantaged   9105    31      *ant-
+  advantageous    14583   26      *ant-
+ancient 1832    92      *ant-
+revamp  13559   91      *ant-,  *ped-
+antecedent      17181   91      *ant-,  *ked-
+antique 5830    90      *ant-,  *okw-
+  antiquated      14918   60      *ant-,  *okw-
+  antiquity       8888    6       *ant-,  *okw-
+anterior        12232   44      *ant-
+avant-garde     14164   40      *ant-,  *wer-
+anticipate      3215    37      *ant-,  *kap-
+  anticipation    6273    11      *ant-,  *kap-
+  unanticipated   16733   13      *ant-,  *kap-
+ancestor        4178    34      *ant-,  *ked-
+along   448     12      *ant-
+  alongside       4243    10      *ant-
+antics  13061   0       *ant-
+until   271     -1      *ant-
+advance 2316    -1      *ant-
+  advanced        2824    78      *ant-
+  advancement     6733    109     *ant-
+antler  12476   -1      *ant-,  *okw-
+vanguard        15553   -1      *ant-,  *wer-
 
 
 ## TODO: finish all "related" tabs in root.yml

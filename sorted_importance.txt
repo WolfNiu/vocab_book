@@ -3231,7 +3231,7 @@ penchant	11728	60	*(s)pen-
 conformity	11745	60
 slay	11760	60
 unconditional	11864	60	*dhe-
-riddle	12015	60	*krei-,	*re-
+riddle	12015	60	*re-
 assured	12542	60	*ad-
 unfavorable	12545	60
 overpower	12638	60	*poti-
