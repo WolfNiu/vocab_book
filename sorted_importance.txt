@@ -329,7 +329,7 @@ sorry	1209	196
 brilliant	3186	196
 hurry	3646	196
 bug	4201	196
-heroic	6266	196	*ser-
+heroic	6266	196
 still	126	195	*stel-
 group	163	195
 grave	3388	195	*gwere-
@@ -2649,7 +2649,7 @@ allowance	7820	70
 comforting	7893	70
 sage	8391	70
 noticeable	8652	70	*gno-
-vantage	9197	70
+vantage	9197	70  *ant-
 heed	9338	70
 humiliate	9539	70	*dhghem-
 state-of-the-art	9629	70	*sta-
@@ -5625,7 +5625,7 @@ prowess	11339	33	*per-
 big-time	11781	33
 unborn	11787	33
 quiver	11790	33	*gwei-
-heroism	12124	33	*ser-
+heroism	12124	33
 momentary	12360	33	*meue-
 diagonal	12432	33	*genu-
 fateful	12762	33	*bha-
@@ -8104,7 +8104,7 @@ painting	1060	14	*peig-
 participant	1107	14
 critic	1362	14	*krei-
 participate	1491	14	*kap-,	*pere-
-hero	1926	14	*ser-
+hero	1926	14
 tongue	2893	14	*dnghu-
 musician	2959	14	*men-
 formation	3070	14
@@ -12412,7 +12412,7 @@ ant	5889	-1
 re-election	5907	-1
 incidence	5922	-1	*kad-
 microwave	5935	-1	*wegh-
-heroin	5942	-1	*ser-
+heroin	5942	-1
 monk	5943	-1	*men-
 laptop	5949	-1
 reproductive	5951	-1	*deuk-,	*per-
@@ -12909,7 +12909,7 @@ chimney	8482	-1
 overtime	8486	-1	*da-
 dorm	8487	-1
 ye	8489	-1
-heroine	8490	-1	*ser-
+heroine	8490	-1
 weekday	8492	-1	*weik-, *dyeu-
 fin	8500	-1	*penkwe-
 characterization	8527	-1
@@ -14775,7 +14775,7 @@ wastewater	13839	-1	*eue-
 hotline	13842	-1
 Parisian	13845	-1
 siding	13846	-1
-miniseries	13849	-1
+miniseries	13849	-1  *ser-
 landscaping	13850	-1
 cod	13851	-1
 crepe	13858	-1	*sker-
@@ -16813,7 +16813,7 @@ soundbite	18419	-1
 cobbler	18420	-1
 fibrosis	18422	-1
 tranquilizer	18430	-1
-superhero	18437	-1	*ser-
+superhero	18437	-1
 chopsticks	18440	-1
 landlady	18448	-1	*dheigh-
 two-lane	18455	-1

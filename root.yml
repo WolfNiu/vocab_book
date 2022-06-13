@@ -1491,3 +1491,28 @@ misc:
     - criminality
     - concerted
     - concerto
+"*ser-(1)":
+  meaning: to protect
+  exp: reserve<3776,155> = re[=re-:back] + serve[=*ser-(1)]，词根合起来表示keep back。其衍生词reservation<3072,43>也是常用词。preserve<2229,-1> = pre[=pre-:before] + serve[=*ser-(1)]，和reserve的感觉类似。另外一个感觉相似的词是conservative[1851,107] = con[=com-:intensive prefix] + serv[=*ser-(1)]，也就是preserve, keep intact的感觉。conservative的中文是"保守"——自带一个"保"字，自然是和protect相关。observe<1301,153> = ob[=ob-:in front of, before] + serve[=*ser-(1)]，词根合起来表示"watch over"。之所以watch和protect相关，就是因为"看管"和"保护"其实是同一个概念。其衍生词observer<2478,-1>，observation<2123,-1>也都是常用词。
+  related:
+    - preservation
+    - preservative
+    - preservationist
+    - reservoir
+    - reserved
+    - reservist
+    - observatory
+    - observance
+    - observable
+    - observant
+    - conservation
+    - conserve
+    - conservationist
+"*ser-(2)":
+  meaning: to line up
+  exp: sort<838,194> = sort[=*ser-(2)]其实就是大家排排序，"line up"的感觉真是跃然纸上。series<719,-1> = ser[=*ser-(2)]，表达的感觉是a number or set of things of one kind arranged in a line。比如TV series，就是每一集排好队，一集一集的按顺序看。assert<3173,90> = as[=ad-:to] + sert[=*ser-(2)]表面上和line up没啥关系，但实际上asserty是在表达观点，也就是在"站队(line up)"。desert<2216,-1> = de[=de-:undo] + sert[=*ser-(2)]作为动词时表示to leave, abandon(有人心想："哇，我认识abandon哎！")，也就是本来line up好的东西，你又给拆开不要(abandon)了。而沙漠就是这样一种像是被人遗弃的地带。
+  related:
+    - miniseries
+    - assertion
+    - assertiveness
+    - assertive

@@ -12829,42 +12829,47 @@
     as: ad- | to
     certain: certain
   exp: 直接用certain记就好，而certain来源于词根*krei-。
+- word: insert
+  freq: 4345
+  use: 31
+  pos: TRANSITIVE VERB
+  meaning: If you insert an object into something, you put the object inside it.
+  sent: He took a small key from his pocket and slowly inserted it into the lock.
+  roots:
+    in: in- | in
+    sert: "*ser-(2) | to line up"
+  exp: 要想insert，就得对准、对齐了才能捅得进去(不要想歪)，因此和line up相关。
+  connect:
+    in:
+      - into
+      - inside
+  related:
+    - insertion
+- word: assortment
+  freq: 8965
+  use: 57
+  pos: COUNTABLE NOUN
+  meaning: An assortment is a group of similar things that are of different sizes or colors or have different qualities.
+  sent: '...an assortment of cheese.'
+  related:
+    - assorted
+- word: exertion
+  freq: 12728
+  use: 49
+  meaning: physical or mental effort
+  sent: She was panting with the exertion.
+  roots:
+    ex: ex- | out, from within
+    (x)ert: "*ser-(2) | to line up"
+  exp:
 
 
+dissertation    9514    18      *ser-
+sorcery 18314   14      *ser-
+  sorcerer        18258   10      *ser-
+exert   6203    10      *ser-
+sermon  6705    7       *ser-
 
-end     279     357     *ant-
-  unending        16431   -1      *ant-
-  endless 3758    59      *ant-
-  ending  5249    56      *ant-
-answer  768     173     *ant-
-  unanswered      10138   -1      *ant-
-dread   9384    114     *ant-,  *re-
-  dreadful        9500    214     *ant-,  *re-
-advantage       1308    108     *ant-
-  disadvantage    6383    68      *ant-
-  disadvantaged   9105    31      *ant-
-  advantageous    14583   26      *ant-
-ancient 1832    92      *ant-
-revamp  13559   91      *ant-,  *ped-
-antecedent      17181   91      *ant-,  *ked-
-antique 5830    90      *ant-,  *okw-
-  antiquated      14918   60      *ant-,  *okw-
-  antiquity       8888    6       *ant-,  *okw-
-anterior        12232   44      *ant-
-avant-garde     14164   40      *ant-,  *wer-
-anticipate      3215    37      *ant-,  *kap-
-  anticipation    6273    11      *ant-,  *kap-
-  unanticipated   16733   13      *ant-,  *kap-
-ancestor        4178    34      *ant-,  *ked-
-along   448     12      *ant-
-  alongside       4243    10      *ant-
-antics  13061   0       *ant-
-until   271     -1      *ant-
-advance 2316    -1      *ant-
-  advanced        2824    78      *ant-
-  advancement     6733    109     *ant-
-antler  12476   -1      *ant-,  *okw-
-vanguard        15553   -1      *ant-,  *wer-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -12873,7 +12878,6 @@ vanguard        15553   -1      *ant-,  *wer-
 # (39, '*skel-'),
 # (39, '*wel-'),
 # (42, '*ei-'),
-# (44, '*ant-'),
 # (45, '*ne-'),
 # (45, '*weik-'),
 # (47, '*legh-'),
@@ -12882,7 +12886,6 @@ vanguard        15553   -1      *ant-,  *wer-
 # (48, '*plat-'),
 # (50, '*es-'),
 # (50, '*gwere-'),
-# (50, '*ser-'),
 # (50, '*stere-'),
 # (51, '*do-'),
 # (51, '*ghabh-'),
