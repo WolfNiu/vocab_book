@@ -12851,24 +12851,47 @@
   pos: COUNTABLE NOUN
   meaning: An assortment is a group of similar things that are of different sizes or colors or have different qualities.
   sent: '...an assortment of cheese.'
+  roots:
+    as: ad- | to
+    sort: "*ser- | to line up"
+  exp: line up对应释义中的group，都是"一组"的感觉。
+  connect:
+    line up:
+      - group
   related:
     - assorted
-- word: exertion
-  freq: 12728
-  use: 49
-  meaning: physical or mental effort
-  sent: She was panting with the exertion.
+- word: dissertation
+  freq: 9514
+  use: 18
+  pos: COUNTABLE NOUN
+  meaning: A dissertation is a long formal piece of writing on a particular subject, especially for an advanced university degree.
+  sent: He is currently writing a dissertation on the Somali civil war.
+  roots:
+    dis: dis- | apart
+    sert: "*ser-(2) | to line up"
+  exp: 这个词造得相当好。你在博士期间会做各种不同的(apart)项目，dissertation作为毕业论文，就是把你所做的和某个主题相关的研究串成一条线(line up)。
+- word: exert
+  freq: 6203
+  use: 10
+  pos: TRANSITIVE VERB
+  meaning: If someone or something exerts influence, authority, or pressure, they use it in a strong or determined way, especially in order to produce a particular effect.
+  sent: He exerted considerable influence on the thinking of the scientific community on these issues.
   roots:
     ex: ex- | out, from within
     (x)ert: "*ser-(2) | to line up"
-  exp:
+  exp: 这个词很绕。先从to line up发展出了arrange的感觉，再从arrange发展出了"施加影响(exerts influence)"的概念。
+  related:
+    - exertion
+- word: sermon
+  freq: 6705
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A sermon is a talk on a religious or moral subject that is given by a member of the clergy as part of a church service.
+  sent: Cardinal Murphy will deliver the sermon on Sunday.
+  roots:
+    ser: "*ser-(2) | to line up"
+  exp: sermon的原始意思是a strining together of words，一就是"一串文字"，因此和line up相关。
 
-
-dissertation    9514    18      *ser-
-sorcery 18314   14      *ser-
-  sorcerer        18258   10      *ser-
-exert   6203    10      *ser-
-sermon  6705    7       *ser-
 
 
 
