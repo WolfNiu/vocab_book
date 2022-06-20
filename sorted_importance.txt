@@ -138,7 +138,7 @@ help	167	266
 fuss	9533	265
 mock	7683	264
 punk	8191	264
-bar	994	262	*gwere-
+bar 994	262
 storm	1666	261
 noble	5731	261	*gno-
 trim	4975	260	*deru-
@@ -3617,7 +3617,7 @@ fascinate	5917	54
 baseline	6053	54	*gwa-
 avenue	6178	54	*gwa-
 saddle	6311	54	*sed-
-embargo	6441	54	*gwere-
+embargo	6441	54
 freezing	6463	54
 thinker	6503	54
 spontaneous	6673	54
@@ -4681,7 +4681,7 @@ molten	13692	42
 banned	13802	42
 reciprocity	14172	42
 outlay	14593	42	*legh-
-barring	14715	42	*gwere-
+barring	14715	42
 avail	14789	42	*wal-
 aficionado	14799	42
 heartbreak	14845	42	*bhreg-
@@ -11844,7 +11844,7 @@ corporation	2627	-1	*kwrep-
 valuable	2628	-1	*wal-
 assumption	2629	-1	*em-
 gear	2630	-1
-barrier	2632	-1	*gwere-
+barrier	2632	-1
 minor	2633	-1	*mei-
 provision	2634	-1
 killer	2635	-1	*gwele-
@@ -13783,7 +13783,7 @@ minivan	10498	-1
 precipitate	10499	-1	*kaput-
 festivity	10500	-1
 likeness	10501	-1
-barrage	10502	-1	*gwere-
+barrage	10502	-1
 drinker	10503	-1
 inspiring	10504	-1
 savior	10505	-1	*sol-

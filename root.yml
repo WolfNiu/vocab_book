@@ -1516,3 +1516,15 @@ misc:
     - assertion
     - assertiveness
     - assertive
+"*gwere-(1)":
+  meaning: heavy
+  exp: gavity<3993,13> = gav[=*gwere-(1)]作为"重力"显然和heavy相关。grave<3388,195> = grave[=*gwere-(1)]，我们中文里也有"沉重的"概念，说明grave是heavy这个原始意义的一种自然引申。
+
+"*gwere-(2)":
+  meaning: to favor
+  exp: agree<515,177> = a[=ad-:to] + gree[=*gwere-(2)]，to favor something其实就是agree with something。其衍生词agreement<1063,71>和disagree<2701,-1> = dis[=dis-:not, opposite of] + agree也都是常用词。grateful<3706,110> = grate[=*gwere-(2)]，本意是表达"agreeable, pleasant"的感觉，和感激之情差相仿佛。grace<3707,117> = grace[=*gwere-(2)]，一个优雅的人确实可以获得很多favor喽。
+  related:
+    - disagreement
+    - agreeable
+    - graceful
+    - disgraceful
