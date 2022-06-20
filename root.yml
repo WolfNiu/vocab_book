@@ -1519,6 +1519,10 @@ misc:
 "*gwere-(1)":
   meaning: heavy
   exp: gavity<3993,13> = gav[=*gwere-(1)]作为"重力"显然和heavy相关。grave<3388,195> = grave[=*gwere-(1)]，我们中文里也有"沉重的"概念，说明grave是heavy这个原始意义的一种自然引申。
+  related:
+    - graveyard
+    - gravely
+    - graveyard
 
 "*gwere-(2)":
   meaning: to favor
@@ -1528,3 +1532,6 @@ misc:
     - agreeable
     - graceful
     - disgraceful
+    - disgrace
+    - gracious
+    - graciously
