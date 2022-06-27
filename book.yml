@@ -12891,21 +12891,84 @@
   roots:
     ser: "*ser-(2) | to line up"
   exp: sermon的原始意思是a strining together of words，一就是"一串文字"，因此和line up相关。
+- word: brutal
+  freq: 4752
+  use: 128
+  pos: ADJECTIVE
+  meaning: A brutal act or person is cruel and violent.
+  sent: He was the victim of a very brutal murder.
+  roots:
+    brut: "*gwere-(1) | heavy"
+  exp: 词根表达了一种粗大、笨重的感觉，进而引申出原始、残忍的感觉。
+  connect:
+    heavy:
+      - cruel
+      - violent
+  related:
+    - brutality
+    - brute
+    - brutalize
+- word: gratify
+  freq: 18546
+  use: 85
+  pos: TRANSITIVE VERB
+  meaning: If you are gratified by something, it gives you pleasure or satisfaction.
+  sent: Mr. Dambar was gratified by his response.
+  roots:
+    grat: "*gwere-(2) | to favor"
+    fy: -fy | make, make into
+  exp: 词根合起来是"使(make)你产生愉悦(favor)"的感觉。
+  connect:
+    favor:
+      - pleasure
+      - satisfaction
+    make:
+      - gives
+  related:
+    - gratification
+    - gratifying
+- word: grief
+  freq: 4131
+  use: 65
+  pos: VARIABLE NOUN
+  meaning: Grief is a feeling of extreme sadness.
+  sent: '...a huge outpouring of national grief for the victims of the shootings.'
+  roots:
+    grief: "*gwere-(1) | heavy"
+  exp: 感觉很沉重(heavy)，对应释义中的sadness。
+  connect:
+    heavy:
+      - sadness
+  related:
+    - grieve
+    - grieving
+    - grievance
+- word: guru
+  freq: 9430
+  use: 56
+  pos: COUNTABLE NOUN
+  meaning: A guru is a person who some people regard as an expert or leader.
+  sent: Fashion gurus dictate crazy ideas such as squeezing oversized bodies into tight trousers.
+  roots:
+    guru: "*gwere-(1) | heavy"
+  exp: 这词本意是heavy, weighty的意思——专家(expert)说话才有份量(heavy)。
+  connect:
+    heavy:
+      - expert
+      - leader
+- word: gratuitous
+  freq: 17471
+  use: 35
+  pos: ADJECTIVE
+  meaning: If you describe something as gratuitous, you mean that it is unnecessary, and often harmful or upsetting.
+  sent: There's too much crime and gratuitous violence on TV.
+  roots:
+    grat: "*gwere-(2) | to favor"
+  exp: 这词的发展过程有点绕。它首先表示pleasing, agreeable，对应词根意思中的favor；然后发展出了done without pay, freely bestowed的意思，最后才表示"uncalled for, done without good reason"。整个词其实有一种"别人没ask，但是你主动提供了favor"的感觉。
+  connect:
+    favor:
+      - unnecessary
 
-
-
-gratification   12676   52      *dhe-,  *gwere-
-  gratify 18546   85      *dhe-,  *gwere-
-brutal  4752    128     *gwere-
-  brutality       8808    17      *gwere-
-  brute   12228   114     *gwere-
-  brutalize       20081   64      *gwere-
-grief   4131    65      *gwere-
-  grieve  9993    46      *gwere-
-  grieving        10657   -1      *gwere-
-  grievance       8806    51      *gwere-
-guru    9430    56      *gwere-
-gratuitous      17471   35      *gwere-
 engrave 12652   28      *gwere-
   engraving       12567   0       *gwere-
 barometer       16997   25      *gwere-

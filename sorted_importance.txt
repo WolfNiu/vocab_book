@@ -995,7 +995,7 @@ hasten	9669	125
 threatening	11358	125
 itch	12326	125
 austere	14185	125
-gratifying	14301	125
+gratifying	14301	125 *gwere-(2)
 obnoxious	14303	125	*nek-
 abet	15944	125	*bheid-
 begin	164	124	*ambhi-
