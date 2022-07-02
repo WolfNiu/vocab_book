@@ -6252,7 +6252,7 @@ prelude	12157	28
 serviceman	12318	28
 compulsion	12401	28	*pel-
 incarceration	12473	28
-engrave	12652	28	*gwere-
+engrave	12652	28
 clinch	12659	28
 calculated	12821	28
 goofy	12913	28
@@ -6894,7 +6894,7 @@ culprit	9072	23
 duo	9208	23	*dwo-
 scam	9328	23
 glaze	9364	23	*ghel-
-brigade	9497	23	*gwere-
+brigade	9497	23
 warden	9548	23	*wer-
 willingly	9552	23
 platoon	9616	23
@@ -10420,7 +10420,7 @@ eater	12541	0	*ed-
 meltdown	12544	0
 decisively	12553	0   *kae-id-
 drilling	12563	0
-engraving	12567	0	*gwere-
+engraving	12567	0
 grimly	12569	0
 hijacker	12570	0
 flowering	12574	0

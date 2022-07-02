@@ -12968,20 +12968,107 @@
   connect:
     favor:
       - unnecessary
+- word: barometer
+  freq: 16997
+  use: 25
+  pos: COUNTABLE NOUN
+  meaning: A barometer is an instrument that measures air pressure and shows when the weather is changing.
+  sent: A man in camp took a barometer reading at half-hour intervals.
+  roots:
+    bar: "*gwere-(1) | heavy"
+    meter: -meter | device or instrument for measuring
+  exp: 词根意思中的heavy对应着释义中的压力(heavy)，而barometer就是用来测量(measure)这种压力的。
+  connect:
+    heavy:
+      - pressure
+    measuring:
+      - measures
+      - shows
+- word: congratulate
+  freq: 8520
+  use: 24
+  pos: TRANSITIVE VERB
+  meaning: If you congratulate someone, you say something to show you are pleased that something nice has happened to them.
+  sent: She congratulated him on the birth of his son.
+  roots:
+    con: con- | together, with
+    grat: "*gwere-(2) | to favor"
+  exp: 从favor发展出了joy<2840,68>的意思，对应释义中的pleased。
+  connect:
+    favor:
+      - pleased
+      - nice
+  related:
+    - congratulations
+- word: gratitude
+  freq: 7175
+  use: 8
+  pos: UNCOUNTABLE NOUN
+  meaning: Gratitude is the state of feeling grateful.
+  sent: I wish to express my gratitude to Kathy Davis for her immense practical help.
+  roots:
+    grat: "*gwere-(2) | to favor"
+  exp: 从favor发展出了thankful, pleasing的意思，对应释义中的gateful。
+  connect:
+    favor:
+      - grateful
+- word: aggravate
+  freq: 10056
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If someone or something aggravates a situation, they make it worse.
+  sent: Stress and lack of sleep can aggravate the situation.
+  roots:
+    ag: ad- | to
+    grav: "*gwere-(1) | heavy"
+  exp: 词根合起来的本意表示to make heavy or heavier, add to the weight of。我们中文里也说"严重"这个词，里面毕竟也是带个"重"字的。
+  related:
+    - aggravated
+- word: gravitate
+  freq: 12924
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If you gravitate toward a particular place, thing, person, or activity, you are attracted by it and go to it or get involved in it.
+  sent: You naturally gravitate toward people with shared values.
+  roots:
+    grav: "*gwere-(1) | heavy"
+  exp: 重力(gravitation)使得地球上的物体显得heavy，所谓地心"引"力就是这玩意了，对应释义中的attract。
+  connect:
+    heavy:
+      - attracted
+      - involved
+  related:
+    - gravitational
+- word: aggrieved
+  freq: 19192
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you feel aggrieved, you feel upset and angry because of the way in which you have been treated.
+  sent: I really feel aggrieved at this sort of thing.
+  roots:
+    ag: ad- | to
+    grieve: "*gwere-(1) | heavy"
+  exp: 心情沉重(heavy)。
+  connect:
+    heavy:
+      - upset
+      - angry
+- word: baritone
+  freq: 14647
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: In music, a baritone is a man with a fairly deep singing voice that is lower than that of a tenor but higher than that of a bass.
+  sent: '...the young American baritone Monte Pederson.'
+  roots:
+    bari: "gwere-(1) | heavy"
+    tone: "*ten- | to stretch"
+  exp: 词根中heavy的部分指的是heavy, deep voice，而stretch之所以和声音(voice)相关，是因为弹拨紧绷的(stretch)弦可以发出高低不同的声音。
+  connect:
+    heavy:
+      - deep
+    stretch:
+      - voice
 
-engrave 12652   28      *gwere-
-  engraving       12567   0       *gwere-
-barometer       16997   25      *gwere-
-congratulate    8520    24      *gwere-
-  congratulations 10258   -1      *gwere-
-brigade 9497    23      *gwere-
-gratitude       7175    8       *gwere-
-aggravate       10056   -1      *gwere-
-  aggravated      16989   36      *gwere-
-gravitate       12924   -1      *gwere-
-  gravitational   9559    -1      *gwere-
-baritone        14647   -1      *gwere-,        *ten-
-aggrieved       19192   -1      *gwere-
 
 
 ## TODO: finish all "related" tabs in root.yml
