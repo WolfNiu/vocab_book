@@ -13069,6 +13069,30 @@
     stretch:
       - voice
 
+cultivate       5647    131     *kwel-
+  cultivated      13754   29      *kwel-
+  cultivation     9600    21      *kwel-
+collar  4597    89      *kwel-
+  white-collar    12693   -1      *kwel-
+  blue-collar     10807   -1      *kwel-
+bipolar 10872   -1      *kwel-
+encyclopedia    10727   28      *kwel-, *pau-
+cult    5319    15      *kwel-
+bucolic 19974   11      *gwou-, *kwel-
+subculture      13179   9       *kwel-
+bicycle 4413    5       *kwel-
+recycle 5892    4       *kwel-
+  recycling       6075    0       *kwel-
+cyclical        12890   0       *kwel-
+horticultural   18445   0       *gher-, *kwel-(1)
+recyclable      20198   0       *kwel-
+accolade        15754   -1      *kwel-
+bazaar  16232   -1      *kwel-
+pulley  16476   -1      *kwel-
+aquaculture     17824   -1      *kwel-
+ancillary       17903   -1      *ambhi-,        *kwel-
+cyclone 18738   -1      *kwel-
+counterculture  19604   -1      *kwel-
 
 
 ## TODO: finish all "related" tabs in root.yml
@@ -13079,9 +13103,7 @@
 # (42, '*ei-'),
 # (45, '*ne-'),
 # (45, '*weik-'),
-# (47, '*legh-'),
 # (48, '*ad-'),
-# (48, '*kwel-'),
 # (48, '*plat-'),
 # (50, '*es-'),
 # (50, '*stere-'),
