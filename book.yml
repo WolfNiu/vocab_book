@@ -13068,17 +13068,114 @@
       - deep
     stretch:
       - voice
+- word: cultivate
+  freq: 5647
+  use: 131
+  pos: TRANSITIVE VERB
+  meaning: If you cultivate land or crops, you prepare land and grow crops on it.
+  sent: She also cultivated a small garden of her own.
+  roots:
+    cult: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 想种粮食(grow crops)就得定居(dwell)在一个地方不动。
+  connect:
+    dwell:
+      - prepare land
+      - grow crops
+  related:
+    - cultivated
+    - cultivation
+- word: colonize
+  freq: 13695
+  use: 6
+  pos: TRANSITIVE VERB
+  meaning: If people colonize a foreign country, they go to live there and take control of it.
+  sent: The first British attempt to colonize Ireland was in the twelfth century.
+  roots:
+    col: "*kwel-(1) | revolve, move round; sojourn, dwell"
 
-cultivate       5647    131     *kwel-
-  cultivated      13754   29      *kwel-
-  cultivation     9600    21      *kwel-
-collar  4597    89      *kwel-
-  white-collar    12693   -1      *kwel-
-  blue-collar     10807   -1      *kwel-
-bipolar 10872   -1      *kwel-
-encyclopedia    10727   28      *kwel-, *pau-
-cult    5319    15      *kwel-
-bucolic 19974   11      *gwou-, *kwel-
+  related:
+    - colonization
+- word: polarize
+  freq: 12517
+  use: 27
+  pos: VERB
+  meaning: If something polarizes people or if something polarizes, two separate groups are formed with opposite opinions or positions.
+  sent: Missile deployment did much to further polarize opinion.
+  roots:
+    pol: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 和pole<2815,-1>一样用的是revole, move round的那层意思。pole本身可以用来表示南北极，于是polarize就是传说中的"两极分化"。
+  connect:
+    revole, move round:
+      - separate
+      - opposite
+  related:
+    - polarization
+- word: bipolar
+  freq: 10872
+  use: -1
+  pos: ADJECTIVE
+  meaning: Bipolar systems or situations are dominated by two strong and opposing opinions or elements.
+  sent: '...the bipolar world of the Cold War years.'
+  roots:
+    bi: bi- | two
+    pol: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 直接用polar<6905,81>记。bipolar其实就是有两个(two)poles，对应释义中的two。
+  connect:
+    two:
+      - two
+    revolve, move round:
+      - opposing
+- word: collar
+  freq: 4597
+  use: 89
+  pos: COUNTABLE NOUN
+  meaning: The collar of a shirt or coat is the part which fits around the neck and is usually folded over.
+  sent: His tie was pulled loose and his collar hung open.
+  roots:
+    col: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 这个脖子嘛，就是可以左右转动的(move round)，对应释义中的neck。
+  connect:
+    move round:
+      - neck
+  related:
+    - white-collar
+    - blue-collar
+    - collarbone
+- word: encyclopedia
+  freq: 10727
+  use: 28
+  pos: COUNTABLE NOUN
+  meaning: An encyclopedia is a book or set of books in which facts about many different subjects or about one particular subject are arranged for reference, usually in alphabetical order.
+  sent: a medical encyclopedia
+  roots:
+    en: en- | in
+    cycl:
+      meaning: cycle
+      roots:
+        cy: "*kwel-(1) | revolve, move round; sojourn, dwell"
+        cle: "*kwel-(1) | revolve, move round; sojourn, dwell"
+    ped: "*pau-(1) | few, little"
+  exp: encyclopedia是为了教育小朋友用的，其中的"小朋友"对应着*pau-(1)这个词根，表示"小(little)"。所有词根合起来就是training in a circle——让小朋友们站成一圈，听老师讲。
+- word: cult
+  freq: 5319
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: A cult is a fairly small religious group, especially one which is considered strange.
+  sent: The teenager may have been abducted by a religious cult.
+  roots:
+    cul: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 用的是colony<3710,20>中cultivatation, culture的那层意思。cult成员拥有有共同的(邪教)文化。
+- word: bucolic
+  freq: 19974
+  use: 11
+  pos: ADJECTIVE
+  meaning: Bucolic means relating to the countryside.
+  sent: '...the bucolic surroundings of Chantilly.'
+  roots:
+    bu: "*gwou- | ox, bull, cow"
+    col: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 我们不用单独记*gwou-这个词根，因为bu和bull本来就可互换，而bull<4250,140>是比较常用的词。词根合起来表示"牛牛(bull)栖息地(dwell)"，果然是countryside呀。
+
 subculture      13179   9       *kwel-
 bicycle 4413    5       *kwel-
 recycle 5892    4       *kwel-

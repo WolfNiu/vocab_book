@@ -16732,7 +16732,7 @@ non-white	18145	-1
 alderman	18149	-1	*al-,	*man-
 full-service	18153	-1
 meteorological	18154	-1	*wer-
-collarbone	18164	-1
+collarbone	18164	-1  *kwel-
 hazelnut	18165	-1
 wayside	18169	-1
 discriminant	18171	-1
