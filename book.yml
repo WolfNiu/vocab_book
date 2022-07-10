@@ -13175,15 +13175,74 @@
     bu: "*gwou- | ox, bull, cow"
     col: "*kwel-(1) | revolve, move round; sojourn, dwell"
   exp: 我们不用单独记*gwou-这个词根，因为bu和bull本来就可互换，而bull<4250,140>是比较常用的词。词根合起来表示"牛牛(bull)栖息地(dwell)"，果然是countryside呀。
+- word: subculture
+  freq: 13179
+  use: 9
+  pos: COUNTABLE NOUN
+  meaning: A subculture is the ideas, art, and way of life of a group of people within a society, which are different from the ideas, art, and way of life of the rest of the society.
+  sent: '...the latest American subculture.'
+  roots:
+    sub: sub- | under
+    culture:
+      meaning: culture
+      roots:
+        cult: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 直接用culture<612,61>记就好。词根意思中的under象征着"小众"。
+- word: bicycle
+  freq: 4413
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A bicycle is a vehicle with two wheels which you ride by sitting on it jand pushing two pedals with your feet. You steer it by turning a bar that is connected to the front wheel.
+  sent: ride a bicycle
+  roots:
+    bi: bi- | two
+    cycle:
+      meaning: cycle
+      roots:
+        cy: "*kwel-(1) | revolve, move round; sojourn, dwell"
+        cle: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 两个(two)圈儿(cycle)，对应着bicycle的两个轮子。猜猜"三轮儿"怎么说？对，tricycle。
+- word: recycle
+  freq: 5892
+  use: 4
+  pos: TRANSITIVE VERB
+  meaning: If you recycle things that have already been used, such as bottles or sheets of paper, you process them so that they can be used again.
+  sent: The objective would be to recycle 98 percent of domestic waste.
+  roots:
+    re: re- | again
+    cycle:
+      meaning: cycle
+      roots:
+        cy: "*kwel-(1) | revolve, move round; sojourn, dwell"
+        cle: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 词根意思中的again对应着reuse，而cycle象征着"循环"利用。
+  connect:
+    again:
+      - again
+    cycle:
+      - process
+      - used again
+  related:
+    - recycling
+    - recyclable
+- word: accolade
+  freq: 15754
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If someone is given an accolade, something is done or said about them which shows how much people admire them.
+  sent: The Nobel Prize has become the ultimate accolade in the sciences.
+  roots:
+    ac: ac- | to
+    col:
+      meaning: neck
+      roots:
+        col: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 用的是*kwel-(1)中neck的那层意思，和同源的collar<4597,89>的感觉类似。词根合起来表达的意思是"to embrace around the neck"，确实是像释义中说的那样admire啊，都抱上去了。
+  connect:
+    nect:
+      - admire
 
-subculture      13179   9       *kwel-
-bicycle 4413    5       *kwel-
-recycle 5892    4       *kwel-
-  recycling       6075    0       *kwel-
-cyclical        12890   0       *kwel-
-horticultural   18445   0       *gher-, *kwel-(1)
-recyclable      20198   0       *kwel-
-accolade        15754   -1      *kwel-
+
 bazaar  16232   -1      *kwel-
 pulley  16476   -1      *kwel-
 aquaculture     17824   -1      *kwel-
