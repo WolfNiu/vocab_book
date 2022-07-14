@@ -1536,7 +1536,7 @@ misc:
     - graciously
 "*kwel-(1)":
   meaning: revolve, move round; sojourn, dwell
-  exp: colony<3710,20> = col[=*kwel-(1)]，显然和dwell相关。一个colony年深日久就会形成culture<612,61> = cult[=*kwel-(1)]。wheel<2012,-1> = wheel[=*kwel-(1)]，因为会转，所以和revolve, move round相关。cycle<2240,-1> = cy[=*kwel-(1)] + cle[=*kwel-(1)]，和revolve, move round一样都是转圈圈的感觉。这个词比较神奇，两部分都来源于同一词根，这在词根学里叫reduplicated form。当然啦，这个专有名词一点都不重要，只是以后看到类似的词无需大惊小怪就是了。pole<2815,-1>的其中一个意思是"The Earth's poles are the two opposite ends of its axis, its most northern and southern points."——确实，地球就是围绕这个axis旋转的，对应词根释义中的revolve, move round。
+  exp: colony<3710,20> = col[=*kwel-(1)]，显然和dwell相关。一个colony年深日久就会形成culture<612,61> = cult[=*kwel-(1)]。culture和别的单词组合的时候会沿用dwell的意思，表示种植或者养植。比如agricultural<3131,13> = agri[=*agro-:field] + cultur[=culture] + al[=-al]。wheel<2012,-1> = wheel[=*kwel-(1)]，因为会转，所以和revolve, move round相关。cycle<2240,-1> = cy[=*kwel-(1)] + cle[=*kwel-(1)]，和revolve, move round一样都是转圈圈的感觉。这个词比较神奇，两部分都来源于同一词根，这在词根学里叫reduplicated form。当然啦，这个专有名词一点都不重要，只是以后看到类似的词无需大惊小怪就是了。pole<2815,-1>的其中一个意思是"The Earth's poles are the two opposite ends of its axis, its most northern and southern points."——确实，地球就是围绕这个axis旋转的，对应词根释义中的revolve, move round。
   related:
     - cultured
     - colonial
@@ -1545,3 +1545,4 @@ misc:
     - polar
     - polarity
     - cyclical
+    - agriculture

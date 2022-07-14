@@ -8248,7 +8248,7 @@ treaty	2861	13
 regardless	2922	13	*wer-
 gradually	2986	13	*ghredh-
 briefly	3028	13	*mregh-u-
-agricultural	3131	13	*agro-
+agricultural	3131	13	*agro-, *kwel-(1)
 mortgage	3244	13	*mer-
 measurement	3255	13	*me-
 sigh	3376	13
@@ -9053,7 +9053,7 @@ sharply	3945	7	*sker-
 racism	3988	7
 nominee	4123	7
 homeland	4188	7	*tkei-
-agriculture	4204	7	*agro-
+agriculture	4204	7	*agro-, *kwel-(1)
 cliff	4357	7
 soap	4389	7
 pin	4394	7	*pet-

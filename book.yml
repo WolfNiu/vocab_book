@@ -13241,14 +13241,67 @@
   connect:
     nect:
       - admire
+- word: aquaculture
+  freq: 17824
+  use: -1
+  pos: NOUN
+  meaning: the regulation and cultivation of water plants and animals for human use or consumption
+  roots:
+    aqua: aqua- | water
+    cult: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 用的是culture中"种植、养植"的那层意思。词根合起来表示"在水里养东西"。
+- word: counterculture
+  freq: 19604
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Counterculture is a set of values, ideas, and ways of behaving that are completely different from those of the rest of society.
+  sent: '...a history of the counterculture.'
+  roots:
+    counter: counter- | against, in opposition
+    culture:
+      meaning: culture
+      roots:
+        cult: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 直接用culture<612,61>记就好。
+  connect:
+    against, in opposition:
+      - different
+    culture:
+      - values
+      - ideas
+      - ways of behaving
+- word: ancillary
+  freq: 17903
+  use: -1
+  pos: ADJECTIVE
+  meaning: The ancillary workers in an institution are the people such as cleaners and cooks whose work supports the main work of the institution.
+  sent: '...ancillary staff.'
+  roots:
+    an: ambi- | around
+    cill: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 词根合起来表达"he who bustles about"的感觉，也就是"围绕着一个人服务"。
+  connect:
+    around:
+      - supports
+    revolve, move round:
+      - supports
+- word: cyclone
+  freq: 18738
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A cyclone is a violent tropical storm in which the air goes around and around.
+  sent: The race was called off as a cyclone struck.
+  roots:
+    cycl:
+      meaning: kykl | circle
+      roots:
+        cy: "*kwel-(1) | revolve, move round; sojourn, dwell"
+        cl: "*kwel-(1) | revolve, move round; sojourn, dwell"
+  exp: 释义中自带"goes around"，不解释。
+  connect:
+    move round:
+      - goes around and around
 
-
-bazaar  16232   -1      *kwel-
-pulley  16476   -1      *kwel-
-aquaculture     17824   -1      *kwel-
-ancillary       17903   -1      *ambhi-,        *kwel-
-cyclone 18738   -1      *kwel-
-counterculture  19604   -1      *kwel-
 
 
 ## TODO: finish all "related" tabs in root.yml
