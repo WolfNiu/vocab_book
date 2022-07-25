@@ -596,7 +596,7 @@ misc:
     - progression
 "*pet-":
   meaning: to rush; to fly
-  exp: 先来一个没有那么常用，但是大家都熟的词：pen(3618,109)。这是从fly引申出了feather(4581,82)的意思，而古代的笔就是feather做的，墨水直接灌进中空的羽毛管里。另外既然提到了feather，就顺便讲一下feather也来源于*pet-，其中f=p。下一个常用词是repeat(1611,45) = re(=re-:again) + peat(=*pet-)，其实就是go again的意思，而rush和fly也都有go的感觉。最后一个competition(1352,74) = com(=com-:with, together) + pet(=*pet-)，这里*pet-取的是strive, attack的感觉。这是因为rush at有"向前进攻"的感觉，所以引申出了attack的意思。所以competition其实就是attack/fight together。
+  exp: 先来一个没有那么常用，但是大家都熟的词：pen(3618,109)。这是从fly引申出了feather(4581,82)的意思，而古代的笔就是feather做的，墨水直接灌进中空的羽毛管里。另外既然提到了feather，就顺便讲一下feather也来源于*pet-，其中f=p。下一个常用词是repeat(1611,45) = re(=re-:again) + peat(=*pet-)，其实就是go again的意思，而rush和fly也都有go的感觉。最后一个competition(1352,74) = com(=com-:with, together) + pet(=*pet-)，这里*pet-取的是strive, attack的感觉。这是因为rush at有"向前进攻"的感觉，所以引申出了attack的意思。所以competition其实就是attack/fight together。helicopter<3126,2> = helic[=helix:spiral=*wel-:to trun, revolve] + pter[=*pet-:to rush, to fly]，(螺旋桨)一边儿转一边儿飞的东西，果然是直升飞机。
   related:
     - competitor
     - competitive
@@ -1546,3 +1546,12 @@ misc:
     - polarity
     - cyclical
     - agriculture
+"*wel-":
+    meaning: to turn, revolve
+    exp: helicopter<3126,2> = helic[=helix:spiral=*wel-] + pter[=*pet-:to rush, to fly]，(螺旋桨)一边转一边往上飞的东西，不愧是直升飞机，造得很好。volume<1931,175> = vol[=*wel-]。 一个长方型的"面"围绕着(turn, revolve)它其中一个边转一圈，就成了一个"体"，于是就对应volume啦。involve<657,108> = in[in-=:in] + volve[=*wel-]，词根合起来表达"roll into"——也就是"包裹在里面"的感觉。evolve<2845,54> = e[=ex-:out] + volve[=*wel-]，词根合起来表达"to unroll"的感觉。evolve<2845,54> = e[=ex-:out] + volve[=*wel-]，词根合起来表示"to unroll, roll out"，也就是"officially launch or introduce"的意思——确实是"进化"的感觉，因为进化就是以前没有，慢慢通过衍变就被introduce到这个世界上来了。其衍生词evolution<2969,35>也是常用词。revolution<2781,-1> = re[=re-:back, again] + volut[=*wel-]，词根合起来表达的是"to change direction"的感觉(因为和turn相关嘛)，确实对应revolution所表达的意思。
+    related:
+      - voluminous
+      - involved
+      - involvement
+      - evolutionary
+      - revolutionary

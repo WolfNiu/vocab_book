@@ -119,7 +119,7 @@ bundle	6092	280	*bhendh-
 fire	654	279	*paewr-
 lay	805	279	*legh-
 bomb	2006	279
-well	100	277	*wel-
+well	100	277
 stop	330	277
 lick	6025	277	*leigh-
 poke	4754	275
@@ -1215,7 +1215,7 @@ hulking	17919	113
 goon	19264	113
 nix	19778	113	*ne-
 best	310	112
-walk	359	112	*wel-
+walk	359	112
 fill	687	112	*pele-
 general	806	112	*gene-
 expert	902	112	*per-
@@ -6520,7 +6520,7 @@ drained	12933	26
 pimp	13058	26
 composure	13124	26
 companionship	13217	26	*pa-
-wellness	13257	26	*wel-
+wellness	13257	26
 vestige	13535	26
 unquestionably	13696	26
 funk	13762	26	*dheu-
@@ -6699,7 +6699,7 @@ momentum	4400	24	*meue-
 someday	4501	24	*sem-, *dyeu-
 unfair	4542	24
 stimulus	4573	24
-well-being	4592	24	*wel-
+well-being	4592	24
 added	4602	24	*ad-,	*do-
 commodity	4632	24	*med-
 outlet	4678	24	*‌‌lē-
@@ -9231,7 +9231,7 @@ digit	8680	6	*deik-
 antiquity	8888	6	*ant-,	*okw-
 forefront	9002	6
 punitive	9107	6
-walker	9268	6	*wel-
+walker	9268	6
 midday	9342	6	*dyeu-
 braid	9605	6
 colonist	9784	6	*kwel-
@@ -9742,7 +9742,7 @@ sixth	3560	0
 overwhelming	3608	0
 written	3614	0
 re	3654	0
-walking	3666	0	*wel-
+walking	3666	0
 dancer	3697	0
 closed	3714	0	*klau-
 traditionally	3741	0
@@ -10689,7 +10689,7 @@ fading	14758	0
 cheers	14770	0	*ker-
 gratefully	14771	0
 playfully	14779	0
-walk-in	14793	0	*wel-
+walk-in	14793	0
 charred	14798	0
 simplified	14804	0   *sem-,  *dhe-
 fang	14805	0	*pag-
@@ -13335,7 +13335,7 @@ populist	9988	-1
 chaplain	9990	-1
 armchair	9991	-1	*sed-
 bathtub	9994	-1
-walkway	9996	-1	*wel-
+walkway	9996	-1
 supernova	9997	-1
 assorted	9998	-1	*ser-
 receptive	9999	-1
@@ -16287,7 +16287,7 @@ slaughterhouse	16842	-1
 starlight	16844	-1	*ster-
 derby	16847	-1
 undercurrent	16849	-1	*kers-
-catwalk	16850	-1	*wel-
+catwalk	16850	-1
 largemouth	16851	-1
 monastic	16856	-1
 purportedly	16858	-1	*per-
@@ -17199,7 +17199,7 @@ sari	19108	-1
 harvesting	19109	-1
 departed	19110	-1
 femur	19111	-1
-well-off	19112	-1	*wel-
+well-off	19112	-1
 otherness	19113	-1	*al-
 indiscriminately	19114	-1	*krei-
 devious	19115	-1	*wegh-

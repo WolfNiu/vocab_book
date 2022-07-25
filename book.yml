@@ -13301,18 +13301,92 @@
   connect:
     move round:
       - goes around and around
+- word: revolutionize
+  freq: 11331
+  use: 22
+  pos: TRANSITIVE VERB
+  meaning: When something revolutionizes an activity, it causes great changes in the way that it is done.
+  sent: Over the past forty years plastics have revolutionized the way we live.
+  roots:
+    revolution:
+      meaning: revolution
+      roots:
+        re: re- | back, again
+        volut: "*wel- | to turn, revolve"
+    ize: -ize | word-forming element used to make verbs
+  exp: 直接用revolution<2781,-1>记就好。
+- word: revolve
+  freq: 7521
+  use: 74
+  pos: INTRANSITIVE VERB
+  meaning: If you say that one thing revolves around another thing, you mean that the second thing is the main feature or focus of the first thing.
+  sent: Since childhood, her life has revolved around tennis.
+  roots:
+    re: re- | back, again
+    volve: "*wel- | to turn, revolve"
+  exp: 词根合起来表达"围着...转"的感觉，对应释义中的focus。
+  connect:
+    back, again:
+      - main feature or focus
+    turn, revolve:
+      - main feature or focus
+  related:
+    - revolving
+    - revolver
+- word: revolt
+  freq: 9161
+  use: 72
+  pos: VARIABLE NOUN
+  meaning: A revolt is an illegal and often violent attempt by a group of people to change their country's political system.
+  sent: It was undeniably a revolt by ordinary people against their leaders.
+  roots:
+    re: re- | back, again
+    volve: "*wel- | to turn, revolve"
+  exp: 词根合起来表达的是"to change direction"的感觉(因为和turn相关嘛)。其实直接用常用词revolution<2781,-1>记就好，二者词根组成相同，也都有"改革"的意思。
+- word: vault
+  freq: 8600
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A vault is a secure room where money and other valuable things can be kept safely.
+  sent: Most of the money was in storage in bank vaults.
+  roots:
+    vault: "*wel- | to turn, revolve"
+  exp: 这个词其实是在用词根意思里的turn, revolve来表达arched roof or ceiling，也就是vault的顶部，之后才用来指代整个vault。
+- word: wallet
+  freq: 5661
+  use: 19
+  pos: COUNTABLE NOUN
+  meaning: A wallet is a small flat folded case, usually made of leather or plastic, in which you can keep money and credit cards.
+  sent: The lady put her wallet in her purse.
+  roots:
+    wall: "*wel- | to turn, revolve"
+  exp: 用的是*wel-中roll的那层意思，可见古代的wallet是个口袋状的东西，并不是像现代做成flat的形状。另外，有很多人其实以为wallet和purse是一码事。实际上wallet是钱夹，很小，只能用来装钱和卡；purse可就大了，能背在肩上——当然啦，肯定还是不如书包那么大。
+- word: valve
+  freq: 6034
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A valve is a device attached to a pipe or a tube that controls the flow of air or liquid through the pipe or tube.
+  sent: a valve shuts off the flow from the boiler when the water is hot enough
+  roots:
+    valve: "*wel- | to turn, revolve"
+  exp: 词根表达的感觉是"that which turns"，以达到释义中的control的目的。
+  connect:
+    turn:
+      - controls
 
+willow  10274   -1      *wel-
+wallow  15516   -1      *wel-
+devolve 19062   -1      *wel-
+convoluted      19179   -1      *wel-
 
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
 # (39, '*skel-'),
-# (39, '*wel-'),
 # (42, '*ei-'),
 # (45, '*ne-'),
 # (45, '*weik-'),
-# (48, '*ad-'),
 # (48, '*plat-'),
 # (50, '*es-'),
 # (50, '*stere-'),
