@@ -13373,11 +13373,49 @@
   connect:
     turn:
       - controls
-
-willow  10274   -1      *wel-
-wallow  15516   -1      *wel-
-devolve 19062   -1      *wel-
-convoluted      19179   -1      *wel-
+- word: wallow
+  freq: 15516
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If you say that someone is wallowing in an unpleasant situation, you are criticizing them for being deliberately unhappy.
+  sent: His tired mind continued to wallow in self-pity.
+  roots:
+    wal: "*wel- | to turn, revolve"
+  exp: 词根表达的感觉是"被卷入一个situation无法自拔"。
+- word: devolve
+  freq: 19062
+  use: -1
+  pos: VERB
+  meaning: If you devolve power, authority, or responsibility to a less powerful person or group, or if it devolves upon them, it is transferred to them.
+  sent: '...the need to decentralize and devolve power to regional governments.'
+  roots:
+    de: de- | down
+    volve: "*wel- | to turn, revolve"
+  exp: 词根合起来表示"to roll down"，也就是下放权力的感觉。
+  connect:
+    down:
+      - less powerful
+      - upon
+      - to
+    turn:
+      - transferred
+- word: convoluted
+  freq: 19179
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe a sentence, idea, or system as convoluted, you mean that it is complicated and difficult to understand.
+  sent: Despite its length and convoluted plot, "Asta's Book" is a rich and rewarding read.
+  roots:
+    con: con- | with, together
+    volut: "*wel- | to turn, revolve"
+  exp: 词根合起来表达to roll together的意思，也就是"盘根错节"地缠在一起了。
+  connect:
+    with, together:
+      - complicated
+      - difficult
+    turn, revolve:
+      - complicated
+      - difficult
 
 
 ## TODO: finish all "related" tabs in root.yml
