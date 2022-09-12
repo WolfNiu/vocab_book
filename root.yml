@@ -1555,3 +1555,15 @@ misc:
       - involvement
       - evolutionary
       - revolutionary
+"*plek-":
+  meaning: to plait
+  exp: 首先从plait发展出的一个重要意思是fold，而fold其实就是要将物体弯曲折叠，因此还和turn的概念相关——这两层意思我们之后都会不断用到。超常用词apply<941,125> = ap[=ad-:to] + ply[=*plek-]，表达的是join or combine (with); attach (to something), adhere的感觉。比如从最原始的意思来说，apply表示"put or spread (something) on a surface."，这就是很明显的combine/adhere的意思。那啥这词还能表示"申请(make a formal application or request)"呢？因为申请就是把自己"attach"到申请的对象那边去，说白了就是"往上(倒)贴"。其衍生词application<1528,8>也是常用词。complex<1607,94> = com[com-:with, together] + plex[=*plek-]，词根合起来表达"fold together"，也就是"composed of interconnected parts, formed by a combination of simple things/elements"的感觉，确实很复杂。其衍生词complexity<3796,23>也是常用词。complicated<2775,-1> = com[=com-:with, together] + plic[=*plek-]，词根合起来表示fold together(和上面的complex一样，意思也基本一样)。employ<1976,76> = em[=in-:in] + ploy[=*plek-]，原始的意思是以"fold in"来表示"involve"，更具体一点说就是"involve in a particular purpose"。其衍生词employee<933,20>，employer<2317,-1>，employment<2557,-1>也都是常用词。unemployment<3523,-1> = un[=un-(1):not] + employment，也就是没(not)工作喽。display<2110,-1> = dis[=dis-:apart, away] + play[=*plek-]，相信大家见到这词的第一反应都是"哎呀，这词我会拆——后面有个play嘛"。实际上词根合起来表示unfold，也就是"打开，给大家展示"的感觉。reply<2239,-1> = re[=re-:back,again] + ply[=*plek-]，词根合起来表示turn back，确实是"回复"的感觉。imply<2819,-1> = im[=in-:into, in, on, upon] + ply[=*plek-]，这个词造得就很好了。imply指的是藏起来没说、尽在不言中的部分，而词根合起来正是"fold in"的感觉。其衍生词implication<2456,-1>也是常用词。
+  related:
+    - applicant
+    - applied
+    - applicable
+    - unemployed
+    - complication
+    - complicate
+    - uncomplicated
+    - implied

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8722eef7-b915-40ee-9297-9c0ba5b2a139" name="Default Changelist" comment="switch to PyCharm">
+      <change beforePath="$PROJECT_DIR$/book.yml" beforeDir="false" afterPath="$PROJECT_DIR$/book.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root.yml" beforeDir="false" afterPath="$PROJECT_DIR$/root.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JupyterTrust" id="2b5a6b19-c686-441f-aaba-d7ec6d3315e9" />
+  <component name="ProjectId" id="1WKZjlONCcEWCmUcVwhpv8hytFE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;yaml&#10;JSON" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://127.0.0.1:8888/?token=6771871547f728ee9122142e84a90e078c125827311e0f60 " />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.scratch_4">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="vocab_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vocab_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draft.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json2yaml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vocab_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json2yaml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vocab_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vocab_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vocab_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch_4" />
+        <item itemvalue="Python.draft" />
+        <item itemvalue="Python.make_book" />
+        <item itemvalue="Python.json2yaml" />
+        <item itemvalue="Python.scraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8722eef7-b915-40ee-9297-9c0ba5b2a139" name="Default Changelist" comment="" />
+      <created>1578900383606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578900383606</updated>
+      <workItem from="1578900392727" duration="2993000" />
+      <workItem from="1578940156040" duration="198000" />
+      <workItem from="1579130141169" duration="3831000" />
+      <workItem from="1579300431631" duration="147000" />
+      <workItem from="1579373941559" duration="14872000" />
+      <workItem from="1579500117366" duration="154000" />
+      <workItem from="1579588349519" duration="3065000" />
+      <workItem from="1579657741040" duration="1565000" />
+      <workItem from="1579659457616" duration="368000" />
+      <workItem from="1579659847070" duration="98000" />
+      <workItem from="1579659956094" duration="218000" />
+      <workItem from="1579733720233" duration="1572000" />
+      <workItem from="1579855313576" duration="677000" />
+      <workItem from="1579856005924" duration="324000" />
+      <workItem from="1579979024756" duration="6396000" />
+      <workItem from="1580179922637" duration="1043000" />
+      <workItem from="1580326671618" duration="3000" />
+      <workItem from="1580372261423" duration="326000" />
+      <workItem from="1580591454512" duration="4769000" />
+      <workItem from="1580756056682" duration="2000" />
+      <workItem from="1580869779160" duration="147000" />
+      <workItem from="1581209794898" duration="1798000" />
+      <workItem from="1581877884135" duration="2620000" />
+      <workItem from="1582250911853" duration="5487000" />
+      <workItem from="1582485770236" duration="197000" />
+      <workItem from="1583032830675" duration="12000" />
+      <workItem from="1583447210375" duration="1229000" />
+      <workItem from="1583921249259" duration="152000" />
+      <workItem from="1586033156733" duration="5263000" />
+      <workItem from="1586198016829" duration="191000" />
+      <workItem from="1586198432694" duration="472000" />
+      <workItem from="1586714549259" duration="3701000" />
+      <workItem from="1588456515925" duration="2886000" />
+      <workItem from="1589004144271" duration="2562000" />
+      <workItem from="1589149910291" duration="173000" />
+      <workItem from="1589150149120" duration="941000" />
+      <workItem from="1589311195340" duration="528000" />
+      <workItem from="1589311772030" duration="506000" />
+      <workItem from="1589671977222" duration="1625000" />
+      <workItem from="1589747548571" duration="743000" />
+      <workItem from="1590131492750" duration="2000" />
+      <workItem from="1591130925030" duration="1256000" />
+      <workItem from="1591309702266" duration="72000" />
+      <workItem from="1592114019094" duration="4236000" />
+      <workItem from="1592290789408" duration="2358000" />
+      <workItem from="1592294441125" duration="96000" />
+      <workItem from="1592677374969" duration="2481000" />
+      <workItem from="1592770217369" duration="10956000" />
+      <workItem from="1592854460719" duration="44000" />
+      <workItem from="1592858374437" duration="2734000" />
+      <workItem from="1592877283195" duration="1683000" />
+      <workItem from="1592976429773" duration="1551000" />
+      <workItem from="1593057454710" duration="1075000" />
+      <workItem from="1593212870557" duration="5397000" />
+      <workItem from="1593420908900" duration="1645000" />
+      <workItem from="1593494272300" duration="2702000" />
+      <workItem from="1593582367139" duration="1442000" />
+      <workItem from="1593730261389" duration="4457000" />
+      <workItem from="1593894012993" duration="5727000" />
+      <workItem from="1594441671235" duration="5587000" />
+      <workItem from="1594787745480" duration="1167000" />
+      <workItem from="1594879106325" duration="1736000" />
+      <workItem from="1595656251681" duration="5619000" />
+      <workItem from="1596834559722" duration="2930000" />
+      <workItem from="1596913352350" duration="9095000" />
+      <workItem from="1597174674768" duration="3255000" />
+      <workItem from="1597189306459" duration="133000" />
+      <workItem from="1597520359793" duration="4219000" />
+      <workItem from="1597690853104" duration="608000" />
+      <workItem from="1598072346050" duration="3623000" />
+      <workItem from="1598301616917" duration="837000" />
+      <workItem from="1598761483709" duration="2224000" />
+      <workItem from="1599262521270" duration="14623000" />
+      <workItem from="1599936678312" duration="3536000" />
+      <workItem from="1600380048939" duration="1227000" />
+      <workItem from="1600923036353" duration="321000" />
+      <workItem from="1600923614422" duration="43000" />
+      <workItem from="1601768832730" duration="4600000" />
+      <workItem from="1602292810217" duration="11000" />
+      <workItem from="1602292849146" duration="3430000" />
+      <workItem from="1602546341144" duration="7000" />
+      <workItem from="1602546362446" duration="3060000" />
+      <workItem from="1602710450935" duration="1091000" />
+      <workItem from="1602716903235" duration="1545000" />
+      <workItem from="1604171336572" duration="4017000" />
+      <workItem from="1604647038206" duration="5072000" />
+      <workItem from="1604783108684" duration="4087000" />
+      <workItem from="1604903736506" duration="1100000" />
+      <workItem from="1606885782377" duration="7700000" />
+      <workItem from="1607307073085" duration="3658000" />
+      <workItem from="1607797665115" duration="2409000" />
+      <workItem from="1608168227886" duration="370000" />
+      <workItem from="1608168611375" duration="6449000" />
+      <workItem from="1608658610616" duration="3073000" />
+      <workItem from="1609366107454" duration="976000" />
+      <workItem from="1609646695482" duration="2579000" />
+      <workItem from="1609799686182" duration="24000" />
+      <workItem from="1609826584202" duration="991000" />
+      <workItem from="1609911401932" duration="1953000" />
+      <workItem from="1610244148086" duration="5804000" />
+      <workItem from="1610931049028" duration="3597000" />
+      <workItem from="1610996419598" duration="3620000" />
+      <workItem from="1611433643559" duration="15086000" />
+      <workItem from="1611718876341" duration="2305000" />
+      <workItem from="1611776557730" duration="2896000" />
+      <workItem from="1611880152011" duration="7381000" />
+      <workItem from="1612120177659" duration="2684000" />
+      <workItem from="1612136226804" duration="2090000" />
+      <workItem from="1612154392814" duration="5121000" />
+      <workItem from="1612482978763" duration="681000" />
+      <workItem from="1612498179792" duration="651000" />
+      <workItem from="1612640910211" duration="7617000" />
+      <workItem from="1613066306661" duration="503000" />
+      <workItem from="1613254979943" duration="9025000" />
+      <workItem from="1613867755921" duration="9582000" />
+      <workItem from="1613951297521" duration="573000" />
+      <workItem from="1613951888588" duration="6809000" />
+      <workItem from="1615148240582" duration="4886000" />
+      <workItem from="1615747145381" duration="2905000" />
+      <workItem from="1615771662631" duration="3780000" />
+      <workItem from="1616349120532" duration="3478000" />
+      <workItem from="1616974295540" duration="3738000" />
+      <workItem from="1617056496013" duration="9000" />
+      <workItem from="1617584207005" duration="1961000" />
+      <workItem from="1618076700073" duration="2750000" />
+      <workItem from="1618200271619" duration="485000" />
+      <workItem from="1618595381696" duration="8302000" />
+      <workItem from="1618791286586" duration="3568000" />
+      <workItem from="1618850681654" duration="1288000" />
+      <workItem from="1619023403616" duration="1893000" />
+      <workItem from="1619053182795" duration="793000" />
+      <workItem from="1619112962180" duration="874000" />
+      <workItem from="1619289894100" duration="9857000" />
+      <workItem from="1619544534578" duration="1102000" />
+      <workItem from="1619545693162" duration="343000" />
+      <workItem from="1619745584290" duration="602000" />
+      <workItem from="1619925788444" duration="5427000" />
+      <workItem from="1620101349619" duration="889000" />
+      <workItem from="1620171265945" duration="2299000" />
+      <workItem from="1620325717325" duration="1870000" />
+      <workItem from="1620406343547" duration="1974000" />
+      <workItem from="1620428335686" duration="1686000" />
+      <workItem from="1620493802081" duration="5675000" />
+      <workItem from="1620528965680" duration="1332000" />
+      <workItem from="1620578183591" duration="1531000" />
+      <workItem from="1620666549280" duration="905000" />
+      <workItem from="1620752193913" duration="1738000" />
+      <workItem from="1620840515928" duration="2623000" />
+      <workItem from="1621011026870" duration="937000" />
+      <workItem from="1621098870226" duration="1302000" />
+      <workItem from="1621221641858" duration="6806000" />
+      <workItem from="1621358684215" duration="1073000" />
+      <workItem from="1621531332682" duration="579000" />
+      <workItem from="1621615118895" duration="1410000" />
+      <workItem from="1621711449902" duration="4217000" />
+      <workItem from="1622394703992" duration="4041000" />
+      <workItem from="1622483074661" duration="2119000" />
+      <workItem from="1622565677832" duration="6000" />
+      <workItem from="1622565710671" duration="1742000" />
+      <workItem from="1623255656757" duration="1399000" />
+      <workItem from="1623346278988" duration="1101000" />
+      <workItem from="1623522035389" duration="2416000" />
+      <workItem from="1624295447585" duration="271000" />
+      <workItem from="1624341117062" duration="2389000" />
+      <workItem from="1624466907116" duration="1555000" />
+      <workItem from="1624554125996" duration="1080000" />
+      <workItem from="1624814796925" duration="2779000" />
+      <workItem from="1624899938180" duration="597000" />
+      <workItem from="1625248184966" duration="237000" />
+      <workItem from="1625382167299" duration="203000" />
+      <workItem from="1625448981103" duration="1602000" />
+      <workItem from="1625589496010" duration="2434000" />
+      <workItem from="1626022464551" duration="1724000" />
+      <workItem from="1626110655065" duration="1474000" />
+      <workItem from="1626281870345" duration="1462000" />
+      <workItem from="1626558888475" duration="6378000" />
+      <workItem from="1626889085422" duration="1413000" />
+      <workItem from="1626976299116" duration="1033000" />
+      <workItem from="1627058434556" duration="1909000" />
+      <workItem from="1627259799245" duration="1597000" />
+      <workItem from="1627492238383" duration="772000" />
+      <workItem from="1627794695064" duration="8434000" />
+      <workItem from="1628183340521" duration="1079000" />
+      <workItem from="1628398810747" duration="3226000" />
+      <workItem from="1628699702197" duration="428000" />
+      <workItem from="1628890330616" duration="2292000" />
+      <workItem from="1629067680493" duration="3421000" />
+      <workItem from="1629655126505" duration="1301000" />
+      <workItem from="1629664311456" duration="24000" />
+      <workItem from="1630183720875" duration="5335000" />
+      <workItem from="1631390761430" duration="2149000" />
+      <workItem from="1631997646195" duration="2397000" />
+      <workItem from="1632108454824" duration="1344000" />
+      <workItem from="1632127224208" duration="271000" />
+      <workItem from="1632243268783" duration="1068000" />
+      <workItem from="1632327773135" duration="1614000" />
+      <workItem from="1632414578055" duration="1329000" />
+      <workItem from="1632504309807" duration="751000" />
+      <workItem from="1632594105274" duration="1985000" />
+      <workItem from="1632761618801" duration="1566000" />
+      <workItem from="1632848028912" duration="1176000" />
+      <workItem from="1632934175844" duration="1448000" />
+      <workItem from="1632964768845" duration="2000" />
+      <workItem from="1633023141888" duration="1735000" />
+      <workItem from="1633111558213" duration="621000" />
+      <workItem from="1633825652489" duration="2096000" />
+      <workItem from="1633888834358" duration="1247000" />
+      <workItem from="1633968647778" duration="2225000" />
+      <workItem from="1634060632351" duration="1650000" />
+      <workItem from="1634146268844" duration="1631000" />
+      <workItem from="1634234063772" duration="232000" />
+      <workItem from="1634318702680" duration="2013000" />
+      <workItem from="1634494486097" duration="2287000" />
+      <workItem from="1634540828325" duration="55000" />
+      <workItem from="1634540897971" duration="3696000" />
+      <workItem from="1634920614328" duration="1504000" />
+      <workItem from="1635011714047" duration="3000" />
+      <workItem from="1635028791212" duration="4413000" />
+      <workItem from="1635134294264" duration="239000" />
+      <workItem from="1635185359366" duration="1628000" />
+      <workItem from="1635270360816" duration="1848000" />
+      <workItem from="1635355695783" duration="1384000" />
+      <workItem from="1635442349178" duration="1219000" />
+      <workItem from="1635526133397" duration="983000" />
+      <workItem from="1635621354300" duration="3845000" />
+      <workItem from="1635700160357" duration="2413000" />
+      <workItem from="1635877215347" duration="1172000" />
+      <workItem from="1635895070660" duration="5000" />
+      <workItem from="1635961059589" duration="1213000" />
+      <workItem from="1635977953107" duration="142000" />
+      <workItem from="1636131892102" duration="1861000" />
+      <workItem from="1636305615294" duration="3131000" />
+      <workItem from="1636314663125" duration="2000" />
+      <workItem from="1636393911325" duration="1247000" />
+      <workItem from="1636484151889" duration="1025000" />
+      <workItem from="1636570673829" duration="1532000" />
+      <workItem from="1636739889788" duration="1810000" />
+      <workItem from="1636828589059" duration="1294000" />
+      <workItem from="1636915037541" duration="1612000" />
+      <workItem from="1637094514813" duration="3610000" />
+      <workItem from="1637261678749" duration="1592000" />
+      <workItem from="1637341755326" duration="6573000" />
+      <workItem from="1637690730371" duration="1653000" />
+      <workItem from="1637781915962" duration="1246000" />
+      <workItem from="1637952710818" duration="6460000" />
+      <workItem from="1638263542828" duration="5000" />
+      <workItem from="1638302428486" duration="3780000" />
+      <workItem from="1638473896806" duration="2011000" />
+      <workItem from="1638559328435" duration="4139000" />
+      <workItem from="1639077701296" duration="1513000" />
+      <workItem from="1639246111856" duration="7317000" />
+      <workItem from="1639591205251" duration="1115000" />
+      <workItem from="1639679178999" duration="1851000" />
+      <workItem from="1640457064941" duration="21394000" />
+      <workItem from="1641321880794" duration="2620000" />
+      <workItem from="1641672193960" duration="1830000" />
+      <workItem from="1641749117322" duration="5956000" />
+      <workItem from="1642095869053" duration="2614000" />
+      <workItem from="1642358956151" duration="1827000" />
+      <workItem from="1642445696696" duration="1563000" />
+      <workItem from="1642794467504" duration="5466000" />
+      <workItem from="1642972244689" duration="4058000" />
+      <workItem from="1643312782749" duration="1624000" />
+      <workItem from="1643388180788" duration="1235000" />
+      <workItem from="1643485269911" duration="5095000" />
+      <workItem from="1643654913125" duration="2849000" />
+      <workItem from="1643825754314" duration="1602000" />
+      <workItem from="1644087703939" duration="10061000" />
+      <workItem from="1644339848622" duration="2370000" />
+      <workItem from="1644433607956" duration="2381000" />
+      <workItem from="1644519818539" duration="1081000" />
+      <workItem from="1644536484672" duration="1917000" />
+      <workItem from="1644635298793" duration="6966000" />
+      <workItem from="1644951254384" duration="3159000" />
+      <workItem from="1645123686999" duration="12342000" />
+      <workItem from="1645467980608" duration="4976000" />
+      <workItem from="1645643790588" duration="2242000" />
+      <workItem from="1645903911009" duration="10098000" />
+      <workItem from="1646278107289" duration="2408000" />
+      <workItem from="1646342153481" duration="1725000" />
+      <workItem from="1646419595701" duration="12728000" />
+      <workItem from="1646770759228" duration="2030000" />
+      <workItem from="1646849783199" duration="3783000" />
+      <workItem from="1646955953798" duration="2139000" />
+      <workItem from="1646984476254" duration="8000" />
+      <workItem from="1647072305488" duration="5665000" />
+      <workItem from="1647282084198" duration="6336000" />
+      <workItem from="1647618016917" duration="8567000" />
+      <workItem from="1647969151406" duration="4870000" />
+      <workItem from="1648141326844" duration="2295000" />
+      <workItem from="1648274543981" duration="347000" />
+      <workItem from="1648274911123" duration="3687000" />
+      <workItem from="1648405919282" duration="2958000" />
+      <workItem from="1648491011737" duration="2713000" />
+      <workItem from="1648576227453" duration="3066000" />
+      <workItem from="1648883217856" duration="12065000" />
+      <workItem from="1649265580374" duration="2136000" />
+      <workItem from="1649355787423" duration="2206000" />
+      <workItem from="1649360633302" duration="323000" />
+      <workItem from="1649439192098" duration="1912000" />
+      <workItem from="1649458633454" duration="1998000" />
+      <workItem from="1649537001911" duration="3532000" />
+      <workItem from="1649868467523" duration="1464000" />
+      <workItem from="1649960134049" duration="1405000" />
+      <workItem from="1650132466812" duration="6658000" />
+      <workItem from="1650388968214" duration="1726000" />
+      <workItem from="1650478889585" duration="1091000" />
+      <workItem from="1650736700374" duration="2265000" />
+      <workItem from="1650995376860" duration="1330000" />
+      <workItem from="1651021782733" duration="932000" />
+      <workItem from="1651080248606" duration="1883000" />
+      <workItem from="1651167081187" duration="866000" />
+      <workItem from="1651463809598" duration="5221000" />
+      <workItem from="1651600822705" duration="1529000" />
+      <workItem from="1651947656709" duration="2694000" />
+      <workItem from="1652117573686" duration="139000" />
+      <workItem from="1652202616870" duration="1253000" />
+      <workItem from="1652377101564" duration="1017000" />
+      <workItem from="1652638231564" duration="1103000" />
+      <workItem from="1652722486476" duration="1259000" />
+      <workItem from="1652894241130" duration="1398000" />
+      <workItem from="1652980862149" duration="1088000" />
+      <workItem from="1653066245346" duration="1043000" />
+      <workItem from="1653068343592" duration="320000" />
+      <workItem from="1653157001949" duration="3420000" />
+      <workItem from="1653412419895" duration="998000" />
+      <workItem from="1653590508366" duration="1354000" />
+      <workItem from="1653671107916" duration="2418000" />
+      <workItem from="1653763418954" duration="4752000" />
+      <workItem from="1654014745205" duration="628000" />
+      <workItem from="1654017136393" duration="3354000" />
+      <workItem from="1654107004658" duration="1786000" />
+      <workItem from="1654195433856" duration="417000" />
+      <workItem from="1654452614088" duration="5668000" />
+      <workItem from="1654711462385" duration="647000" />
+      <workItem from="1654733282613" duration="52000" />
+      <workItem from="1655061908979" duration="3635000" />
+      <workItem from="1655577267667" duration="1392000" />
+      <workItem from="1655676555176" duration="2075000" />
+      <workItem from="1655745943270" duration="634000" />
+      <workItem from="1656008781376" duration="2738000" />
+      <workItem from="1656382938139" duration="3000" />
+      <workItem from="1656435809965" duration="1195000" />
+      <workItem from="1656610557302" duration="659000" />
+      <workItem from="1656615953908" duration="10000" />
+      <workItem from="1656780617362" duration="5130000" />
+      <workItem from="1657136993195" duration="1628000" />
+      <workItem from="1657216773589" duration="1566000" />
+      <workItem from="1657388914741" duration="4047000" />
+      <workItem from="1657729357056" duration="1347000" />
+      <workItem from="1657813712260" duration="1547000" />
+      <workItem from="1658077861366" duration="3531000" />
+      <workItem from="1658425548820" duration="1193000" />
+      <workItem from="1658509294347" duration="1035000" />
+      <workItem from="1658597374701" duration="3774000" />
+      <workItem from="1658854358566" duration="1469000" />
+      <workItem from="1659028624710" duration="1005000" />
+      <workItem from="1659459353799" duration="1295000" />
+      <workItem from="1659545770044" duration="809000" />
+      <workItem from="1659981517406" duration="188000" />
+      <workItem from="1659996538723" duration="9000" />
+      <workItem from="1660240777684" duration="946000" />
+    </task>
+    <task id="LOCAL-00001" summary="switch to PyCharm">
+      <created>1578903522079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578903522079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="switch to PyCharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch to PyCharm" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/vocab_book$scratch_4.coverage" NAME="scratch_4 Coverage Results" MODIFIED="1607799768871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</project>

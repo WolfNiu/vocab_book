@@ -13416,7 +13416,100 @@
     turn, revolve:
       - complicated
       - difficult
+- word: exploit
+  freq: 4422
+  use: 117
+  pos: TRANSITIVE VERB
+  meaning: If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return.
+  sent: Critics claim he exploited black musicians for personal gain.
+  roots:
+    ex: ex- | out
+    ploit:
+      meaning: plic | to fold
+      roots:
+        plic: "*plek- | to plait"
+  exp: 词根合起来表示"unfold"，可以想象一下打开(unfold)宝箱并利用(exploit)里面的东西。
+  related:
+    - exploitation
+- word: multiply
+  freq: 6239
+  use: 99
+  pos: INTRANSITIVE VERB
+  meaning: When something multiplies or when you multiply it, it increases greatly in number or amount.
+  sent: Such disputes multiplied in the eighteenth and nineteenth centuries.
+  roots:
+    multi: multi- | much, many
+    ply:
+      meaning: -plex | -fold
+      roots:
+        -plex: "*plek- | to plait"
+  exp: 词根合起来表示having many folds，描绘的画面就是把纸折了很多次，导致其面的数量成倍增长。
+  connect:
+    much, many:
+      - increases greatly in number or amount
+  related:
+    - multiplication
+- word: duplicate
+  freq: 9442
+  use: 133
+  pos: TRANSITIVE VERB
+  meaning: If you duplicate something that has already been done, you repeat or copy it.
+  sent: His task will be to duplicate his success overseas here at home.
+  roots:
+    du: "*dwo- | two"
+    plic:
+      meaning: plic | to fold
+      roots:
+        plic: "*plek- | to plait"
+  exp: 词根合起来是twofold，确实是double, repeat, copy的感觉。
+  connect:
+    two:
+      - repeat
+      - copy
+    fold:
+      - repeat
+      - copy
+  related:
+    - duplication
+- word: perplex
+  freq: 15957
+  use: 71
+  pos: TRANSITIVE VERB
+  meaning: If something perplexes you, it confuses and worries you because you do not understand it or because it causes you difficulty.
+  sent: It perplexed him because he was tackling it the wrong way.
+  roots:
+    per: "*per-(1) | forward"
+    plex: "*plek- | to plait"
+  exp: 好多事情搅(plait)在一起，所以才会confusing。
+  connect:
+    plait:
+      - confuses
+      - do not understand
+      - difficulty
+  related:
+    - perplexed
 
+
+implicit        6842    67      *plek-
+  implicitly      9879    -1      *plek-
+replica 9477    65      *plek-
+  replication     13330   79      *plek-
+ply     13573   51      *plek-
+appliance       6127    48      *plek-
+explicit        4878    46      *plek-
+  explicitly      5285    0       *plek-
+plight  7540    39      *dlegh-,        *plek-
+replicate       6727    25      *plek-
+splay   17555   22      *plek-
+implicate       7846    16      *plek-
+accomplice      13098   15      *plek-
+complicity      13997   8       *plek-
+duplex  19256   7       *dwo-,  *plek-
+deploy  4544    -1      *plek-
+  deployment      6521    -1      *plek-
+complexion      10640   -1      *plek-
+flask   14590   -1      *plek-
+pliers  18793   -1      *plek
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
