@@ -13488,12 +13488,44 @@
       - difficulty
   related:
     - perplexed
+- word: implicit
+  freq: 6842
+  use: 67
+  pos: ADJECTIVE
+  meaning: Something that is implicit is expressed in an indirect way.
+  sent: He gave an implicit warning against precipitate military action.
+  roots:
+    im: in- | into, in, on, upon
+    plic:
+      meaning: plic | to fold
+      roots:
+        plic: "*plek- | to plait"
+  exp: 词根合起来是entangle, involve的意思，也就是"被折叠(fold)进内部"了，不外露，对应释义中的indirect。
+  connect:
+    fold:
+      - indirect
+  related:
+    - implicitly
+- word: replica
+  freq: 9477
+  use: 65
+  pos: COUNTABLE NOUN
+  meaning: A replica of something such as a statue, building, or weapon is an accurate copy of it.
+  sent: '...a human-sized replica of the Statue of Liberty.'
+  roots:
+    re: re- | back, again
+    plic:
+      meaning: plic | to fold
+      roots:
+        plic: "*plek- | to plait"
+  exp: 一张纸只有一个面，对折(fold)一次可就有两个面了，对应释义中的copy。
+  connect:
+    fold:
+      - copy
+  related:
+    - replication
 
 
-implicit        6842    67      *plek-
-  implicitly      9879    -1      *plek-
-replica 9477    65      *plek-
-  replication     13330   79      *plek-
 ply     13573   51      *plek-
 appliance       6127    48      *plek-
 explicit        4878    46      *plek-
