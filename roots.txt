@@ -7537,7 +7537,7 @@
 7537	inhibit	v	*ghabh-
 7538	alumnus	n	*al-
 7539	enormously	r	
-7540	plight	n	*dlegh-, *plek-
+7540	plight	n	*plek-
 7541	vibration	n	*weip-
 7542	startling	j	
 7543	default	n	
