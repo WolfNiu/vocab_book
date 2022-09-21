@@ -13541,7 +13541,7 @@
   sent: The nation saw the plight of the farmers, whose crops had died.
   roots:
     plight:
-      meaning: plight | to fold, lay
+      meaning: plic | to fold, lay
       roots:
         plic: "*plek- | to plait"
   exp: 当眼前的路非常曲折(fold)，而不是一马平川的时候，我们就说这个人陷入了困境(plight)。
@@ -13588,14 +13588,62 @@
       - away
     fold:
       - spread out
+- word: accomplice
+  freq: 13098
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: Someone's accomplice is a person who helps them to commit a crime.
+  sent: Witnesses said the gunman immediately ran to a motorcycle being ridden by an accomplice.
+  roots:
+    ac: ad- | to
+    com: com- | with, together
+    plice:
+      meaning: plic | to fold, weave
+      roots:
+        plic: "*plek- | to plait"
+  exp: 词根合起来表示fold together，也就是说俩人是拴在一棍绳儿上的蚂蚱。
+  connect:
+    with, together:
+      - helps
+    fold:
+      - helps
+- word: complicity
+  freq: 13997
+  use: 8
+  pos: UNCOUNTABLE NOUN
+  meaning: Complicity is involvement with other people in an illegal activity or plan.
+  sent: Recently a number of policemen were sentenced to death for their complicity in the murder.
+  roots:
+    com: com- | with, together
+    plic:
+      meaning: plic | to fold, weave
+      roots:
+        plic: "*plek- | to plait"
+  exp: 词根合起来表示fold together，也就是说大家都是拴在一棍绳儿上的蚂蚱。这个词和accomplice<13098,15>的感觉一样。
+- word: deploy
+  freq: 4544
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To deploy troops or military resources means to organize or position them so that they are ready to be used.
+  sent: The president said he had no intention of deploying ground troops.
+  roots:
+    de: dis- | do the opposite of
+    ploy:
+      meaning: plic | to fold
+      roots:
+        plic: "*plek- | to plait"
+  exp: 词根合起来表示unfold。"不收起来"就是让大家四散开去开始行动，也就是"部署"的感觉。
+  connect:
+    do the opposite of:
+      - organize
+      - position
+    fold:
+      - organize
+      - position
+  related:
+    - deployment
 
 
-implicate       7846    16      *plek-
-accomplice      13098   15      *plek-
-complicity      13997   8       *plek-
-duplex  19256   7       *dwo-,  *plek-
-deploy  4544    -1      *plek-
-  deployment      6521    -1      *plek-
 complexion      10640   -1      *plek-
 flask   14590   -1      *plek-
 pliers  18793   -1      *plek
