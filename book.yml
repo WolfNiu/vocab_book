@@ -13642,11 +13642,21 @@
       - position
   related:
     - deployment
-
-
-complexion      10640   -1      *plek-
-flask   14590   -1      *plek-
-pliers  18793   -1      *plek
+- word: complexion
+  freq: 10640
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: When you refer to someone's complexion, you are referring to the natural color or condition of the skin on their face.
+  sent: She had short brown hair and a pale complexion.
+  roots:
+    com: com- | with, together
+    plex: "*plek- | to plait"
+  exp: 词根合起来是to weave/braid together，也就是说这个人是什么"编织成的"，换句话说就是"用啥造出来的"，对应释义中的natural color or condition。
+  connect:
+    with, together:
+      - color or condition of the skin
+    plait:
+      - color or condition of the skin
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-

@@ -14587,7 +14587,7 @@
 14587	purposefully	r	
 14588	Marxism	n	
 14589	tit	n	
-14590	flask	n	*plek-
+14590	flask	n
 14591	supervisory	j	*weid-
 14592	gamut	n	
 14593	outlay	n	*legh-
