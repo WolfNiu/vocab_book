@@ -4131,7 +4131,7 @@
 4131	grief	n	*gwere-
 4132	mysterious	j	*mei-
 4133	rocket	n	
-4134	donate	v	
+4134	donate	v	*do-
 4135	inmate	n	
 4136	tackle	v	
 4137	dynamics	n	
@@ -6979,7 +6979,7 @@
 6979	lunar	j	*leuk-
 6980	sincere	j	*ker-
 6981	pluck	v	
-6982	dice	n	*do-
+6982	dice	n
 6983	demise	n	
 6984	patio	n	*pag-
 6985	premature	j	

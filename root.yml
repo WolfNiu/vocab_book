@@ -1569,3 +1569,20 @@ misc:
     - uncomplicated
     - implied
     - implicate
+"*do-":
+  meaning: to give
+  exp: 这个词根的词很多都比较难想，咱们先从最简单的来。donor<3884,16> = don[=*do-:to give] + or[=-or]，捐赠确实就是give的意思，白给嘛。render<3571,92> = re[=re-:back] + der[=*do-]，词根合起来表示"give back"，而render最常用的意思就是provide or give。add<341,86> = ad[=ad-:to] + d[=*do-]，给你一个又一个，于是你拥有的数量可就add up了。其衍生词addition<2065,-1>，additional<1326,24>也都是常用词。rent<3464,56> = re[=re-:back] + t[=*do-]，是你给(give)房东的钱。date<1205,44> = dat[=*do-]。give之所以和time相关，是因为罗马人写信的末尾都会先写"given"，然后写上日期，很可能是说这封信是XX时间交给邮递员的。tradition<1249,28> = trad[=trans-:over] + t[=*do-]。传统嘛，就是一代教给(give)另一代。其衍生词traidtional<928,61>也是常用词。mandate = man[=*man-:hand] + d[=*do-]，词根合起来表达的感觉是"to give into one's hand"。如果还不明白，想想皇上的"手谕"就行了。data<560,2> = d[=*do-]。原始意思是a fact given as the basis for calculation，后来引申为现在"数据"的概念。edition<3181,-1> = ed[=ex-:out] + t[=*do-]，词根合起来表达bring forth, produce的意思。每一个新版(edition)就是一个新的produce。dose<3554,-1> = do[=*do-]，是"给药剂量"的感觉。
+  related:
+    - mandatory
+    - dating
+    - dated
+    - rental
+    - renter
+    - added
+    - donate
+    - donation
+    - outdated
+    - update
+    - rendering
+    - dosage
+    - overdose

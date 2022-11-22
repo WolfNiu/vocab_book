@@ -13657,6 +13657,167 @@
       - color or condition of the skin
     plait:
       - color or condition of the skin
+- word: surrender
+  freq: 5085
+  use: 134
+  pos: INTRANSITIVE VERB
+  meaning: If you surrender, you stop fighting or resisting someone and agree that you have been beaten.
+  sent: General Martin Bonnet called on the rebels to surrender.
+  roots:
+    sur: sur-(1) | over
+    render:
+      meaning: give back
+      roots:
+        re: re- | back
+        d: "*do- | to give"
+  exp: 词根合起来就是give up(放弃)的意思，也就是把自己的处置权上(over)交(give)的感觉。
+  connect:
+    over:
+      - stop fighting or resisting
+      - agree that you have been beaten
+    give:
+      - stop fighting or resisting
+      - agree that you have been beaten
+- word: betray
+  freq: 5029
+  use: 92
+  pos: TRANSITIVE VERB
+  meaning: If you betray someone who loves or trusts you, your actions hurt and disappoint them.
+  sent: When I tell someone I will not betray his confidence I keep my word.
+  roots:
+    be: be- | about, around, on all sides
+    tra:
+      meaning: trad | hand over
+      roots:
+        tra: trans- | across
+        d: "*do- | to give"
+  exp: 这个词虽说从*do-来，但拼写里已经看不出这个词根的痕迹了。词义上是从give发展出hand over的意思，也就是把属于己方的东西拱手相让，于是也就背叛(betray)了同胞。
+  related:
+    - betrayal
+- word: pardon
+  freq: 7979
+  use: 72
+  pos: CONVENTION
+  meaning: People say 'I beg your pardon?' when they are surprised or offended by something that someone has just said.
+  sent: "\"Would you get undressed, please?\" -- \"I beg your pardon?\" -- \"Will you get undressed?\""
+  roots:
+    par: "*per-(1) | forward"
+    don: "*do- | to give"
+  exp: pardon就是forgiveness<7093,22>的感觉，有没有发现这个词里也有个give？所谓"原谅"，就是"给予谅解"的意思。give是一种付出，而请求别人原谅则偏向于索取的感觉。
+- word: rendezvous
+  freq: 13379
+  use: 60
+  pos: COUNTABLE NOUN
+  meaning: A rendezvous is a meeting, often a secret one, that you have arranged with someone for a particular time and place.
+  sent: I had almost decided to keep my rendezvous with Tony.
+  roots:
+    rende: render | to present
+    vous: vous | you
+  exp: 词根合起来表示present yourselves——也就是你在meeting上需要干的事。
+- word: vendor
+  freq: 4680
+  use: 24
+  pos: COUNTABLE NOUN
+  meaning: A vendor is someone who sells things such as newspapers, cigarettes, or food from a small stall or cart.
+  sent: '...ice cream vendors.'
+  roots:
+    vend:
+      meaning: vend | to sell
+      roots:
+        ven: ven | for sale
+        d: "*do- | to give"
+  exp: vend<18563,32>本身就是个单词，表示sell。
+  connect:
+    sell:
+      - sells
+    sale:
+      - sells
+    give:
+      - sells
+- word: condone
+  freq: 11485
+  use: 31
+  meaning: If someone condones behavior that is morally wrong, they accept it and allow it to happen.
+  sent: I have never encouraged nor condoned violence.
+  roots:
+    con: con- | intensive prefix
+    do: "*do- | to give"
+  exp: 词根表达的是give permission的感觉，对应释义中的accept/allow。
+  connect:
+    give:
+      - accept
+    allow:
+      - accept
+- word: treason
+  freq: 13325
+  use: 19
+  pos: UNCOUNTABLE NOUN
+  meaning: Treason is the crime of betraying your country, for example, by helping its enemies or by trying to remove its government using violence.
+  sent: They were tried and found guilty of treason.
+  roots:
+    trea: trans- | over
+    s: "*do- | to give"
+  exp: 词根合起来表达hand over的意思。也就是把属于自己国家的东西拱手相让。
+- word: antidote
+  freq: 11817
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: An antidote is a chemical substance that stops or controls the effect of a poison.
+  sent: When he returned, he noticed their sickness and prepared an antidote.
+  roots:
+    anti: anti- | against
+    dote: "*do- | to give"
+  exp: 词根合起来表达"(drug) given as a remedy against poison"，所以是解药。
+  connect:
+    against:
+      - stops
+      - controls
+- word: anecdote
+  freq: 9116
+  use: 10
+  pos: VARIABLE NOUN
+  meaning: An anecdote is a short, amusing account of something that has happened.
+  sent: Pete was telling them an anecdote about their mother.
+  roots:
+    an: an-(1) | not
+    ecdote:
+      meaning: ekdot | published
+      roots:
+        ek: ex- | out
+        dot: "*do- | to give"
+  exp: 词根合起来表示"things unpublished"——没有正式出版的故事，只是口口相传。give + out共同构成了ekdot这个词根，表示publish。
+  connect:
+    published:
+      - account
+  related:
+    - anecdotal
+- word: endow
+  freq: 10148
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: You say that someone is endowed with a particular desirable ability, characteristic, or possession when they have it by chance or by birth.
+  sent: You are endowed with wealth, good health and a lively intellect.
+  roots:
+    en: en-(1) | in
+    dow: "*do- | to give"
+  exp: 词根表达的是"上天赐予"、"天生"的感觉。
+  connect:
+    give:
+      - have
+  related:
+    - endowment
+- word: traitor
+  freq: 10194
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If you call someone a traitor, you mean that they have betrayed beliefs that they used to hold, or that their friends hold, by their words or actions.
+  sent: Some say he's a traitor to the peace movement.
+  roots:
+    trai(t): trans- | over
+    t: "*do- | to give"
+  exp: 把属于自己的东西拱手相让，和同源词betray<5029,92>一样是"背叛"的感觉。
+
+
 
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
@@ -13668,7 +13829,6 @@
 # (48, '*plat-'),
 # (50, '*es-'),
 # (50, '*stere-'),
-# (51, '*do-'),
 # (51, '*ghabh-'),
 # (51, '*gno-'),
 # (53, '*pau-'),
