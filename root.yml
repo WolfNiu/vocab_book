@@ -1586,3 +1586,24 @@ misc:
     - rendering
     - dosage
     - overdose
+"*pau-(1)":
+  meaning: few, little
+
+"*pau-(2)":
+  meaning: to cut, strike, stamp
+  exp: computer<590,-1> = com[=com-:with, together] + put[=put:to reckon=*pau-(2)]，所谓computer，就是用来想问题(reckon)的工具。reckon之所以cut相关，是因为思考的本意就是理清头绪，排除(cut)多余的、不相干的信息。之后我们会不断用到reckon, consider这个引申义。count<1338,86>这个词在Latin里是computare，因此和构词和意思都和computer一脉相承。只不过后来省略了m和p，不容易看出来。account<1075,288> = ac[=ad-] + count[=count]，所谓"账户"，就是帮忙记录、数(count)钱的。dispute<2726,-1> = dis[=dis-:separately, apart] + pute[=put:to count, consider=*pau-(2)]，词根合起来表达consider differently的感觉。reputation<2432,-1> = re[=re-:again] + put[=put:to judge, suppose, believe, suspect=*pau-(2)]，所以reputation，其实就是大家怎么想(reckon, consider)我的。
+  related:
+    - countless
+    - counting
+    - countdown
+    - accounting
+    - accountable
+    - accountant
+    - compute
+    - computation
+    - computational
+    - supercomputer
+    - undisputed
+    - indisputable
+    - reputable
+    - repute

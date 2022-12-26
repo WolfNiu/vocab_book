@@ -455,7 +455,7 @@
 455	effort	n	*bhergh-
 456	up	i	
 457	decide	v	*kae-id-
-458	rate	n	*pau-, *re-
+458	rate	n	*re-
 459	strong	j	
 460	possible	j	*poti-
 461	heart	n	*kerd-
@@ -1831,7 +1831,7 @@
 1831	manner	n	*man-
 1832	ancient	j	*ant-
 1833	silence	n	
-1834	rating	n	*pau-, *re-
+1834	rating	n	*re-
 1835	golden	j	*ghel-
 1836	motion	n	*meue-
 1837	German	j	*gene-
@@ -3891,7 +3891,7 @@
 3891	frame	v	*per-
 3892	evil	j	
 3893	acquisition	n	
-3894	pit	n	*pau-
+3894	pit	n
 3895	hug	v	
 3896	wildlife	n	*leip-
 3897	punish	v	
@@ -6954,7 +6954,7 @@
 6954	steroids	n	
 6955	flick	v	
 6956	answering	j	
-6957	prairie	n	
+6957	prairie	n
 6958	atmospheric	j	
 6959	pear	n	
 6960	serial	j	
@@ -18116,7 +18116,7 @@
 18116	space-time	j	
 18117	redneck	n	
 18118	copious	j	*op-
-18119	rater	n	
+18119	rater	n	*re-
 18120	ineffectual	j	*dhe-
 18121	shackle	n	
 18122	upshot	n	*skeud-

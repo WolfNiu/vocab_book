@@ -13816,6 +13816,95 @@
     trai(t): trans- | over
     t: "*do- | to give"
   exp: 把属于自己的东西拱手相让，和同源词betray<5029,92>一样是"背叛"的感觉。
+- word: pave
+  freq: 7205
+  use: 0
+  pos: NOUN
+  meaning: If a road or an area of ground has been paved, it has been covered with asphalt or concrete, so that it is suitable for walking or driving on.
+  sent: The avenue had never been paved, and deep mud made it impassable in winter.
+  roots:
+    pave: "*pau-(2) | to cut, strike, stamp"
+  exp: 修路嘛，其实就是把路夯实，所以和strike, stamp相关。
+  connect:
+    strike, stamp:
+      - coverted with asphalt or concrete
+  related:
+    - pavement
+- word: recount
+  freq: 5557
+  use: 29
+  pos: TRANSITIVE VERB
+  meaning: If you recount a story or event, you tell or describe it to people.
+  sent: He then recounted the story of the interview for his first job.
+  roots:
+    re: re- | again
+    count: "*pau-(2) | to cut, strike, stamp"
+  exp: 重新(again)细数(count)前事的种种。
+- word: berate
+  freq: 16426
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you berate someone, you speak to them angrily about something they have done wrong.
+  sent: Marion berated Joe for the noise he made.
+  roots:
+    be: be- | thoroughly
+    ra: re- | again
+    t: "*pau-(2) | to cut, strike, stamp"
+  exp: 词根合起来表达"反复、彻底打击"的感觉。
+  connect:
+    strike:
+      - speak to them angrily
+- word: amputate
+  freq: 17705
+  use: 21
+  pos: TRANSITIVE VERB
+  meaning: To amputate someone's arm or leg means to cut all or part of it off in an operation because it is diseased or badly damaged.
+  sent: To save his life, doctors amputated his legs.
+  roots:
+    am: ambhi- | around
+    put: "*pau-(2) | to cut, strike, stamp"
+  exp: 词根合起来表示to cut around，想想都疼。
+  connect:
+    cut:
+      - cut
+  related:
+    - amputation
+- word: putative
+  freq: 17077
+  use: 42
+  pos: ADJECTIVE
+  meaning: If you describe someone or something as putative, you mean that they are generally thought to be the thing mentioned.
+  sent: '...a putative father.'
+  roots:
+    put:
+      meaning: put | to judge, suppose, believe, suspect
+      roots:
+        "*pau-(2) | to cut, strike, stamp"
+  exp: 用的是*pau-(2)的引申义reckon, consider。
+  connect:
+    judge, suppose, believe, suspect:
+      - thought
+
+
+
+
+
+
+poor    714     251     *pau-(1),  *pere-
+  poorly  5199    77      *pau-,  *pere-
+punch   4393    207     *pau-,  *penkwe-,       *peuk-
+pool    1574    70      *pau-
+few     185     48      *pau-(1)
+pupil   5120    43      *pau-(1)
+encyclopedia    10727   28      *kwel-, *pau-
+paucity 17295   25      *pau-
+puppet  7369    15      *pau-
+pony    8523    0       *pau-
+  ponytail        11135   -1      *pau-
+poverty 2354    -1      *pau-
+deputy  2591    -1      *pau-
+poultry 7775    -1      *pau-
+orthopedic      14465   -1      *pau-
 
 
 
@@ -13823,7 +13912,6 @@
 # TODO: *kar-
 # (34, '*ambhi-'),
 # (39, '*skel-'),
-# (42, '*ei-'),
 # (45, '*ne-'),
 # (45, '*weik-'),
 # (48, '*plat-'),
