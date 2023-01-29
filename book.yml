@@ -13884,27 +13884,94 @@
   connect:
     judge, suppose, believe, suspect:
       - thought
+- word: pupil
+  freq: 5120
+  use: 43
+  pos: COUNTABLE NOUN
+  meaning: A pupil of a painter, musician, or other expert is someone who studies under that expert and learns his or her skills.
+  sent: After his education, Goldschmidt became a pupil of the composer Franz Schreker.
+  roots:
+    pu: "*pau-(1) | few, little"
+  exp: 大概就是"小弟"的意思。
+  connect:
+    few, little:
+      - under
+      - learns
+- word: paucity
+  freq: 17295
+  use: 25
+  pos: NOUN
+  meaning: If you say that there is a paucity of something, you mean that there is not enough of it.
+  sent: Even the film's impressive finale can't hide the first hour's paucity of imagination.
+  roots:
+    pau: "*pau-(1) | few, little"
+  exp: 词根对应释义中的not enough。
+  connect:
+    few, little:
+      - not enough
+- word: puppet
+  freq: 7369
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: You can refer to a person or country as a puppet when you mean that their actions are controlled by a more powerful person or government, even though they may appear to be independent.
+  sent: When the invasion occurred he seized power and ruled the country as a puppet of the occupiers.
+  roots:
+    pu: "*pau-(1) | few, little"
+  exp: 词根表达little doll的感觉。
+- word: pony
+  freq: 8523
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: A pony is a small or young horse.
+  roots:
+    pon: "*pau-(1) | few, little"
+  exp: 释义中自带small，不解释。
+  connect:
+    few, little:
+      - small
+      - young
+  related:
+    - ponytail
+- word: poverty
+  freq: 2354
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Poverty is the state of being extremely poor.
+  sent: According to World Bank figures, 41 percent of Brazilians live in absolute poverty.
+  roots:
+    po: "*pau-(1) | few, little"
+  exp: 钱少(few, little)就是穷呗。
+  connect:
+    few, little:
+      - poor
+- word: poultry
+  freq: 7775
+  use: -1
+  pos: PLURAL NOUN
+  meaning: You can refer to chickens, ducks, and other birds that are kept for their eggs and meat as poultry.
+  sent: '...a poultry farm.'
+  roots:
+    poul: "*pau-(1) | few, little"
+  exp: birds体型都比较小(few, little)。
+- word: orthopedic
+  freq: 14465
+  use: -1
+  pos: ADJECTIVE
+  meaning: Orthopedic means relating to problems affecting people's joints and spines.
+  sent: '...an orthopedic surgeon.'
+  roots:
+    ortho: ortho- | straight, correct
+    ped:
+      meaning: pedo- | child
+      roots:
+        pedo-: "*pau-(1) | few, little"
+  exp: orthopedic早期特指cure of bodily deformities in children，后来才泛指所有人。
 
 
 
 
 
 
-poor    714     251     *pau-(1),  *pere-
-  poorly  5199    77      *pau-,  *pere-
-punch   4393    207     *pau-,  *penkwe-,       *peuk-
-pool    1574    70      *pau-
-few     185     48      *pau-(1)
-pupil   5120    43      *pau-(1)
-encyclopedia    10727   28      *kwel-, *pau-
-paucity 17295   25      *pau-
-puppet  7369    15      *pau-
-pony    8523    0       *pau-
-  ponytail        11135   -1      *pau-
-poverty 2354    -1      *pau-
-deputy  2591    -1      *pau-
-poultry 7775    -1      *pau-
-orthopedic      14465   -1      *pau-
 
 
 

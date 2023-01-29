@@ -1571,7 +1571,7 @@
 1571	Russian	j	*ere-
 1572	instruction	n	*stere-
 1573	fight	n	
-1574	pool	n	*pau-
+1574	pool	n
 1575	climb	v	
 1576	sweet	j	
 1577	lead	n	
@@ -4390,7 +4390,7 @@
 4390	cute	j	
 4391	rival	n	*rei-
 4392	short-term	j	*sker-
-4393	punch	v	*pau-, *penkwe-, *peuk-
+4393	punch	v	*penkwe-, *peuk-
 4394	pin	n	*pet-
 4395	hockey	n	
 4396	passing	j	*pete-
