@@ -1402,7 +1402,7 @@
 1402	commit	v	
 1403	female	j	*dhe(i)-
 1404	youth	n	
-1405	wave	n	*wegh-
+1405	wave	n
 1406	move	n	*meue-
 1407	afraid	j	*pri-
 1408	quarter	n	*kwetwer-
@@ -3347,7 +3347,7 @@
 3347	horror	n	
 3348	recording	n	
 3349	changing	j	
-3350	painter	n	*(s)pen-
+3350	painter	n	*peig-
 3351	colonial	j	*kwel-
 3352	pie	n	
 3353	sake	n	
@@ -5932,7 +5932,7 @@
 5932	parallel	j	*al-
 5933	wan	v	
 5934	fulfil	v	
-5935	microwave	n	*wegh-
+5935	microwave	n
 5936	thorough	j	*tere-
 5937	specimen	n	*spek-
 5938	obscure	v	*(s)keu-
@@ -6645,7 +6645,7 @@
 6645	tractor	n	
 6646	Canadian	n	
 6647	statewide	j	
-6648	hitter	n	
+6648	hitter	n
 6649	postpone	v	
 6650	craft	v	
 6651	beneficiary	n	*deu-, *dhe-
@@ -6657,7 +6657,7 @@
 6657	Swedish	j	
 6658	Bosnian	j	
 6659	policymaker	n	
-6660	velocity	n	*weg-, *wegh-
+6660	velocity	n
 6661	critically	r	
 6662	reconcile	v	*kele-
 6663	pathway	n	
@@ -9619,7 +9619,7 @@
 9619	losing	j	
 9620	ruthless	j	
 9621	magician	n	*magh-
-9622	waver	v	*wegh-
+9622	waver	v
 9623	emptiness	n	*med-
 9624	Egyptian	n	
 9625	puff	v	
@@ -10268,7 +10268,7 @@
 10268	unification	n	*dhe-
 10269	wane	v	*eue-
 10270	adjustable	j	*yeug-
-10271	displaced	j	
+10271	displaced	j	*plat-
 10272	sweet	n	
 10273	stakeholder	n	
 10274	willow	n	*wel-
@@ -16366,7 +16366,7 @@
 16366	default	v	
 16367	invoice	n	*wegh-
 16368	inflationary	j	*bhle-
-16369	preponderance	n	
+16369	preponderance	n	*(s)pen-
 16370	pantheon	n	*dhes-
 16371	nine-year-old	j	
 16372	saber	n	
@@ -16660,7 +16660,7 @@
 16660	handiwork	n	*werg-
 16661	flashing	j	*bhel-
 16662	untrained	j	
-16663	hand-painted	j	
+16663	hand-painted	j   *peig-
 16664	first-degree	j	
 16665	abundantly	r	
 16666	placate	v	
@@ -18372,7 +18372,7 @@
 18372	anemic	j	
 18373	amiss	r	*mei-
 18374	bandanna	n	*bhendh-
-18375	unwavering	j	*wegh-
+18375	unwavering	j
 18376	deplorable	j	
 18377	broadside	n	
 18378	critique	v	*krei-
@@ -19941,7 +19941,7 @@
 19941	escaping	j	
 19942	skinless	j	*sek-
 19943	laminated	j	
-19944	paintbrush	n	
+19944	paintbrush	n   *peig-
 19945	fluttering	j	
 19946	switching	n	
 19947	fawn	n	*dhe(i)-

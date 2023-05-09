@@ -1,9 +1,6 @@
 '*deik-':
   meaning: to show; pronounce solemnly
   exp: 其实这个词根的衍生里有我们很熟悉的teach(546,36)和judge(1119,106)。根据字母互换规律*deik-=teach, *deik-=judge。这里要特别注意的是d=j，因为j会发/dʒ/的音(e.g. joke)，和/d/的音很相近。这样的话我们就扩展了t=d=s=z这一组互换，成了t=d=s=z，而d和j单独可互换。从*deik-来的常用词还有dictionary[=dict(=*deik-)+ion(=-ion)+ary(=-ary)]——词典的作用就是show people the meaning(s) of words and phrases.
-'*wegh-':
-  'meaning': to go, move, transport in a vehicle
-  'exp': 和这个词根相关的最常用词就是way(84,308)了，二者可互换，意思上也相通。而away(270,42)=a(=a-:off,from) + way，也就是不继续走这条路的感觉。这里给个小测验，看大家能不能自己把always(206,50)这个词拆开并且解释清楚，如果能的话，再试试subway(5452，-1)？另外weigh(2527, -1)和weight(957,202)也是从这个词根来的。transport in a vehicle的载体往往就是“重物”。学理工科的同学肯定对vector(10374,-1)这个词特别熟。其中的vect就和*wegh-可互换。什么是vector呢？就是从一个点指向另一个点，所以这词造得真是再形象不过了。另外为了理解这个词根，我们也被迫认识了vehicle(1300,34)。其中veh=*wegh-。再让我斗胆assume你认识wave(1405,30)这个词。它和*weigh-也可互换。古人对wave最朴素的认知就是“它在动(move)”。怎么样，现在是不是觉得它既表示“波浪”又表示“挥手”合理多了？
 'cred':
   meaning: to believe
   parent: '*kerd-'
@@ -1591,7 +1588,6 @@ misc:
   exp: 不要小看poor<714,251>，竟然由*pau-(1)和*pere-(1)(to produce, procure)两个词根组成。词根合起来表示producing little，果然很穷。few<185,48> = few[=*pau-(1)]，f和p可互换，不解释。
   related:
     - poorly
-
 "*pau-(2)":
   meaning: to cut, strike, stamp
   exp: computer<590,-1> = com[=com-:with, together] + put[=put:to reckon=*pau-(2)]，所谓computer，就是用来想问题(reckon)的工具。reckon之所以cut相关，是因为思考的本意就是理清头绪，排除(cut)多余的、不相干的信息。之后我们会不断用到reckon, consider这个引申义。count<1338,86>这个词在Latin里是computare，因此和构词和意思都和computer一脉相承。只不过后来省略了m和p，不容易看出来。account<1075,288> = ac[=ad-] + count[=count]，所谓"账户"，就是帮忙记录、数(count)钱的。dispute<2726,-1> = dis[=dis-:separately, apart] + pute[=put:to count, consider=*pau-(2)]，词根合起来表达consider differently的感觉。reputation<2432,-1> = re[=re-:again] + put[=put:to judge, suppose, believe, suspect=*pau-(2)]，所以reputation，其实就是大家怎么想(reckon, consider)我的。deputy = de[=de-:away] + put[=put:to think, count, consider]，当老大不在(away)的时候，替她思考(think, consider)问题的人就是deputy。
@@ -1610,3 +1606,48 @@ misc:
     - indisputable
     - reputable
     - repute
+"*plat-":
+  meaning: to spread
+  exp: flat<2592,-1> = flat[=*plat-]，spread对应着"摊平(flat)"的感觉。我们之后会不断用到*plat-中flat的这层意思。超常用词place<181,383> = place[=*plat-]，表达spread, extend, broad的感觉，用的正是flat的那层意思——也就是一片平地。replace<1186,12> = re[=re-:back, again] + place，本意是"to restore to a previous place"，因此和back、place都相关。其衍生词replacement<3693,26>也是常用词。platform<2832,18> = plat[=*plat-] + form，其实就是flat form的意思——"平台"嘛。plate = plate[=*plat-]，盘子基本都是平的。
+  related:
+    - workplace
+    - placement
+    - fireplace
+    - someplace
+    - anyplace
+    - flatly
+    - flatten
+"*wegh-":
+  meaning: to go, move, transport in a vehicle
+  exp: 和这个词根相关的最常用词是way<84,308> = way[=*wegh-]。way就是course of travel，因此和to go, move相关。而away<270,42> = a[=a-:off, from] + way[=way]，也就是不继续走这条路的感觉。always<206,50> = al[=all] + way[=way]，其实就是all the way的意思。vehicle<1300,34> = veh[=*wegh-]，无需解释。weigh<2527,-1> = weigh[=*wegh-]，只有重物才需要transport in a vehicle。其衍生词weight<957,202>也是常用词。via<2599,-1> = via[=*wegh-]，表示"通过"，和to go, move高度相关。previous<1283,36> = pre[=pre-:before] + vi[=via]，词根合起来表示"going before"，也就是previous在表达的"从前"的感觉。obvious<1700,109> = ob[=ob-:in front of, against] + vi[=via]，词根合起来表示"in the way"——表达"在路上这么明显的地方"的感觉。convey = con[=con-:with, together] + vey[=via]，词根合起来表示to accompany on the way，之后引申为communicate by transmission的意思。
+  related:
+    - weighty
+    - subway
+    - Broadway
+    - runaway
+    - conveyor
+    - lightweight
+    - overweight
+    - weightless
+    - heavyweight
+    - wayward
+    - hideaway
+    - outweigh
+"*(s)pen-":
+  meaning: to draw, stretch, spin
+  exp: pound<1313,222> = pound[=pend:to hang, cause to hang; weigh; pay][=*(s)pen-]。"weigh"和"stretch"之间的联系是：如果比较重(weigh)的东西会往下坠，将拴着它的那根绳子拉紧(stretch)。下面这几个词也都用到了pend这个词根。suspend<3812,79> = sus[=sub-:up from under] + pend[=pend]，词根合起来表达"to hang up, kill by hanging"，也就是把人干掉了。后来引申出"暂停"的意思。expense<2156,-1> = ex[=ex-:out] + pense[=pend]，用的是pend中pay的那层意思。为啥pay会和weigh相关呢？是因为钱币一般由金属制成，比较重。如果像银子那样没有固定形状的话，付款之前还要先称(weigh)一下。你看，pound本身就既是重要单位(磅)，又是英国的货币单位。pound简写为lb，是因为在拉丁语里libra就是pound的意思。之前Facebook想搞的那个叫Libra电子货币，显然名字也不是随便起的。expensive<1674,26> = expens[=expense]也是常用词。pension<3818,30> = pens[=pend]，用的也是pend中pay的那层意思。compensation<3833,30> = compensat[=compensate<5099,15>]是常用词。而compensate<5099,15> = com[com-:with, together] + pens[=pend]，词根合起来表示to weigh together，或者说to weigh one thing (against another)——把两件东西放在公平称上称一下，如果不一样，就给轻的那一端补点重量。这正是compensate想表达的意思。depend<1483,29> = de[=de-:from, down] + pend[=pend]，词根合起来表示to hang, be sustained by being attached to something above，也就是"挂靠在另一件东西上"的感觉。其衍生词dependent<3231,43>也是常用词。在这个基础上independent<1271,28> = in[=in-(1):not, opposite of] + dependent，"不靠着"，也就是"独立"了呗。其衍生词independence也是常用词。spin<2666,-1> = spin[=*(s)pen-]，用的是词根中spin的意思。
+  related:
+    - compensatory
+    - dependence
+    - dependency
+    - dependable
+    - inexpensive
+    - expend
+    - expendable
+    - expenditure
+    - spinning
+    - spinner
+    - suspense
+    - suspended
+    - suspension
+    - suspenders

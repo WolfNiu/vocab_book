@@ -13966,11 +13966,550 @@
       roots:
         pedo-: "*pau-(1) | few, little"
   exp: orthopedic早期特指cure of bodily deformities in children，后来才泛指所有人。
+- word: displace
+  freq: 6895
+  use: 108
+  pos: TRANSITIVE VERB
+  meaning: If one thing displaces another, it forces the other thing out of its place, position, or role, and then occupies that place, position, or role itself.
+  sent: These factories have displaced tourism as the country's largest source of foreign exchange.
+  roots:
+    dis: dis- | apart, away
+    place:
+      meaning: place
+      roots:
+        place: "*plat- | spread"
+  exp: 一个把另一个的place取代了。这里apart, away对应释义中的"forces the other thing out of"。
+  connect:
+    apart, away:
+      - forces the other thing out of
+    place:
+      - place, position or role
+  related:
+    - displaced
+    - displacement
+- word: misplace
+  freq: 15143
+  use: 20
+  pos: TRANSITIVE VERB
+  meaning: If you misplace something, you lose it, usually only temporarily.
+  sent: Somehow the suitcase with my clothes was misplaced.
+  roots:
+    mis: mis-(1) | badly, wrongly
+    place:
+      meaning: place
+      roots:
+        place: "*plat- | spread"
+  exp: 词根合起来就是place wrongly, put in a wrong place。
+  connect:
+    badly, wrongly:
+      - lose
+    place:
+      - lose
+- word: plateau
+  freq: 8498
+  use: 6
+  pos: COUNTABLE NOUN
+  meaning: A plateau is a large area of high and fairly flat land.
+  sent: A broad valley opened up leading to a high, flat plateau of cultivated land.
+  roots:
+    plat: "*plat- | spread"
+  exp: 用的还是*plat-中flat的那层意思，对应释义中的flat land。
+  connect:
+    spread:
+      - flat
+- word: piazza
+  freq: 19997
+  use: 6
+  pos: COUNTABLE NOUN
+  meaning: A piazza is a large open square in a town or city, especially in Italy.
+  sent: '...a piazza dotted with fountains.'
+  roots:
+    piaz: "*plat- | spread"
+  exp: 这个词字母互换不是很规律，l被省掉了，z=t。用的还是*plat-中flat, broad的那层意思，对应释义中的large open square。
+  connect:
+    spread:
+      - large open square
+- word: plaza
+  freq: 8264
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A plaza is an open square in a city.
+  sent: Across the busy plaza, vendors sell hot dogs and croissant sandwiches.
+  roots:
+    plaz: "*plat- | spread"
+  exp: 字母互换上z=t。用的是*plat-中flat, broad的那层意思，对应释义中的open square。
+  connect:
+    spread:
+      - open square
+- word: platter
+  freq: 7334
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A platter is a large flat plate used for serving food.
+  sent: The food was being served on silver platters.
+  roots:
+    plat: plate<1534,30>
+  connect:
+    plate:
+      - plate
+- word: platinum
+  freq: 9962
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Platinum is a very valuable, silvery-gray metal. It is often used for making jewelry.
+  roots:
+    plat: plate<1534,30>
+  connect:
+    plate:
+      - metal
+  exp: 这里的plate表示sheet of metal。
+- word: platonic
+  freq: 18022
+  use: -1
+  pos: ADJECTIVE
+  meaning: Platonic relationships or feelings of affection do not involve sex.
+  sent: She values the platonic friendship she has had with Chris for ten years.
+  roots:
+    plat: "*plat- | to spread"
+  exp: 可以理解为"躺平(to spread)之爱"，只谈不干。
+- word: irreplaceable
+  freq: 18961
+  use: -1
+  pos: ADJECTIVE
+  meaning: Irreplaceable things are so special that they cannot be replaced if they are lost or destroyed.
+  sent: '...a rare and irreplaceable jewel.'
+  roots:
+    ir: in-(1) | not, opposite of
+    replace: replace<1186,12>
+    able: -able | capable of
+  connect:
+    not:
+      - cannot
+    replace:
+      - replaced
+    able:
+      - cannot
+- word: platelet
+  freq: 19184
+  use: -1
+  pos: NOUN
+  meaning: Platelets are a kind of blood cell. If you cut yourself and you are bleeding, platelets help to stop the bleeding.
+  roots:
+    plate: plate<1534,30>
+    let: -let | diminutive
+  exp: 词根合起来表示a little plate，代表血小板的形状(这样一看"血小板"这个翻译相当精准)。
+- word: vex
+  freq: 18450
+  use: 114
+  pos: TRANSITIVE VERB
+  meaning: If someone or something vexes you, they make you feel annoyed, puzzled, and frustrated.
+  sent: It vexed me to think of others gossiping behind my back.
+  roots:
+    vex: "*wegh- | to go, move, transport in a vehicle"
+  connect:
+    move:
+      - annoyed
+      - puzzled
+      - frustrated
+  exp: 词根释义中的move代表了"对情绪的扰动"。
+- word: vogue
+  freq: 15172
+  use: 87
+  pos: SINGULAR NOUN
+  meaning: If there is a vogue for something, it is very popular and fashionable.
+  sent: Despite the vogue for so-called health teas, there is no evidence that they are any healthier.
+  roots:
+    vog: "*wegh- | to go, move, transport in a vehicle"
+  connect:
+    move:
+      - popular
+      - fashionable
+  exp: 词根释义中的move代表了"新动向"的意思，也就是vogue所表达的"流行趋势"。
+- word: deviate
+  freq: 14279
+  use: 76
+  pos: INTRANSITIVE VERB
+  meaning: To deviate from something means to start doing something different or not planned, especially in a way that causes problems for others.
+  sent: They stopped you as soon as you deviated from the script.
+  roots:
+    de: de- | off
+    vi: via<2599,-1>
+  connect:
+    off:
+      - different
+      - not planned
+    via:
+      - doing
+  related:
+    - deviation
+    - deviant
+- word: devious
+  freq: 19115
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe someone as devious you do not like them because you think they are dishonest and like to keep things secret, often in a complicated way.
+  sent: Newman was certainly devious, prepared to say one thing in print and something quite different in private.
+  roots:
+    de: de- | off
+    vi: via<2599,-1>
+  exp: 词根合起来表示"没走正道"。
+- word: trivial
+  freq: 8340
+  use: 74
+  pos: ADJECTIVE
+  meaning: If you describe something as trivial, you think that it is unimportant and not serious.
+  sent: The director tried to wave aside these issues as trivial details that could be settled later.
+  roots:
+    tri: tri- | three
+    vi: via<2599,-1>
+  exp: 词根合起来的本意表示place where three roads meet，之后引申为commonplace，也就是很普通的地方，对应释义中的unimportant, not serious。
+  related:
+    - trivialize
+    - trivia
+- word: wee
+  freq: 12354
+  use: 73
+  pos: ADJECTIVE
+  meaning: Wee means small in size or extent.
+  sent: He just needs to calm down a wee bit.
+  roots:
+    wee: "*wegh- | to go, move, transport in a vehicle"
+  exp: 词根本来表示"unit of weight"。既然是计量重要的基本单位，自然也就没有多重了。
+- word: wag
+  freq: 12238
+  use: 68
+  pos: TRANSITIVE VERB
+  meaning: When a dog wags its tail, it repeatedly waves its tail from side to side.
+  sent: The dog was biting, growling and wagging its tail.
+  roots:
+    wag: "*wegh- | to go, move, transport in a vehicle"
+  connect:
+    move:
+      - waves
+- word: voyage
+  freq: 6719
+  use: 39
+  pos: COUNTABLE NOUN
+  meaning: A voyage is a long journey on a ship or in a spacecraft.
+  sent: He aims to follow Columbus's voyage to the West Indies.
+  roots:
+    voy: "*wegh- | to go, move, transport in a vehicle"
+  connect:
+    to go, move, transport in a vehicle:
+      - journey
+      - ship
+      - spacecraft
+  exp: 在美国生活基本上知道Bon Voyage就行。来源于法语，这里面bon是good的意思。
+- word: wiggle
+  freq: 10917
+  use: 26
+  pos: VERB
+  meaning: If you wiggle something or if it wiggles, it moves up and down or from side to side in small quick movements.
+  sent: She wiggled her finger.
+  roots:
+    wig: "*wegh- | to go, move, transport in a vehicle"
+  connect:
+    move:
+      - moves
+      - movements
+- word: convoy
+  freq: 8607
+  use: 32
+  pos: NOUN
+  meaning: A convoy is a group of vehicles or ships traveling together.
+  sent: '...a U.N. convoy carrying food and medical supplies.'
+  roots:
+    con: con- | with, together
+    voy: via<2599,-1>
+  connect:
+    with, together:
+      - group
+      - together
+    via:
+      - vehicles
+      - ships
+      - traveling
+- word: wagon
+  freq: 4234
+  use: 6
+  pos: COUNTABLE NOUN
+  meaning: A wagon is a strong vehicle with four wheels, usually pulled by horses or oxen and used for carrying heavy loads.
+  roots:
+    wag: "*wegh- | to go, move, transport in a vehicle"
+  connect:
+    to go, move, transport in a vehicle:
+      - vehicle with four wheels
+      - pulled by horses or oxen
+      - carrying heavy loads
+  exp: 赫赫有名的大众汽车德文就是Volkswagen，如果拆这个词的话就是volkswagen = volk[=folk<1346,61>] + wagen[=wagon<4234,6>]，也就是"people's car(人民的汽车)"。就像很多叫"人民"但实际上并不属于人民的东西一样，Volkswagen现在也是个私营企业。
+  related:
+    - bandwagon
+- word: envoy
+  freq: 10198
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An envoy is someone who is sent as a representative from one government or political group to another.
+  sent: A U.S. envoy is expected in the region this month to collect responses to the proposal.
+  roots:
+    en: "in- | on"
+    voy: via<2599,-1>
+  exp: 词根合起来表示"(send) on the way"，于是引申出了messenger, representative的意思。
+- word: vector
+  freq: 10374
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A vector is a variable quantity, such as force, that has size and direction.
+  roots:
+    vect: "*wegh- | to go, move, transport in a vehicle"
+  connect:
+    go, move:
+      - direction
+  exp: 从释义中可以看出，vector最大特点是不但有长度，还有方向，而go, move正是有明确的指向性。
+- word: impervious
+  freq: 15869
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you are impervious to someone's actions, you are not affected or influenced by them.
+  sent: She seems almost impervious to the criticism from all sides.
+  roots:
+    im: in-(1) | not, oppposite of
+    per: "*per-(1) | through"
+    via: via<2599,-1>
+  connect:
+    not:
+      - not
+    through:
+      - affected
+      - influenced
+    via:
+      - affected
+      - influenced
+  exp: 词根合起来表示that cannot be passed through，也就是"皮厚"、"穿不透"的感觉，或者用一句俗语来概括就是"油盐不进"。
+- word: invoice
+  freq: 16367
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An invoice is a document that lists goods that have been supplied or services that have been done, and says how much money you owe for them.
+  sent: We will then send you an invoice for the total course fees.
+  roots:
+    in: "[=in:on]"
+    voi: "[=via<2599,-1>]"
+  exp: 词根合起来的本意是表示"send on one's way"，之后引申出"written account of the particulars and prices of merchandise shipped or sent"的意思。
+- word: convection
+  freq: 16802
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Convection is the process by which heat travels through air, water, and other gases and liquids.
+  sent: '...clouds which lift warm, moist air by convection high into the atmosphere.'
+  roots:
+    con: con- | with, together
+    vect: "[=*wegh-:to go, move, transport in a vehicle]"
+  connect:
+    to go, move:
+      - travels
+  exp: 词根合起来表示to carry together，"对流"里的这个"对"就对应着"together"。
+- word: poise
+  freq: 6338
+  use: 95
+  pos: UNCOUNTABLE NOUN
+  meaning: If someone has poise, they are calm, dignified, and self-controlled.
+  sent: What amazed him even more than her appearance was her poise.
+  roots:
+    poise: "[=pend:to hang, cause to hang; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  exp: 词根表达的是"稳重"的意思。"稳重"里之所以有这个"重"字，是因为有重量的东西才不会轻易被别人所左右。
+- word: stipend
+  freq: 15615
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A stipend is a sum of money that is paid to a student or volunteer for their living expenses.
+  roots:
+    stipe: "[=stips:alms; contribution, donation, gift]"
+    pend: "[=pend:to hang, cause to hang; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    pay:
+      - money
+      - paid
+      - expenses
+  exp: stips不是常用词根不用特意记，只需要注意pend的部分用了"pay"的意思就行。
+- word: dispense
+  freq: 8502
+  use: 49
+  pos: TRANSITIVE VERB
+  meaning: If someone dispenses something that they own or control, they give or provide it to a number of people.
+  sent: The union had already dispensed $60000 in grants.
+  roots:
+    dis: "[=dis-:out]"
+    pense: "[=pend:to hang, cause to hang; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    out:
+      - give
+      - provide
+    pay:
+      - give
+      - provide
+  related:
+    - dispenser
+- word: indispensable
+  freq: 9151
+  use: 44
+  pos: ADJECTIVE
+  meaning: If you say that someone or something is indispensable, you mean that they are absolutely essential and other people or things cannot function without them.
+  sent: She was becoming indispensable to him.
+  roots:
+    in: "[in-(1):not, opposite of]"
+    dispens: "[=dispense<8502>]"
+    able: "[=-able:capable of]"
+  connect:
+    not:
+      - essential
+      - cannot function without
+    dispense:
+      - essential
+      - cannot function without
+- word: interdependent
+  freq: 15278
+  use: -1
+  pos: ADJECTIVE
+  meaning: People or things that are interdependent all depend on each other.
+  sent: We live in an increasingly interdependent world.
+  roots:
+    inter: "[=inter-:between]"
+    dependent: "[=dependent<3231>]"
+  connect:
+    between:
+      - each other
+    dependent:
+      - depend
+  related:
+    - interdependence
+- word: penchant
+  freq: 11728
+  use: 60
+  pos: SINGULAR NOUN
+  meaning: If someone has a penchant for something, they have a special liking for it or a tendency to do it.
+  sent: '...a stylish woman with a penchant for dark glasses.'
+  roots:
+    pench: "[=pend:to hang, cause to hang; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    hang:
+      - liking
+      - tendency
+  exp: 用的是词根中hang、draw的那层意思。hang和draw都意味着强烈的吸引和倾向性(strong inclination)，就像挂在弹簧上的东西，你把它拉开，一松手，它就会自动弹回去。在这一点上和propensity<11188>是同样的感觉。
+- word: pending
+  freq: 6915
+  use: 67
+  pos: ADJECTIVE
+  meaning: If something such as a legal procedure is pending, it is waiting to be dealt with or settled.
+  sent: She had a libel action against the magazine pending.
+  roots:
+    pend: "[=pend:to hang, cause to hang; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    hang:
+      - waiting
+  exp: hang在这里表达了"悬(hang)而未决"的意思。
+- word: pensive
+  freq: 19636
+  use: 28
+  pos: ADJECTIVE
+  meaning: If you are pensive, you are thinking deeply about something, especially something that worries you slightly.
+  sent: He looked suddenly somber, pensive.
+  roots:
+    pens: "[=pend:to hang, cause to hang; {weigh}; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    weigh:
+      - thinking deeply
+      - worries
+  exp: 词根释义里的weigh其实就对应着中文里的"掂量(多么形象的一个词)"，因此和thinking deeply相关。
+- word: propensity
+  freq: 11188
+  use: 60
+  pos: COUNTABLE NOUN
+  meaning: A propensity to do something or a propensity for something is a natural tendency to behave in a particular way.
+  sent: Mr. Bint has a propensity to put off decisions to the last minute.
+  roots:
+    pro: "[=pro-:forward]"
+    pens: "[=pend:{to hang, cause to hang}; {weigh}; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    forward:
+      - tendency
+    to hang, cause to hang; weigh:
+      - tendency
+  exp: 用的是词根中hang、draw的那层意思。hang和draw都意味着强烈的吸引和倾向性(inclined, prone)，就像挂在弹簧上的东西，你把它拉开，一松手，它就会自动弹回去。在这一点上和penchant<11728>是同样的感觉。
+- word: spider
+  freq: 5627
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A spider is a small creature with eight legs. Most types of spiders make structures called webs in which they catch insects for food.
+  roots:
+    spi: "[=*(s)pen-:to draw, stretch, {spin}]"
+  connect:
+    spin:
+      - webs
+  exp: 词根释义中的spin表示蜘蛛都是织网的spinner。
+- word: pendant
+  freq: 13757
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A pendant is an ornament on a chain that you wear around your neck.
+  roots:
+    pend: "[=pend:{to hang, cause to hang}; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    hang:
+      - wear around your neck
+  exp: hang表示pendant是个挂(hang)件。
+- word: pendulum
+  freq: 12948
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: The pendulum of a clock is a rod with a weight at the end which swings from side to side in order to make the clock work.
+  roots:
+    pend: "[=pend:{to hang, cause to hang}; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    hang:
+      - a rod with a weight
+- word: appendage
+  freq: 16265
+  use: -1
+  pos: NOUN
+  meaning: An appendage is something that is joined to or connected with something larger or more important.
+  sent: Will the new party be more than just an appendage of government?
+  roots:
+    append:
+      meaning: "[=append]"
+      roots:
+        ap: "[=ad-:to]"
+        pend: "[=pend:{to hang, cause to hang}; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    hang:
+      - joined
+      - connected
+  exp: 词根释义中的hang给人一种"挂(hang)靠"、"附属品"的感觉。
+- word: compendium
+  freq: 19147
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A compendium is a short but detailed collection of information, usually in a book.
+  sent: The Roman Catholic Church has issued a compendium of its teachings.
+  roots:
+    com: "[=com-:with, together]"
+    pend: "[=pend:to hang, cause to hang; {weigh}; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    together:
+      - short but detailed collection of information
+    weigh:
+      - short but detailed collection of information
+  exp: A short but detailed collection of information是将全部信息权衡轻重(weigh together)后，决定留什么不留什么。
 
 
 
-
-
+ponder  6066    49      *(s)pen-
+span    5800    32      *(s)pen-
+perpendicular   14364   15      *(s)pen-,       *per-
+appendix        14423   14      *(s)pen-
+penthouse       15080   5       *(s)pen-
+spindle 18897   -1      *(s)pen-
+compendium      19147   -1      *(s)pen-
+preponderance 16369
 
 
 
@@ -13986,12 +14525,9 @@
 # (50, '*stere-'),
 # (51, '*ghabh-'),
 # (51, '*gno-'),
-# (53, '*pau-'),
 # (55, '*ker-'),
 # (55, '*kwo-'),
 # (55, '*plek-'),
-# (56, '*(s)pen-'),
-# (56, '*wegh-'),
 # (57, '*kel-'),
 # (59, '*dwo-'),
 # (60, '*ar-'),
