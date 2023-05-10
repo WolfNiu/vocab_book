@@ -14499,18 +14499,144 @@
     weigh:
       - short but detailed collection of information
   exp: A short but detailed collection of information是将全部信息权衡轻重(weigh together)后，决定留什么不留什么。
+- word: preponderance
+  freq: 16369
+  use: -1
+  pos: NOUN
+  meaning: If there is a preponderance of one type of person or thing in a group, there is more of that type than of any other.
+  sent: '...a preponderance of bright, middle-class children in one group.'
+  roots:
+    pre: "[=pre-:before]"
+    pond: "[=pend:to hang, cause to hang; {weigh}; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  exp: 词根释义中的before表示"领先"，于是词根合起来表示"to weigh more than"，"outweigh"。这正是preponderance想要表达的意思。
+- word: spindle
+  freq: 18897
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A spindle is a pointed rod which you use when you are spinning wool by hand. You twist the wool with the spindle to make it into a thread.
+  sent: The workpiece rotates on a spindle called an arbor.
+  roots:
+    spin: "[=spin<2666>]"
+    le: "[=-el(1):appliance, tool"
+  connect:
+    spin:
+      - spinning
+      - twist
+    appliance, tool:
+      - tool
+- word: ponder
+  freq: 6066
+  use: 49
+  pos: VERB
+  meaning: If you ponder something, you think about it carefully.
+  sent: 'I found myself constantly pondering the question: "How could anyone do these things?"'
+  roots:
+    pond: "[=pend:to hang, cause to hang; {weigh}; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    weigh:
+      - think
+  exp: 词根释义中的weigh表示weigh carefully in the mind，对应中文里的"权衡轻重"。
+- word: perpendicular
+  freq: 14364
+  use: 15
+  pos: ADJECTIVE
+  meaning: A perpendicular line or surface points straight up, rather than being sloping or horizontal.
+  sent: We made two slits for the eyes and a perpendicular line for the nose.
+  roots:
+    per: "[=per-:thoroughly]"
+    pend: "[=pend:{to hang, cause to hang}; weigh; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  exp: thorougly表达了"从头到尾笔直一条线"的感觉。如果我们hang一个东西，并且它stretch成了一条线，那它就会与地面垂直(perpendicular)。
+- word: append
+  freq: "20000+"
+  pos: TRANSITIVE VERB
+  meaning: When you append something to something else, especially a piece of writing, you attach it or add it to the end of it.
+  sent: She appended a note at the end of the letter.
+  roots:
+    ap: "[=ad-:to]"
+    pend: "[=pend:{to hang, cause to hang; weigh}; pay]<--[=*(s)pen-:to draw, stretch, spin]"
+  connect:
+    hang:
+      - attach
+      - add
+  exp: hang表达了"挂在另一个东西末尾"的感觉。
+- word: appendix
+  freq: 14423
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: An appendix to a book is extra information that is placed after the end of the main text.
+  sent: The survey results are published in full as an appendix to Mr. Barton's discussion paper.
+  roots:
+    append: "[=append<20000+>]"
+  connect:
+    append:
+      - placed after
+- word: appendage
+  freq: 16265
+  use: -1
+  pos: NOUN
+  meaning: An appendage is something that is joined to or connected with something larger or more important.
+  sent: Will the new party be more than just an appendage of government?
+  roots:
+    append: "[=append<20000+>]"
+  connect:
+    append:
+      - joined to
+      - connected with
+- word: penthouse
+  freq: 15080
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A penthouse or a penthouse apartment or suite is a luxurious apartment or set of rooms at the top of a tall building.
+  sent: '...her swanky Manhattan penthouse.'
+  roots:
+    pent: "[=append<20000+>]"
+    house: "[=house<258>]"
+  exp: 词根合起来表示attached building。
 
 
+hole    1217    186     *kel-
+color   698     170     *kel-
+  colorful        4509    34      *kel-
+  colored 5206    34      *kel-
+  watercolor      6196    -1      *kel-
+  coloring        13312   28      *kel-
+  colorless       16819   97      *kel-
+  coloration      19987   -1      *kel-
+excellent       2140    -1      *kel-
+  excellence      5887    28      *kel-
+hill    2028    -1      *kel-
+  uphill  12254   107     *kel-
+  hillside        6869    -1      *kel-
+  hilltop 13974   -1      *kel-
+  hilly   16217   -1      *kel-
+hall    1854    62      *kel-
+  hallway 3595    19      *kel-
+  hallmark        8448    44      *kel-
+cell    898     39      *kel-
+  cellular        5877    -1      *kel-
+  cellar  7808    7       *kel-
+ceiling 2662    -1      *kel-
 
-ponder  6066    49      *(s)pen-
-span    5800    32      *(s)pen-
-perpendicular   14364   15      *(s)pen-,       *per-
-appendix        14423   14      *(s)pen-
-penthouse       15080   5       *(s)pen-
-spindle 18897   -1      *(s)pen-
-compendium      19147   -1      *(s)pen-
-preponderance 16369
 
+occult  19851   165     *kel-
+hollow  7548    96      *kel-
+hell    1464    71      *kel-
+  hellish 19067   -1      *kel-
+conceal 5211    64      *kel-
+  concealment     19550   23      *kel-
+excel   7166    37      *kel-
+hull    6793    36      *kel-
+clandestine     12188   32      *kel-
+helm    8817    29      *kel-
+  helmet  4347    25      *kel-
+apocalypse      19353   18      *apo-,  *kel-
+culminate       7829    9       *kel-
+  culmination     13181   37      *kel-
+colonel 7669    0       *kel-
+column  2091    -1      *kel-
+  columnist       4451    18      *kel-
+loophole        9856    -1      *kel-
+holster 13390   -1      *kel-
 
 
 
@@ -14528,7 +14654,6 @@ preponderance 16369
 # (55, '*ker-'),
 # (55, '*kwo-'),
 # (55, '*plek-'),
-# (57, '*kel-'),
 # (59, '*dwo-'),
 # (60, '*ar-'),
 # (60, '*spek-'),

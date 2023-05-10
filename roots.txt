@@ -2160,10 +2160,10 @@
 2160	funding	n	
 2161	therapy	n	
 2162	wash	v	*wed-
-2163	schedule	n	
+2163	schedule	n
 2164	sad	j	*sa-
 2165	brief	j	*mregh-u-
-2166	housing	n	*kel-
+2166	housing	n
 2167	post	n	*sta-
 2168	purchase	v	*kap-, *per-
 2169	existing	j	
@@ -2892,7 +2892,7 @@
 2892	violation	n	
 2893	tongue	n	*dnghu-
 2894	license	n	
-2895	hold	n	*kel-
+2895	hold	n
 2896	shelter	n	*deru-
 2897	rub	v	
 2898	controversy	n	*wer-
@@ -5422,7 +5422,7 @@
 5422	novel	j	
 5423	drought	n	
 5424	bead	n	
-5425	uphold	v	*kel-
+5425	uphold	v
 5426	commentator	n	
 5427	leap	n	
 5428	blame	n	*bha-, *mel-
@@ -5508,7 +5508,7 @@
 5508	handling	n	*man-
 5509	zero	n	
 5510	strawberry	n	
-5511	holder	n	*kel-
+5511	holder	n
 5512	guerrilla	n	
 5513	clarity	n	*kele-
 5514	environmentalist	n	
@@ -5797,7 +5797,7 @@
 5797	pace	v	*pag-, *pete-
 5798	sadly	r	*sa-
 5799	emergence	n	
-5800	span	n	*(s)pen-
+5800	span	n
 5801	fold	n	*pel-
 5802	applaud	v	
 5803	lifelong	j	*leip-
@@ -6753,7 +6753,7 @@
 6753	messy	j	
 6754	smoker	n	
 6755	catastrophe	n	*streb(h)-
-6756	withhold	v	*kel-
+6756	withhold	v
 6757	unpredictable	j	*deik-
 6758	ivory	n	
 6759	embryo	n	
@@ -10743,7 +10743,7 @@
 10743	shy	v	
 10744	bloody	r	*bhel-
 10745	principally	r	*kap-, *per-
-10746	behold	v	*kel-
+10746	behold	v
 10747	beforehand	r	*per-
 10748	cubicle	n	
 10749	proportional	j	*pere-
@@ -10780,7 +10780,7 @@
 10780	parody	n	
 10781	nation-state	n	
 10782	alternatively	r	
-10783	holding	j	*kel-
+10783	holding	j
 10784	mathematician	n	*mendh-
 10785	rebate	n	
 10786	parade	v	*pere-
@@ -16356,8 +16356,8 @@
 16356	quickness	n	*gwei-
 16357	canine	j	*kwon-
 16358	jigsaw	n	
-16359	well-trained	j	
-16360	horrified	j	
+16359	well-trained	j
+16360	horrified	j
 16361	die-hard	j	*kar-
 16362	clearing	j	*kele-
 16363	co-director	n	
@@ -18577,7 +18577,7 @@
 18577	diced	j	
 18578	pistachio	n	
 18579	satisfactorily	r	
-18580	beholder	n	*kel-
+18580	beholder	n
 18581	waddle	v	
 18582	bountiful	j	*deu-
 18583	gilt	n	
@@ -19803,7 +19803,7 @@
 19803	ilk	n	
 19804	grinding	n	
 19805	headless	j	*kaput-
-19806	beholden	j	*kel-
+19806	beholden	j
 19807	fluidity	n	*bhel-
 19808	nicety	n	*ne-, *skei-
 19809	rudely	r	
