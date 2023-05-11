@@ -8814,7 +8814,7 @@
 8814	grown-up	n	
 8815	woo	v	
 8816	nostril	n	*nas-, *tere-
-8817	helm	n	*kel-
+8817	helm	n
 8818	monarch	n	
 8819	seep	v	
 8820	eyelid	n	*okw-

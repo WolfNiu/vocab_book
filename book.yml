@@ -14592,24 +14592,193 @@
     pent: "[=append<20000+>]"
     house: "[=house<258>]"
   exp: 词根合起来表示attached building。
+- word: cellular
+  freq: 5877
+  use: -1
+  pos: ADJECTIVE
+  meaning: Cellular means relating to the cells of animals or plants.
+  sent: Many toxic effects can be studied at the cellular level.
+  roots:
+    cell: "[=cell<898>]"
+  connect:
+    cell:
+      - cells
+- word: cellar
+  freq: 7808
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A cellar is a room underneath a building, which is often used for storing things in.
+  sent: The box of papers had been stored in a cellar at the family home.
+  roots:
+    cel: "[=*kel-(1):to cover, conceal, save]"
+  connect:
+    cover, conceal, save:
+      - underneath a building
+      - storing
+- word: occult
+  freq: 19851
+  use: 165
+  pos: SINGULAR NOUN
+  meaning: The occult is the knowledge and study of supernatural or magical forces.
+  sent: Interest in the occult tended toward ceremonial magic rather than witchcraft.
+  roots:
+    oc: "[=ob-:over]"
+    cul: "[=*kel-(1):to cover, conceal, save]"
+  connect:
+    over:
+      - supernatural
+      - magical
+    cover, conceal, save:
+      - supernatural
+      - magical
+  exp: 词根合起来表示hidden, conceal, secret，也就是"神秘"的感觉。
+- word: hollow
+  freq: 7548
+  use: 96
+  pos: ADJECTIVE
+  meaning: Something that is hollow has a space inside it, as opposed to being solid all the way through.
+  sent: '...a hollow tree.'
+  roots:
+    hol: "[=*kel-(1):to cover, conceal, save]"
+  connect:
+    cover, conceal, save:
+      - has a space inside
+  exp: hollow的空间里可以存(conceal, save)东西。
+- word: conceal
+  freq: 5211
+  use: 64
+  pos: TRANSITIVE VERB
+  meaning: If you conceal something, you cover it or hide it carefully.
+  sent: Frances decided to conceal the machine behind a hinged panel.
+  roots:
+    con: "[=con-:with, together]"
+    ceal: "[=*kel-(1):to cover, conceal, save]"
+  connect:
+    cover, conceal, save:
+      - cover
+      - hide
+  related:
+    - concealment
+- word: hull
+  freq: 6793
+  use: 36
+  pos: COUNTABLE NOUN
+  meaning: The hull of a boat or tank is the main body of it.
+  sent: The hull had suffered extensive damage to the starboard side.
+  roots:
+    hull: "[=*kel-(1):to cover, conceal, save]"
+  connect:
+    cover, conceal, save:
+      - main body
+  exp: main body里是可以放(cover, conceal, save)东西的。
+- word: clandestine
+  freq: 12188
+  use: 32
+  pos: ADJECTIVE
+  meaning: Something that is clandestine is hidden or kept secret, often because it is illegal.
+  sent: '...their clandestine meetings.'
+  roots:
+    cl: "[=*kel-(1):to cover, conceal, save]"
+    an: "[=*en:in]"
+  connect:
+    cover, conceal, save:
+      - hidden
+      - kept secret
+- word: helmet
+  freq: 4347
+  use: 25
+  pos: COUNTABLE NOUN
+  meaning: A helmet is a hat made of a strong material which you wear to protect your head.
+  roots:
+    helm: "[=*kel-(1):to cover, conceal, save]"
+  connect:
+    cover:
+      - wear
+      - protect
+  exp: helmet就是罩(cover)在脑袋上的。
+- word: apocalypse
+  freq: 19353
+  use: 18
+  pos: NOUN
+  meaning: The apocalypse is the total destruction and end of the world.
+  roots:
+    apo: "[=*apo-:off, away from]"
+    cal: "[=*kel-(1):to {cover}, {conceal}, save]"
+  exp: 词根合起来表示uncover, disclose, reveal，给人一种"终极命运被揭晓"的感觉。
+- word: holster
+  freq: 13390
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A holster is a holder for a small gun, which is worn on a belt around someone's waist or on a strap around their shoulder.
+  roots:
+    hol: "[=*kel-(1):to {cover}, {conceal}, save]"
+  connect:
+    cover, conceal:
+      - holder
+  exp: holster是用来cover枪支的。
 
 
 
-cellular        5877    -1      *kel-
-cellar  7808    7       *kel-
-occult  19851   165     *kel-
-hollow  7548    96      *kel-
-conceal 5211    64      *kel-
-  concealment     19550   23      *kel-
-hull    6793    36      *kel-
-clandestine     12188   32      *kel-
-helm    8817    29      *kel-
-  helmet  4347    25      *kel-
-apocalypse      19353   18      *apo-,  *kel-
-culminate       7829    9       *kel-
-  culmination     13181   37      *kel-
-colonel 7669    0       *kel-
-holster 13390   -1      *kel-
+judgment        1913    109     *deik-
+judge   1119    106     *deik-
+verdict 4285    89      *deik-, *were-o-
+dictatorial     19257   87      *deik-
+vindicate       13557   56      *deik-
+unpredictable   6757    49      *deik-
+contradict      6974    49      *deik-
+indication      3401    46      *deik-
+addict  6179    46      *deik-
+dedicated       6777    46      *deik-
+policy  389     44      *deik-
+revenge 5351    42      *deik-
+dictate 4989    41      *deik-
+prejudice       5304    40      *deik-
+indict  6578    40      *deik-
+teach   546     36      *deik-
+dictum  17983   35      *deik-
+predicament     9689    34      *deik-
+abdicate        20057   32      *deik-
+vendetta        19882   31      *deik-
+preacher        5808    30      *deik-, *per-
+syndicate       16509   29      *deik-
+contradiction   5519    28      *deik-
+contradictory   7561    28      *deik-
+indicate        786     27      *deik-
+jurisdiction    4700    27      *deik-
+predict 1622    25      *deik-
+dictator        6844    25      *deik-
+teacher 372     23      *deik-
+dedicate        3837    22      *deik-
+token   9118    19      *deik-
+teaching        1647    18      *deik-
+dedication      7104    18      *deik-
+prediction      3641    15      *deik-
+indictment      5702    14      *deik-
+dictatorship    7780    14      *deik-
+judgmental      16765   14      *deik-
+vindication     16866   14      *deik-
+predicate       14104   12      *deik-
+digit   8680    6       *deik-
+addiction       5261    5       *deik-
+dictionary      8658    4       *deik-
+preach  4867    1       *deik-, *per-
+toe     3389    0       *deik-
+predictable     5818    0       *deik-
+predictor       6108    0       *deik-
+digital 2377    -1      *deik-
+index   2644    -1      *deik-
+disk    3798    -1      *deik-
+judicial        3968    -1      *deik-
+paradigm        5263    -1      *deik-
+addictive       10546   -1      *deik-
+predictive      10637   -1      *deik-
+avenge  15827   -1      *deik-
+edict   15857   -1      *deik-
+digitize        18467   -1      *deik-
+misjudge        19125   -1      *deik-
+
+
+
 
 
 
