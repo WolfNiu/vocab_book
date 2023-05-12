@@ -14716,66 +14716,103 @@
     cover, conceal:
       - holder
   exp: holster是用来cover枪支的。
+- word: unpredictable
+  freq: 6757
+  use: 49
+  pos: ADJECTIVE
+  meaning: If you describe someone or something as unpredictable, you mean that you cannot tell what they are going to do or how they are going to behave.
+  sent: He is utterly unpredictable.
+  roots:
+    un: "[=un-(1):not]"
+    predictable: "[=predictable<5818>]"
+  connect:
+    not:
+      - cannot
+    predictable:
+      - tell what they are going to do
+      - how they are going to behave
+- word: misjudge
+  freq: 19125
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you say that someone has misjudged a person or situation, you mean that they have formed an incorrect idea or opinion about them, and often that they have made a wrong decision as a result of this.
+  sent: Perhaps I had misjudged him, and he was not so predictable after all.
+  roots:
+    mis: "[=mis-(1):badly, wrongly]"
+    judge: "[=judge<1119>]"
+  connect:
+    badly, wrongly:
+      - incorrect
+      - wrong
+    judge:
+      - formed an
+      - idea or opinion
+      - made a
+      - decision
+- word: verdict
+  freq: 4285
+  use: 89
+  pos: COUNTABLE NOUN
+  meaning: In a court of law, the verdict is the decision that is given by the jury or judge at the end of a trial.
+  sent: The jury returned a unanimous guilty verdict.
+  roots:
+    ver: "[=ver:true]<--[=*were-o-:true, trustworthy]"
+    dict: "[=dic:to say]<--[=*deik-:to show]"
+  exp: 词根合起来表示"a true saying or report"——jury或者judge的判决会被认为是真理。
+- word: vindicate
+  freq: 13557
+  use: 56
+  pos: TRANSITIVE VERB
+  meaning: If a person or their decisions, actions, or ideas are vindicated, they are proved to be correct, after people have said that they were wrong.
+  sent: The director said he had been vindicated by the experts' report.
+  roots:
+    vin: "[=vim:force]"
+    dic: "[=dic:to proclaim]<--[=*deik-:to show]"
+  connect:
+    force:
+      - correct
+    proclaim:
+      - proved
+  exp: 词根合起来表达"to show authority"的意思。
+  related:
+    - vindication
 
 
-
-judgment        1913    109     *deik-
-judge   1119    106     *deik-
-verdict 4285    89      *deik-, *were-o-
-dictatorial     19257   87      *deik-
-vindicate       13557   56      *deik-
-unpredictable   6757    49      *deik-
 contradict      6974    49      *deik-
-indication      3401    46      *deik-
+  contradiction   5519    28      *deik-
+  contradictory   7561    28      *deik-
 addict  6179    46      *deik-
-dedicated       6777    46      *deik-
-policy  389     44      *deik-
+  addiction       5261    5       *deik-
+  addictive       10546   -1      *deik-
 revenge 5351    42      *deik-
 dictate 4989    41      *deik-
+  dictatorship    7780    14      *deik-
+  dictator        6844    25      *deik-
+  dictatorial     19257   87      *deik-
 prejudice       5304    40      *deik-
 indict  6578    40      *deik-
-teach   546     36      *deik-
 dictum  17983   35      *deik-
 predicament     9689    34      *deik-
 abdicate        20057   32      *deik-
 vendetta        19882   31      *deik-
-preacher        5808    30      *deik-, *per-
 syndicate       16509   29      *deik-
-contradiction   5519    28      *deik-
-contradictory   7561    28      *deik-
-indicate        786     27      *deik-
 jurisdiction    4700    27      *deik-
-predict 1622    25      *deik-
-dictator        6844    25      *deik-
-teacher 372     23      *deik-
-dedicate        3837    22      *deik-
 token   9118    19      *deik-
-teaching        1647    18      *deik-
-dedication      7104    18      *deik-
-prediction      3641    15      *deik-
 indictment      5702    14      *deik-
-dictatorship    7780    14      *deik-
-judgmental      16765   14      *deik-
-vindication     16866   14      *deik-
 predicate       14104   12      *deik-
 digit   8680    6       *deik-
-addiction       5261    5       *deik-
 dictionary      8658    4       *deik-
 preach  4867    1       *deik-, *per-
+  preacher        5808    30      *deik-, *per-
 toe     3389    0       *deik-
-predictable     5818    0       *deik-
-predictor       6108    0       *deik-
 digital 2377    -1      *deik-
+  digitize        18467   -1      *deik-
 index   2644    -1      *deik-
 disk    3798    -1      *deik-
 judicial        3968    -1      *deik-
 paradigm        5263    -1      *deik-
-addictive       10546   -1      *deik-
-predictive      10637   -1      *deik-
 avenge  15827   -1      *deik-
 edict   15857   -1      *deik-
-digitize        18467   -1      *deik-
-misjudge        19125   -1      *deik-
 
 
 
@@ -14801,7 +14838,6 @@ misjudge        19125   -1      *deik-
 # (60, '*spek-'),
 # (61, '*med-'),
 # (63, '*al-'),
-# (63, '*deik-'),
 # (63, '*ghel-'),
 # (66, '*kele-'),
 # (68, '*gwa-'),

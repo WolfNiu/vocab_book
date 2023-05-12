@@ -1,6 +1,3 @@
-'*deik-':
-  meaning: to show; pronounce solemnly
-  exp: 其实这个词根的衍生里有我们很熟悉的teach(546,36)和judge(1119,106)。根据字母互换规律*deik-=teach, *deik-=judge。这里要特别注意的是d=j，因为j会发/dʒ/的音(e.g. joke)，和/d/的音很相近。这样的话我们就扩展了t=d=s=z这一组互换，成了t=d=s=z，而d和j单独可互换。从*deik-来的常用词还有dictionary[=dict(=*deik-)+ion(=-ion)+ary(=-ary)]——词典的作用就是show people the meaning(s) of words and phrases.
 'cred':
   meaning: to believe
   parent: '*kerd-'
@@ -1635,7 +1632,7 @@ misc:
     - outweigh
 "*(s)pen-":
   meaning: to draw, stretch, spin
-  exp: pound<1313,222> = pound[=pend:to hang, cause to hang; weigh; pay][=*(s)pen-]。"weigh"和"stretch"之间的联系是：如果比较重(weigh)的东西会往下坠，将拴着它的那根绳子拉紧(stretch)。下面这几个词也都用到了pend这个词根。suspend<3812,79> = sus[=sub-:up from under] + pend[=pend]，词根合起来表达"to hang up, kill by hanging"，也就是把人干掉了。后来引申出"暂停"的意思。expense<2156,-1> = ex[=ex-:out] + pense[=pend]，用的是pend中pay的那层意思。为啥pay会和weigh相关呢？是因为钱币一般由金属制成，比较重。如果像银子那样没有固定形状的话，付款之前还要先称(weigh)一下。你看，pound本身就既是重要单位(磅)，又是英国的货币单位。pound简写为lb，是因为在拉丁语里libra就是pound的意思。之前Facebook想搞的那个叫Libra电子货币，显然名字也不是随便起的。expensive<1674,26> = expens[=expense]也是常用词。pension<3818,30> = pens[=pend]，用的也是pend中pay的那层意思。compensation<3833,30> = compensat[=compensate<5099,15>]是常用词。而compensate<5099,15> = com[com-:with, together] + pens[=pend]，词根合起来表示to weigh together，或者说to weigh one thing (against another)——把两件东西放在公平称上称一下，如果不一样，就给轻的那一端补点重量。这正是compensate想表达的意思。depend<1483,29> = de[=de-:from, down] + pend[=pend]，词根合起来表示to hang, be sustained by being attached to something above，也就是"挂靠在另一件东西上"的感觉。其衍生词dependent<3231,43>也是常用词。在这个基础上independent<1271,28> = in[=in-(1):not, opposite of] + dependent，"不靠着"，也就是"独立"了呗。其衍生词independence也是常用词。spin<2666,-1> = spin[=*(s)pen-]，用的是词根中spin的意思。
+  exp: pound<1313> = pound[=pend:to hang, cause to hang; weigh; pay]<--[=*(s)pen-]。"weigh"和"stretch"之间的联系是：如果比较重(weigh)的东西会往下坠，将拴着它的那根绳子拉紧(stretch)。suspend<3812,79> = sus[=sub-:up from under] + pend[=pend]，词根合起来表达"to hang up, kill by hanging"，也就是把人干掉了。后来引申出"暂停"的意思。expense<2156,-1> = ex[=ex-:out] + pense[=pend]，用的是pend中pay的那层意思。为啥pay会和weigh相关呢？是因为钱币一般由金属制成，比较重。如果像银子那样没有固定形状的话，付款之前还要先称(weigh)一下。你看，pound本身就既是重要单位(磅)，又是英国的货币单位。pound简写为lb，是因为在拉丁语里libra就是pound的意思。之前Facebook想搞的那个叫Libra电子货币，显然名字也不是随便起的。expensive<1674>也是常用词。pension<3818,30> = pens[=pend]，用的也是pend中pay的那层意思。compensation<3833> = compensat[=compensate]是常用词。而compensate<5099> = com[com-:with, together] + pens[=pend]，词根合起来表示to weigh together，或者说to weigh one thing (against another)——把两件东西放在公平称上称一下，如果不一样，就给轻的那一端补点重量。这正是compensate想表达的意思。depend<1483> = de[=de-:from, down] + pend[=pend]，词根合起来表示to hang, be sustained by being attached to something above，也就是"挂靠在另一件东西上"的感觉。其衍生词dependent<3231>也是常用词。在这个基础上independent<1271> = in[=in-(1):not, opposite of] + dependent，"不靠着"，也就是"独立"了呗。其衍生词independence也是常用词。spin<2666,-1> = spin[=*(s)pen-]，用的是词根中spin的意思。
   related:
     - compensatory
     - dependence
@@ -1665,3 +1662,13 @@ misc:
     - hallmark
     - hellish
     - loophole
+'*deik-':
+  meaning: to show; pronounce solemnly
+  exp: teach<546> = teach[=*deik-]，teach的目的就是to give instruction, to show。其实衍生词teacher<372>和teaching<1647>也都是常用词。indicate<786> = in[=*en:in] + dic[=*deik-]，整个词基本上也是to show的意思。其衍生词indication<3401>也是常用词。predict<1622> = pre[=pre-:before] + dict[=dic:say]<--[=*deik-]，用的是*deik-中pronounce, say的那层意思。所谓"预测"，就是"提前说出来了"。其衍生词prediction<3641>也是常用词。dedicate = de[=de-:away] + dic[=*deik-]，词根合起来表达"躲到一个远离(away)喧嚣的地方，安静而庄严地宣布(pronounce solemnly)"——那种投入、奉献(devote)的感觉油然而生。judge<1119> = jud[=ius:right, law] + dge[=*deik-]，词根合起来表示"one who declares the law"。这个词的互换规律比较复杂，首先jud=ius，是因为j和i长得比较像，于是j=i。而dge=*deik-是因为g=k。其衍生词judgment<1913>也是常用词。
+  related:
+    - predictable
+    - predictor
+    - predictive
+    - dedicated
+    - dedication
+    - judgmental

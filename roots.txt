@@ -386,7 +386,7 @@
 386	able	j	*ghabh-
 387	age	n	*aiw-
 388	off	i	*apo-
-389	policy	n	*deik-
+389	policy	n
 390	everything	p	*aiw-
 391	love	v	*leubh-
 392	process	n	
@@ -12105,7 +12105,7 @@
 12105	formative	j	
 12106	dogma	n	*dek-
 12107	breaker	n	*bhreg-
-12108	policy-making	n	
+12108	policy-making	n
 12109	horrendous	j	
 12110	lug	v	
 12111	adjunct	n	
