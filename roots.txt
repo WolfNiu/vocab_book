@@ -3386,7 +3386,7 @@
 3386	fitness	n	
 3387	lap	n	
 3388	grave	n	*gwere-
-3389	toe	n	*deik-
+3389	toe	n
 3390	container	n	*ten-
 3391	virtue	n	*wi-ro-
 3392	abroad	r	

@@ -14776,19 +14776,68 @@
   exp: 词根合起来表达"to show authority"的意思。
   related:
     - vindication
+- word: contradict
+  freq: 6974
+  use: 49
+  pos: TRANSITIVE VERB
+  meaning: If you contradict someone, you tell them that what they have just said is wrong, or suggest that it is wrong by saying something different.
+  sent: She dared not contradict him.
+  roots:
+    contra: "[=contra-:against]"
+    dict: "[=dic:to say, speak]<--[=*deik-:to show]"
+  connect:
+    against:
+      - wrong
+      - different
+    say, speak:
+      - tell
+      - suggest
+  related:
+    - contradiction
+    - contradictory
+- word: addict
+  freq: 6179
+  use: 46
+  pos: COUNTABLE NOUN
+  meaning: An addict is someone who takes harmful drugs and cannot stop taking them.
+  sent: He's only 24 years old and a drug addict.
+  roots:
+    ad: "[=ad-:to]"
+    dict: "[=dic:to say, declare]<--[=*deik-:to show]"
+  exp: 词根合起来表示"give one's assent to"，也就是"同意做某事"。如果一个人药物成瘾，每天吸食不加一点抗拒，那就属于"assent"。
+  related:
+    - addiction
+    - addictive
+- word: revenge
+  freq: 5351
+  use: 42
+  pos: UNCOUNTABLE NOUN
+  meaning: Revenge involves hurting or punishing someone who has hurt or harmed you.
+  sent: The prisoners took revenge on their captors, eventually overcoming them.
+  roots:
+    re: "[=re-:(intensive prefix)]"
+    vin: "[=vim:force]"
+    dic: "[=dic:to proclaim]<--[=*deik-:to show]"
+  exp: 词根合起来表达"通过show force来报复"。
+- word: dictate
+  freq: 4989
+  use: 41
+  pos: TRANSITIVE VERB
+  meaning: If you dictate something, you say or read it aloud for someone else to write down.
+  sent: Sheldon writes every day of the week, dictating his novels in the morning.
+  roots:
+    dict: "[=dic:to say, speak]<--[=*deik-:to show]"
+  connect:
+    say, speak:
+      - say
+      - read
+      - aloud
+  related:
+    - dictator
+    - dictatorship
+    - dictatorial
 
 
-contradict      6974    49      *deik-
-  contradiction   5519    28      *deik-
-  contradictory   7561    28      *deik-
-addict  6179    46      *deik-
-  addiction       5261    5       *deik-
-  addictive       10546   -1      *deik-
-revenge 5351    42      *deik-
-dictate 4989    41      *deik-
-  dictatorship    7780    14      *deik-
-  dictator        6844    25      *deik-
-  dictatorial     19257   87      *deik-
 prejudice       5304    40      *deik-
 indict  6578    40      *deik-
 dictum  17983   35      *deik-
@@ -14804,7 +14853,6 @@ digit   8680    6       *deik-
 dictionary      8658    4       *deik-
 preach  4867    1       *deik-, *per-
   preacher        5808    30      *deik-, *per-
-toe     3389    0       *deik-
 digital 2377    -1      *deik-
   digitize        18467   -1      *deik-
 index   2644    -1      *deik-
