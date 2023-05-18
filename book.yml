@@ -14765,15 +14765,13 @@
   pos: TRANSITIVE VERB
   meaning: If a person or their decisions, actions, or ideas are vindicated, they are proved to be correct, after people have said that they were wrong.
   sent: The director said he had been vindicated by the experts' report.
-  roots:
-    vin: "[=vim:force]"
-    dic: "[=dic:to proclaim]<--[=*deik-:to show]"
+  roots: "vin[=vim:force] + dic[=dic:to proclaim]<--[=*deik-:to show]"
   connect:
     force:
       - correct
     proclaim:
       - proved
-  exp: 词根合起来表达"to show authority"的意思。
+  exp: 词根合起来表达"to show authority"的意思。这个词和vendetta<19882>拆法和意思都很接近，可以一起记。
   related:
     - vindication
 - word: contradict
@@ -14836,28 +14834,107 @@
     - dictator
     - dictatorship
     - dictatorial
+- word: judicial
+  freq: 3968
+  use: -1
+  pos: ADJECTIVE
+  meaning: Judicial means relating to the legal system and to judgments made in a court of law.
+  sent: '...an independent judicial system.'
+  roots: "jud[=ius:right, law] + dic[=dic:to say]<--[=*dei-:to show; pronounce solemnly]"
+  connect:
+    law:
+      - legal
+      - judgements
+      - court of law
+    say:
+      - judgements
+- word: prejudice
+  freq: 5304
+  use: 40
+  pos: VARIABLE NOUN
+  meaning: Prejudice is an unreasonable dislike of a particular group of people or things, or a preference for one group of people or things over another.
+  sent: There was a deep-rooted racial prejudice long before the two countries went to war.
+  roots: "pre[=pre-:before] + judice[=judge<1119>]"
+  exp: 词根合起来表示prior judgment, judicial examination before trial——也就是在审判之前就先定罪了，明显是偏见嘛。
+  related:
+    - prejudiced
+- word: indict
+  freq: 6578
+  use: 40
+  pos: VERB
+  meaning: If someone is indicted for a crime, they are officially charged with it.
+  sent: He was later indicted on corruption charges.
+  roots: "in[=in-:in] + dic[=dic:to say, speak]<--[=*deik-:to show; pronounce solemnly]"
+  exp: 词根合起来表达"声称(对方有罪)"的意思。
+- word: dictum
+  freq: 17983
+  use: 35
+  pos: NOUN
+  meaning: A dictum is a saying that describes an aspect of life in an interesting or wise way.
+  sent: '...the dictum that it is preferable to be roughly right than precisely wrong.'
+  roots: "dic[=dic:to say, speak]<--[=*deik-:to show; pronounce solemnly]"
+  connect:
+    say, speak:
+      - saying
+- word: predicament
+  freq: 9689
+  use: 34
+  pos: COUNTABLE NOUN
+  meaning: If you are in a predicament, you are in an unpleasant situation that is difficult to get out of.
+  sent: Hank explained our predicament.
+  roots: "pre[=pre-:forth, before] + dic[=dic:proclaim]<--[=*deik-:to show, pronounce solemnly]"
+  exp: 词根合起来表达something predicted, that which is asserted的意思，也就是"命中注定的境遇"的感觉。这个概念本来是中性的，后来才慢慢只表示unpleasant situation。
+- word: abdicate
+  freq: 20057
+  use: 32
+  pos: INTRANSITIVE VERB
+  meaning: If a king or queen abdicates, he or she gives up being king or queen.
+  sent: The last French king was Louis Philippe, who abdicated in 1848.
+  roots: "ab[=ab-:off, away from] + dic[=dic:proclaim]<--[=*deik-:to show, pronounce solemnly]"
+  connect:
+    off, away from:
+      - gives up
+  exp: 词根合起来表达proclaim as not belonging to one的意思。
+- word: vendetta
+  freq: 19882
+  use: 31
+  pos: VARIABLE NOUN
+  meaning: If one person has a vendetta against another, the first person wants revenge
+    for something the second person did to them in the past.
+  sent: The vice president said the cartoonist has a personal vendetta against him.
+  roots: "ven[=vim:force] + det[=dic:to proclaim]<--[=*deik-:to show]"
+  connect:
+    force:
+      - revenge
+    proclaim:
+      - revenge
+  exp: 词根合起来表示"宣誓武力回击"的意思，所以和revenge相关。这个词和vindicate<13557>拆法和意思都很接近，可以一起记。
+- word: syndicate
+  freq: 16509
+  use: 29
+  pos: COUNTABLE NOUN
+  meaning: A syndicate is an association of people or organizations that is formed for business purposes or in order to carry out a project.
+  sent: They formed a syndicate to buy the car in which they competed in the race.
+  roots: "syn[=syn-:together] + dic[=dike:judgment, justice, usage, custom]<--[=*deik-:to show]"
+  connect:
+    together:
+      - association
+      - organizations
+    judgment:
+      - business
+      - carry out a project
+  exp: 词根合起来表示"大家一起判断"，因此就是合作、组队的意思。
 
 
-prejudice       5304    40      *deik-
-indict  6578    40      *deik-
-dictum  17983   35      *deik-
-predicament     9689    34      *deik-
-abdicate        20057   32      *deik-
-vendetta        19882   31      *deik-
-syndicate       16509   29      *deik-
+
+
 jurisdiction    4700    27      *deik-
 token   9118    19      *deik-
 indictment      5702    14      *deik-
 predicate       14104   12      *deik-
-digit   8680    6       *deik-
 dictionary      8658    4       *deik-
 preach  4867    1       *deik-, *per-
   preacher        5808    30      *deik-, *per-
-digital 2377    -1      *deik-
-  digitize        18467   -1      *deik-
-index   2644    -1      *deik-
-disk    3798    -1      *deik-
-judicial        3968    -1      *deik-
 paradigm        5263    -1      *deik-
 avenge  15827   -1      *deik-
 edict   15857   -1      *deik-

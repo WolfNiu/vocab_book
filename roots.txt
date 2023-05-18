@@ -2374,7 +2374,7 @@
 2374	evaluation	n	*wal-
 2375	creature	n	*ker-
 2376	commander	n	*man-
-2377	digital	j	*deik-
+2377	digital	j
 2378	arrangement	n	*sker-
 2379	concentrate	v	
 2380	total	n	
@@ -3795,7 +3795,7 @@
 3795	twist	v	*dwo-
 3796	complexity	n	*plek-
 3797	fork	n	
-3798	disk	n	*deik-
+3798	disk	n
 3799	relieve	v	*legwh-
 3800	suspicion	n	*spek-
 3801	lock	n	
@@ -8677,7 +8677,7 @@
 8677	skim	v	*(s)keu-
 8678	rubber	n	
 8679	alas	u	*‌‌lē-
-8680	digit	n	*deik-
+8680	digit	n
 8681	mystical	j	
 8682	metallic	j	
 8683	stigma	n	
@@ -18464,7 +18464,7 @@
 18464	peppercorn	n	
 18465	great-grandmother	n	
 18466	hardness	n	*kar-
-18467	digitize	v	*deik-
+18467	digitize	v
 18468	to-do	n	*dhe-
 18469	inexorable	j	
 18470	cola	n	
@@ -19982,7 +19982,7 @@
 19982	rapprochement	n	*per-
 19983	grudging	j	
 19984	copier	n	*op-
-19985	prejudiced	j	
+19985	prejudiced	j	*deik-
 19986	rigging	n	
 19987	coloration	n	*kel-
 19988	revamped	j	
