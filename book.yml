@@ -14866,6 +14866,8 @@
   sent: He was later indicted on corruption charges.
   roots: "in[=in-:in] + dic[=dic:to say, speak]<--[=*deik-:to show; pronounce solemnly]"
   exp: 词根合起来表达"声称(对方有罪)"的意思。
+  related:
+    - indictment
 - word: dictum
   freq: 17983
   use: 35
@@ -14924,17 +14926,66 @@
       - business
       - carry out a project
   exp: 词根合起来表示"大家一起判断"，因此就是合作、组队的意思。
+- word: jurisdiction
+  freq: 4700
+  use: 27
+  pos: UNCOUNTABLE NOUN
+  meaning: Jurisdiction is the power that a court of law or an official has to carry out legal judgments or to enforce laws.
+  sent: The British police have no jurisdiction over foreign bank accounts.
+  roots: "juris[=ius:law, right] + dict[=dict:a saying]<--[=*deik-:to show, pronounce solemnly]"
+  connect:
+    law:
+      - law
+      - legal judgments
+      - laws
+- word: token
+  freq: 9118
+  use: 19
+  pos: COUNTABLE NOUN
+  meaning: You use token to describe things or actions which are small or unimportant but are meant to show particular intentions or feelings which may not be sincere.
+  sent: The announcement was welcomed as a step in the right direction, but was widely seen as a token gesture.
+  roots: "tok[=*deik-:to show, pronounce solemnly]"
+  connect:
+    show:
+      - show
+  exp: token就是为了show一下，走个形式，表明意向。
+- word: predicate
+  freq: 14104
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: If you say that one situation is predicated on another, you mean that the first situation can be true or real only if the second one is true or real.
+  sent: Financial success is usually predicated on having money or being able to obtain it.
+  roots: "pre[pre-:forth, before] + dic[=dic:proclaim]<--[=*deik-:to show; pronounce solemnly]"
+  exp: 词根合起来表示如果想主张(proclaim)A是真的，那么在这之前(before)得先确定B是真的。
+- word: dictionary
+  freq: 8658
+  use: 4
+  pos: COUNTABLE NOUN
+  meaning: A dictionary is a book in which the words and phrases of a language are listed alphabetically, together with their meanings or their translations in another language.
+  sent: '...a Spanish-English dictionary.'
+  roots: "dict[=dic:speak, tell, say]<--[=*deik-:to show; pronounce solemnly]"
+  connect:
+    speak, tell, say:
+      - words
+      - phrases
+      - language
+      - meanings
+      - translations
+- word: preach
+  freq: 4867
+  use: 1
+  pos: INTRANSITIVE VERB
+  meaning: When people preach a belief or a course of action, they try to persuade other people to accept the belief or to take the course of action.
+  sent: Health experts are now preaching that even a little exercise is far better than none at all.
+  roots: "pre[pre-:forth, before] + ach[=dic:proclaim]<--[=*deik-:to show; pronounce solemnly]"
+  connect:
+    proclaim:
+      - persuade
+  exp: preach本来是宗教用的词，表示"传教"，后来才引申出"说服"的意思。词根合起来表示字母互换方面，dic中的在单词的衍化过程中被省掉了。
+  related:
+    - preacher
 
 
-
-
-jurisdiction    4700    27      *deik-
-token   9118    19      *deik-
-indictment      5702    14      *deik-
-predicate       14104   12      *deik-
-dictionary      8658    4       *deik-
-preach  4867    1       *deik-, *per-
-  preacher        5808    30      *deik-, *per-
 paradigm        5263    -1      *deik-
 avenge  15827   -1      *deik-
 edict   15857   -1      *deik-
