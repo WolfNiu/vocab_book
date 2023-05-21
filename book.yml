@@ -14984,11 +14984,43 @@
   exp: preach本来是宗教用的词，表示"传教"，后来才引申出"说服"的意思。词根合起来表示字母互换方面，dic中的在单词的衍化过程中被省掉了。
   related:
     - preacher
+- word: paradigm
+  freq: 5263
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A paradigm is a model for something that explains it or shows how it can be produced.
+  sent: '...a new paradigm of production.'
+  roots: "para[=para-(1):beside] + digm[=*deik-:to show; pronounce solumnly]"
+  connect:
+    show:
+      - explains
+      - shows
+  exp: 词根合起来表示"show side by side"，也就是给你个模型(model)，对照着做就能出实物的感觉。
+- word: avenge
+  freq: 15827
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you avenge a wrong or harmful act, you hurt or punish the person who is responsible for it.
+  sent: He has devoted the past five years to avenging his daughter's death.
+  roots: "a[=ad-:to] + venge[=vendic:to claim, avenge, punish]<--{ven[=vis:force] + dic[=dic:to proclaim]<--[=*deik-:to show, pronounce solemnly]}"
+  connect:
+    avenge, punish:
+      - hurt
+      - punish
+- word: edict
+  freq: 15857
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An edict is a command or instruction given by someone in authority.
+  sent: He issued an edict that none of his writings be destroyed.
+  roots: "e[=ex-:out, out of] + dict[=dic:to say]<--[=*deik-:to show; pronounce solemnly]"
+  connect:
+    out, out of:
+      - given
+    say:
+      - command
+      - instruction
 
-
-paradigm        5263    -1      *deik-
-avenge  15827   -1      *deik-
-edict   15857   -1      *deik-
 
 
 
