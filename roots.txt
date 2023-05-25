@@ -362,7 +362,7 @@
 362	win	v	*wen-
 363	research	n	*sker-
 364	girl	n	
-365	guy	n	*weid-
+365	guy	n
 366	early	j	
 367	food	n	*pa-
 368	before	c	*per-
@@ -1477,7 +1477,7 @@
 1477	fire	v	*paewr-
 1478	negative	j	
 1479	following	j	
-1480	historical	j	
+1480	historical	j	*weid-
 1481	medicine	n	*med-
 1482	tour	n	
 1483	depend	v	*(s)pen-
@@ -2513,7 +2513,7 @@
 2513	smoke	v	
 2514	estimate	n	
 2515	buck	n	
-2516	historic	j	
+2516	historic	j	*weid-
 2517	poem	n	
 2518	grandmother	n	
 2519	bind	v	*bhendh-
@@ -3851,7 +3851,7 @@
 3851	transaction	n	*ag-
 3852	rescue	v	
 3853	counterpart	n	*pere-
-3854	historically	r	
+3854	historically	r	*weid-
 3855	firmly	r	
 3856	mild	j	*mel-
 3857	rider	n	
@@ -10553,7 +10553,7 @@
 10553	nigger	n	
 10554	time-consuming	j	
 10555	skid	v	*skei-
-10556	prehistoric	j	
+10556	prehistoric	j	*weid-
 10557	two-story	j	
 10558	tofu	n	
 10559	safeguard	n	*wer-

@@ -15024,13 +15024,6 @@
 
 
 
-guide   1793    74      *weid-
-  guidance        3906    74      *weid-
-  guideline       3089    43      *weid-
-survey  1247    60      *weid-
-  surveyor        14725   -1      *weid-
-guy     365     55      *weid-
-history 351     50      *weid-
 advice  1650    57      *weid-
 provide 263     31      *per-,  *weid-
   provider        3129    -1      *per-,  *weid-
@@ -15039,7 +15032,6 @@ interview       947     9       *weid-
   interviewee     15133   -1      *weid-
   interviewer     7964    7       *weid-
 ideology        3678    11      *weid-
-historian       2564    -1      *weid-
 advise  2575    -1      *weid-
   adviser 2745    -1      *weid-
   advisable       19492   20      *weid-
@@ -15050,6 +15042,7 @@ supervisor      3623    16      *weid-
   supervisory     14591   11      *weid-
 
 
+prehistoric 10556
 unwitting       19292   60      *weid-
 unwise  15052   81      *weid-
 misguided       9797    -1      *weid-
