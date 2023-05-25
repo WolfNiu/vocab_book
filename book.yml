@@ -15024,6 +15024,64 @@
 
 
 
+guide   1793    74      *weid-
+  guidance        3906    74      *weid-
+  guideline       3089    43      *weid-
+survey  1247    60      *weid-
+  surveyor        14725   -1      *weid-
+guy     365     55      *weid-
+history 351     50      *weid-
+advice  1650    57      *weid-
+provide 263     31      *per-,  *weid-
+  provider        3129    -1      *per-,  *weid-
+  provided        3879    0       *per-,  *weid-
+interview       947     9       *weid-
+  interviewee     15133   -1      *weid-
+  interviewer     7964    7       *weid-
+ideology        3678    11      *weid-
+historian       2564    -1      *weid-
+advise  2575    -1      *weid-
+  adviser 2745    -1      *weid-
+  advisable       19492   20      *weid-
+  advisory        5172    8       *weid-
+supervisor      3623    16      *weid-
+  supervise       5677    56      *weid-
+  supervision     5688    38      *weid-
+  supervisory     14591   11      *weid-
+
+
+unwitting       19292   60      *weid-
+unwise  15052   81      *weid-
+misguided       9797    -1      *weid-
+disguise        7490    109     *weid-
+guise   10869   78      *weid-
+revise  5909    69      *weid-
+  revision        6080    28      *weid-
+prudent 9013    64      *weid-
+envision        4532    35      *weid-
+envisage        17209   35      *weid-
+envy    8649    28      *weid-
+  envious 15968   14      *weid-
+  enviable        18214   67      *weid-
+improvise       8961    25      *weid-
+  improvisation   10219   -1      *weid-
+visage  20060   22      *weid-
+overview        7091    20      *weid-
+revisit 8087    17      *weid-
+idol    9599    7       *weid-
+  idolize 19262   28      *weid-
+visor   14427   4       *weid-
+ideological     4256    -1      *weid-
+visa    5595    -1      *weid-
+preview 7665    -1      *weid-
+vista   10109   -1      *weid-
+penguin 11958   -1      *weid-
+idyllic 14283   -1      *weid-
+purveyor        16087   -1      *weid-
+purview 18275   -1      *weid-
+
+
+
 
 
 
@@ -15055,7 +15113,6 @@
 # (83, '*bha-'),
 # (87, '*bher-'),
 # (89, '*pere-'),
-# (95, '*weid-'),
 # (97, '*sed-'),
 # (102, '*pele-'),
 # (103, '*ag-'),

@@ -231,7 +231,7 @@
 231	area	n	*as-
 232	national	j	*gene-
 233	money	n	*men-
-234	story	n	*weid-
+234	story	n
 235	young	j	
 236	fact	n	*dhe-
 237	month	n	*me-
@@ -17154,7 +17154,7 @@
 17154	well-documented	j	
 17155	abreast	j	
 17156	electrify	v	
-17157	storied	j	*weid-
+17157	storied	j
 17158	emissary	n	
 17159	trove	n	
 17160	mackerel	n	
