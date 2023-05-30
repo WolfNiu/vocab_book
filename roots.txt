@@ -5978,7 +5978,7 @@
 5978	classification	n	*kele-
 5979	breeding	n	*bhreu-
 5980	paragraph	n	
-5981	advisor	n	
+5981	advisor	n	*weid-
 5982	thrust	v	
 5983	allied	j	*ad-, *leig-
 5984	recreation	n	*ker-
