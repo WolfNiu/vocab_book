@@ -19113,7 +19113,7 @@
 19113	otherness	n	*al-
 19114	indiscriminately	r	*krei-
 19115	devious	j	*wegh-
-19116	disguised	j	
+19116	disguised	j	*weid-
 19117	delirious	j	*lois-
 19118	groggy	j	
 19119	sensibly	r	

@@ -15020,27 +15020,153 @@
     say:
       - command
       - instruction
+- word: prehistoric
+  freq: 10556
+  use: -1
+  pos: ADJECTIVE
+  meaning: Prehistoric people and things existed at a time before information was written down.
+  sent: '...the famous prehistoric cave paintings of Lascaux.'
+  roots: "pre[=pre-:before] + historic[=historic<2516>]"
+  related:
+    before:
+      - before
+- word: witting
+  freq: 200000+
+  pos: ADJECTIVE
+  meaning: done in full awareness or consciousness; deliberate.
+  sent: the witting and unwitting complicity of the institutions
+  roots: "wit[=wit<5836>] + ing[=-ing]"
+  connect:
+    wit:
+      - awareness
+      - consciousness
+- word: unwitting
+  freq: 19292
+  use: 60
+  pos: ADJECTIVE
+  meaning: If you describe a person or their actions as unwitting, you mean that the person does something or is involved in something without realizing it.
+  sent: We were unwitting collaborators in his plan.
+  roots: "un[=un-(1):not] + witting<20000+> + ing[=-ing]"
+  connect:
+    not:
+      - without
+    witting:
+      - realizing
+- word: unwise
+  freq: 15052
+  use: 81
+  pos: ADJECTIVE
+  meaning: If you describe something as unwise, you think that it is foolish and likely to lead to a bad result.
+  sent: It would be unwise to expect too much.
+  roots: "un[=un-(1):not] + wise[=wise<3262>]"
+  connect:
+    not:
+      - foolish
+      - lead to bad result
+    wise:
+      - foolish
+      - lead to bad result
+- word: misguide
+  freq: 20000+
+  pos: VERB
+  meaning: mislead
+  sent: a long survey that can only baffle and misguide the general reader
+  roots: "mis[=mis-(1):badly, wrongly] + guide[=guide<1793>]"
+  connect:
+    badly, wrongly:
+      - mislead
+    guide:
+      - mislead
+  related:
+    - misguided
+- word: guise
+  freq: 10869
+  use: 78
+  pos: COUNTABLE NOUN
+  meaning: You use guise to refer to the outward appearance or form of someone or something, which is often temporary or different from their real nature.
+  sent: He turned up at an Easter party in the guise of a white rabbit.
+  roots: "guise[=*weid-:to see]"
+  connect:
+    see:
+      - appearance
+      - form
+  exp: 注意guise和*weid-中u=w, s=d(可互换)。
+- word: disguise
+  freq: 7490
+  use: 109
+  pos: VARIABLE NOUN
+  meaning: If you are in disguise, you are not wearing your usual clothes or you have altered your appearance in other ways, so that people will not recognize you.
+  sent: You'll have to travel in disguise.
+  roots: "dis[=dis-:away, off] + guise[=guise<10869>]"
+  connect:
+    away, off:
+      - not
+      - usual
+      - altered
+    guise:
+      - clothes
+      - appearance
+  related:
+    - disguised
+- word: revise
+  freq: 5909
+  use: 69
+  pos: TRANSITIVE VERB
+  meaning: If you revise the way you think about something, you adjust your thoughts, usually in order to make them better or more suited to how things are.
+  sent: With time he came to revise his opinion of the profession.
+  roots: "re[=re-:again] + vise[=*weid-:to see]"
+  exp: 词根合起来表示to look over again with intent to improve or amend。
+  related:
+    - revision
+- word: prudent
+  freq: 9013
+  use: 64
+  pos: ADJECTIVE
+  meaning: Someone who is prudent is sensible and careful.
+  sent: It is clearly prudent to take all precautions.
+  roots: "pr[=pro-:ahead] + ud[=vid:to see] + ent[=-ent]"
+  connect:
+    ahead:
+      - sensible
+      - careful
+    see:
+      - sensible
+      - careful
+  exp: 词根合起来表示look ahead, prepare, supply act with foresight，之后引申出"discreet<11449>, circumspect"的这种"小心翼翼"的感觉。
+- word: envision
+  freq: 4532
+  use: 35
+  pos: TRANSITIVE VERB
+  meaning: If you envision something, you envisage it.
+  sent: In the future we envision a federation of companies.
+  roots: "en[=en-(1):make, put in + vision[=vision<1219>]"
+  connect:
+    make, put in:
+      - envisage
+    vision:
+      - envisage
+- word: envisage
+  freq: 17209
+  use: 35
+  pos: TRANSITIVE VERB
+  meaning: If you envisage something, you imagine that it is true, real, or likely to happen.
+  sent: He envisages the possibility of establishing direct diplomatic relations in the future.
+  roots: "en[=en-(1):in] + visage[=visage<20060>]"
+  exp:
+
+- word: visage
+  freq: 20060
+  use: 22
+  pos: NOUN
+  meaning: Someone's visage is their face.
+  sent: '...his milky-white innocent visage.'
 
 
-
-
-prehistoric 10556
-unwitting       19292   60      *weid-
-unwise  15052   81      *weid-
-misguided       9797    -1      *weid-
-disguise        7490    109     *weid-
-guise   10869   78      *weid-
-revise  5909    69      *weid-
-  revision        6080    28      *weid-
-prudent 9013    64      *weid-
-envision        4532    35      *weid-
-envisage        17209   35      *weid-
 envy    8649    28      *weid-
   envious 15968   14      *weid-
   enviable        18214   67      *weid-
 improvise       8961    25      *weid-
   improvisation   10219   -1      *weid-
-visage  20060   22      *weid-
 overview        7091    20      *weid-
 revisit 8087    17      *weid-
 idol    9599    7       *weid-
