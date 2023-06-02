@@ -15152,22 +15152,60 @@
   meaning: If you envisage something, you imagine that it is true, real, or likely to happen.
   sent: He envisages the possibility of establishing direct diplomatic relations in the future.
   roots: "en[=en-(1):in] + visage[=visage<20060>]"
-  exp:
-
+  exp: 词根合起来表示"如见其面"、"如同真实发生"的感觉，对应释义中的imagine。
 - word: visage
   freq: 20060
   use: 22
   pos: NOUN
   meaning: Someone's visage is their face.
   sent: '...his milky-white innocent visage.'
+  roots: "vis[=*weid-:to see] + age[=-age]"
+  connect:
+    see:
+      - face
+- word: envy
+  freq: 8649
+  use: 28
+  pos: UNCOUNTABLE NOUN
+  meaning: Envy is the feeling you have when you wish you could have the same thing or quality that someone else has.
+  sent: Gradually he began to acknowledge his feelings of envy towards his mother.
+  roots: "en[=en-:upon] + vy[=*weid-:to see]"
+  exp: 词根合起来表示"look at (with malice), cast an evil eye upon"，也就是不怀好意地看着别人。对应envy中蕴含的恶意。
+  related:
+    - envious
+    - enviable
+- word: improvise
+  freq: 8961
+  use: 25
+  pos: VERB
+  meaning: If you improvise, you make or do something using whatever you have or without having planned it in advance.
+  sent: You need a wok with a steaming rack for this; if you don't have one, improvise.
+  roots: "im[=in-(1):not, opposite of] + pro[=pro-:ahead] + vise[=*weid-:to see]"
+  connect:
+    not, opposite of:
+      - without
+    ahead:
+      - in advance
+    see:
+      - planned
+  exp: 词根合起来表达"not studied or prepared beforehand"。
+  related:
+    - improvisation
+- word: overview
+  freq: 7091
+  use: 20
+  pos: COUNTABLE NOUN
+  meaning: An overview of a situation is a general understanding or description of it as a whole.
+  sent: The central section of the book is a historical overview of drug use.
+  roots: "over[=over-:above] + view[=view<486>]"
+  related:
+    above:
+      - as a whole
+    view:
+      - understanding
+      - description
 
 
-envy    8649    28      *weid-
-  envious 15968   14      *weid-
-  enviable        18214   67      *weid-
-improvise       8961    25      *weid-
-  improvisation   10219   -1      *weid-
-overview        7091    20      *weid-
 revisit 8087    17      *weid-
 idol    9599    7       *weid-
   idolize 19262   28      *weid-
