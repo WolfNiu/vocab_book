@@ -5597,7 +5597,7 @@
 5597	try	n	
 5598	renew	v	
 5599	overhead	r	*kaput-
-5600	peach	n	*pel-
+5600	peach	n
 5601	modification	n	*dhe-, *med-
 5602	goose	n	
 5603	fireplace	n	*plat-
@@ -5696,7 +5696,7 @@
 5696	textile	n	*teks-
 5697	contrary	i	*deuk-, *gno-
 5698	precedent	n	*ked-
-5699	visiting	j	
+5699	visiting	j	*weid-
 5700	eternal	j	*aiw-
 5701	interpreter	n	*per-
 5702	indictment	n	*deik-
@@ -7355,7 +7355,7 @@
 7355	allegiance	n	*‌‌lē-
 7356	extract	n	
 7357	wax	n	*aug-
-7358	felony	n	*pel-
+7358	felony	n
 7359	fingertip	n	
 7360	sob	v	
 7361	trousers	n	
@@ -9596,7 +9596,7 @@
 9596	bowel	n	
 9597	accused	j	
 9598	satin	n	
-9599	idol	n	*weid-
+9599	idol	n
 9600	cultivation	n	*kwel-
 9601	asshole	n	
 9602	peel	n	*pag-
@@ -11625,7 +11625,7 @@
 11625	six-month	j	
 11626	clarification	n	*dhe-, *kele-
 11627	deference	n	*bher-
-11628	felon	n	*pel-
+11628	felon	n
 11629	pro-life	j	*leip-
 11630	chancellor	n	
 11631	recourse	n	*kers-
@@ -12159,7 +12159,7 @@
 12159	GNP	n	
 12160	waft	v	*weg-
 12161	unprotected	j	*(s)teg-, *per-
-12162	pellet	n	*pel-
+12162	pellet	n
 12163	forbidden	j	
 12164	helium	n	*sawel-
 12165	dissect	v	*sek-
@@ -13966,7 +13966,7 @@
 13966	trivia	n	*wegh-
 13967	finesse	n	
 13968	chimp	n	
-13969	ideologically	r	
+13969	ideologically	r	*weid-
 13970	TNT	n	
 13971	heavy-duty	j	*kap-
 13972	fluke	n	*plak-
@@ -15710,7 +15710,7 @@
 15710	serial	n	
 15711	sticking	j	
 15712	brewery	n	*bhreu-
-15713	pelt	v	*pel-
+15713	pelt	v
 15714	inferiority	n	
 15715	musket	n	
 15716	laureate	n	
@@ -19259,7 +19259,7 @@
 19259	sock	v	
 19260	sweltering	j	
 19261	genie	n	
-19262	idolize	v	*weid-
+19262	idolize	v
 19263	chain-link	j	
 19264	goon	n	
 19265	headlong	r	*kaput-

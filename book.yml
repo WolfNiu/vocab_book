@@ -15198,26 +15198,130 @@
   meaning: An overview of a situation is a general understanding or description of it as a whole.
   sent: The central section of the book is a historical overview of drug use.
   roots: "over[=over-:above] + view[=view<486>]"
+  exp: 词根合起来表达"view from a superior position"。
   related:
     above:
       - as a whole
     view:
       - understanding
       - description
+- word: revisit
+  freq: 8087
+  use: 17
+  pos: TRANSITIVE VERB
+  meaning: If you revisit a place, you return there for a visit after you have been away for a long time, often after the place has changed a lot.
+  sent: In the summer, when we returned to Canada, we revisited this lake at dawn.
+  roots: "re[=re-:again] + visit[=visit<908>]"
+  connect:
+    again:
+      - return
+    visit:
+      - visit
+- word: visor
+  freq: 14427
+  use: 4
+  pos: COUNTABLE NOUN
+  meaning: A visor is a movable part of a helmet that can be pulled down to protect a person's eyes or face.
+  sent: He pulled on a battered old crash helmet with a scratched visor.
+  roots: "vis[=*weid-:to see] + or[=-or]"
+  exp: visor即能走到保护作用，同时又能看清(see)路况。
+- word: visa
+  freq: 5595
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A visa is an official document, or a stamp put in your passport, that allows you to enter or leave a particular country.
+  sent: His visitor's visa expired.
+  roots: "vis[=*weid-:to see]"
+  exp: 词根表达的意思是"paper that has been seen"，也就是"被审核过的文件"、"verified paper"的感觉。
+- word: vista
+  freq: 10109
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A vista is a view from a particular place, especially a beautiful view from a high place.
+  sent: From my bedroom window I looked out on a crowded vista of hills and rooftops.
+  roots: "vist[=*weid-:to see]"
+  connect:
+    see:
+      - view
+- word: purvey
+  freq: 20000+
+  pos: TRANSITIVE VERB
+  meaning: If someone purveys goods or services, they provide them.
+  sent: They have two restaurants that purvey dumplings and chicken noodle soup.
+  roots: "pur[=pro-:ahead] + vey[=*weid-:see]"
+  exp: 词根合起来表示look ahead, prepare, act with foresight的意思，后来引申出supply的感觉。这个词和provide<263>的词根构成一模一样，意思也很相近，因此可以直接用provide来记。
+- word: purveyor
+  freq: 16087
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A purveyor of goods or services is a person or company that provides them.
+  sent: '...purveyors of gourmet foods.'
+  roots: "purvey[=purvey<20000+>] + or[=-or:person]"
+  connect:
+    purvey:
+      - provides
+    person:
+      - person
+- word: preview
+  freq: 7665
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A preview is an opportunity to see something such as a movie, exhibition, or invention before it is open or available to the public.
+  sent: He had gone to see the preview of a play.
+  roots: "pre[=pre-:before] + view[=view<486>]"
+  connect:
+    view:
+      - see
+    before:
+      - before
+- word: purview
+  freq: 18275
+  use: -1
+  pos: NOUN
+  meaning: The purview of something such as an organization or activity is the range of things it deals with.
+  sent: That, however, was beyond the purview of the court; it was a diplomatic matter.
+  roots: "pur[=pro-:ahead] + view[=view<486>]"
+  exp: 词根合起来表示look ahead, prepare, act with foresight的意思，后来引申出provide的感觉，再进而引申出scope, extent的意思，对应释义中的range。
 
 
-revisit 8087    17      *weid-
-idol    9599    7       *weid-
-  idolize 19262   28      *weid-
-visor   14427   4       *weid-
-ideological     4256    -1      *weid-
-visa    5595    -1      *weid-
-preview 7665    -1      *weid-
-vista   10109   -1      *weid-
-penguin 11958   -1      *weid-
-idyllic 14283   -1      *weid-
-purveyor        16087   -1      *weid-
-purview 18275   -1      *weid-
+
+
+repeal  9768    191     *pel-
+repellent       17399   89      *pel-
+compelling      4934    65      *pel-
+repel   11479   85      *pel-
+expel   7087    100     *pel-
+impulse 4749    84      *pel-
+  impulsive       13759   64      *pel-
+impel   17737   72      *pel-
+appeal  1866    29      *pel-
+pulse   4376    13      *pel-
+  pulsar  15833   -1      *pel-
+triple  7179    6       *pel-
+anvil   18802   -1      *pel-
+propel  6722    52      *pel-
+appealing       7146    51      *pel-
+compel  4499    4
+compulsion      12401   28      *pel-
+compulsory      13139   28      *pel-
+dispel  10909   26      *pel-
+compulsive      12284   18      *pel-
+catapult        17427   34      *pel-
+push    696     47      *pel-
+  pushy   19790   62      *pel-
+propeller       12859   -1      *pel-
+push-up 13504   -1      *pel-
+polish  8026    104     *pel-
+  polished        7690    49      *pel-
+infiltrate      10646   -1      *pel-
+  infiltration    16045   -1      *pel-
+  filtration      16798   -1      *pel-
+felt    14651   0       *pel-
+
+
+
+
+
 
 
 
@@ -15246,7 +15350,6 @@ purview 18275   -1      *weid-
 # (63, '*ghel-'),
 # (66, '*kele-'),
 # (68, '*gwa-'),
-# (70, '*pel-'),
 # (74, '*man-'),
 # (79, '*leg-'),
 # (83, '*bha-'),
