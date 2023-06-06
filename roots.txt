@@ -16362,7 +16362,7 @@
 16362	clearing	j	*kele-
 16363	co-director	n	
 16364	private-sector	j	
-16365	repulsive	j	
+16365	repulsive	j	*pel-(5)
 16366	default	v	
 16367	invoice	n	*wegh-
 16368	inflationary	j	*bhle-
@@ -19083,7 +19083,7 @@
 19083	capitulate	v	*kaput-
 19084	stag	n	*stegh-
 19085	wiretap	n	
-19086	repulse	v	
+19086	repulse	v	*pel-(5)
 19087	bleeding	r	*bhel-
 19088	bandage	v	*bhendh-
 19089	sorbet	n	

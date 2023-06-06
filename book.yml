@@ -15282,33 +15282,73 @@
   sent: That, however, was beyond the purview of the court; it was a diplomatic matter.
   roots: "pur[=pro-:ahead] + view[=view<486>]"
   exp: 词根合起来表示look ahead, prepare, act with foresight的意思，后来引申出provide的感觉，再进而引申出scope, extent的意思，对应释义中的range。
+- word: repeal
+  freq: 9768
+  use: 191
+  pos: TRANSITIVE VERB
+  meaning: If the government repeals a law, it officially ends it, so that it is no longer valid.
+  sent: The government has just repealed the law segregating public facilities.
+  roots: "re[=re-:back] + peal[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    back:
+      - ends
+    thrust, strike, drive:
+      - ends
+  exp: 词根合起来表示"call back"，或者strike back，也就是"召回去"、"打回去"的感觉。
+- word: repel
+  freq: 11479
+  use: 85
+  pos: TRANSITIVE VERB
+  meaning: When an army repels an attack, they successfully fight and drive back soldiers from another army who have attacked them.
+  sent: They have fifty thousand troops along the border ready to repel any attack.
+  roots: "re[=re-:back] + pel[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    back:
+      - back
+    thrust, strike, drive:
+      - fight
+      - drive
+  related:
+    - repellent
+- word: repulse
+  freq: 19086
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you are repulsed by something, you think that it is horrible and disgusting and you want to avoid it.
+  sent: Evil has charisma. Though people are repulsed by it, they also are drawn to its power.
+  roots: "re[=re-:back] + pulse[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    back:
+      - horrible
+      - disgusting
+      - avoid
+    thrust, strike, drive:
+      - horrible
+      - disgusting
+      - avoid
+  exp: 词根合起来表达"hold (something) back; drive (someone) away"的感觉。
+  related:
+    - repulsive
 
 
 
 
-repeal  9768    191     *pel-
-repellent       17399   89      *pel-
-compelling      4934    65      *pel-
-repel   11479   85      *pel-
+
 expel   7087    100     *pel-
 impulse 4749    84      *pel-
   impulsive       13759   64      *pel-
 impel   17737   72      *pel-
-appeal  1866    29      *pel-
 pulse   4376    13      *pel-
   pulsar  15833   -1      *pel-
-triple  7179    6       *pel-
 anvil   18802   -1      *pel-
 propel  6722    52      *pel-
-appealing       7146    51      *pel-
 compel  4499    4
+  compelling      4934    65      *pel-
 compulsion      12401   28      *pel-
 compulsory      13139   28      *pel-
-dispel  10909   26      *pel-
 compulsive      12284   18      *pel-
+dispel  10909   26      *pel-
 catapult        17427   34      *pel-
-push    696     47      *pel-
-  pushy   19790   62      *pel-
 propeller       12859   -1      *pel-
 push-up 13504   -1      *pel-
 polish  8026    104     *pel-
