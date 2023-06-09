@@ -18428,7 +18428,7 @@
 18428	buffer	v	
 18429	unseat	v	*sed-
 18430	tranquilizer	n	
-18431	filtering	n	
+18431	filtering	n	*pel-(5)
 18432	tirelessly	r	
 18433	Armenian	n	
 18434	gizmo	n	

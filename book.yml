@@ -15329,34 +15329,182 @@
   exp: 词根合起来表达"hold (something) back; drive (someone) away"的感觉。
   related:
     - repulsive
+- word: expel
+  freq: 7087
+  use: 100
+  pos: TRANSITIVE VERB
+  meaning: If someone is expelled from a school or organization, they are officially told to leave because they have behaved badly.
+  sent: More than five-thousand high school students have been expelled for cheating.
+  roots: "ex[=ex-:out] + pel[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    out:
+      - told to leave
+    drive:
+      - told to leave
+  exp: 词根合起来表示drive out, drive away。
+- word: impulse
+  freq: 4749
+  use: 84
+  pos: VARIABLE NOUN
+  meaning: An impulse is a sudden desire to do something.
+  sent: Unable to resist the impulse, he glanced at the sea again.
+  roots: "im[=in-:into, in, on, upon] + pul[=*pel-(5):to thrust, strike, drive]"
+  exp: 词根合起来表示to strike against，当你有sudden desire的时候会有一种被什么击中(灵魂)的感觉。
+  related:
+    - impulsive
+- word: impel
+  freq: 17737
+  use: 72
+  pos: TRANSITIVE VERB
+  meaning: When something such as an emotion impels you to do something, it affects you so strongly that you feel forced to do it.
+  sent: '...the courage and competitiveness which impels him to take risks.'
+  roots: "im[=in-:into, in, on, upon] + pel[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    strike, drive:
+      - affects
+      - strongly
+  exp: 词根合起来表示to strike against，drive forward，对应释义中的affects strongly。
+- word: pulse
+  freq: 4376
+  use: 13
+  pos: COUNTABLE NOUN
+  meaning: Your pulse is the regular beating of blood through your body, which you can feel when you touch particular parts of your body, especially your wrist.
+  sent: Mahoney's pulse was racing, and he felt confused.
+  roots: "pul[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    thrust, strike:
+      - beating
+  related:
+    - pulsar
+- word: anvil
+  freq: 18802
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: an iron or steel block on which metal objects are hammered into shape
+  sent: The sample rests against the micrometer's anvil and the spindle moves toward it.
+  roots: "an[=ana-:on] + vil[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    thrust:
+      - hammered
+  exp: 注意vil=*pel-(5)中，v=p(可互换)。
+- word: propel
+  freq: 6722
+  use: 52
+  pos: TRANSITIVE VERB
+  meaning: To propel something in a particular direction means to cause it to move in that direction.
+  sent: The tiny rocket is attached to the spacecraft and is designed to propel it toward Mars.
+  roots: "pro[=pro-:forward] + pel[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    forward:
+      - in that direction
+    drive:
+      - cause
+      - to move
+  related:
+    - propeller
+- word: compel
+  freq: 4499
+  use: 40
+  pos: TRANSITIVE VERB
+  meaning: If a situation, a rule, or a person compels you to do something, they force you to do it.
+  sent: '...the introduction of legislation to compel cyclists to wear a helmet.'
+  roots: "com[=com-:with, together] + pel[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    drive:
+      - force
+  related:
+    - compelling
+- word: compulsive
+  freq: 12284
+  use: 18
+  pos: ADJECTIVE
+  meaning: You use compulsive to describe people or their behavior when they cannot stop doing something wrong, harmful, or unnecessary.
+  sent: '...a compulsive liar.'
+  roots: "com[=com-:with, together] + pul[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    drive:
+      - cannot stop doing
+  related:
+    - compulsion
+    - compulsory
+- word: dispel
+  freq: 10909
+  use: 26
+  pos: TRANSITIVE VERB
+  meaning: To dispel an idea or feeling that people have means to stop them having it.
+  sent: The president is attempting to dispel the notion that he has neglected the economy.
+  roots: "dis[=dis-:away] + pel[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    away:
+      - stop
+    drive:
+      - stop
+- word: catapult
+  freq: 17427
+  use: 34
+  pos: NOUN
+  meaning: If someone or something catapults or is catapulted through the air, they are thrown very suddenly, quickly, and violently through it.
+  sent: We've all seen enough dummies catapulting through windshields in TV warnings to know the dangers of not wearing seat belts.
+  roots: "cata[=cata-:through] + pul[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    through:
+      - through
+    thrust, strike, drive:
+      - thrown
+- word: polish
+  freq: 8026
+  use: 104
+  pos: MASS NOUN
+  meaning: If you polish something, you put polish on it or rub it with a cloth to make it shine.
+  sent: Each morning he shaved and polished his shoes.
+  roots: "pol[=*pel-(5):to thrust, strike, drive] + ish[=-ish]"
+  connect:
+    thrust, strike:
+      - rub
+  exp: 词根*pel-(5)表达打磨、锤打的意思。
+  related:
+    - polished
+- word: filter
+  freq: 4419
+  use: 30
+  pos: TRANSITIVE VERB
+  meaning: To filter a substance means to pass it through a device which is designed to remove certain particles contained in it.
+  sent: The best prevention for cholera is to boil or filter water, and eat only well-cooked food.
+  roots: "fil[=*pel-(5):to thrust, strike, drive] + er[=-er]"
+  exp: 注意fil=*pel-(5)中，f=p(可互换)。
+  related:
+    - filtering
+    - filtrate
+    - filtration
+- word: infiltrate
+  freq: 10646
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If people infiltrate a place or organization, or infiltrate into it, they enter it secretly in order to spy on it or influence it.
+  sent: Activists had infiltrated the student movement.
+  roots: "in[=in-(2):in] + filtrate[=filtrate<20000+>]"
+  connect:
+    in:
+      - enter
+    filtrate:
+      - enter
+      - secretly
+  related:
+    - infiltration
+- word: felt
+  freq: 14651
+  use: 0
+  pos: VERB
+  meaning: Felt is a thick cloth made from wool or other fibers packed tightly together.
+  sent: She had on an old felt hat.
+  roots: "fel[=*pel-(5):to thrust, strike, drive]"
+  connect:
+    thrust, strike:
+      - thick
+      - packed tightly together
+  exp: 词根*pel-(5)表达something beaten, compressed wool的意思，描述了felt的制作方法。
 
 
-
-
-
-expel   7087    100     *pel-
-impulse 4749    84      *pel-
-  impulsive       13759   64      *pel-
-impel   17737   72      *pel-
-pulse   4376    13      *pel-
-  pulsar  15833   -1      *pel-
-anvil   18802   -1      *pel-
-propel  6722    52      *pel-
-compel  4499    4
-  compelling      4934    65      *pel-
-compulsion      12401   28      *pel-
-compulsory      13139   28      *pel-
-compulsive      12284   18      *pel-
-dispel  10909   26      *pel-
-catapult        17427   34      *pel-
-propeller       12859   -1      *pel-
-push-up 13504   -1      *pel-
-polish  8026    104     *pel-
-  polished        7690    49      *pel-
-infiltrate      10646   -1      *pel-
-  infiltration    16045   -1      *pel-
-  filtration      16798   -1      *pel-
-felt    14651   0       *pel-
 
 
 
