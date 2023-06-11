@@ -3742,7 +3742,7 @@
 3742	stuff	v	
 3743	govern	v	
 3744	southeast	n	*sawel-
-3745	intelligent	j	
+3745	intelligent	j	*leg-(1)
 3746	wherever	r	*kwo-
 3747	ballot	n	*bhel-
 3748	rhetoric	n	
@@ -4985,7 +4985,7 @@
 4985	harvest	v	*kerp-
 4986	kneel	v	*genu-
 4987	vacuum	n	*eue-
-4988	selected	j	
+4988	selected	j   *leg-(1)
 4989	dictate	v	*deik-
 4990	stereotype	n	
 4991	sensor	n	
@@ -13037,7 +13037,7 @@
 13037	auction	v	*aug-
 13038	forfeit	v	*dhe-, *dhwer-
 13039	individualized	j	
-13040	selectively	r	
+13040	selectively	r	*leg-(1)
 13041	captivate	v	*kap-
 13042	chimpanzee	n	
 13043	bathing	j	
@@ -18169,7 +18169,7 @@
 18169	wayside	n	*oi-no-
 18170	outmoded	j	*med-
 18171	discriminant	j	
-18172	intelligible	j	
+18172	intelligible	j	*leg-(1)
 18173	consonant	n	*swen-
 18174	recklessly	r	*reg-
 18175	banter	n	
@@ -18195,7 +18195,7 @@
 18195	misbehave	v	*kap-
 18196	delude	v	
 18197	teak	n	
-18198	intelligently	r	
+18198	intelligently	r	*leg-(1)
 18199	grumpy	j	
 18200	salesperson	n	
 18201	belch	v	
@@ -18811,7 +18811,7 @@
 18811	idealist	n	*weid-
 18812	clumsily	r	
 18813	mannerism	n	*man-
-18814	intelligentsia	n	
+18814	intelligentsia	n   *leg-(1)
 18815	qualitatively	r	
 18816	churn	n	
 18817	whistling	n	

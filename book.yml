@@ -15508,6 +15508,68 @@
 
 
 
+illegal 2087    -1      *leg-
+  illegally       6947    0       *leg-
+dialogue        2818    -1      *leg-
+intelligence    1424    56      *leg-
+  intelligent     3745    98
+  intelligible    18172   16
+  intelligentsia  18814   12
+  intelligently   18198   0
+college 416     53      *leg-
+  collegiate      8963    10      *leg-
+privilege       3647    44      *leg-,  *per-
+  privileged      6635    0       *leg-,  *per-
+lesson  1332    42      *leg-
+legitimate      3223    36      *leg-
+legend  3412    30      *leg-
+  legendary       5054    29      *leg-
+colleague       1527    18      *leg-
+logic   3497    12      *leg-
+lecture 3558    64      *leg-
+  lecturer        10601   -1      *leg-
+legacy  3217    8       *leg-
+
+
+
+
+
+delegate        5296    114     *leg-
+  delegation      5778    22      *leg-
+illegitimate    12309   102     *leg-
+coil    9443    86      *leg-
+neglect 5125    84      *leg-,  *ne-
+  neglected       11405   37      *leg-,  *ne-
+logical 4625    58      *leg-
+recollect       18799   50      *leg-
+  recollection    8032    29      *leg-
+loyal   4824    47      *leg-
+  loyalist        14507   8       *leg-
+  loyalty 4116    19      *leg-
+diligent        14661   46      *leg-
+  diligence       15252   15      *leg-
+prologue        20092   28      *leg-
+dialect 11007   12      *leg-
+  dialectic       14248   -1      *leg-
+  dialectical     17470   -1      *leg-
+leech   19598   9       *leg-
+trilogy 13467   5       *leg-
+lexicon 16650   4       *leg-
+legislator      4674    3       *bher-, *leg-
+catalogue       6899    0       *leg-
+analogy 5995    -1      *leg-
+  analogous       10475   -1      *leg-
+eclectic        9912    -1      *leg-
+relegate        9922    -1      *leg-
+legion  10454   -1      *leg-
+anthology       10536   -1      *leg-
+monologue       10598   -1      *leg-,  *men-
+logistic        14958   -1      *leg-
+  logistics       10151   -1      *leg-
+ideologue       16447   -1      *leg-
+intercollegiate 17150   -1      *leg-
+illogical       19092   -1      *leg-
+
 
 
 
@@ -15539,7 +15601,6 @@
 # (66, '*kele-'),
 # (68, '*gwa-'),
 # (74, '*man-'),
-# (79, '*leg-'),
 # (83, '*bha-'),
 # (87, '*bher-'),
 # (89, '*pere-'),
