@@ -5834,7 +5834,7 @@
 5834	skate	v	
 5835	manipulation	n	*man-, *pele-
 5836	wit	n	*weid-
-5837	legitimacy	n	
+5837	legitimacy	n	*leg-(1)
 5838	curse	v	
 5839	Saudi	j	
 5840	fabulous	j	*bha-
@@ -11816,7 +11816,7 @@
 11816	two-week	j	
 11817	antidote	n	*do-
 11818	purge	v	*ag-
-11819	legitimize	v	
+11819	legitimize	v	*leg-(1)
 11820	juncture	n	*yeug-
 11821	antelope	n	
 11822	ration	n	*re-
@@ -13942,7 +13942,7 @@
 13942	surmise	v	
 13943	starch	n	*ster-
 13944	rubric	n	*reudh-
-13945	legitimately	r	
+13945	legitimately	r	*leg-(1)
 13946	normalize	v	
 13947	rework	v	*werg-
 13948	evocative	j	
