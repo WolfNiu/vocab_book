@@ -1714,7 +1714,10 @@ misc:
     - appealing
 "*leg-(1)":
   meaning: to collect, gather; to speak
-  exp: collect<1325> = col[=com-:together] + lect[=*leg-(1)]，词根合起来表示"gather together"。select<1746> = se[=se-:apart] + lect[=*leg-(1)]，词根合起来表示"single out"，也就是"单独挑出来"的意思。elect<2285> = e[=ex-:out] + lect[=*leg-(1)]，词根合起来表示to pick out, choose。legal<886> = leg[=*leg-(1)] + al[=-al]。law嘛，就是a collection of rules。前几个词用的都是*leg-(1)中to collect, gather的那层意思。不过这个词根还有另外一层引申义是to speak，因为speak的过程就是gather/pick out words的过程，也就是中文里的所谓"遣词造句"。apologize<3782> = apolog[=apology<4999>] + ize[=-ize]，而apology<4999> = apo[=apo-:away from, off] + log[=*leg-(1)] + y[=-y]，用的是*leg-(1)中to speak的那层意思。词根合起来表示to sepak in one's defense，也就是通过话术(speak)让自己脱身、脱罪(away from, off)的感觉。
+  exp: collect<1325> = col[=com-:together] + lect[=*leg-(1)]，词根合起来表示"gather together"。select<1746> = se[=se-:apart] + lect[=*leg-(1)]，词根合起来表示"single out"，也就是"单独挑出来"的意思。elect<2285> = e[=ex-:out] + lect[=*leg-(1)]，词根合起来表示to pick out, choose。legal<886> = leg[=*leg-(1)] + al[=-al]。law嘛，就是a collection of rules。illegal<2087> = il[=in-(1):not, opposite of] + legal[=legal]，是legal的反义词。intelligence<1424> = intel[=inter-:between] + lig[=*leg-(1)] + ence[=-ence]，词根拿起来表示power of discerning，也就是"辨别的能力"——确实，智慧的一个体现就是明辨是非的能力。
+
+
+  前几个词用的都是*leg-(1)中to collect, gather的那层意思。不过这个词根还有另外一层引申义是to speak，因为speak的过程就是gather/pick out words的过程，也就是中文里的所谓"遣词造句"。apologize<3782> = apolog[=apology<4999>] + ize[=-ize]，而apology<4999> = apo[=apo-:away from, off] + log[=*leg-(1)] + y[=-y]，用的是*leg-(1)中to speak的那层意思。词根合起来表示to sepak in one's defense，也就是通过话术(speak)让自己脱身、脱罪(away from, off)的感觉。
   related:
     - collection
     - collected
@@ -1731,3 +1734,8 @@ misc:
     - legality
     - legalize
     - legaliziation
+    - illegally
+    - intelligent
+    - intelligible
+    - intelligentsia
+    - intelligently
