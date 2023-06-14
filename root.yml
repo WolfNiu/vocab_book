@@ -1713,33 +1713,42 @@ misc:
     - push-up
     - appealing
 "*leg-(1)":
-  meaning: to collect, gather; to speak
-  exp: collect<1325> = col[=com-:together] + lect[=*leg-(1)]，词根合起来表示"gather together"。select<1746> = se[=se-:apart] + lect[=*leg-(1)]，词根合起来表示"single out"，也就是"单独挑出来"的意思。elect<2285> = e[=ex-:out] + lect[=*leg-(1)]，词根合起来表示to pick out, choose。colleague<1527> = col[=com-:with, together] + league[=*leg-(1)]，词根合起来表达"one chosen to work with another"的意思。intelligence<1424> = intel[=inter-:between] + lig[=*leg-(1)] + ence[=-ence]，词根拿起来表示power of discerning，也就是"辨别的能力"——确实，智慧的一个体现就是明辨是非的能力。college<416> = col[=com-:with, together] + lege[=*leg-(1)]，词根合起来表示"被选择而聚在一起的人"。能在college里受教育的那还是经过精挑细选的。前几个词用的都是*leg-(1)中to collect, gather的那层意思，而这个词根还有另外一层引申义是to speak，因为speak的过程就是gather/pick out words的过程，也就是中文里的所谓"遣词造句"。dialogue<2818> = dia[=dia-:across, between] + logue[=*leg-(1)]，词根合起来表示"a conversation between two or more persons"。apologize<3782> = apolog[=apology<4999>] + ize[=-ize]，而apology<4999> = apo[=apo-:away from, off] + log[=*leg-(1)] + y[=-y]，用的是*leg-(1)中to speak的那层意思。词根合起来表示to sepak in one's defense，也就是通过话术(speak)让自己脱身、脱罪(away from, off)的感觉。lesson<1332> = les[=*leg-(1)] + on[=-on]，上课就是老师说(speak)学生听。legend<3412> = leg[=*leg-(1)] + end[=-end]，词根表达things to be read的意思。logic<3497> = log[=*leg-(1)] + ic[=-ic]，表达"pertaining to speaking or reasoning"的意思。speak和reason的联系在于，前者是对语言的组织(collect, gather)，而后者是对论点的组织。lecture<3558> = lect[=*leg-(1)] + ure[=-ure]。讲课的"讲"就对应着"speak"。*leg-(1)还有一层意思就是law。legal<886> = leg[=*leg-(1)] + al[=-al]。law嘛，就是a collection of rules。illegal<2087> = il[=in-(1):not, opposite of] + legal[=legal]，是legal的反义词。privilege<3647> = priv[=private<672>] + lege[=*leg-(1)]，用的是*leg-(1)中law的那层意思。两部分合起来表示law applying to one person，也就是只给一个人定的法律，因此是特权。legitimate<3223> = leg[=*leg-(1)]，表达"in line with the law"的意思。legacy<3217> = leg[=*leg-(1)] + acy[=-acy]，也用的是law这层意思，可以将其想成"法定继承之物"。
-  related:
-    - lecturer
-    - legendary
-    - legitimize
-    - legitimacy
-    - legitimately
-    - collection
-    - collected
-    - collective
-    - collector
-    - selection
-    - selective
-    - selected
-    - selectively
-    - apologetic
-    - apologist
-    - election
-    - re-elect
-    - legality
-    - legalize
-    - legaliziation
-    - illegally
-    - intelligent
-    - intelligible
-    - intelligentsia
-    - intelligently
-    - collegiate
-    - privileged
+  - meaning: to collect, gather
+    exp: collect<1325> = col[=com-:together] + lect[=*leg-(1)]，词根合起来表示"gather together"。select<1746> = se[=se-:apart] + lect[=*leg-(1)]，词根合起来表示"single out"，也就是"单独挑出来"的意思。elect<2285> = e[=ex-:out] + lect[=*leg-(1)]，词根合起来表示to pick out, choose。colleague<1527> = col[=com-:with, together] + league[=*leg-(1)]，词根合起来表达"one chosen to work with another"的意思。intelligence<1424> = intel[=inter-:between] + lig[=*leg-(1)] + ence[=-ence]，词根合起来表示power of discerning，也就是"辨别的能力"——确实，智慧的一个体现就是明辨是非的能力。college<416> = col[=com-:with, together] + lege[=*leg-(1)]，词根合起来表示"被选择而聚在一起的人"。能在college里受教育的那还是经过精挑细选的。
+    related:
+      - collection
+      - collected
+      - collective
+      - collectively
+      - collector
+      - collecting
+      - election
+      - re-elect
+      - collegiate
+      - intelligent
+      - intelligible
+      - intelligentsia
+      - intelligently
+      - selection
+      - selective
+      - selected
+      - selectively
+  - meaning: to speak
+    exp: 这个词根还有另外一层引申义是to speak，因为speak的过程就是gather/pick out words的过程，也就是中文里的所谓"遣词造句"。dialogue<2818> = dia[=dia-:across, between] + logue[=*leg-(1)]，词根合起来表示"a conversation between two or more persons"。apologize<3782> = apolog[=apology<4999>] + ize[=-ize]，而apology<4999> = apo[=apo-:away from, off] + log[=*leg-(1)] + y[=-y]，用的是*leg-(1)中to speak的那层意思。词根合起来表示to sepak in one's defense，也就是通过话术(speak)让自己脱身、脱罪(away from, off)的感觉。lesson<1332> = les[=*leg-(1)] + on[=-on]，上课就是老师说(speak)学生听。legend<3412> = leg[=*leg-(1)] + end[=-end]，词根表达things to be read的意思。logic<3497> = log[=*leg-(1)] + ic[=-ic]，表达"pertaining to speaking or reasoning"的意思。speak和reason的联系在于，前者是对语言的组织(collect, gather)，而后者是对论点的组织。lecture<3558> = lect[=*leg-(1)] + ure[=-ure]。讲课的"讲"就对应着"speak"。
+    related:
+      - lecturer
+      - logical
+      - apologetic
+      - apologist
+      - legendary
+  - meaning: law
+    exp: 这个词根还有一层意思是law。legal<886> = leg[=*leg-(1)] + al[=-al]。law嘛，就是a collection of rules。illegal<2087> = il[=in-(1):not, opposite of] + legal[=legal]，是legal的反义词。privilege<3647> = priv[=private<672>] + lege[=*leg-(1)]，用的是*leg-(1)中law的那层意思。两部分合起来表示law applying to one person，也就是只给一个人定的法律，因此是特权。legitimate<3223> = leg[=*leg-(1)]，表达"in line with the law"的意思。legacy<3217> = leg[=*leg-(1)] + acy[=-acy]，也用的是law这层意思，可以将其想成"法定继承之物"。
+    related:
+      - privileged
+      - legitimize
+      - legitimacy
+      - legitimately
+      - legality
+      - legalize
+      - legalization
+      - illegally

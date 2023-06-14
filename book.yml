@@ -15503,20 +15503,58 @@
       - thick
       - packed tightly together
   exp: 词根*pel-(5)表达something beaten, compressed wool的意思，描述了felt的制作方法。
+- word: delegate
+  freq: 5296
+  use: 114
+  pos: COUNTABLE NOUN
+  meaning: A delegate is a person who is chosen to vote or make decisions on behalf of a group of other people, especially at a conference or a meeting.
+  sent: The Canadian delegate offered no reply.
+  roots: "de[=de-:from, away] + leg[=leg:send with a commission]<--[=*leg-(1):to collect, gather]"
+  exp: 词根表达聚集(collect, gather)起一小摄人发表意见，以代表大多数。
+  related:
+    - delegation
+- word: illegitimate
+  freq: 12309
+  use: 102
+  pos: ADJECTIVE
+  meaning: Illegitimate is used to describe activities and institutions that are not in accordance with the law or with accepted standards of what is right.
+  sent: He realized that, otherwise, the election would have been dismissed as illegitimate by the international community.
+  roots: "il[=in-:not, opposite of, without] + legitimate<3223>"
+  connect:
+    not:
+      - not
+    legitimate:
+      - in accordance with the law
+      - with accepted standards of what is right
+- word: neglect
+  freq: 5125
+  use: 84
+  pos: TRANSITIVE VERB
+  meaning: If you neglect someone or something, you fail to take care of them properly.
+  sent: The woman denied that she had neglected her child.
+  roots: "neg[=*ne-:not] + lect[=leg:pick up, select]<--[=*leg-(1):to collect, gather]"
+  exp: 词根合起来表示"not to pick up"，也就是"忽略"喽。
+  related:
+    - neglected
+- word: recollect
+  freq: 18799
+  use: 50
+  pos: TRANSITIVE VERB
+  meaning: If you recollect something, you remember it.
+  sent: Ramona spoke with warmth when she recollected the doctor who used to be at the community hospital.
+  roots: "re[=re-:again] + collect[=collect<1325>]"
+  related:
+    - recollection
 
 
+"""
+TODO:
+把root.yml也分成一个单词一个单词写，但要把所有单词聚在一起，因为这一阶段是为了用读者肯定认识的单词去记词根，而不是用词根去记单词。分类是按词根的引申义来分，然后下面一个一个单词地写，也要像主词条一样有meaning和例句。
+
+其实可以考虑用collins cobulid dictionary的常用词表，也就是它在释义里会用到的词。这样才是fair game？还是用现在的词频？
+"""
 
 
-
-delegate        5296    114     *leg-
-  delegation      5778    22      *leg-
-illegitimate    12309   102     *leg-
-coil    9443    86      *leg-
-neglect 5125    84      *leg-,  *ne-
-  neglected       11405   37      *leg-,  *ne-
-logical 4625    58      *leg-
-recollect       18799   50      *leg-
-  recollection    8032    29      *leg-
 loyal   4824    47      *leg-
   loyalist        14507   8       *leg-
   loyalty 4116    19      *leg-
