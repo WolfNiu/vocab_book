@@ -1705,6 +1705,7 @@ misc:
     - interviewer
     - supervision
     - supervisory
+    - ideologue
 "*pel-(5)":
   - meaning: to thrust, strike, drive
     exp: push<696> = push[=*pel-(5)]，对应thrust和strike中"向前冲击"的感觉。appeal<1866> = ap[=ad-:to] + peal[=*pel-(5)]，说一个东西attractive其实就是在说它很"打(strike)眼"，换句话说就是有"视觉冲击(strike)力"。
@@ -1752,3 +1753,5 @@ misc:
       - legalize
       - legalization
       - illegally
+"*spek-":
+  - meaning: to observe
