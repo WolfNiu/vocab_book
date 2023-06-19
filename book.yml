@@ -15646,9 +15646,8 @@
   pos: COUNTABLE NOUN
   meaning: If you make or draw an analogy between two things, you show that they are similar in some way.
   sent: The analogy between music and fragrance has stuck.
-  roots: "ana[=ana-:upon, according to] + log[=log:ratio]<--[=*leg-(1):to collect, gather] + y[=-y]"
-  exp: 词根合起来表示"according to a ratio"，也就是说两个事物有一定比例相似，于是可以用来类比。
-  todo: 为啥会从to collect, gather发展出ratio/proportion的意思？
+  roots: "ana[=ana-:upon, according to] + log[=log:calculation, proportion, ratio]<--[=*leg-(1):to collect, gather] + y[=-y]"
+  exp: 词根合起来表示"according to a ratio"，也就是说两个事物有一定比例相似，于是可以用来类比。那为啥会从to collect, gather发展出ratio/proportion的意思呢？这是由于*leg-(1)有一层意思是reason，而calculate本身也是reasoning的过程。又因为proportion, ratio都是计算出来的，所以*leg-(1)就发展出了ratio的感觉。如果嫌这个发展过程太绕，就不如直接记这个单词了。
   related:
     - analogous
 - word: intercollegiate
@@ -15677,18 +15676,67 @@
     logical:
       - logical
       - ordered
+- word: eclectic
+  freq: 9912
+  use: -1
+  pos: ADJECTIVE
+  meaning: An eclectic collection of objects, ideas, or beliefs is wide-ranging and comes from many different sources.
+  sent: '...an eclectic collection of paintings, drawings, and prints.'
+  roots: "ec[=ex-:out] + lect[=*leg-(1):to collect, gather] + ic[=-ic]"
+  connect:
+    collection:
+      - collect, gather
+  exp: 词根合起来表示pick out, select，进而引申出"兼收并蓄"的感觉。
+- word: relegate
+  freq: 9922
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you relegate someone or something to a less important position, you give them this position.
+  sent: Might it not be better to relegate the king to a purely ceremonial function?
+  roots: "re[=re-:back] + leg[=leg:send as a deputy, send with a commission, charge, bequeath]<--[=*leg-(1):to collect, gather] + ate[=-ate]"
+  connect:
+    back:
+      - less important
+    send with a commission:
+      - give them this position
+- word: legion
+  freq: 10454
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A legion is a large group of soldiers who form one section of an army.
+  sent: '...the commander of the Arab Legion.'
+  roots: "leg[=*leg-(1):to collect, gather] + ion[=-ion]"
+  connect:
+    collect, gather:
+      - group
+- word: monologue
+  freq: 10598
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If you refer to a long speech by one person during a conversation as a monologue, you mean it prevents other people from talking or expressing their opinions.
+  sent: Morris ignored the question and continued his monologue.
+  roots: "mono[=mono-:single, alone] + logue[=leg:to speak]<--[=*leg-(1):to collect, gather]"
+  connect:
+    single, alone:
+      - one person
+      - other people
+    speak:
+      - conversation
+      - talking
+      - expressing their opinions
+- word: logistic
+  freq: 14958
+  use: -1
+  pos: NOUN
+  meaning: Logistic or logistical means relating to the organization of something complicated.
+  sent: Logistical problems may be causing the delay.
+  roots: "log[=log:calculation, proportion]<--[=*leg-(1):to collect, gather] + ist[=-ist] + ic[=-ic]"
+  exp: 和analogy<5995>一样用的是*leg-(1)中calculation, proportion的那层意思。做logistics是需要精准计算，亲自部署、亲自指挥的，对应释义中的complicated。
+  related:
+    - logistics
+    - logistical
 
 
-
-
-
-eclectic        9912    -1      *leg-
-relegate        9922    -1      *leg-
-legion  10454   -1      *leg-
-anthology       10536   -1      *leg-
-monologue       10598   -1      *leg-,  *men-
-logistic        14958   -1      *leg-
-  logistics       10151   -1      *leg-
 ideologue       16447   -1      *leg-
 
 

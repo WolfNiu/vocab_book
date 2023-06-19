@@ -12332,7 +12332,7 @@
 12332	assemblage	n	*sem-
 12333	right-hand	j	
 12334	polity	n	
-12335	logistical	j	
+12335	logistical	j	*leg-(1)
 12336	tsunami	n	
 12337	incompetence	n	*pet-
 12338	swerve	v	
