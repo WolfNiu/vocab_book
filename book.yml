@@ -15545,32 +15545,143 @@
   roots: "re[=re-:again] + collect[=collect<1325>]"
   related:
     - recollection
+- word: loyal
+  freq: 4824
+  use: 47
+  pos: ADJECTIVE
+  meaning: Someone who is loyal remains firm in their friendship or support for a person or thing.
+  sent: They had remained loyal to the president.
+  roots: "loy[=lex:law]<--[=*leg-(1):to collect, gather] + al[=-al]"
+  exp: 关系像被法律束缚一样牢固。
+  related:
+    - loyalty
+    - loyalist
+- word: diligent
+  freq: 14661
+  use: 46
+  pos: ADJECTIVE
+  meaning: Someone who is diligent works hard in a careful and thorough way.
+  sent: Meyers is a diligent and prolific worker.
+  roots: "di[=dis-:apart] + lig[=*leg-(1):to collect, gather] + ent[=-ent]"
+  exp: 词根合起来本义是"pick out, select"的意思，也就是"专门挑出来"的感觉，可见对其重视程度。后来引申出attentive, assiduous, careful的感觉。换句话说，这个词是"因为重视，所以勤奋"。
+  related:
+    - diligence
+- word: prologue
+  freq: 20092
+  use: 28
+  pos: COUNTABLE NOUN
+  meaning: A prologue is a speech or section of text that introduces a play or book.
+  sent: The prologue to the novel is written in the form of a newspaper account.
+  roots: "pro[=pro-:before] + logue[=leg:to speak]<--[=*leg-(1):to collect, gather]"
+  connect:
+    before:
+      - introduces
+    speak:
+      - speech
+      - text
+- word: dialect
+  freq: 11007
+  use: 12
+  pos: NOUN
+  meaning: A dialect is a form of a language that is spoken in a particular area.
+  sent: It is often appropriate to use the local dialect to communicate your message.
+  roots: "dia[=dia-:across, between] + lect[=leg:to speak]<--[=*leg-(1):to collect, gather]"
+  connect:
+    across, between:
+      - in a particular area
+    speak:
+      - spoken
+  related:
+    - dialectic
+    - dialectical
+- word: trilogy
+  freq: 13467
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A trilogy is a series of three books, plays, or movies that have the same subject or the same characters.
+  sent: '...Tolkien''s trilogy, The Lord of the Rings.'
+  roots: "tri[=tri-:three] + log[=log:story]<--[=*leg-(1):to collect, gather] + y[=-y]"
+  connect:
+    three:
+      - three
+    story:
+      - books
+      - plays
+      - movies
+- word: lexicon
+  freq: 16650
+  use: 4
+  pos: COUNTABLE NOUN
+  meaning: The lexicon of a particular subject is all the terms associated with it. The lexicon of a person or group is all the words they commonly use.
+  sent: '...the lexicon of management.'
+  roots: "lex[=leg:to say]<--[=*leg-(1):to collect, gather]"
+  connect:
+    lex:
+      - terms
+      - words
+- word: legislator
+  freq: 4674
+  use: 3
+  pos: COUNTABLE NOUN
+  meaning: A legislator is a person who is involved in making or passing laws.
+  sent: '...an attempt to get U.S. legislators to change the system.'
+  roots: "leg[=lex:law]<--[=*leg-(1):to collect, gather] + lat[=*bher-:to carry]"
+  connect:
+    law:
+      - laws
+    carry:
+      - making
+      - passing
+- word: catalogue
+  freq: 6899
+  use: 0
+  pos: COUNTABLE NOUN
+  meaning: A catalogue is a list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library.
+  sent: '...the world''s biggest seed catalogue.'
+  roots: "cata[=cata-:down; completely] + logue[=leg:to day, count]<--[=*leg-(1):to collect, gather]"
+  exp: 词根合起来表达"tell at length"，进而引申出"list, index"的感觉。
+- word: analogy
+  freq: 5995
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If you make or draw an analogy between two things, you show that they are similar in some way.
+  sent: The analogy between music and fragrance has stuck.
+  roots: "ana[=ana-:upon, according to] + log[=log:ratio]<--[=*leg-(1):to collect, gather] + y[=-y]"
+  exp: 词根合起来表示"according to a ratio"，也就是说两个事物有一定比例相似，于是可以用来类比。
+  todo: 为啥会从to collect, gather发展出ratio/proportion的意思？
+  related:
+    - analogous
+- word: intercollegiate
+  freq: 17150
+  use: -1
+  pos: ADJECTIVE
+  meaning: Intercollegiate means involving or related to more than one college or university.
+  sent: '...the first intercollegiate gymnastics team championship.'
+  roots: "inter[=inter-:between] + collegiate[=collegiate<8963>]"
+  connect:
+    between:
+      - more than one
+    collegiate:
+      - college
+      - university
+- word: illogical
+  freq: 19092
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe an action, feeling, or belief as illogical, you are critical of it because you think that it does not result from a logical and ordered way of thinking.
+  sent: It was absurd and illogical to go out into such a storm.
+  roots: "il[=in-(1):not, opposite of] + logical[=logical<4625>]"
+  connect:
+    not, opposite of:
+      - not
+    logical:
+      - logical
+      - ordered
 
 
-"""
-TODO:
-把root.yml也分成一个单词一个单词写，但要把所有单词聚在一起，因为这一阶段是为了用读者肯定认识的单词去记词根，而不是用词根去记单词。分类是按词根的引申义来分，然后下面一个一个单词地写，也要像主词条一样有meaning和例句。
-
-其实可以考虑用collins cobulid dictionary的常用词表，也就是它在释义里会用到的词。这样才是fair game？还是用现在的词频？
-"""
 
 
-loyal   4824    47      *leg-
-  loyalist        14507   8       *leg-
-  loyalty 4116    19      *leg-
-diligent        14661   46      *leg-
-  diligence       15252   15      *leg-
-prologue        20092   28      *leg-
-dialect 11007   12      *leg-
-  dialectic       14248   -1      *leg-
-  dialectical     17470   -1      *leg-
-leech   19598   9       *leg-
-trilogy 13467   5       *leg-
-lexicon 16650   4       *leg-
-legislator      4674    3       *bher-, *leg-
-catalogue       6899    0       *leg-
-analogy 5995    -1      *leg-
-  analogous       10475   -1      *leg-
+
 eclectic        9912    -1      *leg-
 relegate        9922    -1      *leg-
 legion  10454   -1      *leg-
@@ -15579,8 +15690,6 @@ monologue       10598   -1      *leg-,  *men-
 logistic        14958   -1      *leg-
   logistics       10151   -1      *leg-
 ideologue       16447   -1      *leg-
-intercollegiate 17150   -1      *leg-
-illogical       19092   -1      *leg-
 
 
 
