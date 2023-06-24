@@ -15822,27 +15822,103 @@
       - dislike
       - have a very low opinion
   exp: 和despicable<16994>一样，词根合起来表示"look down on, scorn"，对应释义中的"have a very low opinion"。
+- word: speculate
+  freq: 4864
+  use: 36
+  pos: INTRANSITIVE VERB
+  meaning: If you speculate about something, you make guesses about its nature or identity, or about what might happen.
+  sent: Critics of the project speculate about how many hospitals could be built instead.
+  roots: "spec[=*spek-:to observe] + ate[=-ate]"
+  exp: 词根里的observe象征着"看向未来"，对应释义中的make guesses。
+  related:
+    - speculation
+- word: respite
+  freq: 13342
+  use: 24
+  pos: NOUN
+  meaning: A respite is a short period of rest from something unpleasant.
+  sent: It was some weeks now since they'd had any respite from shellfire.
+  roots: "re[=re-:back] + spite[=*spek-:to observe]"
+  exp: 词根合起来表示"act of looking back at one"，也就是释义中的那种"暂时停下来，回顾一下"的感觉。
+- word: spectacle
+  freq: 5940
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A spectacle is a strange or interesting sight.
+  sent: It was a spectacle not to be missed.
+  roots: "spect[=*spek:to observe]"
+  connect:
+    observe:
+      - sight
+  related:
+    - spectacular
+- word: introspection
+  freq: 18716
+  use: 8
+  pos: UNCOUNTABLE NOUN
+  meaning: Introspection is the examining of your own thoughts, ideas, and feelings.
+  sent: He had always had his moments of quiet introspection.
+  roots: "intro[=intro-:inward] + spect[=*spek-:to observe] + ion[=-ion]"
+  connect:
+    inward:
+      - thoughts
+      - ideas
+      - feelings
+    observe:
+      - examining
+  exp: thoughts, ideas, feelings都属于内在(inward)感受，而introspection的任务就是去观察它们。
+- word: skeptic
+  freq: 8947
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A skeptic is a person who has doubts about things that other people believe.
+  sent: He is a skeptic who tries to keep an open mind.
+  roots: "skept[=*spek-:to observe] + ic[=-ic]"
+  exp: 词根表达了"to reflect, inquire"的感觉，也就是思考和反省。只有这样的人才有能力去质疑大家普通相信的东西。
+  exchange: 注意skept=*spek-中k=k, p=p，但二者的顺序是乱的。这是字母互换中常见的现象。
+  related:
+    - skeptical
+    - skepticism
+- word: espionage
+  freq: 11482
+  use: 6
+  pos: UNCOUNTABLE NOUN
+  meaning: Espionage is the activity of finding out the political, military, or industrial secrets of your enemies or rivals by using spies.
+  sent: The authorities have arrested several people suspected of espionage.
+  roots: "spi[=spy<4901>] + age[=-age]"
+  connect:
+    spy:
+      - spies
+- word: retrospect
+  freq: 8507
+  use: 2
+  pos: NOUN
+  meaning: a survey or review of a past course of events or period of time
+  sent: a full retrospect of the battle
+  roots: "retro[=retro-:back] + spect[=*spek-:to observe]"
+  connect:
+    back:
+      - past
+    observe:
+      - survey
+      - review
+  related:
+    - retrospective
+- word: irrespective
+  freq: 14972
+  use: -1
+  pos: ADJECTIVE
+  meaning: showing disregard for persons or consequences
+  sent: he carried on with his plan irrespective
+  roots: "ir[=in-(1):not, opposite of] + respective[=respective<5971>]"
+  connect:
+    not, opposite of:
+      - disregard
+    respective:
+      - disregard
 
 
 
-
-
-speculate       4864    36      *spek-
-  speculation     4481    18      *spek-
-spice   5716    35      *spek-
-respite 13342   24      *spek-
-spectacle       5940    11      *spek-
-  spectacular     4236    8       *spek-
-introspection   18716   8       *spek-
-skeptical       5016    53      *spek-
-  skeptic 8947    7       *spek-
-  skepticism      7048    23      *spek-
-espionage       11482   6       *spek-
-retrospect      8507    2       *spek-
-  retrospective   9242    -1      *spek-
-Episcopal       8076    -1      *spek-
-archbishop      13904   -1      *spek-
-irrespective    14972   -1      *spek-
 
 
 

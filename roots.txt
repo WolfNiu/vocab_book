@@ -15297,7 +15297,7 @@
 15297	throbbing	j	
 15298	Nordic	j	
 15299	dabble	v	
-15300	spice	v	*spek-
+15300	spice	v
 15301	Pulitzer	n	
 15302	tycoon	n	
 15303	blower	n	*bhel-, *bhle-
