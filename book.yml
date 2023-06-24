@@ -15735,27 +15735,108 @@
   related:
     - logistics
     - logistical
+- word: unsuspecting
+  freq: 14329
+  use: 37
+  pos: ADJECTIVE
+  meaning: You can use unsuspecting to describe someone who is not at all aware of something that is happening or going to happen.
+  sent: She threw a surprise party for her unsuspecting husband.
+  roots: "un[=un-(1):not] + suspect[=suspect<2118>] + ing[=-ing]"
+  connect:
+    not:
+      - not
+    suspect:
+      - aware
+- word: disrespect
+  freq: 15179
+  use: 106
+  pos: UNCOUNTABLE NOUN
+  meaning: If someone shows disrespect, they speak or behave in a way that shows lack of respect for a person, law, or custom.
+  sent: '...young people with attitudes and complete disrespect for authority.'
+  roots: "dis[=dis-:lack of, not] + respect[=respect<1563>]"
+  connect:
+    lack of, not:
+      - lack of
+    respect:
+      - respect
+  related:
+    - disrespectful
+- word: conspicuous
+  freq: 9593
+  use: 101
+  pos: ADJECTIVE
+  meaning: If someone or something is conspicuous, people can see or notice them very easily.
+  sent: Most people don't want to be too conspicuous.
+  roots: "con[=com-:intensive prefix] + spic[=*spek-:to observe] + ous[=-ous]"
+  connect:
+    observe:
+      - see
+      - notice
+- word: despicable
+  freq: 16994
+  use: 81
+  pos: ADJECTIVE
+  meaning: If you say that a person or action is despicable, you are emphasizing that they are extremely nasty, cruel, or evil.
+  sent: The minister, who visited the scene a few hours after the explosion, said it was a despicable crime.
+  roots: "de[=de-:down] + spic[=*spek-:to observe] + able[=-able]"
+  connect:
+    down:
+      - nasty
+      - cruel
+      - evil
+    observe:
+      - nasty
+      - cruel
+      - evil
+  exp: 和despise<9211>一样，词根合起来表示"to look down upon"，也就是"瞧不上"的感觉，对应释义中的nasty, cruel, evil。
+- word: spy
+  freq: 4901
+  use: 58
+  pos: COUNTABLE NOUN
+  meaning: A spy is a person whose job is to find out secret information about another country or organization.
+  sent: He was jailed for five years as an alleged spy.
+  roots: "spy[=*spek-:to observe]"
+  connect:
+    observe:
+      - find out
+- word: specimen
+  freq: 5937
+  use: 58
+  pos: COUNTABLE NOUN
+  meaning: A specimen is a single plant or animal which is an example of a particular species or type and is examined by scientists.
+  sent: 200,000 specimens of fungus are kept at the Komarov Botanical Institute.
+  roots: "spec[=*spek-:to observe]"
+  exp: 词根表达的感觉是"看待事物的方式"——比如给生物分分类。
+- word: despise
+  freq: 9211
+  use: 41
+  pos: TRANSITIVE VERB
+  meaning: If you despise something or someone, you dislike them and have a very low opinion of them.
+  sent: I can never, ever forgive him. I despise him.
+  roots: "de[=de-:down] + spise[=*spek-:to observe]"
+  connect:
+    down:
+      - dislike
+      - have a very low opinion
+    observe:
+      - dislike
+      - have a very low opinion
+  exp: 和despicable<16994>一样，词根合起来表示"look down on, scorn"，对应释义中的"have a very low opinion"。
 
 
 
-unsuspecting    14329   37      *spek-
-disrespect      15179   106     *spek-
-  disrespectful   16703   63      *spek-
-conspicuous     9593    101     *spek-
-despicable      16994   81      *spek-
-spy     4901    58      *spek-
-specimen        5937    58      *spek-
-skeptical       5016    53      *spek-
-despise 9211    41      *spek-
+
+
 speculate       4864    36      *spek-
   speculation     4481    18      *spek-
 spice   5716    35      *spek-
 respite 13342   24      *spek-
-skepticism      7048    23      *spek-
 spectacle       5940    11      *spek-
   spectacular     4236    8       *spek-
 introspection   18716   8       *spek-
-skeptic 8947    7       *spek-
+skeptical       5016    53      *spek-
+  skeptic 8947    7       *spek-
+  skepticism      7048    23      *spek-
 espionage       11482   6       *spek-
 retrospect      8507    2       *spek-
   retrospective   9242    -1      *spek-
