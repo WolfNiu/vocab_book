@@ -15916,32 +15916,106 @@
       - disregard
     respective:
       - disregard
+- word: inhibit
+  freq: 7537
+  use: 123
+  pos: TRANSITIVE VERB
+  meaning: If something inhibits an event or process, it prevents it or slows it down.
+  sent: The high cost of borrowing is inhibiting investment by industry in new equipment.
+  roots: "in[=in-(1):in, on] + hib[=hab:to hold]<--[=*ghabh-:to give or receive]"
+  exp: 词根合起来表示hold back，对应释义中的prevents和slows down。
+  related:
+    - inhibition
+    - inhibitor
+- word: endeavor
+  freq: 6252
+  use: 102
+  pos: TRANSITIVE VERB
+  meaning: If you endeavor to do something, you try very hard to do it.
+  sent: They are endeavoring to protect labor union rights.
+  roots: "de[=de-:away] + av[=hab:to have]<--[=*ghabh-:to give or receive]"
+  exp: endeavor表示超常的努力，这种努力的代价就是take away what you currently have，比如时间、精力、金钱。
+- word: disable
+  freq: 11291
+  use: 82
+  pos: TRANSITIVE VERB
+  meaning: If an injury or illness disables someone, it affects them so badly that it restricts the way that they can live their life.
+  sent: She did all this tendon damage and it really disabled her.
+  roots: "dis[=dis-:do the opposite of] + able[=able<386>]"
+  connect:
+    do the opposite of:
+      - restricts
+    able:
+      - live
+  related:
+    - disabled
+- word: prohibit
+  freq: 4029
+  use: 73
+  pos: TRANSITIVE VERB
+  meaning: If a law or someone in authority prohibits something, they forbid it or make it illegal.
+  sent: '...a law that prohibits tobacco advertising in newspapers and magazines.'
+  roots: "pro[=pro-:away, forth] + hib[=hab:to hold]<--[=*ghabh-:to give or receive]"
+  connect:
+    away:
+      - forbid
+      - illegal
+  exp: 词根合起来表示"hold back"，把一件东西放在你够不到的地方，就是禁止。
+  related:
+    - prohibition
+    - prohibitive
+- word: unforgiving
+  freq: 16169
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe someone as unforgiving, you mean that they are unwilling to forgive other people.
+  sent: He was an unforgiving man who never forgot a slight.
+  roots: "un[=un-(1):not] + forgiv[=forgive<3629>] + ing[=-ing]"
+  connect:
+    not:
+      - unwilling
+    forgive:
+      - forgive
+- word: inhabit
+  freq: 6137
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If a place or region is inhabited by a group of people or a species of animal, those people or animals live there.
+  sent: The valley is inhabited by the Dani tribe.
+  roots: "in[=in-:in] + hab[=hab:to dwell]<--[=hab:to hold, have]<--[=*ghabh-:to give or receive]"
+  connect:
+    in:
+      - there
+    dwell:
+      - live
+  exp: 我们已经见过从*ghabh-发展出的to hold, have的意思，之所以能再引申出to dwell的意思是因为在一个地方定居(dwell)就相当于拥有(have)一个地方。
+  related:
+    - inhabitant
+- word: misgiving
+  freq: 13773
+  use: 54
+  pos: VARIABLE NOUN
+  meaning: If you have misgivings about something that is being suggested or done, you feel that it is not quite right, and are worried that it may have unwanted results.
+  sent: She had some misgivings about what she was about to do.
+  roots: "mis[=mis-(1):badly, wrongly] + giv[=give<98>] + ing[=-ing]"
+  connect:
+    badly, wrongly:
+      - not quite right
+      - have unwanted results
+  exp: 词根合起来表示"cause to feel doubt"，也就是"给(give)人以错误(wrongly)、疑惑的感觉"。
+- word: indebted
+  freq: 14667
+  use: 4
+  pos: ADJECTIVE
+  meaning: If you say that you are indebted to someone for something, you mean that you are very grateful to them for something.
+  sent: I am deeply indebted to him for his help.
+  roots: "in[=in-:in] + debt[=debt<1885>] + ed[=-ed]"
+  connect:
+    in:
+      - grateful
+    debt:
+      - grateful
 
-
-
-
-
-
-
-
-inhibit 7537    123     *ghabh-
-  inhibition      12684   88      *ghabh-
-  inhibitor       13260   -1      *ghabh-
-endeavor        6252    102     *ghabh-
-disable 11291   82      *ghabh-
-  disabled        4458    26      *ghabh-
-prohibit        4029    73      *ghabh-
-  prohibition     6908    64      *ghabh-
-  prohibitive     18632   -1      *ghabh-
-overdue 11259   58      *ghabh-
-undue   12966   35      *ghabh-
-misgiving       13773   54      *ghabh-
-indebted        14667   4       *ghabh-
-inhabit 6137    -1      *ghabh-
-  inhabitant      5997    27      *ghabh-
-unduly  15368   -1      *ghabh-
-unforgiving     16169   -1      *ghabh-
-malady  16182   -1      *ghabh-,        *mel-(3)
 
 
 
