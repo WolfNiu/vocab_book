@@ -1795,3 +1795,18 @@ misc:
       - debtor
       - exhibition
     note: 其实duty<1765>(related:dutiful<20093>, off-duty<18721>)，due<1812>(related:dues<10739>, duly<14818>, unduly<15368>)，以及malady<16182>都属于*ghabh-家族，但由于它们的字母互换太难想，就不写进书里了。实在想学的小伙伴可查词典自行服用。
+"*gno-":
+  - meaning: to know
+    exp: know<47> = know[=*gno-]，它的past participle是known<4399>。unknown<2848> = un[=un-(1):not] + known[=known]。acknowledge<1664> = knowledge[=knowledge<842>]，而knowledge = know[=know]。notice<1048> = not[=*gno-]，表示"让别人知道(know)"。notion<1726> = not[=*gno-] + ion[=-ion]，其实就是对一件事物的"认知"(know)。can<37> = can[=*gno-]。can do其实就是know how to do的意思。diagnosis<3627> = dia[=dia-:between] + gno[=*gno-]，词根合起来表示"to know thoroughly"，也就是从头到尾、里里外外都了解一下的意思。recognize<785> = re[=re-:again] + cogn[=*gno-] + ize[=-ize]，词根合起来表示recall to mind的意思，也就是"看到一个事物，就想起来它是啥了"的感觉。ignore<1382> = i[=in-(1):not, opposite of] + gn[=*gno-]，词根合起来表示"not to know, pay no attention to"——不希望了解的事物当然就忽略掉喽。cognitive<3370> = co[=co-:together] + gn[=*gno-] + ive[=-ive]，表示"认知"，不解释。
+    related:
+      - could
+      - noticeable
+      - well-known
+      - knowledgeable
+      - knowing
+      - know-how
+      - acknowledgement
+      - ignorant
+      - ignorance
+      - cognition
+      - diagnostic

@@ -16015,8 +16015,50 @@
       - grateful
     debt:
       - grateful
+- word: notorious
+  freq: 6243
+  use: 97
+  pos: ADJECTIVE
+  meaning: To be notorious means to be well known for something bad.
+  sent: '...an area notorious for drugs, crime and violence.'
+  roots: "no[=*gno-:to know]"
+  connect:
+    know:
+      - well known
+  related:
+    - notoriously
+- word: unnoticed
+  freq: 9561
+  use: 34
+  pos: ADJECTIVE
+  meaning: If something happens or passes unnoticed, it is not seen or noticed by anyone.
+  sent: I tried to slip up the stairs unnoticed.
+  roots: "un[=un-(1):not] + notice[=notice<1048>] + d[=-ed]"
+  connect:
+    not:
+      - not
+    notice:
+      - seen
+      - noticed
 
 
+
+
+noble   5731    261     *gno-
+  nobility        12440   31      *gno-
+cunning 13237   139     *gno-
+uncanny 11196   123     *gno-
+notify  6200    57      *dhe-,  *gno-
+  notification    12066   43      *dhe-,  *gno-
+connoisseur     15095   43      *gno-
+prognosis       12001   15      *gno-
+reconnaissance  12241   6       *gno-
+acquaint        9859    -1      *gno-
+  acquaintance    6366    24      *gno-
+quaint  10552   -1      *gno-
+narrate 10697   -1      *gno-
+  narration       11112   31      *gno-
+unrecognizable  19012   -1      *gno-
 
 
 
@@ -16031,7 +16073,6 @@
 # (48, '*plat-'),
 # (50, '*es-'),
 # (50, '*stere-'),
-# (51, '*gno-'),
 # (55, '*ker-'),
 # (55, '*kwo-'),
 # (55, '*plek-'),

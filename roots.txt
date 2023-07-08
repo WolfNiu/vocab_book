@@ -7116,7 +7116,7 @@
 7116	optimal	j	
 7117	simplicity	n	*sem-
 7118	staple	n	
-7119	canned	j	*gno-
+7119	canned	j
 7120	closing	n	*klau-
 7121	plaque	n	
 7122	autobiography	n	*gwei-
@@ -10534,7 +10534,7 @@
 10534	township	n	
 10535	dissatisfied	j	
 10536	anthology	n	*leg-
-10537	notoriously	r	
+10537	notoriously	r	*gno-
 10538	herring	n	
 10539	vacancy	n	*eue-
 10540	regiment	n	*reg-
