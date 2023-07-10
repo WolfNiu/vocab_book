@@ -16040,14 +16040,48 @@
     notice:
       - seen
       - noticed
+- word: noble
+  freq: 5731
+  use: 261
+  pos: ADJECTIVE
+  meaning: If you say that someone is a noble person, you admire and respect them because they are unselfish and morally good.
+  sent: He was an upright and noble man who was always willing to help in any way he could.
+  roots: "no[=*gno-:to know]"
+  exp: 词根表达well-known的意思。一般noble的、品性高洁的人比较容易被大家熟知并景仰。
+  related:
+    - nobility
+- word: cunning
+  freq: 13237
+  use: 139
+  pos: ADJECTIVE
+  meaning: Someone who is cunning has the ability to achieve things in a clever way, often by deceiving other people.
+  sent: These disturbed kids can be cunning.
+  roots: "cun[=*gno-:to know]"
+  connect:
+    know:
+      - clever
+      - deceiving
+  exp: 骗人的人脑子比较好使，知道很多东西。
+- word: canny
+  freq: 20000+
+  pos: ADJECTIVE
+  meaning: having or showing shrewdness and good judgment, especially in money or business matters.
+  sent: canny shoppers came early for a bargain
+  roots: "can[=can<37>] + y[=-y]"
+  connect:
+    can:
+      - shrewdness
+      - good judgment
+- word: uncanny
+  freq: 11196
+  use: 123
+  pos: ADJECTIVE
+  meaning: If you describe something as uncanny, you mean that it is strange and difficult to explain.
+  sent: She bears an uncanny resemblance to the new president.
+  roots: "un[=un-(1):not] + canny[=canny<20000+>]"
+  exp: 词根合起来是cannot be trusted的意思——也就是"简直让人不敢相信"的感觉。
 
 
-
-
-noble   5731    261     *gno-
-  nobility        12440   31      *gno-
-cunning 13237   139     *gno-
-uncanny 11196   123     *gno-
 notify  6200    57      *dhe-,  *gno-
   notification    12066   43      *dhe-,  *gno-
 connoisseur     15095   43      *gno-
