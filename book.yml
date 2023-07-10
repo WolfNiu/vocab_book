@@ -16079,6 +16079,11 @@
   meaning: If you describe something as uncanny, you mean that it is strange and difficult to explain.
   sent: She bears an uncanny resemblance to the new president.
   roots: "un[=un-(1):not] + canny[=canny<20000+>]"
+  connect:
+    not:
+      - difficult
+    canny:
+      - explain
   exp: 词根合起来是cannot be trusted的意思——也就是"简直让人不敢相信"的感觉。
 
 
