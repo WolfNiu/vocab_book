@@ -16085,19 +16085,107 @@
     canny:
       - explain
   exp: 词根合起来是cannot be trusted的意思——也就是"简直让人不敢相信"的感觉。
+- word: notify
+  freq: 6200
+  use: 57
+  pos: TRANSITIVE VERB
+  meaning: If you notify someone of something, you officially inform them about it.
+  sent: The skipper notified the coastguard of the tragedy.
+  roots: "not[=*gno-:to know] + fy[=-fy:make, make into]"
+  connect:
+    know:
+      - inform
+    make:
+      - inform
+  exp: 词根合起来表示to make known。
+  related:
+    - notification
+- word: connoisseur
+  freq: 15095
+  use: 43
+  pos: COUNTABLE NOUN
+  meaning: A connoisseur is someone who knows a lot about the arts, food, drink, or some other subject.
+  sent: Sarah tells me you're something of an art connoisseur.
+  roots: "con[=con-:with, together] + nois[=*gno-:to know]"
+  connect:
+    know:
+      - knows
+    with, together:
+      - a lot
+- word: prognosis
+  freq: 12001
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: A prognosis is an estimate of the future of someone or something, especially about whether a patient will recover from an illness.
+  sent: The doctor's prognosis was that Laurence might walk within 12 months.
+  roots: "pro[=pro-:before] + gnos[=*gno-:to know]"
+  connect:
+    before:
+      - estimate
+    know:
+      - estimate
+  exp: 词根合起来表示know beforehand，也就是对于病情的predictions啦。
+- word: reconnaissance
+  freq: 12241
+  use: 6
+  pos: UNCOUNTABLE NOUN
+  meaning: Reconnaissance is the activity of obtaining military information about a place by sending soldiers or planes there, or by the use of satellites.
+  sent: The helicopter was returning from a reconnaissance mission.
+  roots: "re[=re-:again] + con[=con-:together] + nais[=*gno-:to know]"
+  exp: 词根合起来表达"recognition"的意思，也就是"识别军事目标"的感觉。
+- word: acquaint
+  freq: 9859
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you acquaint someone with something, you tell them about it so that they know it. If you acquaint yourself with something, you learn about it.
+  sent: Have steps been taken to acquaint breeders with their right to apply for licenses?
+  roots: "ac[=ad-:to] + quaint[=*gno-:to know]"
+  connect:
+    know:
+      - know
+      - learn
+  exchange: quaint=*gno-中，q=g，因为q发/k/的音，而k=g。
+  related:
+    - acquaintance
+- word: quaint
+  freq: 10552
+  use: -1
+  pos: ADJECTIVE
+  meaning: Something that is quaint is attractive because it is old-fashioned.
+  sent: '...a small, quaint town with narrow streets and traditional half-timbered houses.'
+  roots: "quaint[=*gno-:to know]"
+  exp: 词根表达knowledgeable的意思。可以看出造这个词的人认为古老(old-fashioned, traditional)的东西会显得更有智慧，也算是崇古心理的一种体现吧。
+- word: narrate
+  freq: 10697
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you narrate a story, you tell it from your own point of view.
+  sent: The three of them narrate the same events from three perspectives.
+  roots: "nar[=*gno-:to know] + ate[=-ate]"
+  connect:
+    know:
+      - tell
+  exp: 所谓tell a story其实就是make someone know about a story。
+  related:
+    - narration
+- word: unrecognizable
+  freq: 19012
+  use: -1
+  pos: ADJECTIVE
+  meaning: If someone or something is unrecognizable, they have become impossible to recognize or identify, for example because they have been greatly changed or damaged.
+  sent: Today that same hotel is almost unrecognizable.
+  roots: "un[=un-(1):not] + recogniz[=recognize<78>] + able[=-able:capable of]"
+  connect:
+    not:
+      - impossible
+    recognize:
+      - recognize
+      - identify
+    capable of:
+      - impossible
+  related:
+    - unrecognized
 
-
-notify  6200    57      *dhe-,  *gno-
-  notification    12066   43      *dhe-,  *gno-
-connoisseur     15095   43      *gno-
-prognosis       12001   15      *gno-
-reconnaissance  12241   6       *gno-
-acquaint        9859    -1      *gno-
-  acquaintance    6366    24      *gno-
-quaint  10552   -1      *gno-
-narrate 10697   -1      *gno-
-  narration       11112   31      *gno-
-unrecognizable  19012   -1      *gno-
 
 
 

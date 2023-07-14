@@ -13363,7 +13363,7 @@
 13363	Amish	j	
 13364	vagina	n	
 13365	smog	n	
-13366	recognized	j	
+13366	recognized	j	*gno-
 13367	approaching	j	
 13368	redundant	j	*wed-
 13369	inertia	n	*ar-
@@ -17878,7 +17878,7 @@
 17878	drawl	n	
 17879	criminally	r	
 17880	repentance	n	
-17881	unrecognized	j	
+17881	unrecognized	j	*gno-
 17882	busted	j	
 17883	aghast	j	
 17884	aggregation	n	*ger-
