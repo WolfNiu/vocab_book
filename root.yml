@@ -1811,3 +1811,20 @@ misc:
       - cognition
       - diagnostic
       - recognized
+"*dwo-":
+  - meaning: two
+    exp: two<80> = two[=*dwo-]。twelve<3247> = twe[=*dwo-] + lve[=*leikw-:to leave]，表达"two left"的意思。也就是说十个一组，结果还剩下俩，那不是就是十二了么。twenty<2104> = twe[=*dwo-] + ty[=-ty(1):ten]。twice<1417> = twi[=*dwo-]。twist<3795> = twi[=*dwo-]，两(two)股绳才能扭在一起。dozen = do[=*dwo-] + zen[=*dekm-:ten]，2 + 10 = 12。balance = ba[=*dwo-]，要有two sides才能平衡。之后balance之所以还能表示"账户余额"，是因为余额的定义是arithmetical difference between the two sides of an account——还是和two有关。注意b和d一般来说不可互换，但由于这两个字母是彼此轴对称，古人抄错了很正常。后面我们还会见到很多b打头但也表示two的例子，比如前缀bi-就表示two。combine<1455> = com[=com-:with, together] + bine[=*dwo-]，表示join two things together。diplomatic<3978> = diplo[=diplo-:double]<--di[=di-(1):two] + plo[=*pel-(2):to fold] + oma[=-oma] + ic[=-ic]，本意就是表示"paper folded double"，也就是一张叠起来的破纸。后来经过疯狂引申，才有了现在的"文凭"、"外交(文件)"之类的意思。另外diplo-这个前缀并不常见，不用特别记忆。doubt<1920> = dou[=*dwo-]，表达"of two minds, undecided between two things"的感觉。between<140> = be[=bi-:by] + tw[=*dwo-]，表示在二者(two)之间。twin<2398> = tw[=*dwo-]。double<2222> = dou[=*dwo-] + ble[=-plus:more]，表示"twofold, twice as much"。
+    related:
+      - twisted
+      - combination
+      - balanced
+      - diploma
+      - diplomacy
+      - diplomat
+      - doubtful
+      - doubtless
+      - twofold
+      - twentieth
+      - twelfth
+      - double-digit
+      - double-edged
