@@ -3759,6 +3759,7 @@
   realted:
     - bullshit
     - bullish
+    - bulldoze
     - bulldozer
 - word: bullet
   freq: 2764
@@ -16185,15 +16186,55 @@
       - impossible
   related:
     - unrecognized
+- word: dubious
+  freq: 7744
+  use: 98
+  pos: ADJECTIVE
+  meaning: If you describe something as dubious, you mean that you do not consider it to be completely honest, safe, or reliable.
+  sent: This claim seems to us to be rather dubious.
+  roots: "du[=*dwo-:two] + ous[=-ous]"
+  exp: 用的是*dwo-中doubt的那层意思。
+- word: unbalanced
+  freq: 17662
+  use: 77
+  pos: ADJECTIVE
+  meaning: If you describe someone as unbalanced, you mean that they appear disturbed and upset or they seem to be slightly crazy.
+  sent: I knew how unbalanced Paula had been since my uncle Peter died.
+  roots: "un[=un-(1):not] + balance[=balance<1640>] + (e)d[=-ed]"
+  connect:
+    not:
+      - disturbed
+      - upset
+      - crazy
+    balance:
+      - disturbed
+      - upset
+      - crazy
+- word: twine
+  freq: 15760
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: If you twine one thing around another, or if one thing twines around another, the first thing is twisted or wound around the second.
+  sent: He had twined his chubby arms around Vincent's neck.
+  roots: "tw[=*dwo-:two]"
+  exp: 和twist<3795>一样，由于两股绳才能缠绕在一起，因此这里*dwo-表达twist的意思。释义中也可以看到first... around the second的措辞。
+  connect:
+    two:
+      - twisted
+      - wound around
+- word: entwine
+  freq: 17655
+  use: 43
+  pos: RECIPROCAL VERB
+  meaning: If one thing is entwined with another thing, or if you entwine two things, the two things are twisted around each other.
+  sent: His dazed eyes stare at the eels, which still writhe and entwine.
+  roots: "en[=en-(1):make, put in] + twine[=twine<15760>]"
+  connect:
+    twine:
+      - twisted
 
 
 
-duplicate       9442    133     *dwo-,  *plek-
-  duplication     17302   72      *dwo-,  *plek-
-dubious 7744    98      *dwo-
-unbalanced      17662   77      *dwo-
-bulldoze        17448   57      *dekm-, *dwo-
-entwine 17655   43      *dwo-
 twig    9731    41      *dwo-
 twilight        7000    38      *dwo-
 imbalance       8287    37      *dwo-
