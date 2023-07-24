@@ -1172,10 +1172,14 @@
   meaning: If there is a dichotomy between two things, there is a very great difference
     or opposition between them.
   sent: There is a dichotomy between the academic world and the industrial world.
-  roots:
-    dich: "*dwo- | two"
-    tom: "*tem- | to cut"
-  exp: a cutting in two，相当的make sense。
+  roots: "dich[=*dwo-:two] + tom[*tem-=to cut]"
+  connect:
+    two:
+      - two
+      - between
+    cut:
+      - difference
+      - opposition
 - word: epitomize
   freq: 12841
   use: 43
@@ -16232,25 +16236,211 @@
   connect:
     twine:
       - twisted
+- word: twig
+  freq: 9731
+  use: 41
+  pos: COUNTABLE NOUN
+  meaning: A twig is a very small thin branch that grows out from a main branch of a tree or bush.
+  sent: There is the bird, sitting on a twig halfway up the tree.
+  roots: "tw[=*dwo-:two]"
+  exp: 词根里的two表示fork, point of division，也就是"分成两杈"的意思。学过算法的可以用binary tree来理解这个词。
+- word: twilight
+  freq: 7000
+  use: 38
+  pos: UNCOUNTABLE NOUN
+  meaning: Twilight is the time just before night when the daylight has almost gone but when it is not completely dark.
+  sent: They returned at twilight.
+  roots: "twi[=twi-:two] + light[=light<465>]"
+  exp: 词根里的two表示half的意思，因此词根合起来表示half light，也就是"半亮半不亮"的感觉。
+- word: imbalance
+  freq: 8287
+  use: 37
+  pos: VARIABLE NOUN
+  meaning: If there is an imbalance in a situation, the things involved are not the same size, or are not the right size in proportion to each other.
+  sent: '...the imbalance between the two sides in this war.'
+  roots: "im[=im-:not] + balance[=balance<1640>]"
+  connect:
+    not:
+      - not
+    balance:
+      - in proportion
+- word: counterbalance
+  freq: 18511
+  use: 26
+  pos: TRANSITIVE VERB
+  meaning: To counterbalance something means to balance or correct it with something that has an equal but opposite effect.
+  sent: Add honey to counterbalance the acidity.
+  roots: "counter[=counter-:against, in opposition] + balance[=balance<1640>]"
+  connect:
+    against, in opposition:
+      - opposite
+    balance:
+      - balance
+- word: intertwine
+  freq: 11854
+  use: 25
+  pos: RECIPROCAL VERB
+  meaning: If two or more things are intertwined or intertwine, they are closely connected with each other in many ways.
+  sent: Their destinies are intertwined.
+  roots: "inter[=inter-: between, among, during] + twine[=twine<15760>]"
+  connect:
+    between:
+      - with each other
+    twine:
+      - closely connected
+- word: duo
+  freq: 9208
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A duo is two musicians, singers, or other performers who perform together as a pair.
+  sent: '...a famous dancing and singing duo.'
+  roots: "duo[=*dwo-:two]"
+  connect:
+    two:
+      - two
+      - pair
+- word: dyad
+  freq: 19688
+  use: 23
+  pos: NOUN
+  meaning: something that consists of two elements or parts.
+  sent: the mother–child dyad
+  roots: "dya[=*dwo-:two]"
+  connect:
+    two:
+      - two
+- word: dual
+  freq: 5676
+  use: 7
+  pos: ADJECTIVE
+  meaning: Dual means having two parts, functions, or aspects.
+  sent: '...his dual role as head of the party and head of state.'
+  roots: "du[=*dwo-:two] + al[=-al]"
+  connect:
+    two:
+      - two
+  related:
+    - duality
+    - dualism
+- word: binary
+  freq: 11460
+  use: 7
+  pos: UNCOUNTABLE NOUN
+  meaning: The binary system expresses numbers using only the two digits 0 and 1. It is used especially in computing.
+  sent: The message contains Unicode characters and has been sent as a binary attachment.
+  roots: "bi[=*dwo-:two]"
+  connect:
+    two:
+      - two
+- word: duplex
+  freq: 19256
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A duplex is a house which has been divided into two separate units for two different families or groups of people.
+  roots: "du[=*dwo-:two] + plex[=*plek-:to plait]"
+  connect:
+    two:
+      - two
+      - two
+  exp: duplex就是两个units被绑在一起(plait)的感觉。
+- word: biscuit
+  freq: 8222
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A biscuit is a small round dry cake that is made with baking powder, baking soda, or yeast.
+  sent: biscuit gloves
+  roots: "bis[=*dwo-:two] + cuit[=cook<1426>]"
+  exp: 词根合起来表示twice-baked。
+- word: duet
+  freq: 12485
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A duet is a piece of music sung or played by two people.
+  sent: Tonight she sings a duet with he twin sister.
+  roots: "du[=*dwo-:two]"
+  connect:
+    two:
+      - two
+- word: twine
+  freq: 15760
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: If you twine one thing around another, or if one thing twines around another, the first thing is twisted or wound around the second.
+  sent: He had twined his chubby arms around Vincent's neck.
+  roots: "tw[=*dwo-:two]"
+  connect:
+    two:
+      - one thing around another
 
 
 
-twig    9731    41      *dwo-
-twilight        7000    38      *dwo-
-imbalance       8287    37      *dwo-
-counterbalance  18511   26      *dwo-
-intertwine      11854   25      *dwo-
-duo     9208    23      *dwo-
-dyad    19688   23      *dwo-
-dichotomy       11554   8       *dwo-,  *tem-
-dual    5676    7       *dwo-
-  duality 16952   -1      *dwo-
-  dualism 19463   -1      *dwo-
-binary  11460   7       *dwo-
-duplex  19256   7       *dwo-,  *plek-
-biscuit 8222    -1      *dwo-,  *pekw-
-duet    12485   -1      *dwo-
-twine   15760   -1      *dwo-
+base    537     166     *gwa-
+  basement        3632    30      *gwa-
+  baseline        6053    54      *gwa-
+  baseman 8959    -1      *gwa-
+  basal   18005   37      *gwa-
+  basic   1147    37      *gwa-
+  basis   1314    44      *gwa-
+  basically       1702    53      *gwa-
+  basics  6736    21      *gwa-
+come    70      133     *gwa-
+  welcome 1555    138     *gwa-
+  income  1141    36      *gwa-
+  incoming        6862    53      *gwa-
+  coming  4772    91      *gwa-
+  homecoming      11499   -1      *gwa-
+  newcomer        5679    28      *gwa-
+  upcoming        5118    24      *gwa-
+  comer   9900    -1      *gwa-
+  oncoming        14267   24      *gwa-
+event   526     107     *gwa-
+  eventual        7419    32      *gwa-
+  eventually      1110    24      *gwa-
+convention      2494    -1      *gwa-
+  convent 11560   2       *gwa-
+  conventional    2576    -1      *gwa-
+adventure       2885    77      *gwa-
+  advent  8282    36      *gwa-
+  adventurous     11153   76      *gwa-
+  adventurer      13796   -1      *gwa-
+prevent 1087    70      *gwa-
+  prevention      3996    18      *gwa-
+  preventive      7745    20      *gwa-
+  preventable     16996   0       *gwa-
+  preventative    19828   8       *gwa-
+outcome 1760    52      *gwa-
+invent  3426    34      *gwa-
+  inventory       4005    51      *gwa-
+  invention       4828    67      *gwa-
+  inventor        8346    16      *gwa-
+become  139     18      *gwa-
+  revenue 1691    16      *gwa-
+  overcome        2730    -1      *gwa-
+intervention    1940    0       *gwa-
+  intervene       5157    28      *gwa-
+
+
+
+covenant        11548   70      *gwa-
+unwelcome       12372   64      *gwa-
+avenue  6178    54      *gwa-
+circumvent      12251   54      *gwa-
+convene 7956    46      *gwa-
+convenience     4945    33      *gwa-
+  convenient      5438    21      *gwa-
+  conveniently    11879   0       *gwa-
+venue   5460    26      *gwa-
+souvenir        8210    14      *gwa-
+acrobat 20193   4       *ak-,   *gwa-
+diabetes        4126    -1      *gwa-
+reinvent        8350    -1      *gwa-
+  reinvention     20087   -1      *gwa-
+unconventional  10196   -1      *gwa-
+provenance      17468   -1      *gwa-
+juggernaut      19183   -1      *gwa-
+inconvenience   11019   93      *gwa-
+  inconvenient    13872   39      *gwa-
+
 
 
 
@@ -16273,7 +16463,6 @@ twine   15760   -1      *dwo-
 # (63, '*al-'),
 # (63, '*ghel-'),
 # (66, '*kele-'),
-# (68, '*gwa-'),
 # (74, '*man-'),
 # (83, '*bha-'),
 # (87, '*bher-'),
