@@ -16371,53 +16371,19 @@
   connect:
     two:
       - one thing around another
+- word: advent
+  freq: 8282
+  use: 36
+  pos: UNCOUNTABLE NOUN
+  meaning: The advent of an important event, invention, or situation is the fact of it starting or coming into existence.
+  sent: The advent of the computer has brought this sort of task within the bounds of possibility.
+  roots: "ad[=ad-:to] + vent[=*gwa-:to go, come]"
+  connect:
+    come:
+      - starting
+      - coming into existence
 
 
-
-base    537     166     *gwa-
-  basement        3632    30      *gwa-
-  baseline        6053    54      *gwa-
-  baseman 8959    -1      *gwa-
-  basal   18005   37      *gwa-
-  basic   1147    37      *gwa-
-  basis   1314    44      *gwa-
-  basically       1702    53      *gwa-
-  basics  6736    21      *gwa-
-come    70      133     *gwa-
-  welcome 1555    138     *gwa-
-  income  1141    36      *gwa-
-  incoming        6862    53      *gwa-
-  coming  4772    91      *gwa-
-  homecoming      11499   -1      *gwa-
-  newcomer        5679    28      *gwa-
-  upcoming        5118    24      *gwa-
-  comer   9900    -1      *gwa-
-  oncoming        14267   24      *gwa-
-event   526     107     *gwa-
-  eventual        7419    32      *gwa-
-  eventually      1110    24      *gwa-
-convention      2494    -1      *gwa-
-  convent 11560   2       *gwa-
-  conventional    2576    -1      *gwa-
-adventure       2885    77      *gwa-
-  advent  8282    36      *gwa-
-  adventurous     11153   76      *gwa-
-  adventurer      13796   -1      *gwa-
-prevent 1087    70      *gwa-
-  prevention      3996    18      *gwa-
-  preventive      7745    20      *gwa-
-  preventable     16996   0       *gwa-
-  preventative    19828   8       *gwa-
-outcome 1760    52      *gwa-
-invent  3426    34      *gwa-
-  inventory       4005    51      *gwa-
-  invention       4828    67      *gwa-
-  inventor        8346    16      *gwa-
-become  139     18      *gwa-
-  revenue 1691    16      *gwa-
-  overcome        2730    -1      *gwa-
-intervention    1940    0       *gwa-
-  intervene       5157    28      *gwa-
 
 
 
