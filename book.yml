@@ -5785,16 +5785,6 @@
     - oxidation
     - peroxide
     - dioxin
-- word: acrobat
-  freq: 20193
-  use: 4
-  pos: COUNTABLE NOUN
-  meaning: An acrobat is an entertainer who performs difficult physical acts such as jumping and balancing, especially in a circus.
-  sent: a political acrobat
-  roots:
-    acro: "*ak- | be sharp, rise (out) to a point, pierce"
-    bat: "*gwa- | to go, come"
-  exp: 首先先解释一下啥叫political acrobat。在政坛往往有那种不安分，整天上蹿下跳的人，而political acrobat正表示a person noted for his or her frequent and rapid changes of position or allegiances。词根上sharp + go表示"在针尖上跳舞"的感觉。
 - word: acrylic
   freq: 13122
   use: -1
@@ -16382,23 +16372,136 @@
     come:
       - starting
       - coming into existence
+- word: covenant
+  freq: 11548
+  use: 70
+  pos: COUNTABLE NOUN
+  meaning: A covenant is a formal written agreement between two or more people or groups of people which is recognized in law.
+  sent: '...the International Covenant on Civil and Political Rights.'
+  roots: "co[=com-:with, together] + ven[=*gwa-:to go, come]"
+  connect:
+    with, together:
+      - agreement
+    to go, come:
+      - agreement
+  exp: 和convention<2494>一样，都从come together衍生出了agree的意思。
+- word: unwelcome
+  freq: 12372
+  use: 64
+  pos: ADJECTIVE
+  meaning: An unwelcome experience is one that you do not like and did not want.
+  sent: The mayor delivered the unwelcome news that city employees may have to take unpaid time off.
+  roots: "un[=un-(1):not] + welcome[=welcome<1555>]"
+  connect:
+    not:
+      - not
+      - not
+    welcome:
+      - like
+      - want
+- word: avenue
+  freq: 6178
+  use: 54
+  pos: NOUN, IN NAMES
+  meaning: Avenue is sometimes used in the names of streets. The written abbreviation Ave. is also used.
+  sent: '...the most expensive apartments on Park Avenue.'
+  roots: "a[=ad-:to] + ven[=*gwa-:to go, come]"
+  exp: avenue就是为了让大家在上面come and go的。
+- word: circumvent
+  freq: 12251
+  use: 54
+  pos: TRANSITIVE VERB
+  meaning: If someone circumvents a rule or restriction, they avoid having to obey the rule or restriction, in a clever and perhaps dishonest way.
+  sent: Military planners tried to circumvent the treaty.
+  roots: "circum[=circum-:around] + vent[=*gwa-:to go, come]"
+  connect:
+    around:
+      - avoid
+    to go, come:
+      - avoid
+  exp: 词根合起来表示to get around，也就是"绕过去"，对应释义中的avoid。
+- word: convene
+  freq: 7956
+  use: 46
+  pos: VERB
+  meaning: If someone convenes a meeting or conference, they arrange for it to take place. You can also say that people convene or that a meeting convenes.
+  sent: Last August he convened a meeting of his closest advisers at Camp David.
+  roots: "con[=con-:with, together] + vene[=*gwa-:to go, come]"
+  connect:
+    with, together:
+      - arrange
+    to go, come:
+      - arrange
+  exp: 词根合起来表达assemble的意思，对应释义中的arrange。
+- word: convenience
+  freq: 4945
+  use: 33
+  pos: UNCOUNTABLE NOUN
+  meaning: If something is done for your convenience, it is done in a way that is useful or suitable for you.
+  sent: He was happy to make a detour for her convenience.
+  roots: "con[=con-with, together] + ven[=*gwa-:to go, come]"
+  connect:
+    together:
+      - useful
+      - suitable
+    come:
+      - useful
+      - suitable
+  exp: 用"come together"表达"be suitable or proper (to)"的感觉；如果不suitable的话则会fall part。
+  related:
+    - convenient
+    - conveniently
+- word: venue
+  freq: 5460
+  use: 26
+  pos: COUNTABLE NOUN
+  meaning: The venue for an event or activity is the place where it will happen.
+  sent: The International Convention Centre is the venue for a three-day arts festival.
+  roots: "ven[=*gwa-:to go, come]"
+  connect:
+    come:
+      - place
+- word: souvenir
+  freq: 8210
+  use: 14
+  pos: COUNTABLE NOUN
+  meaning: A souvenir is something which you buy or keep to remind you of a vacation, place, or event.
+  sent: '...a souvenir of the summer of 1992.'
+  roots: "sou[=sub-:up from below] + ven[=*gwa-:to go, come]"
+  connect:
+    up from below:
+      - remind
+    come:
+      - remind
+  exp: 用"come up from below"来表示"唤醒多年沉睡记忆"的感觉。
+- word: acrobat
+  freq: 20193
+  use: 4
+  pos: COUNTABLE NOUN
+  meaning: An acrobat is an entertainer who performs difficult physical acts such as jumping and balancing, especially in a circus.
+  sent: There were puppeteers, circus acrobats, and exotic animals on hand to provide entertainment.
+  roots: "acro[=arco-:highest, topmost] + bat[=*gwa-:to go, come]"
+  connect:
+    highest, topmost:
+      - jumping
+      - balancing
+    to go, come:
+      - jumping
+      - balancing
+  exp: 词根合起来表示在最高处(highest)来回溜达(go, come)。
+  exchange:
+    - bat=*gwa-，因为b=v=w。
+- word: diabetes
+  freq: 4126
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Diabetes is a medical condition in which someone has too much sugar in their blood.
+  roots: "dia[=dia-:through] + bete[=*gwa-:to go, come]"
+  exp: 用"pass through"来表达"excessive discharge of urine"，也就是尿"过于通畅"的感觉。而排尿增多正是糖尿病的主要症状之一。现代因为肥胖死亡的人数早已超越因为营养不良死亡的人数，所以diabetes这么常用也不奇怪。
+  exchange:
+    - bete=*gwa-，因为b=v=w。
 
 
-
-
-
-covenant        11548   70      *gwa-
-unwelcome       12372   64      *gwa-
-avenue  6178    54      *gwa-
-circumvent      12251   54      *gwa-
-convene 7956    46      *gwa-
-convenience     4945    33      *gwa-
-  convenient      5438    21      *gwa-
-  conveniently    11879   0       *gwa-
-venue   5460    26      *gwa-
-souvenir        8210    14      *gwa-
-acrobat 20193   4       *ak-,   *gwa-
-diabetes        4126    -1      *gwa-
 reinvent        8350    -1      *gwa-
   reinvention     20087   -1      *gwa-
 unconventional  10196   -1      *gwa-
