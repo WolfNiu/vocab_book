@@ -16500,16 +16500,60 @@
   exp: 用"pass through"来表达"excessive discharge of urine"，也就是尿"过于通畅"的感觉。而排尿增多正是糖尿病的主要症状之一。现代因为肥胖死亡的人数早已超越因为营养不良死亡的人数，所以diabetes这么常用也不奇怪。
   exchange:
     - bete=*gwa-，因为b=v=w。
-
-
-reinvent        8350    -1      *gwa-
-  reinvention     20087   -1      *gwa-
-unconventional  10196   -1      *gwa-
-provenance      17468   -1      *gwa-
-juggernaut      19183   -1      *gwa-
-inconvenience   11019   93      *gwa-
-  inconvenient    13872   39      *gwa-
-
+- word: reinvent
+  freq: 8350
+  use: -1
+  pos: PHRASE
+  meaning: If someone is trying to reinvent the wheel, they are trying to do something that has already been done successfully.
+  sent: Some of these ideas are worth pursuing, but there is no need to reinvent the wheel.
+  roots: "re[=re-:again] + invent[=invent<8350>]"
+  connect:
+    again:
+      - already
+    invent:
+      - do
+  related:
+    - reinvention
+- word: unconventional
+  freq: 10196
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe a person or their attitude or behavior as unconventional, you mean that they do not behave in the same way as most other people in their society.
+  sent: They are seen as being unconventional geniuses.
+  roots: "un[=un-(1):not] + conventional[=conventional<2576>]"
+  connect:
+    not:
+      - not
+    conventional:
+      - behave in the same way
+- word: provenance
+  freq: 17468
+  use: -1
+  pos: NOUN
+  meaning: The provenance of something is the place that it comes from or that it originally came from.
+  sent: Kato was fully aware of the provenance of these treasures.
+  roots: "pro[=pro-:forth] + ven[=*gwa-:to go, come] + ance[=-ance]"
+  connect:
+    come:
+      - come
+      - came
+    forth:
+      - from
+      - from
+- word: inconvenient
+  freq: 13872
+  use: 39
+  pos: ADJECTIVE
+  meaning: Something that is inconvenient causes problems or difficulties for someone.
+  sent: Can you come at 10:30? I know it's inconvenient, but I have to see you.
+  roots: "in[=in-(1):not, opposite of] + convenient[=convenient<5438>]"
+  connect:
+    not, opposite of:
+      - causes problems or difficulties
+    convenient:
+      - causes problems or difficulties
+  related:
+    - convenient
 
 
 
