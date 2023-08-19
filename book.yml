@@ -16557,6 +16557,60 @@
 
 
 
+order   685     281     *ar-
+  orderly 7888    46      *ar-
+  mail-order      13177   -1      *ar-
+alarm   3728    155     *ar-
+arm     492     82      *ar-
+  armed   2604    -1      *ar-
+army    1547    48      *ar-
+article 732     18      *ar-
+ordinary        2289    -1      *ar-
+disorder        2388    -1      *ar-
+
+
+articulate      4915    103     *ar-
+harmonious      12897   97      *ar-
+harmony 4722    80      *ar-
+ornament        7887    79      *ar-
+disarm  8973    79      *ar-
+disorderly      18020   78      *ar-
+ornate  10881   67      *ar-
+inert   14371   66      *ar-
+alarmed 14275   61      *ar-
+adorn   8158    57      *ad-,   *ar-
+ordain  13530   55      *ar-
+armor   5963    52      *ar-
+aristocracy     14235   41      *ar-
+forearm 8039    39      *ar-
+harmonic        15039   36      *ar-
+inordinate      18136   36      *ar-
+ornamental      12843   32      *ar-
+subordination   17248   28      *ar-
+ordinance       8070    27      *ar-
+adornment       19972   27      *ad-,   *ar-
+primordial      13627   25      *ar-,   *per-
+inertia 13369   18      *ar-
+coordination    6149    12      *ar-
+artisan 9501    8       *ar-
+ordnance        20176   5       *ar-
+disarmament     11804   3       *ar-
+Philharmonic    13820   0       *ar-
+articulated     17961   0       *ar-
+alarmingly      19567   0       *ar-
+artifact        4608    -1      *ar-,   *dhe-
+arthritis       7502    -1      *ar-
+subordinate     10032   -1      *ar-
+unarmed 12704   -1      *ar-
+armpit  13553   -1      *ar-
+harmonize       15457   -1      *ar-
+armament        17204   -1      *ar-
+harmonica       17598   -1      *ar-
+artifice        18981   -1      *ar-,   *dhe-
+
+
+
+
 ## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
 # (34, '*ambhi-'),
@@ -16570,8 +16624,6 @@
 # (55, '*kwo-'),
 # (55, '*plek-'),
 # (59, '*dwo-'),
-# (60, '*ar-'),
-# (60, '*spek-'),
 # (61, '*med-'),
 # (63, '*al-'),
 # (63, '*ghel-'),
@@ -16588,7 +16640,6 @@
 # (125, '*kap-'),
 # (127, '*men-'),
 # (132, '*reg-'),
-# (186, '*bhel-'),
 # (199, '*sta-'),
 # (205, '*wer-'),
 # (228, '*dhe-'),
