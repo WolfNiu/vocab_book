@@ -16554,58 +16554,101 @@
       - causes problems or difficulties
   related:
     - convenient
+- word: disarm
+  freq: 8973
+  use: 79
+  pos: TRANSITIVE VERB
+  meaning: To disarm a person or group means to take away all their weapons.
+  sent: We will agree to disarming troops and leaving their weapons at military positions.
+  roots: "dis[=dis-:reverse of] + arm[=arm<3728>]"
+  connect:
+    reverse of:
+      - take away
+    arm:
+      - weapons
+  related:
+    - disarmament
+- word: armor
+  freq: 5963
+  use: 52
+  pos: UNCOUNTABLE NOUN
+  meaning: In former times, armor was special metal clothing that soldiers wore for protection in battle.
+  sent: '...knights in armor.'
+  roots: "arm[=arm<3728>] + or[=-or]"
+  connect:
+    arm:
+      - battle
+- word: forearm
+  freq: 8039
+  use: 39
+  pos: COUNTABLE NOUN
+  meaning: Your forearm is the part of your arm between your elbow and your wrist.
+  sent: '...the tattoo on his forearm.'
+  roots: "for[=fore-:before in position] + arm[=arm<3728>]"
+  connect:
+    before:
+      - between your elbow and your wrist
+    arm:
+      - arm
+- word: unarmed
+  freq: 12704
+  use: -1
+  pos: ADJECTIVE
+  meaning: If a person or vehicle is unarmed, they are not carrying any weapons.
+  sent: The soldiers concerned were unarmed at the time.
+  roots: "un[=un-(1):not] + arm[=arm<3728>] + ed[=-ed]"
+  connect:
+    not:
+      - not
+    arm:
+      - weapons
+- word: armpit
+  freq: 13553
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Your armpits are the areas of your body under your arms where your arms join your shoulders.
+  sent: I shave my armpits every couple of days.
+  roots: "arm[=arm<3728>] + pit[=pit<3894>]"
+  connect:
+    arm:
+      - arms
+    pit:
+      - under
+- word: armament
+  freq: 17204
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Armament is used to refer to weapons and bombs carried by an aircraft or other military vehicle.
+  sent: '...a bomber with twin engines and heavy defensive armament.'
+  roots: "arm[=arm<3894>] + ment[=-ment]"
+  connect:
+    arm:
+      - weapons
+      - bombs
 
-
-
-order   685     281     *ar-
-  orderly 7888    46      *ar-
-  mail-order      13177   -1      *ar-
-alarm   3728    155     *ar-
-arm     492     82      *ar-
-  armed   2604    -1      *ar-
-army    1547    48      *ar-
-article 732     18      *ar-
-ordinary        2289    -1      *ar-
-disorder        2388    -1      *ar-
 
 
 articulate      4915    103     *ar-
-harmonious      12897   97      *ar-
 harmony 4722    80      *ar-
+  harmonic        15039   36      *ar-
+  harmonious      12897   97      *ar-
+  harmonize       15457   -1      *ar-
+  harmonica       17598   -1      *ar-
 ornament        7887    79      *ar-
-disarm  8973    79      *ar-
-disorderly      18020   78      *ar-
+  ornamental      12843   32      *ar-
 ornate  10881   67      *ar-
 inert   14371   66      *ar-
-alarmed 14275   61      *ar-
 adorn   8158    57      *ad-,   *ar-
-ordain  13530   55      *ar-
-armor   5963    52      *ar-
+  adornment       19972   27      *ad-,   *ar-
 aristocracy     14235   41      *ar-
-forearm 8039    39      *ar-
-harmonic        15039   36      *ar-
-inordinate      18136   36      *ar-
-ornamental      12843   32      *ar-
-subordination   17248   28      *ar-
 ordinance       8070    27      *ar-
-adornment       19972   27      *ad-,   *ar-
 primordial      13627   25      *ar-,   *per-
 inertia 13369   18      *ar-
-coordination    6149    12      *ar-
 artisan 9501    8       *ar-
-ordnance        20176   5       *ar-
-disarmament     11804   3       *ar-
 Philharmonic    13820   0       *ar-
 articulated     17961   0       *ar-
-alarmingly      19567   0       *ar-
 artifact        4608    -1      *ar-,   *dhe-
 arthritis       7502    -1      *ar-
-subordinate     10032   -1      *ar-
-unarmed 12704   -1      *ar-
-armpit  13553   -1      *ar-
-harmonize       15457   -1      *ar-
-armament        17204   -1      *ar-
-harmonica       17598   -1      *ar-
 artifice        18981   -1      *ar-,   *dhe-
 
 

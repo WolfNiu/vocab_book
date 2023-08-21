@@ -1869,9 +1869,13 @@ misc:
       - basis
 "*ar-":
   - meaning: to fit together
-    exp: art<347> = ar[=*ar-]。art的本意是practical skill，需要"融会贯通(fit together)"。
+    exp: art<347> = ar[=*ar-]。art的本意是practical skill，需要"融会贯通(fit together)"。arm<3728> = ar[=*ar-]，arm就是小臂大臂接在一起(fit together)。由于大部分工具(尤其是武器)都需要手臂来操控，arm也衍生出了"weapons"的意思。在arm的基础上，alarm<3728> = al[=ad-:to] + arm[=*ar-]，词根合起来表示"to arms!"，也就是"a call to arms in the face of danger or an enemy"。如果玩Diablo 2的话，你现在会更明白为什么它有一个Rune Word叫"Call to Arms"。article<732> = art[=*ar-]，所谓article就是把一堆字、词、段落组合在一起(fit together)。
     related:
       - artist
       - artistic
       - artistry
       - artful
+      - armed
+      - army
+      - alarmed
+      - alarmingly
