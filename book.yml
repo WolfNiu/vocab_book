@@ -2591,7 +2591,7 @@
     breed: "*bhreu- | to boil, bubble, effervesce, burn"
   exp: 第一眼看去breed似乎和*bhreu-没什么关系——总不能是bubble表示卵泡儿吧。实际上这个词借的是*bhreu-中to keep warm的那层意思。比如你想孵个蛋，就肯定要给它个温暖的环境。
   fig: A屁股底下坐了一个大恐龙蛋，旁边注"keep warm"。
-  realted:
+  related:
     - breeding
     - breeder
 - word: brood
@@ -3032,7 +3032,7 @@
   roots:
     sch: "*segh- | to hold"
   exp: hold就是"不动"的感觉，比如一个固体的形状(figure, appearance)，就是hold在那里不动的。之后引申为plan，也就是一个行动大体的框架(形状、形式)的感觉。
-  realted:
+  related:
     - schema
     - schematic
 - word: persevere
@@ -3760,7 +3760,7 @@
   roots:
     bull: "*bhel- | to blow, swell, well up, overflow"
   exp: 这个词借的主要是*bhel-中to roar的那层意思(也就是把声音blow出去)。之所以表示公牛估计是因为公的比母的叫得响。
-  realted:
+  related:
     - bullshit
     - bullish
     - bulldoze
@@ -16625,28 +16625,67 @@
     arm:
       - weapons
       - bombs
+- word: articulate
+  freq: 4915
+  use: 103
+  pos: ADJECTIVE
+  meaning: If you describe someone as articulate, you mean that they are able to express their thoughts and ideas easily and well.
+  sent: She is an articulate young woman.
+  roots: "art[=*ar-:to fit together]"
+  connect:
+    to fit together:
+      - easily
+      - well
+  related:
+    - articulated
+- word: harmony
+  freq: 4722
+  use: 80
+  pos: UNCOUNTABLE NOUN
+  meaning: If people are living in harmony with each other, they are living together peacefully rather than fighting or arguing.
+  sent: '...the notion that mankind should dominate nature rather than live in harmony with it.'
+  roots: "har[=*ar-:to fit together]"
+  connect:
+    to fit together:
+      - living together peacefully
+  related:
+    - harmonic
+    - harmonious
+    - harmonize
+    - harmonica
+- word: inert
+  freq: 14371
+  use: 66
+  pos: ADJECTIVE
+  meaning: Someone or something that is inert does not move at all.
+  sent: He covered the inert body with a blanket.
+  roots: "in[=in-(1):without, not, opposite of] + ert[=*ar-:to fit together]"
+  connect:
+    not:
+      - not
+    to fit together:
+      - move
+  exp: 词根合起来表示"doesn't fit together"，于是就动不了了。
+  related:
+    - inertia
+- word: aristocracy
+  freq: 14235
+  use: 41
+  pos: COLLECTIVE COUNTABLE NOUN
+  meaning: The aristocracy is a class of people in some countries who have a high social rank and special titles.
+  sent: '...a member of the aristocracy.'
+  roots: "aristo[=aristo-:best]<--[=*ar-:to fit together] + cracy[=-cracy:rule or government by]"
+  connect:
+    best:
+      - high
+      - special
+    rule or government by:
+      - rank
+      - titles
 
 
-
-articulate      4915    103     *ar-
-harmony 4722    80      *ar-
-  harmonic        15039   36      *ar-
-  harmonious      12897   97      *ar-
-  harmonize       15457   -1      *ar-
-  harmonica       17598   -1      *ar-
-ornament        7887    79      *ar-
-  ornamental      12843   32      *ar-
-ornate  10881   67      *ar-
-inert   14371   66      *ar-
-adorn   8158    57      *ad-,   *ar-
-  adornment       19972   27      *ad-,   *ar-
-aristocracy     14235   41      *ar-
-ordinance       8070    27      *ar-
-primordial      13627   25      *ar-,   *per-
-inertia 13369   18      *ar-
 artisan 9501    8       *ar-
 Philharmonic    13820   0       *ar-
-articulated     17961   0       *ar-
 artifact        4608    -1      *ar-,   *dhe-
 arthritis       7502    -1      *ar-
 artifice        18981   -1      *ar-,   *dhe-
