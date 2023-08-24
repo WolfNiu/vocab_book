@@ -16682,13 +16682,52 @@
     rule or government by:
       - rank
       - titles
+- word: philharmonic
+  freq: 13820
+  use: 0
+  pos: ADJECTIVE
+  meaning: A philharmonic orchestra is a large orchestra that plays classical music.
+  sent: The Lithuanian Philharmonic Orchestra played Beethoven's Ninth Symphony.
+  roots: "phil[=philo-:loving] + harmonic[=harmonic<15039>]"
+  exp: 如果按词根直译的话就是"喜爱和声的"乐团。
+- word: artifact
+  freq: 4608
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An artifact is an ornament, tool, or other object that is made by a human being, especially one that is historically or culturally interesting.
+  sent: They also repair broken religious artifacts.
+  roots: "art[=art<347>] + fact[=fac:to make, do]<--[=*dhe-:to set, put]"
+  connect:
+    art:
+      - ornament
+      - tool
+      - other object
+    make:
+      - made
+- word: arthritis
+  freq: 7502
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Arthritis is a medical condition in which the joints in someone's body are swollen and painful.
+  sent: I have a touch of arthritis in the wrist.
+  roots: "ar[=arthr:a joint]<--[=*ar-:to fit together]"
+  connect:
+    joint:
+      - joints
+- word: artifice
+  freq: 18981
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Artifice is the clever use of tricks and devices.
+  sent: Weegee's photographs are full of artfulness, and artifice.
+  roots: "art[=art<347>] + fice[=fac:to make, do]<--[=*dhe-:to set, put]"
+  connect:
+    art:
+      - clever
+    make, do:
+      - use
 
 
-artisan 9501    8       *ar-
-Philharmonic    13820   0       *ar-
-artifact        4608    -1      *ar-,   *dhe-
-arthritis       7502    -1      *ar-
-artifice        18981   -1      *ar-,   *dhe-
 
 
 
