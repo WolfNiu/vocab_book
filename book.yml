@@ -16726,9 +16726,62 @@
       - clever
     make, do:
       - use
+- word: glint
+  freq: 13677
+  use: 48
+  pos: INTRANSITIVE VERB
+  meaning: If something glints, it produces or reflects a quick flash of light.
+  sent: The sea glinted in the sun.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - flash of light
+- word: melancholy
+  freq: 14026
+  use: 179
+  pos: ADJECTIVE
+  meaning: You describe something that you see or hear as melancholy when it gives you an intense feeling of sadness.
+  sent: The only sounds were the distant, melancholy cries of the sheep.
+  roots: "melan[=melano-:black] + chol[=khole:bile]<--[=*ghel-(2):to shine] + y[=-y]"
+  connect:
+    black:
+      - sadness
+    bile:
+      - sadness
+  exp: 西方的传统医学(类似于中医)认为人之所以抑郁(sadness)是因为black bile过量。
 
 
 
+
+gall    15119   162     *ghel-
+glimmer 12858   135     *ghel-
+glow    5159    74      *ghel-
+glide   7204    66      *ghel-
+  glider  17128   -1      *ghel-
+glare   6455    62      *ghel-
+gloss   11542   61      *ghel-
+  glossy  8737    21      *ghel-
+  glossary        17461   -1      *ghel-
+glaring 12999   56      *ghel-
+glitch  13025   37      *ghel-
+glitzy  19390   35      *ghel-
+glimpse 4604    33      *ghel-
+glower  19486   33      *ghel-
+glitter 12168   24      *ghel-
+glaze   9364    23      *ghel-
+glee    13555   23      *ghel-
+yelp    17024   20      *ghel-
+gloat   18650   20      *ghel-
+chlorine        9775    -1      *ghel-
+gleam   10429   -1      *ghel-
+glisten 10703   -1      *ghel-
+  glistening      14688   19      *ghel-
+gilded  12405   -1      *ghel-
+arsenic 13126   -1      *ghel-
+cholera 14436   -1      *ghel-
+chloride        16073   -1      *ghel-
+marigold        18868   -1      *ghel-
+glib    20141   -1      *ghel-
 
 
 
@@ -16743,11 +16796,9 @@
 # (50, '*stere-'),
 # (55, '*ker-'),
 # (55, '*kwo-'),
-# (55, '*plek-'),
 # (59, '*dwo-'),
 # (61, '*med-'),
 # (63, '*al-'),
-# (63, '*ghel-'),
 # (66, '*kele-'),
 # (74, '*man-'),
 # (83, '*bha-'),
