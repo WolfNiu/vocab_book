@@ -1884,7 +1884,7 @@ misc:
     exp: arm<3728> = ar[=*ar-]，arm就是小臂大臂接在一起(fit together)。由于大部分工具(尤其是武器)都需要手臂来操控，arm也衍生出了"weapons"的意思。在arm的基础上，alarm<3728> = al[=ad-:to] + arm[=*ar-]，词根合起来表示"to arms!"，也就是"a call to arms in the face of danger or an enemy"。如果玩Diablo 2的话，你现在会更明白为什么它有一个Rune Word叫"Call to Arms"。
 "*ghel-(2)":
   - meaning: to shine
-    exp: 亮晶晶的东西都有可能来源于这个词根，比如gold<1262> = gol[=*ghel-(2)]，和glass = gl[=*ghel-(2)]。yellow<1675> = yel[=*ghel-]，因为yellow属于相对明亮的颜色。glad<2288> = gl[=*ghel-(2)]，表达"radiant with joy"的状态。从to shine还衍生出了"可见的"的意思，因为只有发光的物体才能被我们看到。比如glance<2439> = gl[=*ghel-(2)] + ance[=-ance]。cholesterol<3144> = chole[=khole:bile]<--[=*ghel-(2)] + ster[=*ster-(1):stiff] + ol[=-ol:alchohol]。可见"胆固醇"这个名字翻译得相当准确——chole是"胆"，ster是"固"(stiff)，ol是"醇"(酒的化学成分主要是乙醇)，连顺序都不带变的。这里khole之所以从*ghel-(2)来，是用了*ghel-(2)中yellow的那层意思，而这正是胆汁的颜色。
+    exp: 亮晶晶的东西都有可能来源于这个词根，比如gold<1262> = gol[=*ghel-(2)]，和glass = gl[=*ghel-(2)]。glad<2288> = gl[=*ghel-(2)]，表达"radiant with joy"的状态。从to shine还衍生出了"可见的"的意思，因为只有发光的物体才能被我们看到。比如glance<2439> = gl[=*ghel-(2)] + ance[=-ance]。
     related:
       - golden
       - gladly
@@ -1894,3 +1894,5 @@ misc:
       - glassware
       - sunglasses
       - bluish
+  - meaning: green, yellow
+    exp: green, yellow都属于相对明亮、有生气的颜色，因此和shine相关(比如闪闪发光的gold就是黄色的)。yellow<1675> = yel[=*ghel-]。cholesterol<3144> = chole[=khole:bile]<--[=*ghel-(2)] + ster[=*ster-(1):stiff] + ol[=-ol:alchohol]。可见"胆固醇"这个名字翻译得相当准确——chole是"胆"，ster是"固"(stiff)，ol是"醇"(酒的化学成分主要是乙醇)，连顺序都不带变的。这里khole之所以从*ghel-(2)来，是用了*ghel-(2)中yellow的那层意思，而这正是胆汁的颜色。

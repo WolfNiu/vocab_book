@@ -16742,41 +16742,187 @@
   pos: ADJECTIVE
   meaning: You describe something that you see or hear as melancholy when it gives you an intense feeling of sadness.
   sent: The only sounds were the distant, melancholy cries of the sheep.
-  roots: "melan[=melano-:black] + chol[=khole:bile]<--[=*ghel-(2):to shine] + y[=-y]"
+  roots: "melan[=melano-:black] + chol[=khole:bile]<--[=*ghel-(2):green, yellow<--to shine] + y[=-y]"
   connect:
     black:
       - sadness
     bile:
       - sadness
   exp: 西方的传统医学(类似于中医)认为人之所以抑郁(sadness)是因为black bile过量。
+- word: gall
+  freq: 15119
+  use: 162
+  pos: UNCOUNTABLE NOUN
+  meaning: If you say that someone has the gall to do something, you are criticizing them for behaving in a rude or disrespectful way.
+  sent: He has the gall to accuse reporters of exploiting a tragedy for their own ends.
+  roots: "gall[=gall:gall, bile]<--[=*ghel-(2):green, yellow<--to shine]"
+  exp: 用的是*ghel-(2)中green, yellow的那层意思，因为这是胆汁的颜色。
+- word: glimmer
+  freq: 12858
+  use: 135
+  pos: INTRANSITIVE VERB
+  meaning: If something glimmers, it produces or reflects a faint, gentle, often unsteady light.
+  sent: The moon glimmered faintly through the mists.
+  roots: "gl[=*ghel-(2):to shine] + er[=-er]"
+  connect:
+    shine:
+      - light
+- word: glow
+  freq: 5159
+  use: 74
+  pos: COUNTABLE NOUN
+  meaning: A glow is a dull, steady light, for example the light produced by a fire when there are no flames.
+  sent: The cigarette's red glow danced about in the darkness.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - light
+  related:
+    - glowing
+- word: glower
+  freq: 19486
+  use: 33
+  pos: INTRANSITIVE VERB
+  meaning: If you glower at someone or something, you look at them angrily.
+  sent: He glowered at me but said nothing.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - look at
+  exp: 用的是*ghel-(2)中"看"的那层意思——毕竟只有发光(shine)的物体可以被看到。
+- word: glare
+  freq: 6455
+  use: 62
+  pos: INTRANSITIVE VERB
+  meaning: If you glare at someone, you look at them with an angry expression on your face.
+  sent: The old woman glared at him.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - look at
+  exp: 用的是*ghel-(2)中"看"的那层意思——毕竟只有发光(shine)的物体可以被看到。
+  related:
+    - glaring
+- word: gloss
+  freq: 11542
+  use: 61
+  pos: SINGULAR NOUN
+  meaning: A gloss is a bright shine on the surface of something.
+  sent: Sheets of rain were falling and produced a black gloss on the asphalt.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - shine
+  related:
+    - glossy
+- word: glitzy
+  freq: 19390
+  use: 35
+  pos: ADJECTIVE
+  meaning: Something that is glitzy is exciting and attractive in a showy way.
+  sent: '...Aspen, Colorado, one of the glitziest ski resorts in the world.'
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - exciting
+      - attractive
+      - showy
+- word: gloat
+  freq: 18650
+  use: 20
+  pos: INTRANSITIVE VERB
+  meaning: If someone is gloating, they are showing pleasure at their own success or at other people's failure in an arrogant and unpleasant way.
+  sent: He had never been a malicious man, certainly not one to gloat over the tragedies of others.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - showing pleasure
+- word: glimpse
+  freq: 4604
+  use: 33
+  pos: COUNTABLE NOUN
+  meaning: If you get a glimpse of someone or something, you see them very briefly and not very well.
+  sent: Some of the fans had waited 24 hours outside the hotel to catch a glimpse of their heroine.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - see
+  exp: 用的是*ghel-(2)中"看"的那层意思——毕竟只有发光(shine)的物体可以被看到。
+- word: glitter
+  freq: 12168
+  use: 24
+  pos: INTRANSITIVE VERB
+  meaning: If something glitters, light comes from or is reflected off different parts of it.
+  sent: The bay glittered in the sunshine.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - light
+- word: glaze
+  freq: 9364
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A glaze is a thin layer of liquid which is put on a piece of pottery and becomes hard and shiny when the pottery is heated in a very hot oven.
+  sent: '...hand-painted French tiles with decorative glazes.'
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - shiny
+- word: glee
+  freq: 13555
+  use: 23
+  pos: UNCOUNTABLE NOUN
+  meaning: Glee is a feeling of happiness and excitement, often caused by someone else's misfortune.
+  sent: His victory was greeted with glee by his fellow American golfers.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - happiness
+      - excitement
+  exp: 和glad<2288>一样，用shine来表达"radiant with joy"的状态。
+- word: chlorine
+  freq: 9775
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Chlorine is a strong-smelling gas that is used to clean water and to make cleaning products.
+  roots: "chl[=*ghel-(2):green, yellow<--to shine]"
+  exp: 用的是*ghel-(2)中green, yellow的那层意思，因为chlorine在室温下会呈现yellow-green的颜色。
+- word: gleam
+  freq: 10429
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If an object or a surface gleams, it reflects light because it is shiny and clean.
+  sent: His black hair gleamed in the sun.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - reflects light
+      - shiny
+      - clean
+- word: glisten
+  freq: 10703
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If something glistens, it shines, usually because it is wet or oily.
+  sent: The calm sea glistened in the sunlight.
+  roots: "gl[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - shines
+  related:
+    - glistening
+- word: gilded
+  freq: 12405
+  use: -1
+  pos: ADJECTIVE
+  meaning: covered or highlighted with gold or something of a golden color
+  roots: "gil[=*ghel-(2):to shine]"
+  connect:
+    shine:
+      - gold
+      - golden
 
 
-
-
-gall    15119   162     *ghel-
-glimmer 12858   135     *ghel-
-glow    5159    74      *ghel-
-glide   7204    66      *ghel-
-  glider  17128   -1      *ghel-
-glare   6455    62      *ghel-
-gloss   11542   61      *ghel-
-  glossy  8737    21      *ghel-
-  glossary        17461   -1      *ghel-
-glaring 12999   56      *ghel-
-glitch  13025   37      *ghel-
-glitzy  19390   35      *ghel-
-glimpse 4604    33      *ghel-
-glower  19486   33      *ghel-
-glitter 12168   24      *ghel-
-glaze   9364    23      *ghel-
-glee    13555   23      *ghel-
-yelp    17024   20      *ghel-
-gloat   18650   20      *ghel-
-chlorine        9775    -1      *ghel-
-gleam   10429   -1      *ghel-
-glisten 10703   -1      *ghel-
-  glistening      14688   19      *ghel-
-gilded  12405   -1      *ghel-
 arsenic 13126   -1      *ghel-
 cholera 14436   -1      *ghel-
 chloride        16073   -1      *ghel-
