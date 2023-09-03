@@ -16887,6 +16887,8 @@
   meaning: Chlorine is a strong-smelling gas that is used to clean water and to make cleaning products.
   roots: "chl[=*ghel-(2):green, yellow<--to shine]"
   exp: 用的是*ghel-(2)中green, yellow的那层意思，因为chlorine在室温下会呈现yellow-green的颜色。
+  related:
+    - chloride
 - word: gleam
   freq: 10429
   use: -1
@@ -16921,13 +16923,193 @@
     shine:
       - gold
       - golden
+- word: cholera
+  freq: 14436
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Cholera is a serious disease that often kills people. It is caused by drinking infected water or by eating infected food.
+  sent: '...a cholera epidemic.'
+  roots: "chol[=khole:gall, bile]<--[=*ghel-(2):green, yellow<--to shine]"
+  exp: 从词根可以看出，古人误以为霍乱是由bile失调引起的。
 
 
-arsenic 13126   -1      *ghel-
-cholera 14436   -1      *ghel-
-chloride        16073   -1      *ghel-
-marigold        18868   -1      *ghel-
-glib    20141   -1      *ghel-
+
+
+worth   1360    51      *wer-
+  worthless       9042    32      *wer-
+  worthy  5165    30      *wer-
+  noteworthy      9678    42      *wer-
+  trustworthy     13466   53      *wer-
+  self-worth      16288   -1      *wer-
+worry   973     124     *wer-
+cover   561     288     *wer-
+  coverage        1890    8       *wer-
+air     371     139     *agro-, *wer-
+  airy    10914   127     *wer-
+convert 2918    130     *wer-
+  conversion      4717    24      *wer-
+  convertible     10610   -1      *wer-
+  converter       15893   -1      *wer-
+discover        959     127     *wer-
+  discovery       2247    -1      *wer-
+weird   3731    116     *wer-
+guard   1291    109     *wer-
+  bodyguard       8255    19      *wer-
+  guardian        5752    40      *wer-
+  safeguard       9317    62      *wer-
+  guarded 13827   30      *wer-
+  lifeguard       16623   -1      *wer-
+reverse 3529    63      *wer-
+controversy     2898    49      *wer-
+  controversial   3115    56      *wer-
+theory  921     34      *wer-
+  theoretical     3820    56      *wer-
+  theorist        6382    -1      *wer-
+  theorize        10902   59      *wer-
+  theorem 17831   28      *wer-
+reward  3420    30      *wer-
+diverse 2837    42      *wer-
+  diversity       2553    -1      *wer-
+  diversify       8719    -1      *wer-
+aware   1445    24      *wer-
+  awareness       2808    -1      *wer-
+  self-awareness  18135   9       *wer-
+warn    1786    17      *wer-
+  warning 2120    -1      *wer-
+garage  3237    0       *wer-
+software        1586    -1      *wer-
+regard  2101    -1      *wer-
+  regardless      2922    13      *wer-
+wrap    2107    -1      *wer-
+universe        2138    -1      *oi-no-,        *wer-
+vs      2309    -1      *wer-
+award   2596    -1      *wer-
+guarantee       2798    -1      *wer-
+versus  3187    -1      *wer-
+anniversary     3403    -1      *wer-
+wrist   3658    -1      *wer-
+version 1133    7       *wer-
+conversation    1168    19      *wer-
+  converse        11755   35      *wer-
+  conversational  13936   52      *wer-
+  
+  
+diversion       7651    44      *wer-
+vanguard        15553   -1      *ant-,  *wer-
+warp    14568   148     *wer-
+stalwart        18243   121     *sta-,  *wer-
+divert  5750    96      *wer-
+disregard       9386    90      *wer-
+prosaic 20183   84      *per-,  *wer-
+adverse 6396    78      *wer-
+  adversity       11635   80      *wer-
+garnish 9691    79      *wer-
+covert  8952    76      *wer-
+uncover 4482    73      *wer-
+avert   7692    69      *wer-
+reverend        18001   67      *wer-
+ward    5127    66      *wer-
+overt   9424    63      *apo-,  *wer-
+wrinkle 7969    59      *wer-
+wring   10753   59      *wer-
+aversion        13100   59      *wer-
+worrisome       11942   57      *wer-
+inward  11469   56      *wer-
+  inwardly        17959   -1      *wer-
+subvert 11710   56      *wer-
+steward 10859   53      *wer-
+covering        13585   51      *wer-
+verse   5516    49      *wer-
+wriggle 14148   48      *wer-
+verge   6741    47      *wer-
+undercover      7668    47      *wer-
+lord    6750    45      *wer-
+aura    8269    45      *wer-
+aperture        12972   44      *apo-,  *wer-
+awry    15205   44      *wer-
+writhe  13547   40      *wer-
+avant-garde     14164   40      *ant-,  *wer-
+artery  6049    39      *wer-
+diverge 14341   39      *wer-
+arterial        17442   39      *wer-
+garment 6195    38      *wer-
+stewardship     11859   38      *wer-
+revere  10915   34      *wer-
+converge        8337    33      *wer-
+  convergence     10253   -1      *wer-
+wary    6090    31      *wer-
+worm    5051    30      *wer-
+reversal        7347    29      *wer-
+warden  9548    23      *wer-
+perversion      18093   23      *per-,  *wer-
+wrestle 6508    21      *wer-
+divergence      15140   18      *wer-
+invert  16606   10      *wer-
+  inversion       14971   -1      *wer-
+  inverse 17286   17      *wer-
+hardware        4056    16      *wer-
+panorama        13465   12      *wer-
+undiscovered    17888   12      *wer-
+warehouse       4976    11      *wer-
+reverberate     12949   10      *wer-
+overture        13826   9       *wer-
+handkerchief    8660    5       *kaput-,        *wer-
+vortex  14893   5       *wer-
+irreversible    12914   2       *wer-
+Reverend        5870    0       *wer-
+wrestling       7003    0       *wer-
+covered 9425    0       *wer-
+cover-up        10867   0       *wer-
+wrestler        11605   0       *wer-
+overtly 13030   0       *apo-,  *wer-
+aerial  7468    -1      *wer-
+prose   7588    -1      *per-,  *wer-
+biodiversity    7909    -1      *wer-
+wardrobe        8071    -1      *wer-
+meteor  8790    -1      *wer-
+malaria 9326    -1      *mel-(3),       *wer-
+warrant 6085    188     *wer-
+  warranty        9807    -1      *wer-
+wreath  10068   -1      *wer-
+beware  10125   -1      *wer-
+wrath   10128   -1      *wer-
+revert  10316   -1      *wer-
+perverse        10448   -1      *per-,  *wer-
+reverence       10576   -1      *wer-
+wrench  10649   -1      *wer-
+curfew  10715   -1      *wer-
+rediscover      10835   -1      *wer-
+wrapper 10981   -1      *wer-
+divergent       11455   -1      *wer-
+subversive      11583   -1      *wer-
+meteorite       12310   -1      *wer-
+warlord 12546   -1      *wer-
+aerobics        12552   -1      *wer-
+wry     12656   -1      *wer-
+  wryly   15792   -1      *wer-
+versatile       8910    24      *wer-
+  versatility     12703   -1      *wer-
+mid-air 13220   -1      *agro-, *wer-
+diversification 13880   -1      *wer-
+garrison        14498   -1      *wer-
+vertigo 14733   -1      *wer-
+vertebra        14764   -1      *wer-
+unworthy        15223   -1      *wer-
+wrest   15584   -1      *wer-
+airman  15764   -1      *agro-, *wer-
+meteorologist   15767   -1      *wer-
+unwarranted     15815   -1      *wer-
+panoramic       15841   -1      *wer-
+aerosol 15916   -1      *wer-
+airing  16052   -1      *agro-, *wer-
+aria    16434   -1      *wer-
+subversion      16934   -1      *wer-
+anaerobic       17400   -1      *gwei-, *wer-
+reversible      17922   -1      *wer-
+unwrap  18144   -1      *wer-
+meteorological  18154   -1      *wer-
+invertebrate    18918   -1      *wer-
+vertebrate      18919   -1      *wer-
 
 
 
@@ -16959,7 +17141,6 @@ glib    20141   -1      *ghel-
 # (127, '*men-'),
 # (132, '*reg-'),
 # (199, '*sta-'),
-# (205, '*wer-'),
 # (228, '*dhe-'),
 # (437, '*per-')]
 # (27, '*mag-'),
