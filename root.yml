@@ -1898,7 +1898,7 @@ misc:
     exp: green, yellow都属于相对明亮、有生气的颜色，因此和shine相关(比如闪闪发光的gold就是黄色的)。yellow<1675> = yel[=*ghel-]。cholesterol<3144> = chole[=khole:bile]<--[=*ghel-(2)] + ster[=*ster-(1):stiff] + ol[=-ol:alchohol]。可见"胆固醇"这个名字翻译得相当准确——chole是"胆"，ster是"固"(stiff)，ol是"醇"(酒的化学成分主要是乙醇)，连顺序都不带变的。这里khole之所以从*ghel-(2)来，是用了*ghel-(2)中yellow的那层意思，而这正是胆汁的颜色。
 "*wer-(2)":
   - meaning: to turn, bend
-    exp: wrong<656> = wr[=*wer-(2)]，英文里用"弯"来表示"不好"，比如crooked<8473>也既能表示"bent or twisted"，也能表示"dishonest; illegal"。反之，"直"一般用来表示"好"，比如wrong的反义词right<193> = right[=*reg-:move in a straight line]。 worry<973> = wor[=*wer-(2)]，用turn, bend来表达用绳子在脖子上绕一圈勒紧(也就是strangle<9473>，窒息)的感觉。convert<2918> = con[=con-:with, together] + vert[=*wer-(2)]，表达"turn towards, change, transform"的感觉。由此可见，turn也有"变化"的那层意思(比如词组turn into sth.就表示"变成什么")。reverse<3529> = re[=re-:back] + verse[=*wer-(2)]，表达return, change back的意思。controversy<2898> = contro[=contra-:against] + vers[=*wer-(2)] + y[=-y]，表达turn against, dispute的意思。diverse<2837> = di[=dis-:aside] + verse[=*wer-(2)]，表达to turn in different directions——也就是方向上的多样性。
+    exp: wrong<656> = wr[=*wer-(2)]，英文里用"弯"来表示"不好"，比如crooked<8473>也既能表示"bent or twisted"，也能表示"dishonest; illegal"。反之，"直"一般用来表示"好"，比如wrong的反义词right<193> = right[=*reg-:move in a straight line]。 worry<973> = wor[=*wer-(2)]，用turn, bend来表达用绳子在脖子上绕一圈勒紧(也就是strangle<9473>，窒息)的感觉。convert<2918> = con[=con-:with, together] + vert[=*wer-(2)]，表达"turn towards, change, transform"的感觉。由此可见，turn也有"变化"的那层意思(比如词组turn into sth.就表示"变成什么")。reverse<3529> = re[=re-:back] + verse[=*wer-(2)]，表达return, change back的意思。controversy<2898> = contro[=contra-:against] + vers[=*wer-(2)] + y[=-y]，表达turn against, dispute的意思。diverse<2837> = di[=dis-:aside] + verse[=*wer-(2)]，表达to turn in different directions——也就是方向上的多样性。weird<3731> = weir[=*wer-(2)]，为了方便记忆我们可以想象"不weird"的人会走直线，而"weird"的人则会经常拐弯儿(turn)，不走寻常路。当然啦，weird中"奇怪"的那层意思并不是这么发展出来的(实际的发展过程涉及到莎士比亚的戏剧Macbeth，实在有兴趣的同学可以去考古)，但我们是为了记单词而不是学历史，因此怎么方便怎么来。
     related:
       - reversible
       - diversity
@@ -1914,7 +1914,7 @@ misc:
       - controversial
 "*wer-(3)":
   - meaning: perceive, watch out for
-    exp: guard<1291> = guar[=*wer-(3)]，watch out for本来就有"守护"的意思。theory<921> = the[=thea:a view] + or[=*wer-(3)]，theory就是我们看待(view)、理解(perceive)事物的方式。reward<3420> = re[=re-:intensive prefix] + ward[=*wer-(3)]，reward体现了你如何理解(perceive)别人为你做的事——是多是少，是重要还是不重要。
+    exp: guard<1291> = guar[=*wer-(3)]，watch out for本来就有"守护"的意思。theory<921> = the[=thea:a view] + or[=*wer-(3)]，theory就是我们看待(view)、理解(perceive)事物的方式。reward<3420> = re[=re-:intensive prefix] + ward[=*wer-(3)]，reward体现了你如何理解(perceive)别人为你做的事——是多是少，是重要还是不重要。aware = ware[=*wer-(3)]，用的是watch out for的那层意思。ware<
     related:
       - guardian
       - bodyguard
@@ -1925,10 +1925,13 @@ misc:
       - theorist
       - theorize
       - theorem
+      - awareness
+      - self-awareness
 "*wer-(4)":
   - meaning: to cover
-    exp: cover<561> = co[=com-:intensive prefix] + ver[=*wer-(4)]。discover<959> = dis[=dis-:opposite of] + cover[=cover<561>]，表达"uncover, unveil"的意思。weird<3731> = weir[=*wer-(2)]，为了方便记忆我们可以想象"不weird"的人会走直线，而"weird"的人则会经常拐弯儿(turn)，不走寻常路。当然啦，weird中"奇怪"的那层意思并不是这么发展出来的(实际的发展过程涉及到莎士比亚的戏剧Macbeth，实在有兴趣的同学可以去考古)，但我们是为了记单词而不是学历史，因此怎么方便怎么来。
+    exp: cover<561> = co[=com-:intensive prefix] + ver[=*wer-(4)]。discover<959> = dis[=dis-:opposite of] + cover[=cover]，表达"uncover, unveil"的意思。warn<1786> = war[=*wer-(4)]，warn一种defend, protect的方式——亦即是"cover"想要达成的目的。继承同样意思的还有garage<3237> = gar[=*wer-(4)] + age[=-age]，garage起保护(to protect, guard)车的作用——"shelter for a vehicle"。
     related:
       - coverage
       - discovery
       - covering
+      - warning
