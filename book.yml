@@ -16931,22 +16931,56 @@
   sent: '...a cholera epidemic.'
   roots: "chol[=khole:gall, bile]<--[=*ghel-(2):green, yellow<--to shine]"
   exp: 从词根可以看出，古人误以为霍乱是由bile失调引起的。
+- word: warehouse
+  freq: 4976
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: a building where wares, or goods, are stored, as before distribution to retailers, or are kept in reserve, in bond, etc.
+  sent: A pile-up of unsold goods in stores and warehouses is a sign that production is outstripping demand.
+  roots: "ware[=ware<20000+>] + house[=house<258>]"
+  connect:
+    ware:
+      - wares
+      - goods
+    house:
+      - building
+- word: wares
+  freq: 10551
+  use: -1
+  pos: PLURAL NOUN
+  meaning: A person's or a company's wares are the things that they are selling.
+  sent: Many companies are choosing to display their wares online.
+  roots: "ware[=ware<20000+>]"
+  connect:
+    ware:
+      - things
+      - selling
+- word: glassware
+  freq: 19883
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Glassware consists of objects made of glass, such as bowls, drinking containers, and ornaments.
+  roots: "glass[=glass<823>] + ware[=ware<20000+>]"
+  connect:
+    glass:
+      - glass
+    ware:
+      - objects
+- word: hardware
+  freq: 4056
+  use: 16
+  pos: UNCOUNTABLE NOUN
+  meaning: In computer systems, hardware refers to the machines themselves as opposed to the programs which tell the machines what to do. Compare software.
+  sent: To be totally secure, you need a piece of hardware that costs about $200.
+  roots: "hard[=hard<439>] + ware[=ware<20000+>]"
+  connect:
+    hard:
+      - machines
+    ware:
+      - machines
 
 
 
-software        1586    -1      *wer-
-  wares 10551
-  glassware 19883
-  hardware        4056    16      *wer-
-  warehouse       4976    11      *wer-
-regard  2101    -1      *wer-
-  regardless      2922    13      *wer-
-wrap    2107    -1      *wer-
-universe        2138    -1      *oi-no-,        *wer-
-vs      2309    -1      *wer-
-award   2596    -1      *wer-
-guarantee       2798    -1      *wer-
-versus  3187    -1      *wer-
 anniversary     3403    -1      *wer-
 wrist   3658    -1      *wer-
 version 1133    7       *wer-
