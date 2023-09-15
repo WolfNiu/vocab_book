@@ -16978,22 +16978,30 @@
       - machines
     ware:
       - machines
+- word: divert
+  freq: 5750
+  use: 96
+  pos: TRANSITIVE VERB
+  meaning: To divert vehicles or travelers means to make them follow a different route or go to a different destination than they originally intended. You can also say that someone or something diverts from a particular route or to a particular place.
+  sent: We diverted a plane to rescue 100 passengers.
+  roots: "di[=dis-:aside] + vert[=*wer-(2):to turn, bend]"
+  connect:
+    aside:
+      - different route
+      - different destination
+    turn, bend:
+      - follow
+      - go
+  related:
+    - diversion
 
 
 
-anniversary     3403    -1      *wer-
-wrist   3658    -1      *wer-
-version 1133    7       *wer-
-conversation    1168    19      *wer-
-  converse        11755   35      *wer-
-  conversational  13936   52      *wer-
-  
-  
-diversion       7651    44      *wer-
+
+
 vanguard        15553   -1      *ant-,  *wer-
 warp    14568   148     *wer-
 stalwart        18243   121     *sta-,  *wer-
-divert  5750    96      *wer-
 disregard       9386    90      *wer-
 prosaic 20183   84      *per-,  *wer-
 adverse 6396    78      *wer-
@@ -17034,10 +17042,10 @@ converge        8337    33      *wer-
   convergence     10253   -1      *wer-
 wary    6090    31      *wer-
 worm    5051    30      *wer-
-reversal        7347    29      *wer-
 warden  9548    23      *wer-
 perversion      18093   23      *per-,  *wer-
 wrestle 6508    21      *wer-
+  wrestling       7003    0       *wer-
 invert  16606   10      *wer-
   inversion       14971   -1      *wer-
   inverse 17286   17      *wer-
@@ -17049,7 +17057,6 @@ handkerchief    8660    5       *kaput-,        *wer-
 vortex  14893   5       *wer-
 irreversible    12914   2       *wer-
 Reverend        5870    0       *wer-
-wrestling       7003    0       *wer-
 covered 9425    0       *wer-
 cover-up        10867   0       *wer-
 wrestler        11605   0       *wer-
