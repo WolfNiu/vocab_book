@@ -17117,6 +17117,7 @@
       - obvious
   related:
     - overtly
+    - overture
 - word: wrinkle
   freq: 7969
   use: 59
@@ -17315,6 +17316,9 @@
   exp: 表达一种"这个人一出场，大家的目光就都聚集在她身上"的感觉。
   compare:
     - respect
+  related:
+    - revere
+    - reverence
 - word: converge
   freq: 8337
   use: 33
@@ -17371,23 +17375,81 @@
   exp: 词根合起来表达"turn the wrong way"的感觉，对应释义中的unreasonable和result in harm。
   related:
     - perversion
+- word: wrest
+  freq: 15584
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you wrest something from someone else, you take it from them, especially when this is difficult or illegal.
+  sent: For the past year he has been trying to wrest control from the central government.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - take
+- word: wrestle
+  freq: 6508
+  use: 21
+  pos: INTRANSITIVE VERB
+  meaning: If you wrestle with someone, you fight them by forcing them into painful positions or throwing them to the ground, rather than by hitting them. Some people wrestle as a sport.
+  sent: They taught me to wrestle.
+  roots: "wrest[=wrest<15584>] + le[=-el(3):diminutive, repetitive, or intensive actions or events]"
+  connect:
+    wrest:
+      - fight
+      - forcing
+      - throwing
+  related:
+    - wrestle
+    - wrestling
+    - wrestler
+- word: invert
+  freq: 16606
+  use: 10
+  pos: TRANSITIVE VERB
+  meaning: If you invert something, you turn it upside down or inside out.
+  sent: Invert the cake onto a serving plate.
+  roots: "in[=in-:in, on] + vert[=*wer-(2):to turn, bend]"
+  connect:
+    in, on:
+      - upside down
+      - inside out
+    turn:
+      - turn
+  related:
+    - inversion
+    - inverse
+- word: panorama
+  freq: 13465
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: A panorama is a view in which you can see a long way over a wide area of land, usually because you are on high ground.
+  sent: Horton looked out over a panorama of fertile valleys and gentle hills.
+  roots: "pan[=pan-:all] + or[=*wer-(3):to perceive, observe]"
+  connect:
+    all:
+      - long
+      - wide
+    perceive, observe:
+      - view
+      - see
+- word: reverberate
+  freq: 12949
+  use: 10
+  pos: INTRANSITIVE VERB
+  meaning: When a loud sound reverberates through a place, it echoes through it.
+  sent: Day in and day out, the flat crack of the tank guns reverberates through the little Bavarian town.
+  roots: "re[=re-:back] + ver[=*wer-(2):to turn, bend]"
+  connect:
+    back:
+      - echoes
+    bend:
+      - echoes
+  exp: 词根合起来表达"strike back, rebound"的感觉，对应释义中的"echo"。
 
 
-wrestle 6508    21      *wer-
-  wrestling       7003    0       *wer-
-invert  16606   10      *wer-
-  inversion       14971   -1      *wer-
-  inverse 17286   17      *wer-
-panorama        13465   12      *wer-
-undiscovered    17888   12      *wer-
-reverberate     12949   10      *wer-
-overture        13826   9       *wer-
+
 handkerchief    8660    5       *kaput-,        *wer-
 vortex  14893   5       *wer-
-irreversible    12914   2       *wer-
-wrestler        11605   0       *wer-
 aerial  7468    -1      *wer-
-biodiversity    7909    -1      *wer-
 wardrobe        8071    -1      *wer-
 meteor  8790    -1      *wer-
 malaria 9326    -1      *mel-(3),       *wer-
@@ -17396,7 +17458,6 @@ warrant 6085    188     *wer-
 wreath  10068   -1      *wer-
 beware  10125   -1      *wer-
 wrath   10128   -1      *wer-
-reverence       10576   -1      *wer-
 wrench  10649   -1      *wer-
 curfew  10715   -1      *wer-
 rediscover      10835   -1      *wer-
@@ -17411,13 +17472,10 @@ garrison        14498   -1      *wer-
 vertigo 14733   -1      *wer-
 vertebra        14764   -1      *wer-
 unworthy        15223   -1      *wer-
-wrest   15584   -1      *wer-
-airman  15764   -1      *agro-, *wer-
 meteorologist   15767   -1      *wer-
 unwarranted     15815   -1      *wer-
 panoramic       15841   -1      *wer-
 aerosol 15916   -1      *wer-
-airing  16052   -1      *agro-, *wer-
 aria    16434   -1      *wer-
 subversion      16934   -1      *wer-
 anaerobic       17400   -1      *gwei-, *wer-
