@@ -16994,56 +16994,385 @@
       - go
   related:
     - diversion
+- word: vanguard
+  freq: 15553
+  use: -1
+  pos: SINGULAR NOUN
+  meaning: If someone is in the vanguard of something such as a revolution or an area of research, they are involved in the most advanced part of it. You can also refer to the people themselves as the vanguard.
+  sent: Students and intellectuals have been in the vanguard of revolutionary change in China.
+  roots: "van[=avant] + guard[=guard]"
+  exp: 词根合起来是avant-garde<14164>。
+  compare:
+    - avant-garde
+- word: warp
+  freq: 14568
+  use: 148
+  pos: VERB
+  meaning: If something warps or is warped, it becomes damaged by bending or curving, often because of the effect of heat or water.
+  sent: Left out in the heat of the sun, tapes easily warp or get stuck in their cases.
+  roots: "war[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - bending
+      - curving
+  related:
+    - warped
+- word: disregard
+  freq: 9386
+  use: 90
+  pos: TRANSITIVE VERB
+  meaning: If you disregard something, you ignore it or do not take account of it.
+  sent: He disregarded the advice of his executives.
+  roots: "dis[=dis-:opposite of, do the opposite of] + regard[=regard<2101>]"
+  connect:
+    opposite of:
+      - not
+      - ignore
+    regard:
+      - take account of
+      - ignore
+- word: adverse
+  freq: 6396
+  use: 78
+  pos: ADJECTIVE
+  meaning: Adverse decisions, conditions, or effects are unfavorable to you.
+  sent: The police said Mr. Hadfield's decision would have no adverse effect on the progress of the investigation.
+  roots: "ad[=ad-:to] + verse[=*wer-(2):to turn]"
+  exp: turn to someone表达和别人正面起冲突(对立)的感觉。如果避免冲突就会turn away了。
+  related:
+    - adversity
+- word: garnish
+  freq: 9691
+  use: 79
+  pos: VARIABLE NOUN
+  meaning: A garnish is a small amount of salad, herbs, or other food that is used to decorate cooked or prepared food.
+  sent: '...a garnish of chopped raw onion, tomato, and fresh coriander.'
+  roots: "gar[=*wer-(4):to cover] + ish[=-ish]"
+  connect:
+    cover:
+      - decorate
+- word: covert
+  freq: 8952
+  use: 76
+  pos: ADJECTIVE
+  meaning: Covert activities or situations are secret or hidden.
+  sent: They have been supplying covert military aid to the rebels.
+  roots: "cover[=cover<561>]"
+  connect:
+    cover:
+      - secret
+      - hidden
+- word: uncover
+  freq: 4482
+  use: 73
+  pos: TRANSITIVE VERB
+  meaning: If you uncover something, especially something that has been kept secret, you discover or find out about it.
+  sent: Auditors said they had uncovered evidence of fraud.
+  roots: "un[=un-(2):reverse of] + cover[=cover<561>]"
+  connect:
+    reverse of:
+      - discover
+      - find out
+    cover:
+      - discover
+      - find out
+- word: avert
+  freq: 7692
+  use: 69
+  pos: TRANSITIVE VERB
+  meaning: If you avert something unpleasant, you prevent it from happening.
+  sent: Talks with the teachers' union over the weekend have averted a strike.
+  roots: "a[=ab-:off, away from] + vert[=*wer-(2):to turn, bend]"
+  connect:
+    away:
+      - prevent
+    turn:
+      - prevent
+  related:
+    - aversion
+- word: ward
+  freq: 5127
+  use: 66
+  pos: COUNTABLE NOUN
+  meaning: A ward is a room in a hospital which has beds for many people, often people who need similar treatment.
+  sent: They transferred her to the psychiatric ward.
+  roots: "war[=*wer-(3):perceive, watch out for]"
+  connect:
+    watch out:
+      - need
+      - treatment
+- word: overt
+  freq: 9424
+  use: 63
+  pos: ADJECTIVE
+  meaning: An overt action or attitude is done or shown in an open and obvious way.
+  sent: Although there is no overt hostility, black and white students do not mix much.
+  roots: "ov[=apo-:off, away] + (v)er[=*wer-(4):to cover]"
+  connect:
+    away:
+      - open
+      - obvious
+    cover:
+      - open
+      - obvious
+  related:
+    - overtly
+- word: wrinkle
+  freq: 7969
+  use: 59
+  pos: COUNTABLE NOUN
+  meaning: Wrinkles are lines that form on someone's face as they grow old.
+  sent: His face was covered with wrinkles.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - lines
+- word: wring
+  freq: 10753
+  use: 59
+  pos: TRANSITIVE VERB
+  meaning: squeeze and twist (something) to force liquid from it
+  sent: she wrung the cloth out in the sink.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - squeeze
+      - twist
+- word: wriggle
+  freq: 14148
+  use: 48
+  pos: VERB
+  meaning: If you wriggle or wriggle part of your body, you twist and turn with quick movements, for example, because you are uncomfortable.
+  sent: The babies are wriggling on their tummies.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - twist
+      - turn
+  compare:
+    - writhe
+- word: writhe
+  freq: 13547
+  use: 40
+  pos: INTRANSITIVE VERB
+  meaning: If you writhe, your body twists and turns violently backward and forward, usually because you are in great pain or discomfort.
+  sent: He was writhing in agony.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - twists
+      - turns
+  compare:
+    - wriggle
+- word: subvert
+  freq: 11710
+  use: 56
+  pos: TRANSITIVE VERB
+  meaning: To subvert something means to destroy its power and influence.
+  sent: '...an alleged plot to subvert the state.'
+  roots: "sub[=sub-:under] + vert[=*wer-(2):to turn, bend]"
+  connect:
+    under:
+      - destroy
+    turn:
+      - destroy
+  exp: 词根合起来表示to turn upside down。
+- word: steward
+  freq: 10859
+  use: 53
+  pos: COUNTABLE NOUN
+  meaning: A steward is a man or woman who helps to organize a race, march, or other public event.
+  sent: The steward at the march stood his ground while the rest of the marchers decided to run.
+  roots: "stew[=sty<20000+>] + war[=*wer-(3):perceive, watch out for]"
+  connect:
+    watch out:
+      - organize
+  exp: 可以直接忽略stew的部分，只用*wer-(3)记steward这个单词。organize一个event当然要watch out for it。
+  related:
+    - stewardship
+- word: verse
+  freq: 5516
+  use: 49
+  pos: UNCOUNTABLE NOUN
+  meaning: Verse is writing arranged in lines that have rhythm and that often rhyme at the end.
+  sent: I have been moved to write a few lines of verse.
+  roots: "ver[=*wer-(2):to turn, bend]"
+  connect:
+    turn:
+      - lines
+  exp: 用*wer-(2)表达"turning from one line to another"的感觉。
+- word: verge
+  freq: 6741
+  use: 47
+  pos: COUNTABLE NOUN
+  meaning: The verge of a road is a narrow piece of ground by the side of a road, which is usually covered with grass or flowers.
+  sent: on the verge of ecstasy
+  roots: "ver[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - side
+  exp: 从road到verge of road是一种"转换(turn)"的过程。
+- word: lord
+  freq: 6750
+  use: 45
+  pos: NOUN
+  meaning: A lord is a man who has a high rank in the nobility, for example, an earl, a viscount, or a marquis.
+  sent: She married a lord and lives in this huge house in the Cotswolds.
+  roots: "l[=loaf<6999>] + or[=*wer-(3):perceive, watch out for]"
+  exp: 这个词本意是"one who guards the loaves"，也就是"看守面包的人"。后来才引申为"领主"，因为所有好吃的都归他管嘛。
+- word: aura
+  freq: 8269
+  use: 45
+  pos: COUNTABLE NOUN
+  meaning: An aura is a quality or feeling that seems to surround a person or place or to come from them.
+  sent: She had an aura of authority.
+  roots: "aur[=*wer-(1):to raise, lift, hold suspended]"
+  exp: aura本意表示"光环、光晕"，"美丽的欧若拉(aura)"用的就是这个词的音译。aura和它的同源词air<371>一样，都是浮(raise, lift)在空中的。
+- word: aperture
+  freq: 12972
+  use: 44
+  pos: COUNTABLE NOUN
+  meaning: An aperture is a narrow hole or gap.
+  sent: Through the aperture he could see daylight.
+  roots: "ap[=apo-:off, away] + er[=*wer-(4):to cover]"
+  connect:
+    off, away:
+      - hole
+      - gap
+    cover:
+      - hole
+      - gap
+  exp: 没有了cover，当然就漏出了一个洞(hole)。
+- word: awry
+  freq: 15205
+  use: 44
+  meaning: If something goes awry, it does not happen in the way it was planned.
+  sent: She was in a fury over a plan that had gone awry.
+  roots: "a[=a-:on] + wry[=wry<12656>]"
+  exp: wry的本意是"distorted or turned to one side"，也就是没按预期的路线前进的感觉。于是awry就表示"not happen as planned".
+- word: wry
+  freq: 12656
+  use: -1
+  pos: ADJECTIVE
+  meaning: If someone has a wry expression, it shows that they find a bad situation or a change in a situation slightly amusing.
+  sent: Matthew allowed himself a wry smile.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  exp: 这个词本意是"distorted or turned to one side"，后来才引申出dry, mocking humor的感觉。
+  related:
+    - wryly
+- word: avant-garde
+  freq: 14164
+  use: 40
+  pos: ADJECTIVE
+  meaning: Avant-garde art, music, theater, and literature is very modern and experimental.
+  sent: '...avant-garde concert music.'
+  roots: "avant[=avant<20000+>] + garde[=guard<1291>]"
+  exp: 词根合起来表示"advance guard"，在军队里表示"先锋"。其中"advance"表示"向前冲"。
+  compare:
+    - vanguard
+- word: diverge
+  freq: 14341
+  use: 39
+  pos: RECIPROCAL VERB
+  meaning: If one thing diverges from another similar thing, the first thing becomes different from the second or develops differently from it. You can also say that two things diverge.
+  sent: His interests increasingly diverged from those of his colleagues.
+  roots: "di[=dis-:apart] + ver[=*wer-(2):to turn, bend]"
+  connect:
+    apart:
+      - different
+      - differently
+    turn:
+      - becomes
+      - develops
+  related:
+    - divergent
+    - divergence
+  compare:
+    - converge
+- word: garment
+  freq: 6195
+  use: 38
+  pos: COUNTABLE NOUN
+  meaning: A garment is a piece of clothing; used especially in contexts where you are talking about the manufacture or sale of clothes.
+  sent: Many of the garments have the customers' name tags sewn into the linings.
+  roots: "gar[=*wer-(4):to cover] + ment[=-ment]"
+  connect:
+    cover:
+      - clothing
+      - clothes
+  exp: clothes就是用来cover身体的。
+- word: revered
+  freq: 17389
+  use: 35
+  pos: ADJECTIVE
+  meaning: respected, venerated
+  sent: some of the country's most revered institutions
+  roots: "re[=re-:intensive prefix] + vere[=*wer-(3):perceive, watch out for]"
+  connect:
+    watch out:
+      - respected
+      - venerated
+  exp: 表达一种"这个人一出场，大家的目光就都聚集在她身上"的感觉。
+  compare:
+    - respect
+- word: converge
+  freq: 8337
+  use: 33
+  pos: INTRANSITIVE VERB
+  meaning: If people or vehicles converge on a place, they move toward it from different directions.
+  sent: Hundreds of tractors will converge on the capital.
+  roots: "con[=con-:with, together] + verge[=*wer-(2):to turn, bend]"
+  connect:
+    with, together:
+      - toward
+    turn, bend:
+      - move
+  related:
+    - convergence
+  compare:
+    - diverge
+- word: wary
+  freq: 6090
+  use: 31
+  pos: ADJECTIVE
+  meaning: If you are wary of something or someone, you are cautious because you do not know much about them and you believe they may be dangerous or cause problems.
+  sent: People did not teach their children to be wary of strangers.
+  roots: "war[=*wer-(3):perceive, watch out for] + y[=-y]"
+  connect:
+    watch out:
+      - cautious
+  guess:
+    - unwary
+- word: worm
+  freq: 5051
+  use: 30
+  pos: COUNTABLE NOUN
+  meaning: A worm is a small animal with a long thin body, no bones, and no legs.
+  roots: "wor[=*wer-(2):to turn, bend]"
+  exp: worm就是来回扭动(turn, bend)的小虫虫。
+- word: warden
+  freq: 9548
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A warden is a person who is responsible for a particular place or thing, and for making sure that the laws or regulations that relate to it are obeyed.
+  sent: He was a warden at the local parish church.
+  roots: "ward[=*wer-(3):perceive, watch out for]"
+  connect:
+    watch out for:
+      - responsible for
+      - making sure
+- word: perverse
+  freq: 10448
+  use: -1
+  pos: ADJECTIVE
+  meaning: Someone who is perverse deliberately does things that are unreasonable or that result in harm for themselves.
+  sent: It would be perverse to stop this healthy trend.
+  roots: "per[=per-:away] + verse[=*wer-(2):to turn, bend]"
+  exp: 词根合起来表达"turn the wrong way"的感觉，对应释义中的unreasonable和result in harm。
+  related:
+    - perversion
 
 
-
-
-
-vanguard        15553   -1      *ant-,  *wer-
-warp    14568   148     *wer-
-stalwart        18243   121     *sta-,  *wer-
-disregard       9386    90      *wer-
-prosaic 20183   84      *per-,  *wer-
-adverse 6396    78      *wer-
-  adversity       11635   80      *wer-
-garnish 9691    79      *wer-
-covert  8952    76      *wer-
-uncover 4482    73      *wer-
-avert   7692    69      *wer-
-reverend        18001   67      *wer-
-ward    5127    66      *wer-
-overt   9424    63      *apo-,  *wer-
-wrinkle 7969    59      *wer-
-wring   10753   59      *wer-
-aversion        13100   59      *wer-
-inward  11469   56      *wer-
-  inwardly        17959   -1      *wer-
-subvert 11710   56      *wer-
-steward 10859   53      *wer-
-verse   5516    49      *wer-
-wriggle 14148   48      *wer-
-verge   6741    47      *wer-
-undercover      7668    47      *wer-
-lord    6750    45      *wer-
-aura    8269    45      *wer-
-aperture        12972   44      *apo-,  *wer-
-awry    15205   44      *wer-
-writhe  13547   40      *wer-
-avant-garde     14164   40      *ant-,  *wer-
-artery  6049    39      *wer-
-diverge 14341   39      *wer-
-  divergent       11455   -1      *wer-
-  divergence      15140   18      *wer-
-arterial        17442   39      *wer-
-garment 6195    38      *wer-
-stewardship     11859   38      *wer-
-revere  10915   34      *wer-
-converge        8337    33      *wer-
-  convergence     10253   -1      *wer-
-wary    6090    31      *wer-
-worm    5051    30      *wer-
-warden  9548    23      *wer-
-perversion      18093   23      *per-,  *wer-
 wrestle 6508    21      *wer-
   wrestling       7003    0       *wer-
 invert  16606   10      *wer-
@@ -17056,13 +17385,8 @@ overture        13826   9       *wer-
 handkerchief    8660    5       *kaput-,        *wer-
 vortex  14893   5       *wer-
 irreversible    12914   2       *wer-
-Reverend        5870    0       *wer-
-covered 9425    0       *wer-
-cover-up        10867   0       *wer-
 wrestler        11605   0       *wer-
-overtly 13030   0       *apo-,  *wer-
 aerial  7468    -1      *wer-
-prose   7588    -1      *per-,  *wer-
 biodiversity    7909    -1      *wer-
 wardrobe        8071    -1      *wer-
 meteor  8790    -1      *wer-
@@ -17072,18 +17396,14 @@ warrant 6085    188     *wer-
 wreath  10068   -1      *wer-
 beware  10125   -1      *wer-
 wrath   10128   -1      *wer-
-perverse        10448   -1      *per-,  *wer-
 reverence       10576   -1      *wer-
 wrench  10649   -1      *wer-
 curfew  10715   -1      *wer-
 rediscover      10835   -1      *wer-
-wrapper 10981   -1      *wer-
 subversive      11583   -1      *wer-
 meteorite       12310   -1      *wer-
 warlord 12546   -1      *wer-
 aerobics        12552   -1      *wer-
-wry     12656   -1      *wer-
-  wryly   15792   -1      *wer-
 versatile       8910    24      *wer-
   versatility     12703   -1      *wer-
 mid-air 13220   -1      *agro-, *wer-
