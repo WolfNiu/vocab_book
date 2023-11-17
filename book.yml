@@ -17444,12 +17444,38 @@
     bend:
       - echoes
   exp: 词根合起来表达"strike back, rebound"的感觉，对应释义中的"echo"。
+- word: handkerchief
+  freq: 8660
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A handkerchief is a small square piece of fabric which you use for blowing your nose.
+  roots: "hand[=hand<174>] + kerchief[=kerchief<20000+>: ker[=cover<561>] + chief[=*kaput-:head]]"
+  exp: kerchief的词根合起来表示cover head，而handkerchief只是改手上了。
+- word: vortex
+  freq: 14893
+  use: 5
+  pos: COUNTABLE NOUN
+  meaning: A vortex is a mass of wind or water that spins around so fast that it pulls objects down into its empty center.
+  sent: The polar vortex is a system of wintertime winds.
+  roots: "vor[=*wer-(2):to turn, bend]"
+  connect:
+    turn:
+      - spins
+- word: aerial
+  freq: 7468
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: You talk about aerial attacks and aerial photographs to indicate that people or things on the ground are attacked or photographed by people in airplanes.
+  sent: Weeks of aerial bombardment had destroyed factories and highways.
+  roots: "aer[=air<371>] + al[=-al(1)]"
+  connect:
+    air:
+      - ground
+      - airplanes
 
 
 
-handkerchief    8660    5       *kaput-,        *wer-
-vortex  14893   5       *wer-
-aerial  7468    -1      *wer-
+
 wardrobe        8071    -1      *wer-
 meteor  8790    -1      *wer-
 malaria 9326    -1      *mel-(3),       *wer-
