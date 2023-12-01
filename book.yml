@@ -17472,19 +17472,55 @@
     air:
       - ground
       - airplanes
+- word: wrench
+  freq: 10649
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you wrench something that is fixed in a particular position, you pull or twist it violently, in order to move or remove it.
+  sent: He felt two men wrench the suitcase from his hand.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - pull
+      - twist
+- word: wardrobe
+  freq: 8071
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Someone's wardrobe is the total collection of clothes that they have.
+  sent: Her wardrobe consists primarily of huge cashmere sweaters and tiny Italian sandals.
+  roots: "war[=*wer-(3):perceive, watch out for] + robe[=robe<5308>]"
+  connect:
+    watch out:
+      - collections
+    robe:
+      - clothes
+  exp: 词根合起来表示"place where garments are kept/guarded"。
+- word: meteor
+  freq: 8790
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A meteor is a piece of rock or metal that burns very brightly when it enters the Earth's atmosphere from space.
+  roots: "met[=meta-:by means of] + eor[=*wer-(1):to raise, lift, hold suspended]"
+  connect:
+    raise, lift:
+      - from space
+- word: malaria
+  freq: 9326
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Malaria is a serious disease carried by mosquitoes, which causes periods of fever.
+  roots: "mal[=mal-:bad] + ar[=air<371>] + ia[=-ia]"
+  exp: 词根合起来表示"bad air"。过去人不知道malaria是蚊子传播的，还以为是空气质量有问题导致的疾病。
 
 
 
-
-wardrobe        8071    -1      *wer-
-meteor  8790    -1      *wer-
 malaria 9326    -1      *mel-(3),       *wer-
 warrant 6085    188     *wer-
   warranty        9807    -1      *wer-
 wreath  10068   -1      *wer-
 beware  10125   -1      *wer-
 wrath   10128   -1      *wer-
-wrench  10649   -1      *wer-
 curfew  10715   -1      *wer-
 rediscover      10835   -1      *wer-
 subversive      11583   -1      *wer-
