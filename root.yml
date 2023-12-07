@@ -1936,6 +1936,7 @@ misc:
     guess:
       - irreversible
       - biodiversity
+      - unwrap
 "*wer-(3)":
   - meaning: perceive, watch out for
     exp: guard<1291> = guar[=*wer-(3)]，watch out for本来就有"守护"的意思。regard<2101> = re[=re-:intensive prefix] + gar[=*wer-(3)]，本意表示take notice of，因此和perceive, watch out for相关。theory<921> = the[=thea:a view] + or[=*wer-(3)]，theory就是我们看待(view)、理解(perceive)事物的方式。reward<3420> = re[=re-:intensive prefix] + ward[=*wer-(3)]，reward体现了你如何理解(perceive)别人为你做的事——是多是少，是重要还是不重要。award<2596> = a[=ex-:out] + ward[=*wer-(3)]，和reward用的是同样的意思。aware = ware[=*wer-(3)]，用的是watch out for的那层意思。software<1586> = soft[=soft<1381>] + ware[=ware<20000+>]，而ware<20000+> = ware[=*wer-(3)]，表达"object of care, that which is kept in custody"的感觉，因此和"watch out for"相关。
@@ -1965,9 +1966,11 @@ misc:
       - undercover
     guess:
       - undiscovered
+      - rediscover
 "*wer-(1)":
   meaning: to raise, lift, hold suspended
-  exp: air<371> = air[=*wer-(1)]，气体都是"飘(raise, lift)"起来的。
+  exp: air<371> = air[=*wer-(1)]，气体都是"飘(raise, lift)"起来的。前缀aero- = aer[=*wer-(1)]，表示"air, atmosphere; gases"，比如aerospace<8977> = aero[=aero-] + space[=space<522>]
   related:
     - airman
     - airing
+    - mid-air

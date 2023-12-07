@@ -17178,6 +17178,9 @@
     turn:
       - destroy
   exp: 词根合起来表示to turn upside down。
+  related:
+    - subversive
+    - subversion
 - word: steward
   freq: 10859
   use: 53
@@ -17505,6 +17508,10 @@
   connect:
     raise, lift:
       - from space
+  related:
+    - meteorite
+    - meteorologist
+    - meteorological
 - word: malaria
   freq: 9326
   use: -1
@@ -17512,39 +17519,126 @@
   meaning: Malaria is a serious disease carried by mosquitoes, which causes periods of fever.
   roots: "mal[=mal-:bad] + ar[=air<371>] + ia[=-ia]"
   exp: 词根合起来表示"bad air"。过去人不知道malaria是蚊子传播的，还以为是空气质量有问题导致的疾病。
+- word: warrant
+  freq: 6085
+  use: 188
+  pos: TRANSITIVE VERB
+  meaning: If something warrants a particular action, it makes the action seem necessary or appropriate for the circumstances.
+  sent: The allegations are serious enough to warrant an investigation.
+  roots: "war[=*wer-(4):to cover] + ant[=-ant]"
+  connect:
+    cover:
+      - necessary
+      - appropriate
+  exp: 词根表达"to authorize"的感觉，也就是对某种行为的"允许"和"保护(cover)"。对应释义中的"make ... necessary/appropriate"。
+  related:
+    - warranty
+  guess:
+    - unwarranted
+- word: wreath
+  freq: 10068
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A wreath is an arrangement of flowers and leaves in the shape of a circle, which you put on a grave or by a statue to show that you remember a person who has died or people who have died.
+  sent: The coffin lying before the altar was bare, except for a single wreath of white roses.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, bend:
+      - circle
+  exp: 用turn表达circle, that which is wound around的感觉。
+- word: beware
+  freq: 10125
+  use: -1
+  pos: VERB
+  meaning: If you tell someone to beware of a person or thing, you are warning them that the person or thing may harm them or be dangerous.
+  sent: Beware of being too impatient with others.
+  roots: "be[=be<2>] + ware[=*wer-(3):perceive, watch out for]"
+  connect:
+    watch out:
+      - warning
+- word: wrath
+  freq: 10128
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Wrath means the same as anger.
+  sent: He incurred the wrath of the authorities in speaking out against government injustices.
+  roots: "wr[=*wer-(2):to turn, bend]"
+  connect:
+    turn, end:
+      - anger
+  exp: 用tormented, twisted的感觉表达angry，因为人在生气的时候浑身上下都觉得拧巴。
+- word: curfew
+  freq: 10715
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A curfew is a law stating that people must stay inside their houses after a particular time at night, for example, during a war.
+  sent: The village was placed under curfew.
+  roots: "curf[=cover<561>] + (f)ew[=fire<654>]"
+  exp: 词根合起来是"cover fire"。不许生火点灯，也就是宵禁喽。
+- word: warlord
+  freq: 12546
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If you describe a leader of a country or organization as a warlord, you are critical of them because they have achieved power by behaving in an aggressive and violent way.
+  sent: He had been a dictator and a warlord who had oppressed and degraded the people of the South.
+  roots: "war[=war<350>] + lord[=lord<6750>]"
+  connect:
+    war:
+      - aggressive
+      - violent
+    lord:
+      - leader
+- word: aerobics
+  freq: 12552
+  use: -1
+  pos: NOUN
+  meaning: Aerobics is a form of exercise which increases the amount of oxygen in your blood, and strengthens your heart and lungs. The verb that follows aerobics may be either singular or plural.
+  sent: I'd like to join an aerobics class to improve my fitness.
+  roots: "aero[=aero-:air, atmosphere; gases] + bi[=*gwei-:to live]"
+  connect:
+    air:
+      - oxygen
+    live:
+      - heart
+      - lungs
+  guess:
+    - anaerobic
+- word: versatile
+  freq: 8910
+  use: 24
+  pos: ADJECTIVE
+  meaning: If you say that a person is versatile, you approve of them because they have many different skills.
+  sent: He had been one of the game's most versatile athletes.
+  roots: "ver[=*wer-(2):to turn, bend]"
+  exp: 用turn表达"capable of turning with ease to varied subjects or tasks"的感觉，也就是说可以在各种技能间自由切换(turn)。
+  related:
+    - versatility
+- word: garrison
+  freq: 14498
+  use: -1
+  pos: COLLECTIVE COUNTABLE NOUN
+  meaning: A garrison is a group of soldiers whose task is to guard the town or building where they live.
+  sent: '...a five-hundred-man French army garrison.'
+  roots: "gar[=*wer-(4):to cover]"
+  connect:
+    cover:
+      - guard
+- word: vertigo
+  freq: 14733
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: If you get vertigo when you look down from a high place, you feel unsteady and sick.
+  roots: "ver[=*wer-(2):to turn, bend]"
+  exp: 用turn表达"sensation of whirling"的感觉，也就是"天旋(turn)地转(turn)"。
 
 
 
-malaria 9326    -1      *mel-(3),       *wer-
-warrant 6085    188     *wer-
-  warranty        9807    -1      *wer-
-wreath  10068   -1      *wer-
-beware  10125   -1      *wer-
-wrath   10128   -1      *wer-
-curfew  10715   -1      *wer-
-rediscover      10835   -1      *wer-
-subversive      11583   -1      *wer-
-meteorite       12310   -1      *wer-
-warlord 12546   -1      *wer-
-aerobics        12552   -1      *wer-
-versatile       8910    24      *wer-
-  versatility     12703   -1      *wer-
-mid-air 13220   -1      *agro-, *wer-
-garrison        14498   -1      *wer-
-vertigo 14733   -1      *wer-
-vertebra        14764   -1      *wer-
-unworthy        15223   -1      *wer-
-meteorologist   15767   -1      *wer-
-unwarranted     15815   -1      *wer-
 panoramic       15841   -1      *wer-
 aerosol 15916   -1      *wer-
 aria    16434   -1      *wer-
-subversion      16934   -1      *wer-
-anaerobic       17400   -1      *gwei-, *wer-
-unwrap  18144   -1      *wer-
-meteorological  18154   -1      *wer-
-invertebrate    18918   -1      *wer-
 vertebrate      18919   -1      *wer-
+  vertebra        14764   -1      *wer-
+  invertebrate    18918   -1      *wer-
 
 
 
