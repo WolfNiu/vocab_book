@@ -17434,6 +17434,8 @@
     perceive, observe:
       - view
       - see
+  related:
+    - panoramic
 - word: reverberate
   freq: 12949
   use: 10
@@ -17630,15 +17632,44 @@
   meaning: If you get vertigo when you look down from a high place, you feel unsteady and sick.
   roots: "ver[=*wer-(2):to turn, bend]"
   exp: 用turn表达"sensation of whirling"的感觉，也就是"天旋(turn)地转(turn)"。
+- word: aerosol
+  freq: 15916
+  use: -1
+  pos: NOUN
+  meaning: An aerosol can or spray is a small container in which a liquid such as paint or deodorant is kept under pressure. When you press a button, the liquid is forced out as a fine spray or foam.
+  sent: '...an aerosol can of insecticide.'
+  roots: "aero[=aero-:air] + sol[=solution<1224>]"
+  connect:
+    air:
+      - spray
+      - foam
+    solution:
+      - liquid
+      - paint
+      - deodorant
+  exp: solution在这里表示"溶液"。
+- word: aria
+  freq: 16434
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An aria is a song for one of the leading singers in an opera or choral work.
+  roots: "ar[=air<371>] + ia[=-ia]"
+  exp: leading singer一般唱得都很高，因此和air相关。
+- word: vertebra
+  freq: 14764
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Vertebrae are the small circular bones that form the spine of a human being or animal.
+  roots: "ver[=*wer-(2):to turn, bend] + bra[=-bra]"
+  connect:
+    turn, bend:
+      - circular
+  exp: vertebra的环形形状在骨头里算是比较奇特的，如果想像不出来可以参考羊蝎子。
+  related:
+    - vertebrate
+  guess:
+    - invertebrate
 
-
-
-panoramic       15841   -1      *wer-
-aerosol 15916   -1      *wer-
-aria    16434   -1      *wer-
-vertebrate      18919   -1      *wer-
-  vertebra        14764   -1      *wer-
-  invertebrate    18918   -1      *wer-
 
 
 
