@@ -17669,21 +17669,91 @@
     - vertebrate
   guess:
     - invertebrate
+- word: chafe
+  freq: 16510
+  use: 108
+  pos: VERB
+  meaning: If your skin chafes or is chafed by something, it becomes sore as a result of something rubbing against it.
+  sent: My shorts were chafing my thighs.
+  roots: "cha[=*kele-(1):warm] + fe[=*dhe-:to set, put]"
+  connect:
+    warm:
+      - rubbing
+  exp: 词根中的warm表达"to warm by rubbing, excite heat by friction"的意思。
+- word: haul
+  freq: 4231
+  use: 88
+  pos: TRANSITIVE VERB
+  meaning: If you haul something which is heavy or difficult to move, you move it using a lot of effort.
+  sent: A crane had to be used to haul the car out of the stream.
+  roots: "haul[=*kele-(2):to shout]"
+  exp: 用shout表示draw one's attention，之后引申出drag, pull这种"拉扯"的意思。
+  related:
+    - overhaul
+    - hauler
+- word: acclaim
+  freq: 12788
+  use: 65
+  pos: UNCOUNTABLE NOUN
+  meaning: If someone or something is acclaimed, they are praised enthusiastically.
+  sent: The restaurant has been widely acclaimed for its excellent French cuisine.
+  roots: "ac[=ad-:to] + claim[=*kele-(2):to shout]"
+  connect:
+    shout:
+      - praised enthusiastically
+- word: chauffeur
+  freq: 15009
+  use: 3
+  pos: COUNTABLE NOUN
+  meaning: If you chauffeur someone somewhere, you drive them there in a car, usually as part of your job.
+  sent: It was certainly useful to have her there to chauffeur him around.
+  roots: "chau[=*kele-(1):warm] + fe[=*dhe-:to set, put]"
+  exp: 最早的车都是蒸汽驱动的，因此warm会和car相关。
+- word: proclaim
+  freq: 4504
+  use: 58
+  pos: TRANSITIVE VERB
+  meaning: If people proclaim something, they formally make it known to the public.
+  sent: The new government in Venezuela set up its own army and proclaimed its independence.
+  roots: "pro[=pro-:forward] + claim[=*kele-(2):to shout]"
+  connect:
+    shout:
+      - make it known to the public
+  related:
+    - self-proclaimed
+- word: coddle
+  freq: 19751
+  use: 46
+  pos: TRANSITIVE VERB
+  meaning: To coddle someone means to treat them too kindly or protect them too much.
+  sent: She coddled her youngest son madly.
+  roots: "co[=*kele-(1):warm]"
+  connect:
+    warm:
+      - kindly
+      - protect
+- word: conciliate
+  freq: 20000+
+  pos: TRANSITIVE VERB/INTRANSITIVE VERB
+  meaning: If you conciliate someone, you try to end a disagreement with them.
+  sent: His duty was to conciliate the people, not to provoke them.
+  roots: "con[=com-:with, together] + cili[=*kele-(2):to shout] + ate[=-ate]"
+  exp: 词根合起来表示"a calling together"，也就是把人聚在一起，解决争端。
+  related:
+    - conciliatory
+- word: reconcile
+  freq: 6662
+  use: 45
+  pos: TRANSITIVE VERB
+  meaning: If you reconcile two beliefs, facts, or demands that seem to be opposed or completely different, you find a way in which they can both be true or both be successful.
+  sent: It's difficult to reconcile the demands of my job and the desire to be a good father.
+  roots: "re[=re-:again] + concile[=conciliate<20000+>]"
+  related:
+    - reconciliation
 
 
 
 
-
-
-
-chafe   16510   108     *dhe-,  *kele-
-haul    4231    88      *kele-
-  hauler  19583   -1      *kele-
-acclaim 12788   65      *kele-
-proclaim        4504    58      *kele-, *per-
-coddle  19751   46      *kele-
-reconcile       6662    45      *kele-
-  reconciliation  5845    -1      *kele-
 clamor  12366   40      *kele-
 reclaim 7587    39      *kele-
 disclaimer      17715   24      *kele-
@@ -17691,10 +17761,6 @@ ecclesiastical  14868   20      *kele-
 exclaim 6390    16      *kele-
 calendar        4742    15      *kele-
 cauldron        18624   15      *kele-
-overhaul        11266   10      *kele-
-chauffeur       15009   3       *dhe-,  *kele-
-lukewarm        15694   -1      *kele-
-conciliatory    16109   -1      *kele-
 clarinet        16242   -1      *kele-
 leeway  16305   -1      *kele-
 chowder 19822   -1      *kele-
