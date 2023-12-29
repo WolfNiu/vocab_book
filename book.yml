@@ -17750,20 +17750,89 @@
   roots: "re[=re-:again] + concile[=conciliate<20000+>]"
   related:
     - reconciliation
+- word: clamor
+  freq: 12366
+  use: 40
+  pos: INTRANSITIVE VERB
+  meaning: If people are clamoring for something, they are demanding it in a noisy or angry way.
+  sent: '...competing parties clamoring for the attention of the voter.'
+  roots: "clam[=*kele-(2):to shout] + or[=-or]"
+  connect:
+    shout:
+      - noisy
+      - angry
+- word: reclaim
+  freq: 7587
+  use: 39
+  pos: TRANSITIVE VERB
+  meaning: If you reclaim something that you have lost or that has been taken away from you, you succeed in getting it back.
+  sent: In 1986, they got the right to reclaim South African citizenship.
+  roots: "re[=re-:back] + claim[=*kele-(2):to shout]"
+  exp: 词根合起来表示call back，也就是把什么东西给"叫回来"。这个词在早期表示to call back a hawk，后来引申出"get sth. back"的感觉。
+- word: disclaimer
+  freq: 17715
+  use: 24
+  pos: COUNTABLE NOUN
+  meaning: A disclaimer is a statement in which a person says that they did not know about something or that they are not responsible for something.
+  sent: The company asserts in a disclaimer that it won't be held responsible for the accuracy of information.
+  roots: "dis[=dis-:do the opposite of] + claim[=claim<877>] + er[=-er]"
+  connect:
+    opposite:
+      - not
+    claim:
+      - responsible
+  exp: 词根合起来表达denial of a claim。
+- word: exclaim
+  freq: 6390
+  use: 16
+  pos: TRANSITIVE VERB
+  meaning: Writers sometimes use exclaim to show that someone is speaking suddenly, loudly, or emphatically, often because they are excited, shocked, or angry.
+  sent: '"He went back to the lab," Inez exclaimed impatiently.'
+  roots: "ex[=ex-:out] + claim[=*kele-(2):to shout]"
+  connect:
+    out:
+      - speaking
+    shout:
+      - speaking
+- word: calendar
+  freq: 4742
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: A calendar is a chart or device which displays the date and the day of the week, and often the whole of a particular year divided up into months, weeks, and days.
+  sent: There was a calendar on the wall above, with large squares around the dates.
+  roots: "cal[=*kele-(2):to shout]"
+  exp: 在古罗马时期，新月(new moon)的那天不是靠算出来的，而是靠牧师观测。一旦看到，这个牧师就会declare新的月份到来。因此calendar会和shout相关。
+- word: cauldron
+  freq: 18624
+  use: 15
+  pos: COUNTABLE NOUN
+  meaning: A cauldron is a very large, round metal pot used for cooking over a fire.
+  sent: '...a witch''s cauldron.'
+  roots: "caul[=*kele-(1):warm]"
+  connect:
+    warm:
+      - fire
+- word: clarinet
+  freq: 16242
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A clarinet is a musical instrument in the shape of a pipe. You play the clarinet by blowing into it and covering and uncovering the holes with your fingers.
+  roots: "clar[=*kele-(2):to shout]"
+  exp: clarinet作为乐器可以发出声音，因此和shout相关。
+- word: chowder
+  freq: 19822
+  use: -1
+  pos: NOUN
+  meaning: Chowder is a thick soup containing pieces of fish.
+  roots: "chow[=*kele-(1):warm]"
+  connect:
+    warm:
+      - soup
+  exp: 字母互换上c=k。在美国clam chowder最好吃的城市据说是Boston。
 
 
 
 
-clamor  12366   40      *kele-
-reclaim 7587    39      *kele-
-disclaimer      17715   24      *kele-
-ecclesiastical  14868   20      *kele-
-exclaim 6390    16      *kele-
-calendar        4742    15      *kele-
-cauldron        18624   15      *kele-
-clarinet        16242   -1      *kele-
-leeway  16305   -1      *kele-
-chowder 19822   -1      *kele-
 
 
 ## TODO: finish all "related" tabs in root.yml
