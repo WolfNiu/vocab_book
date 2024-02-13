@@ -17829,9 +17829,232 @@
     warm:
       - soup
   exp: 字母互换上c=k。在美国clam chowder最好吃的城市据说是Boston。
+- word: engender
+  freq: 9493
+  use: 131
+  pos: TRANSITIVE VERB
+  meaning: If someone or something engenders a particular feeling, atmosphere, or situation, they cause it to occur.
+  sent: It helps engender a sense of common humanity.
+  roots: "en[=in-:in] + gen[=*gene-:give birth, beget]"
+  connect:
+    give birth:
+      - cause
+      - to occur
+- word: genial
+  freq: 18074
+  use: 127
+  pos: ADJECTIVE
+  meaning: Someone who is genial is kind and friendly.
+  sent: Bob was always genial and welcoming.
+  roots: "gen[=*gene-:give birth, beget] + al[=-al]"
+  connect:
+    give birth:
+      - kind
+      - friendly
+  exp: 和gentle<3421>一样，用的是*gene-中"of noble or good birth"的那层意思。
+- word: genius
+  freq: 4105
+  use: 164
+  pos: UNCOUNTABLE NOUN
+  meaning: Genius is very great ability or skill in a particular subject or activity.
+  sent: This is the mark of her real genius as a designer.
+  roots: "gen[=*gene-:give birth, beget] + us[=-us]"
+  connect:
+    give birth:
+      - great ability or skill
+  exp: 所谓"天才"，就是"天生(give birth)"的人才。
+- word: congenial
+  freq: 16829
+  use: 124
+  pos: ADJECTIVE
+  meaning: A congenial person, place, or environment is pleasant.
+  sent: He is back in more congenial company.
+  roots: "con[=con-:with, together] + gen[=*gene-:give birth, beget] + al[=-al]"
+  connect:
+    give birth:
+      - pleasant
+  exp: 和gentle<3421>一样，用的是*gene-中"of noble or good birth"的那层意思。表达的感觉是血统高贵的人天生就比较和善。
+- word: degenerate
+  freq: 16526
+  use: 114
+  pos: INTRANSITIVE VERB
+  meaning: If you say that someone or something degenerates, you mean that they become worse in some way, for example, weaker, lower in quality, or more dangerous.
+  sent: Inactivity can make your joints stiff, and the bones may begin to degenerate.
+  roots: "de[=de-:off, away from] + gen[=*gene-:give birth, beget] + er[=-er] + ate[=-ate]"
+  exp: 词根合起来表达"to be inferior to one's ancestors, to become unlike one's race or kind"的意思，也就是不肖先祖，不类同胞的负面感觉。因此degenerate能表示"become worse"。
+  related:
+    - degeneration
+    - degenerative
+- word: benign
+  freq: 7098
+  use: 95
+  pos: ADJECTIVE
+  meaning: You use benign to describe someone who is kind, gentle, and harmless.
+  sent: They are normally a more benign audience.
+  roots: "ben[=bene-:well] + gn[=*gene-:give birth, beget]"
+  exp: 词根合起来表示"well born"。
+- word: naive
+  freq: 6204
+  use: 94
+  pos: ADJECTIVE
+  meaning: If you describe someone as naive, you think they lack experience and so expect things to be easy or people to be honest or kind.
+  sent: It's naive to think that teachers are always tolerant.
+  roots: "na[=*gene-:give birth, beget]"
+  exp: 刚出生当然就lack experience了。
+  related:
+    - naivete
+- word: kin
+  freq: 7478
+  use: 34
+  pos: PLURAL NOUN
+  meaning: Your kin are your relatives.
+  roots: "kin[=*gene-:give birth, beget]"
+  connect:
+    give birth:
+      - relatives
+  related:
+    - kindred
+- word: akin
+  freq: 8038
+  use: 58
+  meaning: If one thing is akin to another, it is similar to it in some way.
+  sent: Listening to his life story is akin to reading a good adventure novel.
+  roots: "a[=a-(1):on, in, into] + kin[=kin<7478>]"
+  connect:
+    kin:
+      - similar
+- word: malignant
+  freq: 12622
+  use: 54
+  pos: ADJECTIVE
+  meaning: A malignant tumor or disease is out of control and likely to cause death.
+  sent: She developed a malignant breast tumor.
+  roots: "mal[=mal-:badly] + gn[=*gene-:give birth, beget] + ant[=-ant]"
+  exp: 词根合起来表达bad-natured的感觉。
+  connect:
+    - malignancy
+- word: jaunty
+  freq: 19506
+  use: 51
+  pos: ADJECTIVE
+  meaning: If you describe someone or something as jaunty, you mean that they are full of confidence and energy.
+  sent: '...a jaunty little man.'
+  roots: "jaun[=*gene-:give birth, beget] + y[=-y]"
+  exp: 和gentle<3421>一样，用的是*gene-中of noble or good birth的那层"天生高贵"的意思。对应释义中的full of confidence and energy。
+- word: homogeneous
+  freq: 11504
+  use: 48
+  pos: ADJECTIVE
+  meaning: Homogeneous is used to describe a group or thing which has members or parts that are all the same.
+  sent: The unemployed are not a homogeneous group.
+  roots: "homo[=homo-(1):same] + gene[=*gene-:give birth, beget] + ous[=-ous]"
+  connect:
+    same:
+      - same
+    give birth:
+      - group
+      - thing
+  exp: 词根合起来表达of the same kind的意思。其中kind对应give birth，因为大家都是同一个种。
+  related:
+    - homogeneity
+  guess:
+    - heterogeneous
+- word: ingenious
+  freq: 11844
+  use: 44
+  pos: ADJECTIVE
+  meaning: Something that is ingenious is very clever and involves new ideas, methods, or equipment.
+  sent: '...a truly ingenious invention.'
+  roots: "in[=in-:in] + geni[=*gene-:give birth, beget] + ous[=-ous]"
+  exp: 用的是*gene-中innate qualities, inborn character那层意思——也就是天生具有的才能。
+- word: genus
+  freq: 11089
+  use: 36
+  pos: COUNTABLE NOUN
+  meaning: A genus is a class of similar things, especially a group of animals or plants that includes several closely related species.
+  sent: '...a genus of plants called Sinningia.'
+  roots: "gen[=*gene-:give birth, beget] + us[=-us]"
+  connect:
+    give birth:
+      - class
+      - group
+      - closely related
+- word: generic
+  freq: 6544
+  use: 34
+  pos: ADJECTIVE
+  meaning: You use generic to describe something that refers or relates to a whole class of similar things.
+  sent: Parmesan is a generic term used to describe a family of hard Italian cheeses.
+  roots: "gen[=*gene-:give birth, beget] + er[=-er] + ic[=-ic]"
+  connect:
+    give birth:
+      - class
+      - similar
+- word: genre
+  freq: 4547
+  use: 32
+  pos: COUNTABLE NOUN
+  meaning: A genre is a particular type of literature, painting, music, film, or other art form which people consider as a class because it has special characteristics.
+  sent: '...his love of films and novels in the horror genre.'
+  roots: "gen[=*gene-:give birth, beget]"
+  connect:
+    give birth:
+      - type
+      - class
+- word: impregnate
+  freq: 20118
+  use: 30
+  pos: TRANSITIVE VERB
+  meaning: If someone or something impregnates a thing with a substance, they make the substance spread through it and stay in it.
+  sent: Impregnating clothes with insect repellent is effective.
+  roots: "im[=in-:into, in] + pregn[=pregnant<2652>] + ate[=-ate]"
+  connect:
+    in:
+      - through
+      - in
+    pregnant:
+      - spread
+      - stay
+- word: nascent
+  freq: 13666
+  use: 29
+  pos: ADJECTIVE
+  meaning: Nascent things or processes are just beginning, and are expected to become stronger or to grow bigger.
+  sent: '...the country''s nascent democracy.'
+  roots: "nasc[=*gene-:give birth, beget] + ent[=-ent]"
+  connect:
+    give birth:
+      - beginning
 
 
 
+
+
+genealogy       15154   28      *gene-
+kinship 9063    27      *gene-
+progeny 17643   23      *gene-
+germ    9465    21      *gene-
+genocide        7698    19      *gene-, *kae-id-
+renaissance     12946   17      *gene-
+gent    20102   17      *gene-
+regeneration    14419   14      *gene-
+multinational   7844    6       *gene-
+transnational   9976    6       *gene-
+prenatal        11483   6       *gene-
+kindergarten    6206    -1      *gene-, *gher-
+genome  7513    -1      *gene-
+kinda   10078   -1      *gene-
+innate  10443   -1      *gene-
+generalize      11027   -1      *gene-
+  generalization  8857    15      *gene-
+geneticist      13673   -1      *gene-
+genital 14569   -1      *gene-
+congenital      16200   -1      *gene-
+genesis 16350   -1      *gene-
+puny    16452   -1      *gene-
+disingenuous    16787   -1      *gene-
+intergenerational       17539   -1      *gene-
+germinate       18250   -1      *gene-
 
 
 
