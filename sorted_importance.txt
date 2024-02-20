@@ -7175,7 +7175,7 @@ glossy	8737	21	*ghel-
 gel	8929	21	*gel-
 jelly	9226	21	*gel-
 deprivation	9398	21	*per-
-germ	9465	21	*gene-
+germ	9465	21
 contingent	9480	21
 cultivation	9600	21	*kwel-
 pageant	9750	21

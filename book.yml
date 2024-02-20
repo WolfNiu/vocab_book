@@ -3832,8 +3832,7 @@
   freq: 6021
   use: 291
   pos: INTRANSITIVE VERB
-  meaning: If you flush, your face gets red because you are hot or ill, or because
-    you are feeling a strong emotion such as embarrassment or anger.
+  meaning: If you flush, your face gets red because you are hot or ill, or because you are feeling a strong emotion such as embarrassment or anger.
   sent: Do you sweat a lot or flush a lot?
   roots:
     fl: "*bhel- | to blow, swell, well up, overflow"
@@ -11495,27 +11494,6 @@
         ter: -ter | other
     sex: sex
   exp: 词根合起来表达的是"the other sex"的意思。其实后缀-ter也还算有用，比如alter<2910,24> = al[=*al-(1):beyond] + ter[-ter]。
-- word: homogeneous
-  freq: 11504
-  use: 48
-  pos: ADJECTIVE
-  meaning: Homogeneous is used to describe a group or thing which has members or parts that are all the same.
-  sent: The unemployed are not a homogeneous group.
-  roots:
-    homo:
-      meaning: homo- | same, the same, equal, like"
-      roots:
-        homo-: "*sem- | one; as one, together with"
-    gene: "*gene- | give birth, beget"
-  exp: 词根合起来表达"of the same kind"的意思。
-  connect:
-    same:
-      - same
-    give birth:
-      - group
-      - thing
-      - members
-      - parts
 - word: lazy
   freq: 6331
   use: 111
@@ -17914,6 +17892,7 @@
       - relatives
   related:
     - kindred
+    - kinship
 - word: akin
   freq: 8038
   use: 58
@@ -18025,26 +18004,116 @@
   connect:
     give birth:
       - beginning
+- word: genealogy
+  freq: 15154
+  use: 28
+  pos: UNCOUNTABLE NOUN
+  meaning: Genealogy is the study of the history of families, especially through studying historical documents to discover the relationships between particular people and their families.
+  sent: He had engaged in genealogical research on his family shortly before the War.
+  roots: "gene[=*gene-:give birth, beget] + logy[=-logy:theory]"
+  connect:
+    give birth:
+      - families
+      - relationships
+      - people
+    theory:
+      - study
+- word: progeny
+  freq: 17643
+  use: 23
+  pos: NOUN
+  meaning: You can refer to a person's children or to an animal's young as their progeny.
+  sent: '...the freed slaves and their progeny.'
+  roots: "pro[=pro-:forth] + gen[=*gene-:give birth, beget] + y[=-y]"
+  connect:
+    give birth:
+      - children
+      - young
+    forth:
+      - children
+      - young
+- word: genocide
+  freq: 7698
+  use: 19
+  pos: UNCOUNTABLE NOUN
+  meaning: Genocide is the deliberate murder of a whole community or race.
+  sent: They have alleged that acts of genocide and torture were carried out.
+  roots: "gen[=*gene-:give birth, beget] + cide[=-cide:a killing]"
+  connect:
+    give birth:
+      - community
+      - race
+    killing:
+      - murder
+- word: renaissance
+  freq: 12946
+  use: 17
+  pos: PROPER NOUN
+  meaning: The Renaissance was the period in Europe, especially Italy, in the 14th, 15th, and 16th centuries, when there was a new interest in art, literature, science, and learning.
+  sent: '...the Renaissance masterpieces in London''s galleries.'
+  roots: "re[=re-:again] + nais[=*gene-:give birth, beget] + ance[=-ance]"
+  exp: 词根合起来表达"重生"，对应释义中的"new interest"。
+- word: regenerate
+  freq: 15408
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To regenerate something means to develop and improve it to make it more active, successful, or important, especially after a period when it has been getting worse.
+  sent: The government will continue to try to regenerate inner-city areas.
+  roots: "re[=re-:again] + gener[=*gene-:give birth, beget] + ate[=-ate]"
+  connect:
+    again:
+      - develop
+      - improve
+      - make it more active, successful, or important
+    give birth:
+      - develop
+      - improve
+      - make it more active, successful, or important
+  related:
+    - regeneration
+- word: prenatal
+  freq: 11483
+  use: 6
+  pos: ADJECTIVE
+  meaning: Prenatal is used to describe things relating to the medical care of women during pregnancy.
+  sent: I'd met her briefly in a prenatal class.
+  roots: "pre[=pre-:before] + natal[=natal<20000+>]"
+  exp: 词根合起来表示"before birth"，对应释义中的during pregnancy。
+- word: kindergarten
+  freq: 6206
+  use: -1
+  pos: NOUN
+  meaning: A kindergarten is a school or class for children aged 4 to 6 years old. It prepares them to go into the first grade.
+  sent: She's in kindergarten now.
+  roots: "kinder[=*gene-:give birth, beget] + garten[=garden<1047>]"
+  exp: 这里的kinder表示child，因此词根合起来表示"garden of children"，也就是"儿童乐园"的感觉。
+- word: genome
+  freq: 7513
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: In biology, a genome is the particular number and arrangement of chromosomes within the cells of an organism such as an animal or plant that distinguishes it from other types of organism.
+  sent: '...the mapping of the human genome.'
+  roots: gen[=gene<2307>] + ome[=chromosome<10200>]
+  connect:
+    gene:
+      - chromosomes
+    chromosome:
+      - chromosomes
+- word: innate
+  freq: 10443
+  use: -1
+  pos: ADJECTIVE
+  meaning: An innate quality or ability is one that a person is born with.
+  sent: We have an innate sense of fairness.
+  roots: in[=in-:in] + nate[=*gene-:give birth, beget]
+  connect:
+    in:
+      - with
+    give birth:
+      - born
 
 
 
-
-
-genealogy       15154   28      *gene-
-kinship 9063    27      *gene-
-progeny 17643   23      *gene-
-germ    9465    21      *gene-
-genocide        7698    19      *gene-, *kae-id-
-renaissance     12946   17      *gene-
-gent    20102   17      *gene-
-regeneration    14419   14      *gene-
-multinational   7844    6       *gene-
-transnational   9976    6       *gene-
-prenatal        11483   6       *gene-
-kindergarten    6206    -1      *gene-, *gher-
-genome  7513    -1      *gene-
-kinda   10078   -1      *gene-
-innate  10443   -1      *gene-
 generalize      11027   -1      *gene-
   generalization  8857    15      *gene-
 geneticist      13673   -1      *gene-

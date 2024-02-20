@@ -2001,7 +2001,7 @@ misc:
     - unclear
 "*gene-":
   meaning: give birth, beget
-  exp: nation<413> = nat[=*gene-] + ion[=-ion]，其中nat和*gene-中的"ne"可互换（也就是说"ge"被省了）。一般来说生在哪个国家，哪个国家就是你的nation。相似地，native<1410> = nat[=*gene-] + ive[=-ive]，表达"生于本地"的感觉。indigenous<3713> = indi[=in-:in] + gen[=*gene-] + ous[=-ous]，还是"born in (a place)"的感觉。interational<501> = inter[=inter-:between] + national[=national<232>]，顾名思义，表示between nations。gentle<3421> = gent[=*gene-] + le[=-le]，词根表示"of noble or good birth"，也就是"生下来就高贵"的感觉。使用同样感觉的还有generous<3922> = gen[=*gene-] + er[=-er] + ous[=-ous]，因为generous也是一种高贵(noble)的品格。genuine<3784> = gen[=*gene-]，表达"天生自带(native, natural, innate)"的感觉。如果要是后天习得的就没有那么"真(genuine)"了。nature<697> = nat[=*gene-] + ure[=-ure]，也表达"与生俱来"的感觉，因此能表示"自然"。kind<250> = kind[=*gene-]，表达"of a particular nature"的感觉。general<806> = gen[=*gene-] + er[=-er] + al[=-al]，一切都由其生发(give birth)开去，一切都以其为源头，因此能表达relating to all, of a whole class, generic的感觉。generate<1704> = gen[=*gene-] + er[=-er] + ate[=-ate]，用give birth表达"产生"、"生成"的概念，即"bring forth, produce"。pregnant<2652> = pre[=pre-:before] + gn[=*gene-] + ant[=-ant]，词根合起来表示"before birth"——那当然就是怀孕时期啦。gender<1838> = gen[=*gene-] + er[=-er]，这玩意儿一般来说生下来(give birth)就决定了。engine[=in-:in] + gine[=*gene-]，本意表示"innate qualities, ability; in born character"，也就是"与生俱来的能力"。后来就把"device that converts energy to mechanical power"——也就是"天生"具有这种转换能力的设备——统称为engine了。gene<2307> = gene[=*gene-]。基因属于天生自带的属性。
+  exp: nation<413> = nat[=*gene-] + ion[=-ion]，其中nat和*gene-中的"ne"可互换（也就是说"ge"被省了）。一般来说生在哪个国家，哪个国家就是你的nation。相似地，native<1410> = nat[=*gene-] + ive[=-ive]，表达"生于本地"的感觉。indigenous<3713> = indi[=in-:in] + gen[=*gene-] + ous[=-ous]，还是"born in (a place)"的感觉。international<501> = inter[=inter-:between] + national[=national<232>]，顾名思义，表示between nations。gentle<3421> = gent[=*gene-] + le[=-le]，词根表示"of noble or good birth"，也就是"生下来就高贵"的感觉。使用同样感觉的还有generous<3922> = gen[=*gene-] + er[=-er] + ous[=-ous]，因为generous也是一种高贵(noble)的品格。genuine<3784> = gen[=*gene-]，表达"天生自带(native, natural, innate)"的感觉。如果要是后天习得的就没有那么"真(genuine)"了。nature<697> = nat[=*gene-] + ure[=-ure]，也表达"与生俱来"的感觉，因此能表示"自然"。kind<250> = kind[=*gene-]，表达"of a particular nature"的感觉。general<806> = gen[=*gene-] + er[=-er] + al[=-al]，一切都由其生发(give birth)开去，一切都以其为源头，因此能表达relating to all, of a whole class, generic的感觉。generate<1704> = gen[=*gene-] + er[=-er] + ate[=-ate]，用give birth表达"产生"、"生成"的概念，即"bring forth, produce"。pregnant<2652> = pre[=pre-:before] + gn[=*gene-] + ant[=-ant]，词根合起来表示"before birth"——那当然就是怀孕时期啦。gender<1838> = gen[=*gene-] + er[=-er]，这玩意儿一般来说生下来(give birth)就决定了。engine[=in-:in] + gine[=*gene-]，本意表示"innate qualities, ability; in born character"，也就是"与生俱来的能力"。后来就把"device that converts energy to mechanical power"——也就是"天生"具有这种转换能力的设备——统称为engine了。gene<2307> = gene[=*gene-]。基因属于天生自带的属性。
   related:
     - national
     - nationwide
@@ -2009,6 +2009,7 @@ misc:
     - nationalize
     - nationality
     - gentleman
+    - gent
     - genteel
     - gentleness
     - generosity
@@ -2020,6 +2021,7 @@ misc:
     - good-natured
     - kindness
     - kindly
+    - kinda
     - generally
     - generality
     - generation
@@ -2033,3 +2035,5 @@ misc:
     - unnatural
     - supernatural
     - unkind
+    - multinational
+    - transnational
