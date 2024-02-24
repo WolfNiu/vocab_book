@@ -18111,19 +18111,74 @@
       - with
     give birth:
       - born
+- word: genital
+  freq: 14569
+  use: -1
+  pos: PLURAL NOUN
+  meaning: Someone's genitals are their external sexual organs.
+  sent: Without thinking, Neil cupped his hands over his genitals.
+  roots: gen[=*gene-:give birth, beget] + ...
+  connect:
+    give birth:
+      - sexual organs
+- word: congenital
+  freq: 16200
+  use: -1
+  pos: ADJECTIVE
+  meaning: A congenital disease or medical condition is one that a person has had from birth, but is not inherited.
+  sent: When John was 17, he died of congenital heart disease.
+  roots: con[=con-:together, with] + gen[=*gene-:give birth, beget]
+  connect:
+    give birth:
+      - birth
+- word: genesis
+  freq: 16350
+  use: -1
+  pos: NOUN
+  meaning: The genesis of something is its beginning, birth, or creation.
+  sent: The project had its genesis two years earlier.
+  roots: gene[=*gene-:give birth, beget]
+  connect:
+    give birth:
+      - beginning
+      - birth
+      - creation
+- word: puny
+  freq: 16452
+  use: -1
+  pos: ADJECTIVE
+  meaning: Someone or something that is puny is very small or weak.
+  sent: '...a puny youth.'
+  roots: pu[=post-:after] + ny[=*gene-:give birth, beget]
+  exp: 词根合起来表示晚于(after)他人出生的(give birth)。这样的人岁数小，当然就比较small or weak。
+- word: disingenuous
+  freq: 16787
+  use: -1
+  pos: ADJECTIVE
+  meaning: Someone who is disingenuous is slightly dishonest and insincere in what they say.
+  sent: It would be disingenuous to claim that this is great art.
+  roots: dis[=dis-:opposite of] + ingenuous[=ingenuous<20000+>]
+  connect:
+    opposite:
+      - dishonest
+      - insincere
+    ingenuous:
+      - dishonest
+      - insincere
+  exp: ingenuous = in[=in-:in] + gen[=*gene-:give birth, beget] + ... If you describe someone as ingenuous, you mean that they are innocent, trusting, and honest. 这些都是刚出生，涉世未深的小朋友的特性。
+- word: germinate
+  freq: 18250
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: If a seed germinates or if it is germinated, it starts to grow.
+  sent: Some seed varieties germinate fast, so check every day or so.
+  roots: germin[=*gene-:give birth, beget] + ate[=-ate]
+  connect:
+    give birth:
+      - grow
 
 
 
-generalize      11027   -1      *gene-
-  generalization  8857    15      *gene-
-geneticist      13673   -1      *gene-
-genital 14569   -1      *gene-
-congenital      16200   -1      *gene-
-genesis 16350   -1      *gene-
-puny    16452   -1      *gene-
-disingenuous    16787   -1      *gene-
-intergenerational       17539   -1      *gene-
-germinate       18250   -1      *gene-
 
 
 
