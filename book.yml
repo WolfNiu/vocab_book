@@ -18622,9 +18622,123 @@
   meaning: Anorexia or anorexia nervosa is an illness in which a person has an overwhelming fear of becoming fat, and so refuses to eat enough and becomes thinner and thinner.
   roots: an[=an-(1):without] + orex[=*reg-:move in a straight line; to lead, rule]
   exp: 用的是*reg-中"to desire, long for"的那层意思。
+- word: tender
+  freq: 4036
+  use: 290
+  pos: ADJECTIVE
+  meaning: Someone or something that is tender expresses gentle and caring feelings.
+  sent: Her voice was tender, full of pity.
+  roots: tend[=*ten-:to stretch] + er[=-er]
+  exp: 用的是*ten-中thin, weak的那层意思——被拉长的东西肯定就比较弱、比较柔软了。对应释义中的gentle, caring。
+  related:
+    - tenderness
+    - tenderly
+    - tenderloin
+    - tendril
 
 
 
+
+
+
+pretend 2928    99      *ten-
+  pretension      15084   80      *ten-
+  pretentious     16646   55      *ten-
+  unpretentious   19298   140     *ten-
+  pretense        11779   78      *ten-
+content 1745    225     *ten-
+  contentment     15665   -1      *ten-
+  discontent      9903    -1      *ten-
+  contented       19897   25      *ten-
+extend  1452    180     *ten-
+  extensive       2868    24      *ten-
+  extended        4124    85      *ten-
+  extension       3218    7       *ten-
+entertain       5004    152     *ten-
+  entertainment   2372    -1      *ten-
+  entertainer     8708    0       *ten-
+maintain        925     127     *man-, *ten-
+  maintenance     3091    22
+thin    1630    125     *ten-
+contain 935     116     *ten-
+  self-contained  13395   -1      *ten-
+  containment     9786    0       *ten-
+  container       3390    34      *ten-
+sustain 3011    97      *ten-
+  sustainable     4955    82      *ten-
+  unsustainable   17844   -1      *ten-
+tend    1043    90      *ten-
+  tendency        3068    74      *ten-
+contend 3587    81      *ten-
+  contender       6789    30      *ten-
+  contentious     9129    74      *ten-
+  contention      6653    51      *ten-
+tense   6353    81      *ten-
+monotonous      17561   81      *men-,  *ten-
+attend  1172    76      *ten-
+  attentive       9698    82      *ten-
+  attendee        12276   -1      *ten-
+  attendance      4480    0       *ten-
+  unattended      16940   33      *ten-
+  attendant       5499    51      *ten-
+intend  1544    70      *ten-
+  unintended      10596   -1      *ten-
+  intended        9195    62      *ten-
+  intentional     8933    43      *ten-
+  intention       2540    -1      *ten-
+  intentionally   7890    20      *ten-
+  unintentional   19066   -1      *ten-
+  well-intentioned        17322   -1      *ten-
+contemporary    1960    65      *ten-
+rein    8794    60      *ten-
+continue        294     59      *ten-
+  discontinue     11998   116     *ten-
+  discontinuity   19386   55      *ten-
+attention       592     59      *ten-
+  inattention     19569   16      *ten-
+temporary       3175    59      *ten-
+untenable       18012   57      *ten-
+tenacious       15146   54      *ten-
+  tenacity        15147   -1      *ten-
+obtain  1604    51      *ten-
+intensity       3329    49      *ten-
+  intensify       6004    51      *ten-
+  intensive       5028    45      *ten-
+tonic   12433   40      *ten-
+tenant  5622    37      *ten-
+continent       4061    18      *ten-
+  continental     9149    37      *ten-
+  incontinence    18948   -1      *ten-
+temporal        6978    34      *ten-
+detention       6776    32      *ten-
+portend 19309   24      *ten-
+pertain 12558   22      *per-,  *ten-
+tenement        14823   22      *ten-
+lieutenant      6139    20      *ten-
+tenure  5062    19      *ten-
+tent    3095    16      *ten-
+temple  3648    9       *tem-,  *ten-
+intone  15249   7       *ten-
+abstain 14293   0       *ten-
+  abstinence      11047   16      *ten-
+tone    2008    -1      *ten-
+tension 2206    -1      *ten-
+  hypertension    10669   -1      *ten-
+intense 2315    -1      *ten-
+retain  2748    -1      *ten-
+  retainer        17907   42      *ten-
+tennis  3107    -1      *ten-
+detain  7694    -1      *ten-
+  detainee        8160    -1      *ten-
+bartender       8037    -1      *ten-
+tenor   9614    -1      *ten-
+tenet   10035   -1      *ten-
+tendon  10650   -1      *ten-
+tenuous 11376   -1      *ten-
+baritone        14647   -1      *gwere-,        *ten-
+tonal   15846   -1      *ten-
+countenance     18998   -1      *ten-
+intonation      19106   -1      *ten-
 
 
 
