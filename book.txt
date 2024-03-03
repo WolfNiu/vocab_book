@@ -1,0 +1,48 @@
+TODO: we should be able to automatically generate the first draft of the book
+Rank words in book.yml in terms of "use" (including main entries and words in related/guess)
+For each word
+do
+    - Get the definition + sentence from book.yml
+    - Get the roots, connect & exp from book.yml
+    - Get the synonyms + antonyms from webster and then their frequencies, meaning, roots (if any), connect and exp from book.yml
+        [but the issue is that we couldn't match their meanings from Collins to Webster]
+
+
+Hence, we need to
+1. Put frequent words (with freq < 4000) in book.yml
+2. Finish all words in book.yml
+3. Sort entries based on "use" to generate sorted_book.yml
+4. Enable mass command line search with multiple words (synonyms, antonyms, guess words)
+5. [hard] Have a way to search if a word is already covered in previous entries (so that they are known words)
+
+
+homogeneous<11504> /ˌhōməˈjēnēəs/
+    A homogeneous group has members that are all the same.
+    TODO: add example sentence add boldface frequent co-occurred words
+
+    homogeneous = homo[=homo-(1):same] + gene[=*gene-:give birth, beget] + ...
+
+    homogeneous的近义词有：similar<721>, consistent<2245>, uniform<3069>, equivalent<4377>, comparable<4692>, analogous<10475>.
+    • Uniform things are all the same.
+        uniform = uni[=uni-:one] + form[=form<524>]
+        这是我们第一次见到uni-这个前缀。用它可以造出很多词，比如unique<1739> = uni[=uni-] + ...。其中的uni-就对应着"独一无二"的"一"字。
+    • A consistent person always behaves in the same way.
+        consistent = con[=con-:with, together] + sist[=*sta-:to stand, make, or be firm] + ...
+
+    homogeneous的反义词有：heterogeneous<13634>.
+    • heterogeneous = hetero[=hetero-:different] + ...
+
+
+tender<4036>
+    Tender people express gentle and caring feelings.
+
+    tender = tend[=*ten-:to stretch] + ...
+    被stretch过的东西会比较thin，于是也就比较weak, delicate。
+
+    tender的同义词有affectionate<12472>, loving, adoring, compassionate, kind, benevolent, gentle, sympathetic, thoughtful, humane。
+
+
+TODO: ideal format of book_original.yaml
+• Word + frequency
+• All synonyms + antonyms with their frequencies
+

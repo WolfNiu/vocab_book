@@ -11885,7 +11885,7 @@
   sent: Steam or boil the cabbage until it is tender.
   roots:
     cab: "*kaput- | head"
-  exp: cabbage其实就是"vegetable that grows a rounded head of thick leaves"，长得就跟个大脑袋似的，所以和head相关。
+  exp: cabbage其实就是"vegetable that grows a rounded head of thick leaves"，长得就跟个大脑袋似的，因此cabbage也被翻译成"大头菜"。
   connect:
     head:
       - head
@@ -18176,6 +18176,452 @@
   connect:
     give birth:
       - grow
+- word: derail
+  freq: 10858
+  use: 63
+  pos: TRANSITIVE VERB
+  meaning: To derail something such as a plan or a series of negotiations means to prevent it from continuing as planned.
+  sent: The present wave of political killings is the work of people trying to derail peace talks.
+  roots: de[=de-:off] + rail[=rail<3402>]
+  connect:
+    off:
+      - prevent
+    rail:
+      - planned
+  related:
+    - derailleur
+- word: right
+  freq: 193
+  use: 469
+  pos: ADJECTIVE
+  meaning: If something is right, it is correct and agrees with the facts.
+  sent: That's absolutely right.
+  roots: right[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    straight:
+      - correct
+      - agrees with the facts
+  related:
+      - copyright
+      - upright
+      - rightly
+      - outright
+      - downright
+      - righteous 
+      - self-righteous
+      - righteousness
+      - rightful
+- word: rail
+  freq: 3402
+  use: 8
+  pos: COUNTABLE NOUN
+  meaning: A rail is a horizontal bar attached to posts or around the edge of something as a fence or support.
+  sent: They had to walk across an emergency footbridge, holding onto a rope that served as a rail.
+  roots: rail[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    straight line:
+      - horizontal bar
+  related:
+    - railroad
+    - railing
+    - railway
+    - derail
+    - derailleur
+- word: dress
+  freq: 1443
+  use: 236
+  pos: COUNTABLE NOUN
+  meaning: A dress is a piece of clothing for a woman or girl that covers the body
+    and part or all of the legs.
+  sent: She was wearing a black dress.
+  roots: d[=dis-:apart] + ress[=*reg-:move in a straight line; to lead, rule]
+  exp: 词根合起来表示"make straight"，也就是"让自己整洁一些"的感觉。
+  related:
+    - dressing
+    - dresser
+    - undress
+    - redress
+    - hairdresser
+- word: regular
+  freq: 1377
+  use: 229
+  pos: ADJECTIVE
+  meaning: Regular events have equal amounts of time between them, so that they happen, for example, at the same time each day or each week.
+  sent: Get regular exercise.
+  roots: reg[=*reg-:move in a straight line; to lead, rule] + ...
+  connect:
+    rule:
+      - equal amounts of time
+      - at the same time
+  related:
+    - regularly
+    - irregular
+    - irregularity
+    - regularity
+- word: direct
+  freq: 1487
+  use: 191
+  pos: ADJECTIVE
+  meaning: Direct means moving toward a place or object, without changing direction and without stopping, for example, in a trip.
+  sent: They'd come on a direct flight from Athens.
+  roots: di[=dis-:apart] + rect[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    move in a straight line:
+      - without changing direction
+      - without stopping
+  related:
+    - direction
+    - directly
+    - indirect
+    - directory
+    - directive
+    - director
+    - indirectly
+    - redirect
+- word: address
+  freq: 1031
+  use: 166
+  pos: COUNTABLE NOUN
+  meaning: Your address is the number of the house or apartment and the name of the street and the town where you live or work.
+  sent: The address is 2025 M Street, NW, Washington, DC, 20036.
+  roots: ad[=ad-:to] + d[=dis-:apart] + ress[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead:
+      - number
+      - name
+  exp: address的作用就是guide, direct people (换句话说就是提供direction)，对应释义中的lead。
+- word: correct
+  freq: 1808
+  use: 165
+  pos: ADJECTIVE
+  meaning: If something is correct, it is right and true.
+  sent: The correct answers can be found at the bottom of page 8.
+  roots: cor[=com-:intensive prefix] + rect[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    straight:
+      - right
+      - true
+  related:
+    - incorrect
+    - correction
+    - correctional
+    - correctness
+    - corrective
+- word: rule
+  freq: 634
+  use: 155
+  pos: COUNTABLE NOUN
+  meaning: Rules are instructions that tell you what you are allowed to do and what you are not allowed to do.
+  sent: '...a thirty-two-page pamphlet explaining the rules of basketball.'
+  roots: rule[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - instructions
+      - allowed
+      - not allowed
+  related:
+    - ruling
+    - ruler
+    - overrule
+- word: alert
+  freq: 5388
+  use: 211
+  pos: ADJECTIVE
+  meaning: If you are alert, you are paying full attention to things around you and are able to deal with anything that might happen.
+  sent: We all have to stay alert.
+  roots: al[=al-:to] + e[=e-:up, out of] + rt[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    up:
+      - paying full attention
+    straight:
+      - paying full attention
+  exp: 人在警觉的时候整个人就"支棱(up, straight)"起来了。
+  related:
+    - alertness
+- word: rack
+  freq: 4190
+  use: 144
+  pos: COUNTABLE NOUN
+  meaning: A rack is a frame or shelf, usually with bars or hooks, that is used for holding things or for hanging things on.
+  sent: A luggage rack is a sensible option.
+  roots: rack[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    straight:
+      - holding things
+      - hanging things on
+  exp: rack要立起来，上面才能放东西或者挂东西。
+- word: royal
+  freq: 4352
+  use: 125
+  pos: ADJECTIVE
+  meaning: Royal is used to indicate that something is connected with a king, queen, or emperor, or their family. A royal person is a king, queen, or emperor, or a member of their family.
+  sent: '...an invitation to a royal garden party.'
+  roots: roy[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - king
+      - queen
+      - emperor
+  related:
+    - royalty
+- word: erect
+  freq: 6449
+  use: 112
+  pos: TRANSITIVE VERB
+  meaning: If people erect something such as a building, bridge, or barrier, they build it or create it.
+  sent: Opposition demonstrators have erected barricades in roads leading to the parliament building.
+  roots: e[=e-:up, out of] + rect[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    up:
+      - build
+      - create
+    straight:
+      - build
+      - create
+  related:
+    - erection
+- word: rich
+  freq: 1079
+  use: 96
+  pos: ADJECTIVE
+  meaning: A rich person has a lot of money or valuable possessions.
+  sent: You're going to be a very rich man.
+  roots: rich[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - a lot of money or valuable possessions
+  related:
+    - richness
+    - riches
+    - richly
+  guess:
+    - enrich
+    - enrichment
+- word: reckon
+  freq: 8695
+  use: 90
+  pos: TRANSITIVE VERB
+  meaning: If you reckon that something is true, you think that it is true.
+  sent: Toni reckoned that it must be about three o'clock.
+  roots: reck[=*reg-:move in a straight line; to lead, rule]
+  exp: 用的是*reg-中correct的那层意思。所谓reckon就是"think something is correct"。
+  related:
+    - reckoning
+- word: rake
+  freq: 9045
+  use: 87
+  pos: COUNTABLE NOUN
+  meaning: If you rake a surface, you move a rake across it in order to make it smooth and level.
+  sent: Rake the soil, press the seed into it, then cover it lightly.
+  roots: rake[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    move:
+      - move
+    straight:
+      - across
+      - smooth
+      - level
+- word: regulate
+  freq: 3413
+  use: 76
+  pos: TRANSITIVE VERB
+  meaning: To regulate an activity or process means to control it, especially by means of rules.
+  sent: Under such a plan, the government would regulate competition among insurance companies so that everyone gets care at lower cost.
+  roots: reg[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - control
+      - rules
+  related:
+    - regulation
+    - regulator
+  guess:
+    - deregulate
+- word: regal
+  freq: 12534
+  use: 68
+  pos: ADJECTIVE
+  meaning: If you describe something as regal, you mean that it is suitable for a king or queen, because it is very impressive or beautiful.
+  sent: He sat with such regal dignity.
+  roots: reg[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - king
+      - queen
+  related:
+    - regalia
+- word: reckless
+  freq: 8733
+  use: 51
+  pos: ADJECTIVE
+  meaning: If you say that someone is reckless, you mean that they act in a way which shows that they do not care about danger or the effect their behavior will have on other people.
+  sent: He is charged with reckless driving.
+  roots: reck[=reck<20000+>] + less[=-less:lacking]
+  connect:
+    reck:
+      - care
+    lacking:
+      - not
+  exp: reck本身是个已经不用的单词，表示pay heed to something。reck[=*reg-:move in a straight line; to lead, rule]，用move in a straight line表达小心谨慎(care, concern)的感觉。
+  related:
+    - recklessly
+- word: reign
+  freq: 7768
+  use: 41
+  pos: INTRANSITIVE VERB
+  meaning: When a king or queen reigns, he or she rules a country.
+  sent: ...Henry II, who reigned from 1154 to 1189.
+  roots: reign[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - rules
+- word: source
+  freq: 597
+  use: 40
+  pos: COUNTABLE NOUN
+  meaning: The source of something is the person, place, or thing which you get it from.
+  sent: '...over 40 percent of adults use television as their major source of information about the arts.'
+  roots: sou[=sub-:up from below] + rce[=*reg-:move in a straight line; to lead, rule]
+  exp: 词根合起来表示to rise up (from below)，可以想像泉水(源泉)从地底涌出的感觉。
+  related:
+    - outsource
+- word: arrogant
+  freq: 7741
+  use: 38
+  pos: ADJECTIVE
+  meaning: Someone who is arrogant behaves in a proud, unpleasant way toward other people because they believe that they are more important than others.
+  sent: He was so arrogant.
+  roots: ar[=ad-:to] + rog[=*reg-:move in a straight line; to lead, rule] + ant[=-ant]
+  exp: 用的是*reg-中ask, question; propose的那层意思。词根*reg-表达to stretch out (the hand)——也就是管别人要东西的形象。换句话说就是认为啥东西都应该是自己的，谁都应该让着自己。
+  related:
+    - arrogance
+- word: rectify
+  freq: 14904
+  use: 37
+  pos: TRANSITIVE VERB
+  meaning: If you rectify something that is wrong, you change it so that it becomes correct or satisfactory.
+  sent: Only an act of Congress could rectify the situation.
+  roots: rect[=*reg-:move in a straight line; to lead, rule] + fy[=-fy:make]
+  connect:
+    lead, rule:
+      - change it so that it becomes correct or satisfactory
+    make:
+      - change it so that it becomes correct or satisfactory
+- word: derogatory
+  freq: 17951
+  use: 31
+  pos: ADJECTIVE
+  meaning: If you make a derogatory remark or comment about someone or something, you express your low opinion of them.
+  sent: He refused to withdraw derogatory remarks made about his boss.
+  roots: de[=de-:away] + rog[=*reg-:move in a straight line; to lead, rule] + ...
+  exp: 用的是*reg-中ask, question; propose的那层意思。词根*reg-表达to stretch out (the hand)——也就是管别人要东西的形象。换句话说就是认为啥东西都应该是自己的，谁都应该让着自己。
+- word: region
+  freq: 794
+  use: 28
+  pos: COUNTABLE NOUN
+  meaning: A region is a large area of land that is different from other areas of land, for example because it is one of the different parts of a country with its own customs and characteristics, or because it has a particular geographical feature.
+  sent: '...Barcelona, capital of the autonomous region of Catalonia.'
+  roots: reg[=*reg-:move in a straight line; to lead, rule] + ...
+  connect:
+    lead, rule:
+      - large area of land
+  related:
+    - regional
+- word: surge
+  freq: 5086
+  use: 11
+  pos: COUNTABLE NOUN
+  meaning: A surge is a sudden large increase in something that has previously been steady, or has only increased or developed slowly.
+  sent: Specialists see various reasons for the recent surge in inflation.
+  roots: su[=sub-:up from below] + rge[=*reg-:move in a straight line; to lead, rule]
+  exp: 词根合起来表示"to rise up (from below)"的感觉。和source<597>的构词方法一模一样。
+  guess:
+    - insurgent
+    - insurgency
+    - resurgence
+- word: regime
+  freq: 1862
+  use: 25
+  pos: COUNTABLE NOUN
+  meaning: If you refer to a government or system of running a country as a regime, you are critical of it because you think it is not democratic and uses unacceptable methods.
+  sent: '...the collapse of the Fascist regime at the end of the war.'
+  roots: reg[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - running
+- word: regimen
+  freq: 8049
+  use: 25
+  pos: COUNTABLE NOUN
+  meaning: A regimen is a set of rules about food and exercise that some people follow in order to stay healthy.
+  sent: Whatever regimen has been prescribed should be rigorously followed.
+  roots: reg[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    rule:
+      - rules
+- word: regiment
+  freq: 10540
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A regiment is a large group of soldiers that is commanded by a colonel.
+  sent: Two or three miles inland a highly experienced artillery regiment had established a defensive position.
+  roots: reg[=*reg-:move in a straight line; to lead, rule]
+  connect:
+    lead, rule:
+      - commanded
+- word: prerogative
+  freq: 12578
+  use: 8
+  pos: COUNTABLE NOUN
+  meaning: If something is the prerogative of a particular person or group, it is a privilege or a power that only they have.
+  sent: It is your prerogative to stop seeing that particular therapist and find another one.
+  roots: pre[=pre-:before] + rog[=*reg-:move in a straight line; to lead, rule] + ...
+  exp: 用的是*reg-中ask的那层意思，对应释义中的privilege和power。
+- word: surrogate
+  freq: 9104
+  use: -1
+  pos: NOUN
+  meaning: You use surrogate to describe a person or thing that is given a particular role because the person or thing that should have the role is not available.
+  sent: Martin had become his surrogate son.
+  roots: sur[=sub-:in the place of, under] + rog[=*reg-:move in a straight line; to lead, rule] + ate[=-ate]
+  exp: 用的是*reg-中"to ask, propose"的那层意思。词根合起来表示"put in another's place, subtitute"。
+- word: rectangle
+  freq: 10295
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A rectangle is a four-sided shape whose corners are all ninety-degree angles. Each side of a rectangle is the same length as the one opposite to it.
+  roots: rect[=*reg-:move in a straight line; to lead, rule] + angle[=angle<3014>]
+  exp: 用的是*reg-中right的那层意思。词根合起来表示right angle。
+- word: interrogate
+  freq: 10654
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If someone, especially a police officer, interrogates someone, they question them thoroughly for a long time in order to get some information from them.
+  sent: I interrogated everyone even slightly involved.
+  roots: inter[=inter-:between] + rog[=*reg-:move in a straight line; to lead, rule] + ate[=-ate]
+  exp: 用的是*reg-中"to ask, to question"的那意思，对应释义中的question。
+  related:
+    - interrogation
+- word: regent
+  freq: 16071
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A regent is a person who rules a country when the king or queen is unable to rule, for example because they are too young or too ill.
+  sent: a queen regent
+  roots: reg[=*reg-:move in a straight line; to lead, rule] + ent[=-ent]
+  connect:
+    lead, rule:
+      - rules
+      - king
+      - queen
+      - rule
+- word: anorexia
+  freq: 17449
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Anorexia or anorexia nervosa is an illness in which a person has an overwhelming fear of becoming fat, and so refuses to eat enough and becomes thinner and thinner.
+  roots: an[=an-(1):without] + orex[=*reg-:move in a straight line; to lead, rule]
+  exp: 用的是*reg-中"to desire, long for"的那层意思。
 
 
 
@@ -18204,10 +18650,8 @@
 # (102, '*pele-'),
 # (103, '*ag-'),
 # (109, '*ten-'),
-# (111, '*gene-'),
 # (125, '*kap-'),
 # (127, '*men-'),
-# (132, '*reg-'),
 # (199, '*sta-'),
 # (228, '*dhe-'),
 # (437, '*per-')]
