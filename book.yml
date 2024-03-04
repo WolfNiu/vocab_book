@@ -18635,45 +18635,148 @@
     - tenderly
     - tenderloin
     - tendril
+- word: pretend
+  freq: 2928
+  use: 99
+  pos: TRANSITIVE VERB
+  meaning: If you pretend that something is the case, you act in a way that is intended to make people believe that it is the case, although in fact it is not.
+  sent: I pretend that things are really okay when they're not.
+  roots: pre[=pre-:before] + tend[=*ten-:to stretch]
+  exp: 词根合起来表示"stretch in front; put forward as an excuse"，这里put forward就有"把观点亮出来"的意思。
+  related:
+    - pretension
+    - pretentious
+    - pretense
+  guess:
+    - unpretentious
+- word: content
+  freq: 1745
+  use: 225
+  pos: PLURAL NOUN
+  meaning: If you are content with something, you are willing to accept it, rather than wanting something more or something better.
+  sent: I am content to admire the mountains from below.
+  roots: con[=con-:with, together] + tent[=*ten-:to stretch]
+  exp: 用的是*ten-中to hold的那层意思。词根合起来表达"to hold together, enclose"，也就是"held or contained within limits"的感觉。这是一种满足于现状的状态。
+  related:
+    - contentment
+    - contented
+  guess:
+    - discontent
+- word: extend
+  freq: 1452
+  use: 180
+  pos: INTRANSITIVE VERB
+  meaning: If you say that something, usually something large, extends for a particular distance or extends from one place to another, you are indicating its size or position.
+  sent: The caves extend for some 12 miles.
+  roots: ex[=ex-:out] + tend[=*ten-:to stretch]
+  connect:
+    out:
+      - size
+      - position
+    stretch:
+      - size
+      - position
+  exp: stretch是一种"铺开"的感觉，因此和size相关。
+  related:
+    - extensive
+    - extended
+    - extension
+- word: entertain
+  freq: 5004
+  use: 152
+  pos: TRANSITIVE VERB
+  meaning: If a performer, performance, or activity entertains you, it amuses you, interests you, or gives you pleasure.
+  sent: They were entertained by top singers, dancers and celebrities.
+  roots: enter[=inter-:among] + tain[=*ten-:to stretch]
+  exp: 用的是*ten-中to hold的那层意思。词根合起来表示"hold together, support"的感觉，最终引申出"amuse, interest, give someone pleasure"的意思。
+  related:
+    - entertainment
+    - entertainer
+- word: maintain
+  freq: 925
+  use: 127
+  pos: TRANSITIVE VERB
+  meaning: If you maintain something, you continue to have it, and do not let it stop or grow weaker.
+  sent: France maintained close contacts with Jordan during the Gulf War.
+  roots: main[=*man-(2):hand] + tain[=*ten-:to stretch]
+  exp: 用的是*ten-中to hold的那层意思。词根合起来表示hold in the hand。衍生词maintenance很有用。If you describe something or someone as high-maintenance, you mean that they require a lot of time, money, or effort. 在Friends中Monica就被说成是high-maintenance，也就是"很难搞"。
+  related:
+    - maintenance
+- word: thin
+  freq: 1630
+  use: 125
+  pos: ADJECTIVE
+  meaning: Something that is thin is much narrower than it is long.
+  sent: A thin cable carries the signal to a computer.
+  roots: thin[=*ten-:to stretch]
+  connect:
+    stretch:
+      - narrower
+- word: contain
+  freq: 935
+  use: 116
+  pos: TRANSITIVE VERB
+  meaning: If something such as a box, bag, room, or place contains things, those things are inside it.
+  sent: The envelope contained a Christmas card.
+  roots: con[=con-:with, together] + tain[=*ten-:to stretch]
+  exp: 用的是*ten-中to hold的那层意思，对应释义中的inside。
+  related:
+    - self-contained
+    - containment
+    - container
+- word: sustain
+  freq: 3011
+  use: 97
+  pos: TRANSITIVE VERB
+  meaning: If you sustain something, you continue it or maintain it for a period of time.
+  sent: He has sustained his fierce social conscience from young adulthood through old age.
+  roots: sus[=sub-:up from below] + tain[=*ten-:to stretch]
+  exp: 用的是*ten-中to hold的那层意思。词根合起来表达"hold up"的意思，对应释义中的maintain。
+  related:
+    - sustainable
+  guess:
+    - unsustainable
+- word: tend
+  freq: 1043
+  use: 90
+  pos: TRANSITIVE VERB
+  meaning: If something tends to happen, it usually happens or it often happens.
+  sent: A problem for manufacturers is that lighter cars tend to be noisy.
+  roots: tend[=*ten-:to stretch]
+  exp: 用的是*ten-中"aim, direct"的那层意思，也就是延展(stretch)向一个方向，以此表达倾向性。
+  related:
+    - tendency
+- word: contend
+  freq: 3587
+  use: 81
+  pos: INTRANSITIVE VERB
+  meaning: If you have to contend with a problem or difficulty, you have to deal with it or overcome it.
+  sent: It is time, once again, to contend with racism.
+  roots: con[=con-:intensive prefix] + tend[*ten-:to stretch]
+  exp: 用"to stretch out"来表达engage in rivalry, compete这种"拉开架势，准备战斗"的感觉。
+  related:
+    - contender
+    - contentious
+    - contention
+- word: tense
+  freq: 6353
+  use: 81
+  pos: ADJECTIVE
+  meaning: A tense situation or period of time is one that makes people anxious, because they do not know what is going to happen next.
+  sent: This gesture of goodwill did little to improve the tense atmosphere at the talks.
+  roots: tense[=*ten-:to stretch]
+  connect:
+    stretch:
+    - anxious
+  exp: 紧张(anxious)中的那个"张"字就对应stretch。那是一种如箭在弦，一触即发的感觉。
+  related:
+    - tension
+  guess:
+    - hypertension
 
 
 
 
-
-
-pretend 2928    99      *ten-
-  pretension      15084   80      *ten-
-  pretentious     16646   55      *ten-
-  unpretentious   19298   140     *ten-
-  pretense        11779   78      *ten-
-content 1745    225     *ten-
-  contentment     15665   -1      *ten-
-  discontent      9903    -1      *ten-
-  contented       19897   25      *ten-
-extend  1452    180     *ten-
-  extensive       2868    24      *ten-
-  extended        4124    85      *ten-
-  extension       3218    7       *ten-
-entertain       5004    152     *ten-
-  entertainment   2372    -1      *ten-
-  entertainer     8708    0       *ten-
-maintain        925     127     *man-, *ten-
-  maintenance     3091    22
-thin    1630    125     *ten-
-contain 935     116     *ten-
-  self-contained  13395   -1      *ten-
-  containment     9786    0       *ten-
-  container       3390    34      *ten-
-sustain 3011    97      *ten-
-  sustainable     4955    82      *ten-
-  unsustainable   17844   -1      *ten-
-tend    1043    90      *ten-
-  tendency        3068    74      *ten-
-contend 3587    81      *ten-
-  contender       6789    30      *ten-
-  contentious     9129    74      *ten-
-  contention      6653    51      *ten-
-tense   6353    81      *ten-
 monotonous      17561   81      *men-,  *ten-
 attend  1172    76      *ten-
   attentive       9698    82      *ten-
@@ -18697,13 +18800,18 @@ continue        294     59      *ten-
 attention       592     59      *ten-
   inattention     19569   16      *ten-
 temporary       3175    59      *ten-
+  temporarily     5279    -1
 untenable       18012   57      *ten-
 tenacious       15146   54      *ten-
   tenacity        15147   -1      *ten-
 obtain  1604    51      *ten-
-intensity       3329    49      *ten-
+intense 2315    -1      *ten-
+  intensity       3329    49      *ten-
   intensify       6004    51      *ten-
   intensive       5028    45      *ten-
+  intensely       7128    125
+  intensively     17965   29
+  intensified     20019   0
 tonic   12433   40      *ten-
 tenant  5622    37      *ten-
 continent       4061    18      *ten-
@@ -18722,9 +18830,6 @@ intone  15249   7       *ten-
 abstain 14293   0       *ten-
   abstinence      11047   16      *ten-
 tone    2008    -1      *ten-
-tension 2206    -1      *ten-
-  hypertension    10669   -1      *ten-
-intense 2315    -1      *ten-
 retain  2748    -1      *ten-
   retainer        17907   42      *ten-
 tennis  3107    -1      *ten-
