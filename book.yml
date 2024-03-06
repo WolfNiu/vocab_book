@@ -6820,16 +6820,12 @@
   pos: ADJECTIVE
   meaning: Something that is sumptuous is grand and obviously very expensive.
   sent: '...a sumptuous feast.'
-  roots:
-    sumpt:
-      meaning: sum | to borrow, buy, spend, eat, drink, consume, employ, take, take up
-        su: sub- | under
-        umpt: "*em- | to take, distribute"
-  exp: 从take可以衍生出spend, eat, drink, consume的感觉，因为它们都是take的表现形式。这种吃喝花消的感觉正好也对应释义中的grand, expensive。
+  roots: su[=sub-:under] + umpt[=to take, distribute] + ous[=-ous]
   connect:
-    buy, spend, eat, drink, consume:
+    take:
       - grand
       - expensive
+  exp: 从take可以衍生出spend, eat, drink, consume的感觉，因为它们都是take的表现形式。这种吃喝花消的感觉正好也对应释义中的grand, expensive。
 - word: ransom
   freq: 12233
   use: 15
@@ -9877,13 +9873,7 @@
   pos: RECIPROCAL VERB
   meaning: If one event coincides with another, they happen at the same time.
   sent: The exhibition coincides with the 50th anniversary of his death.
-  roots:
-    co: com- | with, togehter
-    incide:
-      meaning: incid | to fall upon
-      roots:
-        in- | upon
-        cide: "*kad- | to fall"
+  roots: co[=com-:with, together] + in[=in-:upon] + cide[=*kad-:to fall]
   exp: 词根合起来就是"to fall upon together"的意思，对应释义中的happen at the same time。
   connect:
     together:
@@ -12294,7 +12284,7 @@
   sent: The other skaters were ordered off the rink.
   roots:
     rink: "*sker-(2) | to turn, bend"
-  exp:用的是*sker-(2)中ring, circle的那层意思。溜冰场一般都是圆的，便于大家一圈一圈(circle)滑。我们之前讲过ring和*sker-(2)的互换，因此现在只需要想ranch和ring可互换就行。
+  exp: 用的是*sker-(2)中ring, circle的那层意思。溜冰场一般都是圆的，便于大家一圈一圈(circle)滑。我们之前讲过ring和*sker-(2)的互换，因此现在只需要想ranch和ring可互换就行。
 - word: circuit
   freq: 4063
   use: 9
@@ -18629,12 +18619,13 @@
   meaning: Someone or something that is tender expresses gentle and caring feelings.
   sent: Her voice was tender, full of pity.
   roots: tend[=*ten-:to stretch] + er[=-er]
-  exp: 用的是*ten-中thin, weak的那层意思——被拉长的东西肯定就比较弱、比较柔软了。对应释义中的gentle, caring。
+  exp: 用的是*ten-中thin, weak的那层意思——被拉长的东西肯定就比较弱、比较柔软了。对应释义中的gentle, caring。tender还有另外一个意思：A tender is a formal offer to supply goods or to do a particular job, and a statement of the price that you or your company will charge. If a contract is put out to tender, formal offers are invited. If a company wins a tender, their offer is accepted. 这里用的则是*ten-中to offer的那层意思。
   related:
     - tenderness
     - tenderly
     - tenderloin
     - tendril
+    - bartender
 - word: pretend
   freq: 2928
   use: 99
@@ -18773,77 +18764,312 @@
     - tension
   guess:
     - hypertension
+- word: tone
+  freq: 2008
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: The tone of a sound is its particular quality.
+  sent: Cross could hear him speaking in low tones to Sarah.
+  roots: tone[=*ten-:to stretch]
+  exp: 用stretch来表示sound。可以想想弹吉他时stretch of string的感觉。
+  related:
+    - tonal
+  guess:
+    - baritone
+    - monotonous
+    - intone
+    - intonation
+- word: tonic
+  freq: 12433
+  use: 40
+  pos: MASS NOUN
+  meaning: Tonic or tonic water is a colorless carbonated drink that has a slightly bitter flavor and is often mixed with alcoholic drinks, especially gin.
+  sent: Keeler sipped at his gin and tonic.
+  roots: ton[=*ten-:to stretch]
+  exp: 用stretch表达muscular tension的感觉。喝完tonic water肌肉会更强健。
+- word: attend
+  freq: 1172
+  use: 76
+  pos: TRANSITIVE VERB
+  meaning: If you attend a meeting or other event, you are present at it.
+  sent: Thousands of people attended the funeral.
+  roots: at[=ad-:to] + tend[=*ten-:to stretch]
+  exp: 词根合起来表示to stretch forward，以此来表达pay attention的感觉。人如果精力集中，身子会不由自主地向前探。
+  related:
+    - attentive
+    - attendee
+    - attendance
+    - attendant
+    - attention
+  guess:
+    - inattention
+    - unattended
+- word: intend
+  freq: 1544
+  use: 70
+  pos: TRANSITIVE VERB
+  meaning: If you intend to do something, you have decided or planned to do it.
+  sent: Maybe he intends to leave her.
+  roots: in[=in-toward] + tend[=*ten-:to stretch]
+  exp: 词根合起来表示stretch out, extend，以此来表达pay attention的感觉。人如果精力集中，身子会不由自主地向前探。
+  related:
+    - intended
+    - intention
+    - intentional
+    - intentionally
+  guess:
+    - unintended
+    - unintentional
+    - well-intentioned
+- word: contemporary
+  freq: 1960
+  use: 65
+  pos: ADJECTIVE
+  meaning: Contemporary things are modern and relate to the present time.
+  sent: She writes a lot of contemporary music for people like Whitney Houston.
+  roots: con[=con-:with, together] + tempor[=temporal<6978>] + ary[=-ary]
+  exp: a stretch of time就是a period of time的意思，例如"...an 18-month stretch in the army"，因为stretch和time相关。
+- word: temporal
+  freq: 6978
+  use: 34
+  pos: ADJECTIVE
+  meaning: Temporal powers or matters relate to ordinary institutions and activities rather than to religious or spiritual ones.
+  sent: '...the spiritual and temporal leader of the Tibetan people.'
+  roots: tempor[=*ten-:to stretch] + al[=-al]
+  exp: a stretch of time就是a period of time的意思，例如"...an 18-month stretch in the army"，因为stretch和time相关。
+  related:
+    - temporary
+    - temporarily
+- word: retain
+  freq: 2748
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To retain something means to continue to have that thing.
+  sent: The interior of the shop still retains a nineteenth-century atmosphere.
+  roots: re[=re-:back] + tain[=*ten-:to stretch]
+  exp: 用的是*ten-中hold的那层意思。词根合起来表示hold back, keep，对应释义中的continue to have。
+  related:
+    - retainer
+    - rein
+- word: continue
+  freq: 294
+  use: 59
+  pos: INTRANSITIVE VERB
+  meaning: If someone or something continues to do something, they keep doing it and do not stop.
+  sent: I hope they continue to fight for equal justice after I'm gone.
+  roots: con[=con-:with, together] + tin[=*ten-:to stretch]
+  exp: 用的是*ten-中hold的那层意思。词根合起来表示hold together。能hold together就能continue；反之fall apart则不能continue。
+  guess:
+    - discontinue
+    - discontinuity
+- word: tenure
+  freq: 5062
+  use: 19
+  pos: UNCOUNTABLE NOUN
+  meaning: Tenure is the legal right to live in a particular building or to use a particular piece of land during a fixed period of time.
+  sent: Lack of security of tenure was a reason for many families becoming homeless.
+  roots: ten[=*ten-:to stretch]
+  exp: 用的是*ten-中"to hold"的那层意思，也就是"持有"的感觉，对应释义中的live和use。
+- word: untenable
+  freq: 18012
+  use: 57
+  pos: ADJECTIVE
+  meaning: An argument, theory, or position that is untenable cannot be defended successfully against criticism or attack.
+  sent: This argument is untenable from an intellectual, moral and practical standpoint.
+  roots: un[=un-(1):not] + tenable[=tenable<20000+>]
+  exp: tenable = ten[=*ten-:to stretch] + able[=-able]，用的是*ten-中hold的那层意思。英文里本身就有"hold true"的用法，表示"remain true or valid"。
+- word: tenacious
+  freq: 15146
+  use: 54
+  pos: ADJECTIVE
+  meaning: If you are tenacious, you are very determined and do not give up easily.
+  sent: He is regarded as a tenacious and persistent interviewer.
+  roots: ten[=*ten-:to stretch]
+  exp: 用的是*ten-中"to hold"的那层意思，对应释义中的"determined"和"do not give up easily"。
+  related:
+    - tenacity
+- word: obtain
+  freq: 1604
+  use: 51
+  pos: TRANSITIVE VERB
+  meaning: To obtain something means to get it or achieve it.
+  sent: Evans was trying to obtain a false passport and other documents.
+  roots: ob[=ob-:in front of] + tain[=*ten-:to stretch]-->[=ten:to hold]
+  connect:
+    hold:
+      - get
+      - achieve
+- word: intense
+  freq: 2315
+  use: -1
+  pos: ADJECTIVE
+  meaning: Intense is used to describe something that is very great or extreme in strength or degree.
+  sent: He was sweating from the intense heat.
+  roots: in[=in-:toward] + tense[=*ten-:to stretch]
+  connect:
+    stretch:
+      - great or extreme in strength or degree
+  exp: 用stretch表达"stretch out, strain"的感觉。
+  related:
+    - intensity
+    - intensify
+    - intensified
+    - intensive
+    - intensively
+    - intensely
+- word: tenant
+  freq: 5622
+  use: 37
+  pos: COUNTABLE NOUN
+  meaning: A tenant is someone who pays rent for the place they live in, or for land or buildings that they use.
+  sent: Regulations placed clear obligations on the landlord for the benefit of the tenant.
+  roots: ten[=*ten-:to stretch]-->[=ten:to hold] + ant[=-ant]
+  connect:
+    hold:
+      - live in
+      - use
+- word: continent
+  freq: 4061
+  use: 18
+  pos: COUNTABLE NOUN
+  meaning: A continent is a very large area of land, such as Africa or Asia, that consists of several countries.
+  sent: She loved the African continent.
+  roots: con[=con-:with, together] + tin[=*ten-:to stretch]-->[=ten:to hold]
+  exp: 词根合起来表示to hold together，以此表达continuous land的意思。这个词还能表示"self-restrained; temperate"，它的反义词就是guess那一栏里的词。
+  related:
+    - continental
+  guess:
+    - incontinence
+- word: portend
+  freq: 19309
+  use: 24
+  pos: TRANSITIVE VERB
+  meaning: If something portends an event or occurrence, it indicates that it is likely to happen in the future.
+  sent: The change did not portend a basic improvement in social conditions.
+  roots: por[=*pro-:forth, forward] + tend[=*ten-:to stretch]
+  connect:
+    forward:
+      - indicates
+      - future
+    stretch:
+      - indicates
+      - future
+  exp: 词根合起来表示"to stretch forward"，也就是"延伸至未来"，因此引申出了"foretell, foreshadow, signify in advance, indicate"的感觉。
+- word: pertain
+  freq: 12558
+  use: 22
+  pos: INTRANSITIVE VERB
+  meaning: If one thing pertains to another, it relates, belongs, or applies to it.
+  sent: '...matters pertaining to naval district defense.'
+  roots: per[=per-:through] + tain[=*ten-:to stretch]-->[=ten:to hold]
+  exp: 词根合起来是hold through，也就是"be applicable (to both)"的感觉。
+  related:
+    - pertaining
+- word: tenement
+  freq: 14823
+  use: 22
+  pos: COUNTABLE NOUN
+  meaning: A tenement is a large, old building which is divided into a number of individual apartments.
+  sent: '...streets of low-cost tenements.'
+  roots: ten[=*ten-:to stretch]-->[=ten:to hold] + ment[=-ment]
+  connect:
+    hold:
+      - building
+      - apartments
+- word: lieutenant
+  freq: 6139
+  use: 20
+  pos: NOUN
+  meaning: A lieutenant is a person who holds a junior officer's rank in the army, navy, marines, or air force, or in the U.S. police force.
+  sent: Lieutenant Campbell ordered the man at the wheel to steer for the gunboat.
+  roots: lieu[=lieu<14315>] + ten[=*ten-:to stretch]-->[=ten:to hold] + ant[=-ant]
+  exp: 由于lieu是place的意思，词根合起来就是place holder，以此来表示"substitute for higher authority"。
+- word: tent
+  freq: 3095
+  use: 16
+  pos: COUNTABLE NOUN
+  meaning: A tent is a shelter made of canvas or nylon which is held up by poles and ropes, and is used mainly by people who are camping.
+  sent: tent peg
+  roots: tent[=*ten-:to stretch]
+  exp: 如果装过帐篷就知道这东西四面都拉紧(stretch)才能支起来。
+- word: abstain
+  freq: 14293
+  use: 0
+  pos: INTRANSITIVE VERB
+  meaning: If you abstain from something, usually something you want to do, you deliberately do not do it.
+  sent: Abstain from sex or use condoms.
+  roots: abs[=ab-:off, away from] + tain[=*ten-:to stretch]-->[=ten:to hold]
+  exp: 词根合起来是withhold, keep back, keep off的感觉。
+  related:
+    - abstinence
+- word: detain
+  freq: 7694
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: When people such as the police detain someone, they keep them in a place under their control.
+  sent: Police have detained two suspects in connection with the attack.
+  roots: de[=de-:from, away] + tain[=*ten-:to stretch]-->[=ten:to hold]
+  exp: 词根合起来是hold off, keep back的感觉。
+  related:
+    - detention
+    - detainee
+- word: tenor
+  freq: 9614
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A tenor is a male singer whose voice is fairly high.
+  sent: '...a free, open-air concert given by the Italian tenor, Luciano Pavarotti.'
+  roots: ten[=*ten-:to stretch]-->[=ten:to hold] + or[=-or]
+  exp: 用hold表达tenor唱的是"sustained melody"，也就是"chief melody"，其它声部都是陪衬。也确实，tenor往往声音最高，音量最大。
+- word: tenet
+  freq: 10035
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: The tenets of a theory or belief are the main principles on which it is based.
+  sent: Non-violence and patience are the central tenets of their faith.
+  roots: ten[=*ten-:to stretch]-->[=ten:to hold] + or[=-or] + et[=-et]
+  connect:
+    hold:
+      - principles
+  exp: 用*ten-表示"hold in mind; a thing held (to be true)"。
+- word: tendon
+  freq: 10650
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A tendon is a strong cord in a person's or animal's body which joins a muscle to a bone.
+  sent: '...a torn tendon in his right shoulder.'
+  roots: tend[=*ten-:to stretch]
+  connect:
+    stretch:
+      - cord
+      - joins
+- word: tenuous
+  freq: 11376
+  use: -1
+  pos: ADJECTIVE
+  meaning: If you describe something such as a connection, a reason, or someone's position as tenuous, you mean that it is very uncertain or weak.
+  sent: He did not speculate on the future of his tenuous career.
+  roots: ten[=*ten-:to stretch] + ous[=-ous]
+  connect:
+    stretch:
+      - uncertain
+      - weak
+- word: countenance
+  freq: 18998
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: If someone will not countenance something, they do not agree with it and will not allow it to happen.
+  sent: Jake would not countenance Janis's marrying while still a student.
+  roots: coun[=con-:with, together] + ten[=*ten-:to stretch]-->[=ten:to hold] + ance[=-ance]
+  connect:
+    together:
+      - agree
+      - allow
+    hold:
+      - agree
+      - allow
 
 
-
-
-monotonous      17561   81      *men-,  *ten-
-attend  1172    76      *ten-
-  attentive       9698    82      *ten-
-  attendee        12276   -1      *ten-
-  attendance      4480    0       *ten-
-  unattended      16940   33      *ten-
-  attendant       5499    51      *ten-
-intend  1544    70      *ten-
-  unintended      10596   -1      *ten-
-  intended        9195    62      *ten-
-  intentional     8933    43      *ten-
-  intention       2540    -1      *ten-
-  intentionally   7890    20      *ten-
-  unintentional   19066   -1      *ten-
-  well-intentioned        17322   -1      *ten-
-contemporary    1960    65      *ten-
-rein    8794    60      *ten-
-continue        294     59      *ten-
-  discontinue     11998   116     *ten-
-  discontinuity   19386   55      *ten-
-attention       592     59      *ten-
-  inattention     19569   16      *ten-
-temporary       3175    59      *ten-
-  temporarily     5279    -1
-untenable       18012   57      *ten-
-tenacious       15146   54      *ten-
-  tenacity        15147   -1      *ten-
-obtain  1604    51      *ten-
-intense 2315    -1      *ten-
-  intensity       3329    49      *ten-
-  intensify       6004    51      *ten-
-  intensive       5028    45      *ten-
-  intensely       7128    125
-  intensively     17965   29
-  intensified     20019   0
-tonic   12433   40      *ten-
-tenant  5622    37      *ten-
-continent       4061    18      *ten-
-  continental     9149    37      *ten-
-  incontinence    18948   -1      *ten-
-temporal        6978    34      *ten-
-detention       6776    32      *ten-
-portend 19309   24      *ten-
-pertain 12558   22      *per-,  *ten-
-tenement        14823   22      *ten-
-lieutenant      6139    20      *ten-
-tenure  5062    19      *ten-
-tent    3095    16      *ten-
-temple  3648    9       *tem-,  *ten-
-intone  15249   7       *ten-
-abstain 14293   0       *ten-
-  abstinence      11047   16      *ten-
-tone    2008    -1      *ten-
-retain  2748    -1      *ten-
-  retainer        17907   42      *ten-
-tennis  3107    -1      *ten-
-detain  7694    -1      *ten-
-  detainee        8160    -1      *ten-
-bartender       8037    -1      *ten-
-tenor   9614    -1      *ten-
-tenet   10035   -1      *ten-
-tendon  10650   -1      *ten-
-tenuous 11376   -1      *ten-
-baritone        14647   -1      *gwere-,        *ten-
-tonal   15846   -1      *ten-
-countenance     18998   -1      *ten-
-intonation      19106   -1      *ten-
 
 
 
