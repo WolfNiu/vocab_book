@@ -18894,7 +18894,7 @@
   pos: TRANSITIVE VERB
   meaning: To obtain something means to get it or achieve it.
   sent: Evans was trying to obtain a false passport and other documents.
-  roots: ob[=ob-:in front of] + tain[=*ten-:to stretch]-->[=ten:to hold]
+  roots: ob[=ob-:in front of] + tain[=ten:to hold]<--[=*ten-:to stretch]
   connect:
     hold:
       - get
@@ -19068,6 +19068,388 @@
     hold:
       - agree
       - allow
+- word: catch
+  freq: 587
+  use: 375
+  pos: TRANSITIVE VERB
+  meaning: If you catch a person or animal, you capture them after chasing them, or by using a trap, net, or other device.
+  sent: Police say they are confident of catching the gunman.
+  roots: catch[=*kap-:to grasp]
+  connect:
+    grasp:
+      - capture
+      - chasing
+      - trap
+      - net
+  related:
+    - catcher
+    - eye-catching
+    - catchy
+- word: chase
+  freq: 3341
+  use: 198
+  pos: TRANSITIVE VERB
+  meaning: If you chase someone, or chase after them, you run after them or follow them quickly in order to catch or reach them.
+  sent: She chased the thief for 100 yards.
+  roots: chase[=*kap-:to grasp]
+  connect:
+    grasp:
+      - catch
+      - reach
+  related:
+    - chaser
+- word: accept
+  freq: 767
+  use: 171
+  pos: TRANSITIVE VERB
+  meaning: If you accept something that you have been offered, you say yes to it or agree to take it.
+  sent: Eventually Esteban persuaded her to accept an offer of marriage.
+  roots: ac[=ad-:to] + cept[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    take:
+      - take
+  related:
+    - acceptance
+    - acceptable
+    - acceptability
+  guess:
+    - unacceptable
+- word: heave
+  freq: 9360
+  use: 90
+  pos: TRANSITIVE VERB
+  meaning: If you heave something heavy or difficult to move somewhere, you push, pull, or lift it using a lot of effort.
+  sent: It took five strong men to heave it up a ramp and lower it into place.
+  roots: heave[=heb:to lift, raise]<--[=*kap-:to grasp]
+  connect:
+    lift, raise:
+      - push
+      - pull
+      - lift
+  related:
+    - heft
+    - hefty
+    - heavy
+    - heavy-duty
+    - heavily
+    - heavy-handed
+    - upheaval
+- word: capture
+  freq: 1727
+  use: 109
+  pos: TRANSITIVE VERB
+  meaning: If you capture someone or something, you catch them, especially in a war.
+  sent: The guerrillas shot down one airplane and captured the pilot.
+  roots: capt[=cap:to take, hold, seize]<--[=*kap-:to grasp] + ...
+  connect:
+    take, hold, seize:
+      - catch
+  guess:
+    - recapture
+- word: except
+  freq: 1850
+  use: 130
+  pos: PREPOSITION
+  meaning: You use except to introduce the only thing or person that a statement does not apply to, or a fact that prevents a statement from being completely true.
+  sent: I wouldn't have accepted anything except a job in New York.
+  roots: ex[=ex-:out] + cept[=cap:to take]<--[=*kap-:to grasp]
+  exp: 词根合起来表示to take out，也就是make an exception的意思。
+  related:
+    - exception
+    - exceptional
+- word: conceive
+  freq: 4208
+  use: 106
+  pos: TRANSITIVE VERB
+  meaning: If you cannot conceive of something, you cannot imagine it or believe it.
+  sent: I just can't even conceive of that quantity of money.
+  roots: con[=con-:intensive prefix] + ceive[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    grasp:
+      - imagine
+      - believe
+  exp: 英文里也有"grasp the idea"的说法，这里grasp表示understand。
+  related:
+    - conceivable
+    - inconceivable
+    - conception
+    - concept
+    - self-concept
+  guess:
+    - misconception
+    - preconception
+- word: have
+  freq: 8
+  use: 285
+  pos: AUXILIARY VERB
+  meaning: You use have to say that someone or something owns a particular thing, or when you are mentioning one of their qualities or characteristics.
+  sent: I want to have my own business.
+  roots: have[=*kap-:to grasp]
+  connect:
+    grasp:
+      - owns
+  related:
+    - have-not
+- word: case
+  freq: 186
+  use: 168
+  pos: COUNTABLE NOUN
+  meaning: A case is a container that is specially designed to hold or protect something.
+  sent: ...a black case for his glasses.
+  roots: case[=cap:to take, hold]<--[=*kap-:to grasp]
+  connect:
+    take, hold:
+      - container
+      - hold
+      - protect
+  related:
+    - showcase
+    - suitcase
+    - casing
+  guess:
+    - encase
+- word: capacity
+  freq: 1790
+  use: 102
+  pos: VARIABLE NOUN
+  meaning: Your capacity for something is your ability to do it, or the amount of it that you are able to do.
+  sent: Our capacity for giving care, love, and attention is limited.
+  roots: cap[=cap:to take, hold]<--[=*kap-:to grasp]
+  exp: 从hold引申出"able to hold much"的意思，对应释义中的ability和able。
+  guess:
+    - incapacitate
+- word: deceive
+  freq: 8554
+  use: 49
+  pos: TRANSITIVE VERB
+  meaning: If you deceive someone, you make them believe something that is not true, usually in order to get some advantage for yourself.
+  sent: He has deceived and disillusioned us all.
+  roots: de[=de-:down] + ceive[=cap:to take, hold]<--[=*kap-:to grasp]
+  exp: 词根合起来是take down，也就是把东西藏起来的感觉。
+  related:
+    - deceit
+    - deception
+    - deceptive
+- word: susceptible
+  freq: 7140
+  use: 62
+  pos: ADJECTIVE
+  meaning: If you are susceptible to something or someone, you are very likely to be influenced by them.
+  sent: Young people are often seen as being the most susceptible to advertisements.
+  roots: sus[=sub-:up from below] + cept[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    take:
+      - influenced
+- word: principal
+  freq: 3149
+  use: 97
+  pos: COUNTABLE NOUN
+  meaning: Principal means first in order of importance.
+  sent: The principal reason for my change of mind is this.
+  roots: prin[=prim:first]<--[=*per-(1):forward] + cip[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    first:
+      - first
+  related:
+    - principally
+- word: behave
+  freq: 3694
+  use: 31
+  pos: INTRANSITIVE VERB
+  meaning: The way that you behave is the way that you do and say things, and the things that you do and say.
+  sent: I couldn't believe these people were behaving in this way.
+  roots: be[=be-:intensive prefix] + have[=have<8>]<--[=*kap-:to grasp]
+  exp: 用have表示to have or bear (oneself) in a particular way.
+  related:
+    - behavior
+    - behavioral
+    - behaviour
+  guess:
+    - misbehave
+    - misbehavior
+- word: recuperate
+  freq: 16645
+  use: 38
+  pos: INTRANSITIVE VERB
+  meaning: When you recuperate, you recover your health or strength after you have been ill or injured.
+  sent: I went away to the country to recuperate.
+  roots: re[=re-:back] + cup[=cap:to take]<--[=*kap-:to grasp] + ...
+  exp: 词根合起来表示regain, bring back的意思。
+- word: anticipate
+  freq: 3215
+  use: 37
+  pos: TRANSITIVE VERB
+  meaning: If you anticipate an event, you realize in advance that it may happen and you are prepared for it.
+  sent: At the time we couldn't have anticipated the result of our campaigning.
+  roots: anti[=ante-:before] + cip[=cap:to take]<--[=*kap-:to grasp]
+  exp: 词根合起来表示"take (care of) ahead of time"。
+  related:
+    - anticipation
+  guess:
+    - unanticipated
+- word: captivate
+  freq: 13041
+  use: 37
+  meaning: If you are captivated by someone or something, you find them fascinating and attractive.
+  sent: I was captivated by her brilliant mind.
+  roots: capt[=cap:to take, hold, seize]<--[=*kap-:to grasp] + ...
+  exp: 从"take, capture"引申出"to enthrall with charm"的意思——亦即是从"物理上的捕捉"引申到"精神上的征服"。
+  related:
+    - captivating
+- word: prince
+  freq: 5533
+  use: 34
+  pos: NOUN
+  meaning: A prince is a male member of a royal family, especially the son of the king or queen of a country.
+  sent: '...Prince Edward and other royal guests.'
+  roots: prin[=prim:first]<--[=*per-(1):forward] + ce[=cap:to take]<--[=*kap-:to grasp]
+  exp: 词根合起来表示"that takes first"，也就是"first person"的感觉。
+  related:
+    - princess
+- word: disciple
+  freq: 8226
+  use: 31
+  pos: COUNTABLE NOUN
+  meaning: If you are someone's disciple, you are influenced by their teachings and try to follow their example.
+  sent: '...a major intellectual figure with disciples throughout Europe.'
+  roots: dis[=dis-:apart] + cip[=cap:to take]<--[=*kap-:to grasp]
+  exp: 词根合起来表示""to grasp intellectually, analyze thoroughly"——这就是徒弟们该做的事。
+- word: incipient
+  freq: 18033
+  use: 29
+  pos: ADJECTIVE
+  meaning: An incipient situation or quality is one that is starting to happen or develop.
+  sent: '...an incipient economic recovery.'
+  roots: in[=in-:in] + cip[=cap:to take]<--[=*kap-:to grasp]
+  exp: 词根合起来表达"take up, begin"的意思。If you take up an activity, you become interested in it and spend time doing it. 因此take up有"开始"的意思。比如"She took up tennis at the age of 11."
+- word: receive
+  freq: 499
+  use: 22
+  pos: TRANSITIVE VERB
+  meaning: When you receive something, you get it after someone gives it to you or sends it to you.
+  sent: They will receive their awards at a ceremony in Stockholm.
+  roots: re[=re-:back] + ceive[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    take:
+      - get
+  related:
+    - receiver
+    - received
+    - reception
+    - receptionist
+    - receptor
+    - receptive
+    - receptacle
+- word: hawk
+  freq: 8074
+  use: 20
+  pos: COUNTABLE NOUN
+  meaning: A hawk is a large bird with a short, hooked beak, sharp claws, and very good eyesight. Hawks catch and eat small birds and animals.
+  roots: hawk[=*kap-:to grasp]
+  connect:
+    grasp:
+      - claws
+- word: captive
+  freq: 9433
+  use: 20
+  pos: ADJECTIVE
+  meaning: A captive person or animal is being kept imprisoned or enclosed.
+  sent: Her heart had begun to pound inside her chest like a captive animal.
+  roots: capt[=cap:to take, hold, seize]<--[=*kap-:to grasp]
+  connect:
+    take, hold, seize:
+      - kept imprisoned or enclosed
+  related:
+    - captivity
+- word: municipal
+  freq: 4719
+  use: 18
+  pos: ADJECTIVE
+  meaning: Municipal means associated with or belonging to a city or town that has its own local government.
+  sent: The municipal authorities gave the go-ahead for the march.
+  roots: mun[mun=service, duty, burden]<--[=*mei-(1):to change, go, move] + cip[=cap:assume, take]<--[=*kap-:to grasp]
+  exp: 词根合起来表示take duty，对应释义中的"own"，也就是"自治"、"自己对自己负责"的感觉。
+  related:
+    - muicipality
+- word: caption
+  freq: 9308
+  use: 17
+  pos: COUNTABLE NOUN
+  meaning: A caption is the words printed underneath a picture or cartoon which explain what it is about.
+  sent: The local paper featured me standing on a stepladder with a caption, "Wendy climbs the ladder to success."
+  roots: capt[=cap:to take]<--[=*kap-:to grasp] + ion[=-ion]
+  exp: 这词本来表示"arrest, capture, imprisonment"。由于关于这些的legal documents标题写的都是诸如"Certificate of Caption"之类的字样，后来就引申出"the beginning of any document"的意思了。
+- word: participate
+  freq: 1491
+  use: 14
+  pos: INTRANSITIVE VERB
+  meaning: If you participate in an activity, you take part in it.
+  sent: They expected him to participate in the ceremony.
+  roots: part[=pars:a part, piece]<--[=*pere-(2):to grant, allot] + cip[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    part:
+      - part
+    take:
+      - take
+  related:
+    - participation
+    - participatory
+- word: intercept
+  freq: 7184
+  use: 11
+  pos: TRANSITIVE VERB
+  meaning: If you intercept someone or something that is traveling from one place to another, you stop them before they get to their destination.
+  sent: Gunmen intercepted him on his way to the airport.
+  roots: inter[=inter-:between] + cept[=cap:to take, catch]<--[=*kap-:to grasp]
+  connect:
+    between:
+      - from on place to another
+    take, catch:
+      - stop
+  related:
+    - interception
+- word: principle
+  freq: 1348
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A principle is a general belief about the way you should behave, which influences your behavior.
+  sent: Buck never allowed himself to be bullied into doing anything that went against his principles.
+  roots: prin[=prim:first]<--[=*per-(1):forward] + cip[=cap:to take, catch]<--[=*kap-:to grasp]
+  exp: 词根合起来表示"that takes first"，引申为对人最为重要的"原则"。
+  related:
+    - principled
+
+
+
+
+cable   2017    -1      *kap-
+recover 2150    -1      *kap-
+  recovery        2466    -1      *kap-
+purchase        2168    -1      *kap-,  *per-
+  purchaser       14385   0       *kap-,  *per-
+perceive        2184    -1      *kap-
+  precept 14407   44      *kap-
+  perception      1880    51
+  misperception   18967   -1
+  self-perception 19169   -1
+cop     2220    -1      *kap-
+capable 2414    -1      *kap-
+  capability      2983    63
+  incapable       7920    40      *kap-
+recipe  2532    -1      *kap-
+occupy  2732    -1      *kap-
+  occupation      3364    46      *kap-
+  occupied        9961    44      *kap-
+  preoccupation   8979    39      *kap-
+  preoccupied     9043    33      *kap-
+  occupational    6589    0       *kap-
+  occupancy       11927   8       *kap-
+  unoccupied      20043   26      *kap-
+  occupant        8493    27      *kap-
+cassette        8370    -1      *kap-
+inception       10592   -1      *kap-
+captor  12908   -1      *kap-
+emancipation    16064   -1      *kap-,  *man-
 
 
 
@@ -19094,7 +19476,6 @@
 # (97, '*sed-'),
 # (102, '*pele-'),
 # (103, '*ag-'),
-# (109, '*ten-'),
 # (125, '*kap-'),
 # (127, '*men-'),
 # (199, '*sta-'),
