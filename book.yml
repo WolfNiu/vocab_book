@@ -19206,6 +19206,7 @@
     - showcase
     - suitcase
     - casing
+    - cassette
   guess:
     - encase
 - word: capacity
@@ -19418,38 +19419,229 @@
   exp: 词根合起来表示"that takes first"，引申为对人最为重要的"原则"。
   related:
     - principled
+- word: cable
+  freq: 2017
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A cable is a kind of very strong, thick rope, made of wires twisted together.
+  sent: The miners rode a conveyance attached to a cable made of braided steel wire.
+  roots: cab[=cap:to take, catch]<--[=*kap-:to grasp]
+  connect:
+    take, catch:
+      - rope
+- word: recover
+  freq: 2150
+  use: -1
+  pos: INTRANSITIVE VERB
+  meaning: When you recover from an illness or an injury, you become well again.
+  sent: He is recovering from a knee injury.
+  roots: re[=re-:back] + ceive[=cap:to take]<--[=*kap-:to grasp]
+  exp: 词根合起来表示"get again; regain health"。
+  related:
+    - recovery
+- word: purchase
+  freq: 2168
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: When you purchase something, you buy it.
+  sent: He purchased a ticket and went up on the top deck.
+  roots: pur[=pur-:intensive prefix] + chase[=chase<3341>]
+  exp: 用chase表达go after, aim at的意思。
+  related:
+    - purchaser
+- word: perceive
+  freq: 2184
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you perceive something, you see, notice, or realize it, especially when it is not obvious.
+  sent: Students must perceive for themselves the relationship between success and effort.
+  roots: per[=per-:thoroughly] + ceive[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    thoroughly:
+      - see
+      - notice
+      - realize
+    take:
+      - see
+      - notice
+      - realize
+  related:
+    - perception
+    - perceptive
+    - perceptible
+    - perceptual
+    - self-perception
+  guess:
+    - misperception
+- word: precept
+  freq: 14407
+  use: 44
+  pos: COUNTABLE NOUN
+  meaning: A precept is a general rule that helps you to decide how you should behave in particular circumstances.
+  sent: '...an electoral process based on the central precept that all people are born equal.'
+  roots: pre[=pre-:before] + cept[=cap:to take]<--[=*kap-:to grasp]
+  exp: 词根合起来表示"take beforehand"，也就是在事情发生之前就建立的rule of conduct。
+- word: cop
+  freq: 2220
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A cop is a policeman or policewoman.
+  sent: Frank didn't like having the cops know where to find him.
+  roots: cop[=cap:to take]<--[=*kap-:to grasp]
+  connect:
+    grasp:
+      - policeman
+      - policewoman
+  exp: 警察负责抓人。
+- word: occupy
+  freq: 2732
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: The people who occupy a building or a place are the people who live or work there.
+  sent: There were over 40 tenants, all occupying one wing of the building.
+  roots: oc[=ob-:over] + cup[=*kap-:to grasp] + y[=-y]
+  exp: 用grasp表达possess的感觉，对应释义中的live和work。
+  related:
+    - occupied
+    - occupation
+    - occupational
+    - occupancy
+    - occupant
+  guess:
+    - unoccupied
+    - preoccupied
+    - preoccupation
+- word: capable
+  freq: 2414
+  use: -1
+  pos: ADJECTIVE
+  meaning: If a person or thing is capable of doing something, they have the ability to do it.
+  sent: He appeared hardly capable of conducting a coherent conversation.
+  roots: cap[=*kap-:to grasp]
+  connect:
+    grasp:
+      - have the ability
+  exp: 用grasp表达"掌握"的感觉。
+  related:
+    - capability
+  guess:
+    - incapable
+- word: inception
+  freq: 10592
+  use: -1
+  pos: NOUN
+  meaning: The inception of an institution or activity is the start of it.
+  sent: Since its inception the company has produced 53 different aircraft designs.
+  roots: in[=in-:in] + cept[=cap:take, seize]<--[=*kap-:to grasp] + ion[=-ion]
+  exp: 词根合起来表达"take in hand"，也就是"上手"的意思，于是引申出a beginning, a starting的感觉。
+- word: recipe
+  freq: 2532
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A recipe is a list of ingredients and a set of instructions that tell you how to cook something.
+  sent: '...a traditional recipe for buttermilk biscuits.'
+  roots: re[=re-:back] + cipe[=cap:to take]<--[=*kap-:to grasp]
+  exp: 最早这个词表示medical prescription，也就是你的医生告诉你应该take this or that ingredient。后来才引申出"食谱"的意思。
+- word: captor
+  freq: 12908
+  use: -1
+  pos: NOUN
+  meaning: You can refer to the person who has captured a person or animal as their captor.
+  sent: They did not know what their captors planned for them.
+  roots: capt[=cap:to take]<--[=*kap-:to grasp] + or[=-or:person]
+  connect:
+    grasp:
+      - captured
+    person:
+      - person
+      - animal
+- word: emancipate
+  freq: 20000+
+  use: -1
+  pos: NOUN
+  meaning: If people are emancipated, they are freed from unpleasant or unfair social, political, or legal restrictions.
+  sent: That war preserved the Union and emancipated enslaved people.
+  roots: e[=ex-:out, away] + man[=*man-(2):hand] + cip[=cap:to take]<--[=*kap-:to grasp] + ...
+  exp: 词根合起来表达set free from control的意思。其中hand + grasp就代表着ownership，而away对应着set free。
+  related:
+    - emancipation
 
 
 
 
-cable   2017    -1      *kap-
-recover 2150    -1      *kap-
-  recovery        2466    -1      *kap-
-purchase        2168    -1      *kap-,  *per-
-  purchaser       14385   0       *kap-,  *per-
-perceive        2184    -1      *kap-
-  precept 14407   44      *kap-
-  perception      1880    51
-  misperception   18967   -1
-  self-perception 19169   -1
-cop     2220    -1      *kap-
-capable 2414    -1      *kap-
-  capability      2983    63
-  incapable       7920    40      *kap-
-recipe  2532    -1      *kap-
-occupy  2732    -1      *kap-
-  occupation      3364    46      *kap-
-  occupied        9961    44      *kap-
-  preoccupation   8979    39      *kap-
-  preoccupied     9043    33      *kap-
-  occupational    6589    0       *kap-
-  occupancy       11927   8       *kap-
-  unoccupied      20043   26      *kap-
-  occupant        8493    27      *kap-
-cassette        8370    -1      *kap-
-inception       10592   -1      *kap-
-captor  12908   -1      *kap-
-emancipation    16064   -1      *kap-,  *man-
+
+part    178     311     *pere-
+  part-time       5292    -1      *pere-
+  partly  2847    41      *pere-
+  partial 4596    84      *pere-
+  parting 14149   36      *pere-
+  impartial       12629   34      *pere-
+  counterpart     3853    43      *pere-
+poor    714     251     *pau-,  *pere-
+  poorly  5199    77      *pau-,  *pere-
+separate        1905    227     *pere-
+  separation      3740    100     *pere-
+  separated       11740   0       *pere-
+  separatist      14234   -1      *pere-
+party   352     167     *pere-
+particular      951     167     *pere-
+  particularly    781     119     *pere-
+  particularity   18806   72      *pere-
+  particulate     16114   -1      *pere-
+imperative      8530    162     *pere-
+depart  4886    116     *pere-
+  departure       3903    29      *pere-
+department      1202    47      *pere-
+  departmental    16140   -1      *pere-
+particle        3719    108     *pere-
+parcel  7877    107     *pere-
+partisan        6313    106     *pere-
+  partisanship    14034   28      *pere-
+  bipartisan      6743    19      *pere-
+  bipartisanship  19832   0       *pere-
+prepare 775     103     *pere-
+  preparedness    13240   -1      *pere-
+  preparation     2534    -1      *pere-
+  unprepared      11127   18      *pere-
+repair  3910    95      *pere-
+parade  3946    72      *pere-
+compartment     6669    70      *pere-
+imperial        5094    67      *pere-
+  imperialism     11443   -1      *pere-
+  imperialist     18248   -1      *pere-
+partition       9939    67      *pere-
+proportion      3088    66      *pere-
+  proportional    10749   18      *pere-
+  disproportionate        10527   -1      *pere-
+sever   9150    59      *pere-
+  severance       15466   -1      *pere-
+several 311     53      *pere-
+apparel 9127    53      *pere-
+disparate       9100    42      *pere-
+apartment       1280    37      *pere-
+jeopardy        8568    22      *pere-
+  jeopardize      8130    23      *pere-
+pare    13623   22      *pere-
+partner 1052    18      *pere-
+  partnership     2935    45      *pere-
+apparatus       7085    16      *pere-
+empire  4260    12      *pere-
+  emperor 7176    16      *pere-
+apartheid       7082    6       *pere-
+apart   1984    1       *pere-
+parent  328     -1      *pere-
+  parenting       5524    7       *pere-
+  parenthood      15007   7       *pere-
+  parental        4143    -1      *pere-
+  grandparent     4735    -1      *pere-
+portion 2197    -1      *pere-
+impart  9896    -1      *pere-
+parachute       9898    -1      *pere-, *kad-
+repertory       13775   -1      *pere-
+juniper 13821   -1      *pere-
+spar    19189   -1      *pere-
+parse   19588   -1      *pere-
+
 
 
 
@@ -19476,7 +19668,6 @@ emancipation    16064   -1      *kap-,  *man-
 # (97, '*sed-'),
 # (102, '*pele-'),
 # (103, '*ag-'),
-# (125, '*kap-'),
 # (127, '*men-'),
 # (199, '*sta-'),
 # (228, '*dhe-'),
