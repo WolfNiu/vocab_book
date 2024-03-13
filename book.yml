@@ -9939,9 +9939,7 @@
   pos: COUNTABLE NOUN
   meaning: A parachute is a device that enables a person to jump from an aircraft and float safely to the ground. It consists of a large piece of thin cloth attached to your body by strings.
   sent: They fell 41,000 ft. before opening their parachutes.
-  roots:
-    para: para- | defense against
-    chute: "*kad- | to fall"
+  roots: para[=para-(2):defense against]<--[=par:make ready]<--[=*pere-(1):to produce, procure] + chute[=*kad-:to fall]
   exp: 词根合起来表示that which protects against a fall。
   connect:
     defense against:
@@ -19565,82 +19563,379 @@
   exp: 词根合起来表达set free from control的意思。其中hand + grasp就代表着ownership，而away对应着set free。
   related:
     - emancipation
+- word: separate
+  freq: 1905
+  use: 227
+  pos: ADJECTIVE
+  meaning: If one thing is separate from another, there is a barrier, space, or division between them, so that they are clearly two things.
+  sent: They are now making plans to form their own separate party.
+  roots: se[=se-:apart] + par[=par:make ready, prepare]<--[=*pere-(1):to produce, procure]
+  connect:
+    apart:
+      - a barrier, space, or division between
+      - two things
+  related:
+    - separation
+    - separated
+    - separatist
+- word: part
+  freq: 178
+  use: 311
+  pos: COUNTABLE NOUN
+  meaning: A part of something is one of the pieces, sections, or elements that it consists of.
+  sent: I like that part of Cape Town.
+  roots: part[=*pere-(2):to grant, allot]
+  connect:
+    allot:
+      - pieces
+      - sections
+      - elements
+  related:
+    - part-time
+    - partly
+    - partial
+    - parting
+  guess:
+    - impartial
+    - counterpart
+- word: party
+  freq: 352
+  use: 167
+  pos: COUNTABLE NOUN
+  meaning: A party is a political organization whose members have similar aims and beliefs. Usually the organization tries to get its members elected to the legislature of a country.
+  sent: '...a member of the Republican Party.'
+  roots: part[=pars:a part, piece, a share]<--[=*pere-(2):to grant, allot]
+  connect:
+    part, divide:
+      - organization
+  exp: 用part, piece表达that which is divided，也就是自成体系的一个团体。
+- word: particular
+  freq: 951
+  use: 167
+  pos: ADJECTIVE
+  meaning: You use particular to emphasize that you are talking about one thing or one kind of thing rather than other similar ones.
+  sent: I remembered a particular story about a mailman who was a murderer.
+  roots: part[=pars:a part, piece, division]<--[=*pere-(2):to grant, allot] + ...
+  connect:
+    part, piece, division:
+      - one thing
+      - one kind
+  related:
+    - particularly
+    - particularity
+    - particulate
+- word: imperative
+  freq: 8530
+  use: 162
+  pos: ADJECTIVE
+  meaning: If it is imperative that something be done, that thing is extremely important and must be done.
+  sent: It was imperative that he act as naturally as possible.
+  roots: im[=in-:into, in] + per[=to arrange, prepare, adorn]<--[=*pere-(1):to produce, procure] + ...
+  connect:
+    arrange, prepare, adorn:
+      - extremely important
+      - must be done
+- word: depart
+  freq: 4886
+  use: 116
+  pos: INTRANSITIVE VERB
+  meaning: When something or someone departs from a place, they leave it and start a trip to another place. You can also say that someone departs a place
+  sent: Flight 43 will depart from Denver at 11:45 a.m. and arrive in Honolulu at 4:12 p.m.
+  roots: de[=de-:from] + part[=part:to part, divide]<--[=*pere-(2):to grant, allot]
+  exp: 词根合起来表达"将自己从(from)一个地方分离(part, divide)出去"的感觉。
+  related:
+    - departure
+- word: department
+  freq: 1202
+  use: 47
+  pos: COUNTABLE NOUN
+  meaning: A department is one of the sections in an organization such as a government, business, or university. A department is also one of the sections in a large store.
+  sent: '...the U.S. Department of Health and Human Services.'
+  roots: de[=de-:from] + part[=part:to part, divide]<--[=*pere-(2):to grant, allot] + ment[=-ment]
+  connect:
+    part, divide:
+      - one of the sections
+  related:
+    - departmental
+- word: particle
+  freq: 3719
+  use: 108
+  pos: COUNTABLE NOUN
+  meaning: A particle of something is a very small piece or amount of it.
+  sent: '...a particle of hot metal.'
+  roots: part[=pars:a part, piece, division]<--[=*pere-(2):to grant, allot] + ...
+  connect:
+    part, piece, division:
+      - piece
+      - amount
+- word: partisan
+  freq: 6313
+  use: 106
+  pos: ADJECTIVE
+  meaning: Someone who is partisan strongly supports a particular person or cause, often without thinking carefully about the matter.
+  sent: He is clearly too partisan to be a referee.
+  roots: part[=pars:a part, piece, division]<--[=*pere-(2):to grant, allot] + ...
+  connect:
+    part, piece, division:
+      - particular
+  related:
+    - partisanship
+  guess:
+    - bipartisan
+    - bipartisanship
+- word: prepare
+  freq: 775
+  use: 103
+  pos: TRANSITIVE VERB
+  meaning: If you prepare something, you make it ready for something that is going to happen.
+  sent: Two technicians were preparing a recording of last week's program.
+  roots: pre[=pre-:before] + pare[=par:to make ready]<--[=*pere-(1):to produce, procure]
+  connect:
+    make ready:
+      - make it ready
+  related:
+    - preparation
+    - preparedness
+  guess:
+    - unprepared
+- word: repair
+  freq: 3910
+  use: 95
+  pos: TRANSITIVE VERB
+  meaning: If you repair something that has been damaged or is not working properly, you fix it.
+  sent: Goldsmith has repaired the roof to ensure the house is windproof.
+  roots: re[=re-:again] + pare[=par:make ready, prepare]<--[=*pere-(1):to produce, procure]
+  connect:
+    again:
+      - fix
+    make ready, prepare:
+      - fix
+- word: parade
+  freq: 3946
+  use: 72
+  pos: COUNTABLE NOUN
+  meaning: A parade is a procession of people or vehicles moving through a public place in order to celebrate an important day or event.
+  sent: A military parade marched slowly and solemnly down Pennsylvania Avenue.
+  roots: par[=par:arrange, prepare, adorn]<--[=*pere-(1):to produce, procure]
+  connect:
+    arrange, prepare:
+      - procession
+- word: compartment
+  freq: 6669
+  use: 70
+  pos: COUNTABLE NOUN
+  meaning: A compartment is one of the separate parts of an object that is used for keeping things in.
+  sent: The fire started in the baggage compartment.
+  roots: com[=com-:intensive prefix] + part[=pars:a part, piece, division]<--[=*pere-(2):to grant, allot] + ment[=-ment]
+  connect:
+    part, piece, division:
+      - separate parts
+- word: empire
+  freq: 4260
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: An empire is a number of individual nations that are all controlled by the government or ruler of one particular country.
+  sent: '...the Roman Empire.'
+  roots: em[=in-:in] + pire[=par:to order, prepare]<--[=*pere-(1):to produce, procure]
+  connect:
+    order:
+      - controlled
+  related:
+    - emperor
+    - imperial
+    - imperialism
+    - imperialist
+- word: partition
+  freq: 9939
+  use: 67
+  pos: COUNTABLE NOUN
+  meaning: A partition is a wall, screen, or divider that separates one part of a room, vehicle, or other space from another.
+  sent: '...new offices divided only by glass partitions.'
+  roots: part[=pars:a part, piece, division]<--[=*pere-(2):to grant, allot]
+  connect:
+    part, piece, division:
+      - separates one part
+- word: proportion
+  freq: 3088
+  use: 66
+  pos: COUNTABLE NOUN
+  meaning: A proportion of a group or an amount is a part of it.
+  sent: A large proportion of the dolphins in that area will eventually die.
+  roots: pro[=pro-:for] + port[=pars:a part, piece, division]<--[=*pere-(2):to grant, allot]
+  connect:
+    part, piece, division:
+      - part
+  related:
+    - proportional
+  guess:
+    - disproportionate
+    - disproportionately
+- word: sever
+  freq: 9150
+  use: 59
+  pos: TRANSITIVE VERB
+  meaning: To sever something means to cut completely through it or to cut it completely off.
+  sent: Richardson severed his right foot in a motorcycle accident.
+  roots: se[=se-:apart] + ver[=par:make ready, prepare]<--[=*pere-(1):to produce, procure]
+  exp: 用到了v=p。
+  related:
+    - severance
+- word: several
+  freq: 311
+  use: 53
+  pos: DETERMINER
+  meaning: Several is used to refer to a number of people or things that is not large but is greater than two.
+  sent: I had lived two doors away from this family for several years.
+  roots: se[=se-:apart] + ver[=par:make ready, prepare]<--[=*pere-(1):to produce, procure] + al[=-al]
+  exp: 词根合起来表达to pull apart, separate, different的感觉，对应释义中的not large。
+- word: apparel
+  freq: 9127
+  use: 53
+  pos: UNCOUNTABLE NOUN
+  meaning: Apparel means clothes, especially formal clothes worn on an important occasion.
+  sent: Women's apparel is offered in petite, regular, and tall sizes.
+  roots: ap[=ad-:to] + par[=par:make ready]<--[=*pere-(1):to produce, procure] + el[=-el]
+  exp: 用*pere-(1)表达tools, equipment的感觉，因为这些都用来make things ready的。
+- word: parent
+  freq: 328
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Your parents are your mother and father.
+  sent: Children need their parents.
+  roots: par[=*pere-(1):to produce, bring forth] + ent[=-ent]
+  connect:
+    produce:
+      - mother
+      - father
+  related:
+    - parenting
+    - parenthood
+    - parental
+  guess:
+    - grandparent
+- word: disparate
+  freq: 9100
+  use: 42
+  pos: ADJECTIVE
+  meaning: Disparate things are clearly different from each other in quality or type.
+  sent: Scientists are trying to pull together disparate ideas in astronomy.
+  roots: dis[=dis-:apart] + par[=par:get ready, prepare]<--[=*pere-(1):to produce, procure]
+  exp: 词根合起来表达"divide, separate"的意思，对应释义中的different。
+- word: jeopardy
+  freq: 8568
+  use: 22
+  meaning: If someone or something is in jeopardy, they are in a dangerous situation where they might fail, be lost, or be destroyed.
+  sent: A series of setbacks have put the whole project in jeopardy.
+  roots: jeo[=ioc:joke] + pard[=pars:a part, piece, division]<--[=*pere-(2):to grant, allot]
+  exp: 词根合起来表示"a divided game, game with even chances"，也就是"成功失败一半一半"的感觉，对应释义中的dangerous situation。
+  related:
+    - jeopardize
+- word: apparatus
+  freq: 7085
+  use: 16
+  pos: VARIABLE NOUN
+  meaning: The apparatus of an organization or system is its structure and method of operation.
+  sent: For many years, the country had been buried under the apparatus of the regime.
+  roots: ap[=ad-:to] + par[=par:make ready]<--[=*pere-(1):to produce, procure] + ...
+  exp: 用*pere-(1)表达tools, equipment的感觉，因为这些都用来make things ready的。
+- word: pare
+  freq: 13623
+  use: 22
+  pos: TRANSITIVE VERB
+  meaning: When you pare something, or pare part of it off or away, you cut off its
+    skin or its outer layer.
+  sent: Pare the brown skin from the meat with a very sharp knife.
+  roots: pare[=par:make ready, prepare]<--[=*pere-(1):to produce, procure]
+  connect:
+    make ready, prepare:
+      - cut off its skin or its outer layer
+- word: partner
+  freq: 1052
+  use: 18
+  pos: COUNTABLE NOUN
+  meaning: Your partner is the person you are married to or are having a romantic or sexual relationship with.
+  sent: Wanting other friends doesn't mean you don't love your partner.
+  roots: part[=pars:a part, piece, a share]<--[=*pere-(2):to grant, allot]
+  connect:
+    share:
+      - relationship
+  exp: partners之间会share。
+  related:
+    - partnership
+- word: apart
+  freq: 1984
+  use: 1
+  pos: ADVERB
+  meaning: When people or things are apart, they are some distance from each other.
+  sent: He was standing a bit apart from the rest of us, watching us.
+  roots: a[=ad-:to] + part[=pars:a part, piece]
+  connect:
+    part, piece:
+      - distance from each other
+  related:
+    - apartheid
+- word: apartment
+  freq: 1280
+  use: 37
+  pos: COUNTABLE NOUN
+  meaning: An apartment is a separate set of rooms for living in, in a house or a building with other apartments.
+  sent: Christina has her own apartment, with her own car.
+  roots: a[=ad-:to] + part[=pars:a part, piece, a division]<--[=*pere-(2):to grant, allot]
+  connect:
+    a part, piece, a division:
+      - separate
+- word: portion
+  freq: 2197
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A portion of something is a part of it.
+  sent: Damage was confined to a small portion of the castle.
+  roots: port[=pars:a part, piece, a share, a division]<--[=*pere-(2):to grant, allot] + ion[=-ion]
+  connect:
+    part, piece:
+      - part
+- word: impart
+  freq: 9896
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you impart information to people, you tell it to them.
+  sent: The ability to impart knowledge and command respect is the essential qualification for teachers.
+  roots: im[=in-:into, in] + part[=pars:a part, piece, a share]<--[=*pere-(2):to grant, allot]
+  exp: 词根合起来表达"to give a part of (one's possession)"的感觉。
+- word: repertory
+  freq: 13775
+  use: -1
+  pos: NOUN
+  meaning: A repertory company is a group of actors and actresses who perform a small number of plays for just a few weeks at a time. They work in a repertory theater.
+  sent: '...a well-known repertory company in Boston.'
+  roots: re[=re-:intensive prefix] + pert[=*pere-(1):to produce, procure] + ory[=-ory]
+  connect:
+    produce:
+      - perform
+  related:
+    - repertoire
+- word: spar
+  freq: 19189
+  use: -1
+  pos: RECIPROCAL VERB
+  meaning: If you spar with someone, you box using fairly gentle blows instead of hitting your opponent hard, either when you are training or when you want to test how quickly your opponent reacts.
+  sent: He entered the ring to spar a few one-minute rounds with an old friend.
+  roots: s[=ex-:out of, from] + par[=par:make ready, prepare]<--[=*pere-(1):to produce, procure]
+  exp: 用make ready, prepare来表达ward off, parry——也就是"防守"的意思。
+- word: parse
+  freq: 19588
+  use: -1
+  pos: VERB
+  meaning: In grammar, if you parse a sentence, you examine each word and clause in order to work out their grammatical type.
+  roots: parse[=par:a part, piece]<--[=*pere-(2):to grant, allot]
+  exp: 用*pere-(2)表达"part of speech of a word or the words in a sentence"的意思。
+  connect:
+    part, piece:
+      - word
+      - clause
 
 
 
-
-
-part    178     311     *pere-
-  part-time       5292    -1      *pere-
-  partly  2847    41      *pere-
-  partial 4596    84      *pere-
-  parting 14149   36      *pere-
-  impartial       12629   34      *pere-
-  counterpart     3853    43      *pere-
-poor    714     251     *pau-,  *pere-
-  poorly  5199    77      *pau-,  *pere-
-separate        1905    227     *pere-
-  separation      3740    100     *pere-
-  separated       11740   0       *pere-
-  separatist      14234   -1      *pere-
-party   352     167     *pere-
-particular      951     167     *pere-
-  particularly    781     119     *pere-
-  particularity   18806   72      *pere-
-  particulate     16114   -1      *pere-
-imperative      8530    162     *pere-
-depart  4886    116     *pere-
-  departure       3903    29      *pere-
-department      1202    47      *pere-
-  departmental    16140   -1      *pere-
-particle        3719    108     *pere-
-parcel  7877    107     *pere-
-partisan        6313    106     *pere-
-  partisanship    14034   28      *pere-
-  bipartisan      6743    19      *pere-
-  bipartisanship  19832   0       *pere-
-prepare 775     103     *pere-
-  preparedness    13240   -1      *pere-
-  preparation     2534    -1      *pere-
-  unprepared      11127   18      *pere-
-repair  3910    95      *pere-
-parade  3946    72      *pere-
-compartment     6669    70      *pere-
-imperial        5094    67      *pere-
-  imperialism     11443   -1      *pere-
-  imperialist     18248   -1      *pere-
-partition       9939    67      *pere-
-proportion      3088    66      *pere-
-  proportional    10749   18      *pere-
-  disproportionate        10527   -1      *pere-
-sever   9150    59      *pere-
-  severance       15466   -1      *pere-
-several 311     53      *pere-
-apparel 9127    53      *pere-
-disparate       9100    42      *pere-
-apartment       1280    37      *pere-
-jeopardy        8568    22      *pere-
-  jeopardize      8130    23      *pere-
-pare    13623   22      *pere-
-partner 1052    18      *pere-
-  partnership     2935    45      *pere-
-apparatus       7085    16      *pere-
-empire  4260    12      *pere-
-  emperor 7176    16      *pere-
-apartheid       7082    6       *pere-
-apart   1984    1       *pere-
-parent  328     -1      *pere-
-  parenting       5524    7       *pere-
-  parenthood      15007   7       *pere-
-  parental        4143    -1      *pere-
-  grandparent     4735    -1      *pere-
-portion 2197    -1      *pere-
-impart  9896    -1      *pere-
-parachute       9898    -1      *pere-, *kad-
-repertory       13775   -1      *pere-
-juniper 13821   -1      *pere-
-spar    19189   -1      *pere-
-parse   19588   -1      *pere-
 
 
 
@@ -19664,7 +19959,6 @@ parse   19588   -1      *pere-
 # (74, '*man-'),
 # (83, '*bha-'),
 # (87, '*bher-'),
-# (89, '*pere-'),
 # (97, '*sed-'),
 # (102, '*pele-'),
 # (103, '*ag-'),
