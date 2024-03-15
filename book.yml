@@ -19933,12 +19933,170 @@
     part, piece:
       - word
       - clause
+- word: insidious
+  freq: 12692
+  use: 54
+  pos: ADJECTIVE
+  meaning: Something that is insidious is unpleasant or dangerous and develops gradually without being noticed.
+  sent: The changes are insidious, and will not produce a noticeable effect for 15 to 20 years.
+  roots: in[=in-:in] + sid[=*sed-(1):to sit] + ...
+  connect:
+    in:
+      - without being noticed
+    sit:
+      - without being noticed
+- word: set
+  freq: 295
+  use: 539
+  pos: COUNTABLE NOUN
+  meaning: If you set something somewhere, you put it there, especially in a careful or deliberate way.
+  sent: He took the case out of her hand and set it on the floor.
+  roots: set[=*sed-(1):to sit]
+  connect:
+    sit:
+      - put
+  related:
+    - setting
+    - settee
+  guess:
+    - upset
+    - onset
+    - beset
+    - sunset
+    - inset
+    - reset
+- word: settle
+  freq: 1323
+  use: 230
+  pos: TRANSITIVE VERB
+  meaning: If people settle an argument or problem, or if something settles it, they solve it, for example, by making a decision about who is right or about what to do.
+  sent: They agreed to try to settle their dispute by negotiation.
+  roots: set[=*sed-(1):to sit]
+  connect:
+    sit:
+      - solve
+  related:
+    - settled
+    - settler
+    - settlement
+  guess:
+    - unsettle
+    - unsettled
+    - resettle
+    - resettlement
+- word: subside
+  freq: 8967
+  use: 65
+  pos: INTRANSITIVE VERB
+  meaning: If a feeling or noise subsides, it becomes less strong or loud.
+  sent: The pain had subsided during the night.
+  roots: sub[=sub-:under, beneath] + side[=*sed-(1):to sit]
+  connect:
+    under, beneath:
+      - less strong or loud
+    sit:
+      - less strong or loud
+  related:
+    - subsidy
+    - subsidize
+    - subsidiary
+- word: saddle
+  freq: 6311
+  use: 54
+  pos: COUNTABLE NOUN
+  meaning: A saddle is a leather seat that you put on the back of an animal so that you can ride the animal.
+  roots: sad[=*sed-(1):to sit]
+  connect:
+    sit:
+      - ride
+- word: nest
+  freq: 4174
+  use: 33
+  pos: COUNTABLE NOUN
+  meaning: A bird's nest is the home that it makes to lay its eggs in.
+  sent: I can see an eagle's nest on the rocks.
+  roots: nest[=*sed-(1):to sit]
+  connect:
+    sit:
+      - home
+  related:
+    - nestle
+- word: sit
+  freq: 269
+  use: 39
+  pos: INTRANSITIVE VERB
+  meaning: If you are sitting somewhere, for example, in a chair, your bottom is resting on the chair and the upper part of your body is upright.
+  sent: Mother was sitting in her chair in the kitchen.
+  roots: sit[=*sed-(1):to sit]
+  connect:
+    sit:
+      - resting
+  related:
+    - sitter
+    - sitting
+    - seat
+    - sit-up
+  guess:
+    - unseat
+- word: possess
+  freq: 2864
+  use: 32
+  meaning: If you possess something, you have it or own it.
+  sent: He was then arrested and charged with possessing an offensive weapon.
+  roots: pos[=*poti-:powerful; lord] + sess[=*sed-(1):to sit]
+  connect:
+    powerful:
+      - have
+      - own
+    sit:
+      - have
+      - own
+  related:
+    - possession
 
 
 
 
 
 
+siege   6880    32      *sed-
+  besiege 15405   -1      *sed-
+chair   949     28      *sed-
+  chairman        1379    6       *sed-
+  wheelchair      4660    -1      *sed-
+  armchair        9991    -1      *sed-
+  chairwoman      16253   -1      *sed-
+reside  5350    17      *sed-
+  resident        1260    27      *sed-
+  residence       3803    55      *sed-
+  residual        7922    -1      *sed-
+  residential     3866    -1      *sed-
+  residency       9585    8       *sed-
+  residue 7716    34      *sed-
+size    753     24      *sed-
+  oversized       11109   0       *sed-
+  sizeable        18770   0       *sed-
+sedative        19496   24      *sed-
+sediment        8028    23      *sed-
+soot    15123   20      *sed-
+cathedral       7511    17      *sed-
+supersede       14693   8       *sed-
+preside 6892    0       *sed-
+  president       304     6       *sed-
+  presidency      3465    30      *sed-
+  vice-president  12306   -1      *sed-
+session 1553    -1      *sed-
+assess  2059    -1      *sed-
+  assessment      1561    68      *sed-
+  assessor        18015   -1      *sed-
+sedan   7077    -1      *sed-
+dissident       9916    -1      *sed-
+sedentary       14228   -1      *sed-
+obsess  15696   -1      *sed-
+  obsessive       10446   -1      *sed-
+  obsessed        6535    26      *sed-
+  obsession       5628    39      *sed-
+topsoil 17691   -1      *sed-
 
 
 
@@ -19959,7 +20117,6 @@
 # (74, '*man-'),
 # (83, '*bha-'),
 # (87, '*bher-'),
-# (97, '*sed-'),
 # (102, '*pele-'),
 # (103, '*ag-'),
 # (127, '*men-'),
