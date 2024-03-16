@@ -20053,50 +20053,202 @@
       - own
   related:
     - possession
-
-
-
-
-
-
-siege   6880    32      *sed-
-  besiege 15405   -1      *sed-
-chair   949     28      *sed-
-  chairman        1379    6       *sed-
-  wheelchair      4660    -1      *sed-
-  armchair        9991    -1      *sed-
-  chairwoman      16253   -1      *sed-
-reside  5350    17      *sed-
-  resident        1260    27      *sed-
-  residence       3803    55      *sed-
-  residual        7922    -1      *sed-
-  residential     3866    -1      *sed-
-  residency       9585    8       *sed-
-  residue 7716    34      *sed-
-size    753     24      *sed-
-  oversized       11109   0       *sed-
-  sizeable        18770   0       *sed-
-sedative        19496   24      *sed-
-sediment        8028    23      *sed-
-soot    15123   20      *sed-
-cathedral       7511    17      *sed-
-supersede       14693   8       *sed-
-preside 6892    0       *sed-
-  president       304     6       *sed-
-  presidency      3465    30      *sed-
-  vice-president  12306   -1      *sed-
-session 1553    -1      *sed-
-assess  2059    -1      *sed-
-  assessment      1561    68      *sed-
-  assessor        18015   -1      *sed-
-sedan   7077    -1      *sed-
-dissident       9916    -1      *sed-
-sedentary       14228   -1      *sed-
-obsess  15696   -1      *sed-
-  obsessive       10446   -1      *sed-
-  obsessed        6535    26      *sed-
-  obsession       5628    39      *sed-
-topsoil 17691   -1      *sed-
+- word: siege
+  freq: 6880
+  use: 32
+  pos: NOUN
+  meaning: A siege is a military or police operation in which soldiers or police surround a place in order to force the people there to come out or give up control of the place.
+  sent: We must do everything possible to lift the siege.
+  roots: siege[=*sed-(1):to sit]
+  connect:
+    sit:
+      - surround
+  guess:
+    - besiege
+- word: reside
+  freq: 5350
+  use: 17
+  pos: INTRANSITIVE VERB
+  meaning: If someone resides somewhere, they live there or are staying there.
+  sent: Margaret resides with her invalid mother in a Seattle suburb.
+  roots: re[=re-:back, again] + side[=*sed-(1):to sit]
+  connect:
+    sit:
+      - live
+      - staying
+  related:
+    - resident
+    - residential
+    - residence
+    - residency
+    - residue
+    - residual
+- word: size
+  freq: 753
+  use: 24
+  pos: VARIABLE NOUN
+  meaning: The size of something is how big or small it is. Something's size is determined by comparing it to other things, counting it, or measuring it.
+  sent: In 1970 the average size of a French farm was 19 hectares.
+  roots: size[=*sed-(1):to sit]
+  exp: 用sit表达"固定"的感觉，之后引申出fixing the amount, volume, magnitude的意思。
+  related:
+    - oversized
+    - sizeable
+- word: sedative
+  freq: 19496
+  use: 24
+  pos: COUNTABLE NOUN
+  meaning: A sedative is a medicine or drug that calms you or makes you sleep.
+  sent: They use opium as a sedative, rather than as a narcotic.
+  roots: sed[=*sed-(1):to sit] + ...
+  connect:
+    sit:
+      - calms
+      - sleep
+- word: sediment
+  freq: 8028
+  use: 23
+  pos: VARIABLE NOUN
+  meaning: Sediment is solid material that settles at the bottom of a liquid, especially earth and pieces of rock that have been carried along and then left somewhere by water, ice, or wind.
+  sent: Many organisms that die in the sea are soon buried by sediment.
+  roots: sed[=*sed-(1):to sit] + ...
+  connect:
+    sit:
+      - settles
+- word: soot
+  freq: 15123
+  use: 20
+  pos: UNCOUNTABLE NOUN
+  meaning: Soot is black powder which rises in the smoke from a fire and collects usually on the inside of chimneys.
+  sent: '...a wall blackened by soot.'
+  roots: soot[=*sed-:to sit]
+  connect:
+    sit:
+      - collects
+  exp: 用sit来表达"尘埃落定"的感觉。
+- word: cathedral
+  freq: 7511
+  use: 17
+  pos: COUNTABLE NOUN
+  meaning: A cathedral is a very large and important church which has a bishop in charge of it.
+  sent: '...St. Paul''s Cathedral.'
+  roots: cat[=cata-:down] + hedr[=*sed-(1):to sit]
+  exp: 词根合起来象征bishop至高无上的"位置"或者说"地位"。
+- word: supersede
+  freq: 14693
+  use: 8
+  meaning: If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable.
+  sent: Hand tools are relics of the past that have now been superseded by the machine.
+  roots: super[=super-:above] + sed[=*sed-(1):to sit]
+  connect:
+    above:
+      - replaced
+    sit:
+      - replaced
+- word: preside
+  freq: 6892
+  use: 0
+  pos: INTRANSITIVE VERB
+  meaning: If you preside over a meeting or an event, you are in charge.
+  sent: The PM returned to Downing Street to preside over a meeting of his inner cabinet.
+  roots: pre[=pre-:before] + side[=*sed-(1):to sit]
+  connect:
+    before:
+      - in charge
+    sit:
+      - in charge
+  related:
+    - president
+    - presidency
+    - vice-president
+- word: session
+  freq: 1553
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A session is a meeting of a court, legislature, or other official group.
+  sent: After two late night sessions, the Security Council has failed to reach agreement.
+  roots: sess[=*sed-(1):to sit] + ion[=-ion]
+  connect:
+    sit:
+      - meeting
+- word: assess
+  freq: 2059
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: When you assess a person, thing, or situation, you consider them in order to make a judgment about them.
+  sent: The test was to assess aptitude rather than academic achievement.
+  roots: 用sit表达"固定"的感觉，之后引申出to fix the amount (of a tax, fine, etc...)的意思，再之后才引申出estimate the value of property的感觉。
+  related:
+    - assessment
+    - assessor
+- word: sedan
+  freq: 7077
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A sedan is a car with seats for four or more people, a fixed roof, and a trunk that is separate from the part of the car that you sit in.
+  roots: sed[=*sed-(1):to sit]
+  connect:
+    sit:
+      - seats
+- word: dissident
+  freq: 9916
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: Dissidents are people who disagree with and criticize their government, especially because it is undemocratic.
+  sent: '...political dissidents.'
+  roots: dis[=dis-:apart] + sid[=*sed-(1):to sit] + ent[=-ent]
+  connect:
+    apart:
+      - disagree
+      - criticize
+    sit:
+      - disagree
+      - criticize
+- word: sedentary
+  freq: 14228
+  use: -1
+  pos: ADJECTIVE
+  meaning: Someone who has a sedentary lifestyle or job sits down a lot of the time and does not do much exercise.
+  sent: Obesity and a sedentary lifestyle has been linked with an increased risk of heart disease.
+  roots: sed[=*sed-(1):to sit] + ent[=-ent] + ary[=-ary]
+  connect:
+    sit:
+      - sits down
+      - does not do much exercise
+- word: obsess
+  freq: 15696
+  use: -1
+  pos: VERB
+  meaning: If something obsesses you or if you obsess about something, you keep thinking about it and find it difficult to think about anything else.
+  sent: A string of scandals is obsessing America.
+  roots: ob[=ob-:against] + sess[=*sed-(1):to sit]
+  connect:
+    against:
+      - keep thinking about it
+      - find it difficult to think about something else
+    sit:
+      - keep thinking about it
+      - find it difficult to think about something else
+  exp: 傻坐在对面盯着看，想不了其它事。
+  related:
+    - obsessive
+    - obsessed
+    - obsession
+- word: soil
+  freq: 1805
+  use: 84
+  pos: MASS NOUN
+  meaning: Soil is the substance on the surface of the earth in which plants grow.
+  sent: We have the most fertile soil in the Midwest.
+  roots: soil[=*sed-(1):to sit]
+  connect:
+    sit:
+      - surface
+  related:
+    - soiled
+    - topsoil
+  
+  
 
 
 
