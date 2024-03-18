@@ -20247,8 +20247,367 @@
   related:
     - soiled
     - topsoil
-  
-  
+- word: full
+  freq: 504
+  use: 353
+  pos: ADJECTIVE
+  meaning: If something is full, it contains as much of a substance or as many objects as it can.
+  sent: Once the container is full, it stays shut until you turn it clockwise. 
+  roots: full[=*pele-(1):to fill]
+  connect:
+    fill:
+      - contains
+  related:
+    - fully
+    - full-blown
+    - fullness
+    - full-time
+- word: complete
+  freq: 1211
+  use: 283
+  pos: ADJECTIVE
+  meaning: You use complete to emphasize that something is as great in extent, degree, or amount as it possibly can be.
+  sent: The house is a complete mess.
+  roots: com[=com-:intensive prefix] + plete[=*pele-(1):to fill]
+  connect:
+    fill:
+      - as great in extent, degree, or amount as it possibly can be
+  related:
+    - completely
+    - completion
+  guess:
+    - incomplete
+- word: plain
+  freq: 3584
+  use: 230
+  pos: ADJECTIVE
+  meaning: A plain object, surface, or fabric is entirely in one color and has no pattern, design, or writing on it.
+  sent: In general, a plain carpet makes a room look bigger.
+  roots: plain[=*pele-(2):flat; to spread]
+  connect:
+    flat:
+      - surface
+      - has no pattern, design, or writing on it
+  related:
+    - plainly
+- word: field
+  freq: 440
+  use: 152
+  pos: COUNTABLE NOUN
+  meaning: A field is an area of grass, for example, in a park or on a farm. A field is also an area of land on which a crop is grown.
+  sent: '...a field of wheat.'
+  roots: field[=*pele-(2):flat; to spread]
+  connect:
+    flat; to spread:
+      - area
+  related:
+    - minefield
+    - cornfield
+- word: floor
+  freq: 640
+  use: 130
+  pos: COUNTABLE NOUN
+  meaning: The floor of a room is the part of it that you walk on.
+  sent: Jack's sitting on the floor watching TV.
+  roots: floor[=*pele-(2):flat; to spread]
+  connect:
+    flat:
+      - walk on
+  related:
+    - flooring
+- word: accomplish
+  freq: 2366
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you accomplish something, you succeed in doing it.
+  sent: If we'd all work together, I think we could accomplish our goal.
+  roots: ac[=ad-:to] + com[=com-:intensive prefix] + pl[=*pele-(1):to fill]
+  connect:
+    fill:
+      - succeed
+  exp: accomplish有个同义词叫fulfill——自带一个fill。
+  related:
+    - accomplished
+    - accomplishment
+- word: plan
+  freq: 414
+  use: 114
+  pos: COUNTABLE NOUN
+  meaning: A plan is a method of achieving something that you have worked out in detail beforehand.
+  sent: The three leaders had worked out a peace plan.
+  roots: plan[=plan:level or flat surface]<--[=*pele-(2):flat; to spread]
+  exp: 从flat surface引申出"the representation of anything drawn on a plane"的意思，比如scheme of action。
+  related:
+    - planning
+    - planner
+  guess:
+    - unplanned
+- word: fill
+  freq: 687
+  use: 112
+  pos: TRANSITIVE VERB
+  meaning: If you fill a container or area, or if it fills, an amount of something enters it that is enough to make it full.
+  sent: She went to the bathroom, filled a glass with water, returned to the bed.
+  roots: fill[=*pele-(1):to fill]
+  connect:
+    fill:
+      - full
+  related:
+    - filling
+    - filler
+    - landfill
+  guess:
+    - refill
+- word: plane
+  freq: 1153
+  use: 88
+  pos: COUNTABLE NOUN
+  meaning: A plane is a vehicle with wings and one or more engines that can fly through the air.
+  sent: He had plenty of time to catch his plane.
+  roots: plane[=*pele-(2):flat; to spread]
+  connect:
+    flat; to spread:
+      - wings
+  related:
+    - airplane
+- word: replete
+  freq: 13603
+  use: 84
+  meaning: To be replete with something means to be full of it.
+  sent: The harbor was replete with boats.
+  roots: re[=re-:back, again] + plete[=*pele-(1):to fill]
+  connect:
+    fill:
+      - full
+- word: supply
+  freq: 1503
+  use: 74
+  pos: TRANSITIVE VERB
+  meaning: If you supply someone with something that they want or need, you give them a quantity of it.
+  sent: '...an agreement not to produce or supply chemical weapons.'
+  roots: sup[=sub-:up from below] + pl[=*pele-(1):to fill]
+  connect:
+    fill:
+      - a quantity of
+  related:
+    - supplement
+    - supplemental
+    - supplementary
+- word: plastic
+  freq: 1532
+  use: 73
+  pos: MASS NOUN
+  meaning: Plastic is a material that is produced from oil by a chemical process and that is used to make many objects. It is light in weight and does not break easily.
+  sent: '...a wooden crate, sheltered from rain by sheets of plastic.'
+  roots: plast[=*pele-(2):flat; to spread] + ic[=-ic]
+  exp: 做塑料制品，比如塑料袋，是一个先将原料熔化再吹膜的过程，也就是说要将其摊开(spread)。
+- word: complement
+  freq: 6859
+  use: 41
+  pos: TRANSITIVE VERB
+  meaning: If one thing complements another, it goes well with the other thing and makes its good qualities more noticeable.
+  sent: Nutmeg, parsley and cider all complement the flavor of these beans well.
+  roots: com[=com-:intensive prefix] + ple[=*pele-(1):to fill] + ment[=-ment]
+  exp: 用的是*pele-(1)中fulfill的那层意思。
+  connect:
+    fill:
+      - goes well with
+  related:
+    - complementary
+- word: compliment
+  freq: 7711
+  use: 47
+  pos: COUNTABLE NOUN
+  meaning: A compliment is a polite remark that you make to someone to show that you like their appearance, appreciate their qualities, or approve of what they have done.
+  sent: You can do no harm by paying a woman compliments.
+  roots: com[=com-:intensive prefix] + pli[=*pele-(1):to fill] + ment[=-ment]
+  connect:
+    fill:
+      - like
+      - appreciate
+      - approve
+  related:
+    - complimentary
+- word: palm
+  freq: 3015
+  use: 46
+  pos: COUNTABLE NOUN
+  meaning: The palm of your hand is the inside part.
+  sent: He wiped his sweaty palm.
+  roots: palm[=*pele-(2):flat; to spread]
+  connect:
+    flat; to spread:
+      - inside part
+- word: replenish
+  freq: 12491
+  use: 44
+  pos: TRANSITIVE VERB
+  meaning: If you replenish something, you make it full or complete again.
+  sent: Three hundred thousand tons of cereals are needed to replenish stocks.
+  roots: re[=re-:again] + plen[=*pele-(1):to fill] + ish[=-ish]
+  connect:
+    again:
+      - again
+    fill:
+      - full
+      - complete
+- word: explain
+  freq: 481
+  use: 41
+  pos: VERB
+  meaning: If you explain something, you give details about it or describe it so that it can be understood.
+  sent: Not every judge, however, has the ability to explain the law in simple terms.
+  roots: ex[=ex-:out] + plain[=*pele-(2):flat; to spread]
+  exp: 用spread表达"掰开揉碎"解释的感觉。
+  connect:
+    out:
+      - give details
+      - describe
+    flat; to spread:
+      - give details
+      - describe
+  related:
+    - explanation
+  guess:
+    - unexplained
+- word: plethora
+  freq: 14022
+  use: 30
+  pos: SINGULAR NOUN
+  meaning: A plethora of something is a large amount of it, especially an amount of it that is greater than you need, want, or can cope with.
+  sent: A plethora of new operators will be allowed to enter the market.
+  roots: pleth[=*pele-(1):to fill]
+  connect:
+    fill:
+      - a large amount
+- word: expletive
+  freq: 16763
+  use: 9
+  pos: COUNTABLE NOUN
+  meaning: An expletive is a rude word or expression such as 'Damn!' that people say when they are annoyed, excited, or in pain.
+  roots: ex[=ex-:out] + plet[=*pele-(1):to fill] + ive[=-ive]
+  exp: 词根合起来表达"a word or phrase serving to fill out a sentence"。
+- word: plaster
+  freq: 8404
+  use: 5
+  pos: UNCOUNTABLE NOUN
+  meaning: Plaster is a smooth paste made of sand, lime, and water that gets hard when it dries. Plaster is used to cover walls and ceilings and is also used to make sculptures.
+  sent: There were huge cracks in the plaster, and the green shutters were faded.
+  roots: plast[=*pele-(2):flat; to spread]
+  connect:
+    flat; to spread:
+      - smooth paste
+      - cover
+- word: comply
+  freq: 4689
+  use: 0
+  pos: INTRANSITIVE VERB
+  meaning: If someone or something complies with an order or set of rules, they do what is required or expected.
+  sent: The commander said that the army would comply with the ceasefire.
+  roots: com[=com-:intensive prefix] + ply[=*pele-(1):to fill]
+  exp: 用fill表达"fulfill"的意思，对应释义中的"do what is required or expected"。
+  related:
+    - compliance
+    - compliant
+- word: manipulate
+  freq: 4291
+  use: 82
+  pos: TRANSITIVE VERB
+  meaning: If you say that someone manipulates people, you disapprove of them because they skillfully force or persuade people to do what they want.
+  sent: He lies, cheats and shamelessly manipulates people to get what he wants.
+  roots: man[=*man-(2):hand] + pul[=*pele-(1):to fill] + ate[=-ate]
+  exp: 词根合起来表达skillful handling of persons。
+  related:
+    - manipulation
+    - muipulative
+- word: plenty
+  freq: 2061
+  use: -1
+  pos: QUANTIFIER
+  meaning: If there is plenty of something, there is a large amount of it. If there are plenty of things, there are many of them. Plenty is used especially to indicate that there is enough of something, or more than you need.
+  sent: There was still plenty of time to take Jill out for pizza.
+  roots: plent[=*pele-(1):to fill] + y[=-y]
+  connect:
+    fill:
+      - a large amount
+      - many
+      - enough
+      - more than you need
+  related:
+    - plentiful
+- word: plus
+  freq: 2082
+  use: -1
+  pos: CONJUNCTION
+  meaning: You say plus to show that one number or quantity is being added to another.
+  sent: '...$5 for a small locker, plus a $3 deposit.'
+  roots: plus[=*pele-(1):to fill]
+  connect:
+    fill:
+      - added
+  guess:
+    - surplus
+- word: implement
+  freq: 2305
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you implement something such as a plan, you ensure that what has been planned is done.
+  sent: The government promised to implement a new system to control financial loan institutions.
+  roots: im[=in-:into, in, on, upon] + ple[=*pele-(1):to fill] + ment[=-ment]
+  connect:
+    fill:
+      - ensure
+      - is done
+  related:
+    - implementation
+- word: piano
+  freq: 3327
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: A piano is a large musical instrument with a row of black and white keys. When you press these keys with your fingers, little hammers hit wire strings inside the piano which vibrate to produce musical notes.
+  sent: I taught myself how to play the piano.
+  roots: pian[=*pele-(2):flat; to spread]
+  exp: 用flat表达smooth, even, soft的感觉，亦即指钢琴的音色。
+  related:
+    - pianist
+- word: plasma
+  freq: 8414
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Plasma is the clear liquid part of blood that contains the blood cells.
+  roots: plas[=*pele-(2):flat; to spread]
+  connect:
+    flat; to spread:
+      - liquid
+- word: deplete
+  freq: 10456
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: To deplete a stock or amount of something means to reduce it.
+  sent: '...substances that deplete the ozone layer.'
+  roots: de[=de-:off, away] + plete[=*pele-(1):to fill]
+  connect:
+    off, away:
+      - reduce
+    fill:
+      - reduce
+  related:
+    - depletion
+- word: polygraph
+  freq: 15616
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A polygraph or a polygraph test is a test used by the police to try to find out whether someone is telling the truth.
+  sent: Hill's lawyers announced she had taken and passed a polygraph test.
+  roots:
+
+
+
+polka   18851   -1      *pele-
+polyp   19158   -1      *ped-,  *pele-
+plural  19796   -1      *pele-
+  pluralism       9545    -1      *pele-
+  plurality       13407   -1      *pele-
 
 
 
@@ -20269,7 +20628,6 @@
 # (74, '*man-'),
 # (83, '*bha-'),
 # (87, '*bher-'),
-# (102, '*pele-'),
 # (103, '*ag-'),
 # (127, '*men-'),
 # (199, '*sta-'),
