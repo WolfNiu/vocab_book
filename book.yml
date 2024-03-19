@@ -20599,15 +20599,82 @@
   pos: COUNTABLE NOUN
   meaning: A polygraph or a polygraph test is a test used by the police to try to find out whether someone is telling the truth.
   sent: Hill's lawyers announced she had taken and passed a polygraph test.
-  roots:
+  roots: poly[=poly-:many] + graph[=graph:to write]<--[=*gerbh-:to scratch]
+  exp: 词根合起来表示"instrument for recording several pulsations of the body at the same time"。
+- word: polyp
+  freq: 19158
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A polyp is a small unhealthy growth on a surface inside your body.
+  roots: poly[=poly-:many] + p[=*ped-:foot]
+  exp: 本来表示octopus, cuttlefish，后来因为质地很像就引申出"息肉"的意思了。
+- word: plural
+  freq: 19796
+  use: -1
+  pos: ADJECTIVE
+  meaning: The plural form of a word is the form that is used when referring to more than one person or thing.
+  sent: '"Data" is the Latin plural form of "datum."'
+  roots: plur[=*pele-(1):to fill] + al[=-al]
+  connect:
+    fill:
+      - more than one
+  related:
+    - pluralism
+    - plurality
 
 
 
-polka   18851   -1      *pele-
-polyp   19158   -1      *ped-,  *pele-
-plural  19796   -1      *pele-
-  pluralism       9545    -1      *pele-
-  plurality       13407   -1      *pele-
+
+
+
+*gerbh- "to scratch,"
+======
+crab    5163    137
+carve   3840    12
+  carved  8299    0
+  carver  16163   -1
+pornographic    13649   75      *per-
+graphic 5361    65
+choreograph     14871   33
+autograph       9125    20
+autobiography   7122    18      *gwei-
+photograph      1652    17      *bha-
+biography       4932    10      *gwei-
+calligraphy     20182   7
+geography       5221    6
+topography      13476   6
+photographer    3125    1       *bha-
+autobiographical        11823   0
+choreographer   14035   0
+graphically     16830   0
+graphical       17577   0
+photography     4024    -1      *bha-
+demographic     4669    -1      *da-
+geographic      5505    -1
+paragraph       5980    -1
+photographic    6336    -1      *bha-
+geographical    6812    -1
+pornography     7284    -1      *per-
+graph   8055    -1
+demographics    8881    -1      *da-
+ethnographic    10042   -1
+biographer      10796   -1      *gwei-
+graphite        11490   -1
+geographically  11889   -1
+geographer      13173   -1
+biographical    13717   -1      *gwei-
+bibliography    14534   -1
+monograph       14860   -1
+iconography     14929   -1
+choreography    15031   -1
+ethnography     15097   -1
+polygraph       15616   -1      *pele-
+telegraph       16148   -1      *kwel-
+ethnographer    17565   -1
+historiography  17984   -1
+demographer     18756   -1  *da-
+tomography      18778   -1      *tem-
+mammography     19681   -1
 
 
 
