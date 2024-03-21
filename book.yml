@@ -7308,12 +7308,7 @@
   pos: COUNTABLE NOUN
   meaning: A biography of someone is an account of their life, written by someone else.
   sent: '...recent biographies of Stalin.'
-  roots:
-    bio:
-      meaning: bio | life
-      roots:
-        bio: "*gwei- | to live"
-    graphy: -graphy | process of writing or recording; a writing, recording, or description
+  roots: bio[=bio-:life]<--[=*gwei-:to live] + graphy[=-graphy:a writing, recording, or description]<--[=*gerbh-:to scratch, carve]
   exp: 整个词表达了description of life的意思。
   connect:
     life:
@@ -7323,8 +7318,10 @@
       - written
   related:
     - biographical
-    - autobiography
     - biographer
+  guess:
+    - autobiography
+    - autobiographical
 - word: microbe
   freq: 10376
   use: -1
@@ -20621,60 +20618,141 @@
   related:
     - pluralism
     - plurality
-
-
-
+- word: crab
+  freq: 5163
+  use: 137
+  pos: COUNTABLE NOUN
+  meaning: A crab is a sea creature with a flat round body covered by a shell, and five pairs of legs with large claws on the front pair. Crabs usually move sideways.
+  roots: crab[=*gerbh-:to scratch, carve]
+  connect:
+    scratch, carve:
+      - claws
+- word: carve
+  freq: 3840
+  use: 12
+  pos: TRANSITIVE VERB
+  meaning: If you carve an object, you make it by cutting it out of a substance such as wood or stone. If you carve something such as wood or stone into an object, you make the object by cutting it out.
+  sent: One of the prisoners has carved a beautiful wooden chess set.
+  roots: carve[=*gerbh-:to scratch, carve]
+  connect:
+    carve:
+      - cutting
+  related:
+    - carved
+    - carver
+- word: pornography
+  freq: 7284
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Pornography refers to books, magazines, and movies that are designed to cause sexual excitement by showing naked people or referring to sexual acts.
+  sent: The country's leading newspaper has called for a new campaign against child pornography.
+  roots: porn[=porn:prostitute]<--[=*per-(5):to traffic in, to sell] + graph[=graph:to write]<--[=*gerbh-:to scratch, carve] + y[=-y]
+  connect:
+    prostitute:
+      - sexual
+      - naked
+    write:
+      - books
+      - magazines
+      - movies
+  related:
+    - pornographic
+- word: graph
+  freq: 8055
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A graph is a mathematical diagram which shows the relationship between two or more sets of numbers or measurements.
+  sent: '...a graph showing that breast cancer deaths rose about 20 percent from 1960 to 1985.'
+  roots: graph[=graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    write:
+      - diagram
+  related:
+    - graphic
+    - graphically
+    - graphical
+- word: autograph
+  freq: 9125
+  use: 20
+  pos: COUNTABLE NOUN
+  meaning: An autograph is the signature of someone famous that is specially written for a fan to keep.
+  sent: He went backstage and asked for her autograph.
+  roots: auto[=auto-:self, one's own] + graph[=graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    write:
+      - written
+- word: photograph
+  freq: 1652
+  use: 17
+  pos: COUNTABLE NOUN
+  meaning: A photograph is a picture that is made using a camera.
+  sent: He wants to take some photographs of the house.
+  roots: photo[=photo-:light] + graph[=graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    light:
+      - camera
+    recording:
+      - picture
+  related:
+    - photographer
+    - photography
+    - photographic
+- word: geography
+  freq: 5221
+  use: 6
+  pos: UNCOUNTABLE NOUN
+  meaning: The geography of a place is the way that features such as rivers, mountains, towns, or streets are arranged within it.
+  sent: '...policemen who knew the local geography.'
+  roots: geo[=geo-:earth] + graph[=graph:to write]<--[=*gerbh-:to scratch, carve]
+  related:
+    - geographic
+    - geographical
+    - geographically
+    - geographer
+- word: paragraph
+  freq: 5980
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A paragraph is a section of a piece of writing. A paragraph always begins on a new line and contains at least one sentence.
+  sent: The length of a paragraph depends on the information it conveys.
+  roots: para[=para-:(1):beside] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    beside:
+      - begins on a new line
+    write:
+      - writing
 
 
 
 *gerbh- "to scratch,"
 ======
-crab    5163    137
-carve   3840    12
-  carved  8299    0
-  carver  16163   -1
-pornographic    13649   75      *per-
-graphic 5361    65
-choreograph     14871   33
-autograph       9125    20
-autobiography   7122    18      *gwei-
-photograph      1652    17      *bha-
-biography       4932    10      *gwei-
-calligraphy     20182   7
-geography       5221    6
-topography      13476   6
-photographer    3125    1       *bha-
-autobiographical        11823   0
-choreographer   14035   0
-graphically     16830   0
-graphical       17577   0
-photography     4024    -1      *bha-
+
 demographic     4669    -1      *da-
-geographic      5505    -1
-paragraph       5980    -1
-photographic    6336    -1      *bha-
-geographical    6812    -1
-pornography     7284    -1      *per-
-graph   8055    -1
-demographics    8881    -1      *da-
-ethnographic    10042   -1
-biographer      10796   -1      *gwei-
+  demographics    8881    -1      *da-
+  demographer     18756   -1  *da-
 graphite        11490   -1
-geographically  11889   -1
-geographer      13173   -1
-biographical    13717   -1      *gwei-
 bibliography    14534   -1
 monograph       14860   -1
 iconography     14929   -1
-choreography    15031   -1
 ethnography     15097   -1
-polygraph       15616   -1      *pele-
+  ethnographic    10042   -1
+  ethnographer    17565   -1
 telegraph       16148   -1      *kwel-
-ethnographer    17565   -1
 historiography  17984   -1
-demographer     18756   -1  *da-
 tomography      18778   -1      *tem-
 mammography     19681   -1
+graffiti        8991    -1
+graft   14570   10
+program 194     64
+  programming     4676    -1
+  programmer      8558    -1
+  programmatic    17663   -1
+diagram 7458    22
+grammar 8532    22
+  grammatical     19210   -1
+mammogram       12420   -1
+telegram        12583   -1      *kwel-
+hologram        19341   -1      *sol-
 
 
 
