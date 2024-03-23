@@ -6469,9 +6469,7 @@
   pos: PLURAL NOUN
   meaning: The demographics of a place or society are the statistics relating to the people who live there.
   sent: '...the changing demographics of the United States.'
-  roots:
-    dem: "*da- | to divide"
-    graphy: -graphy | process of writing or recording
+  roots: demo[=*da-:to divide] + graph[=graph:to write]<--[=*gerbh-:to scratch, carve] + ic[=-ic]
   exp: 和democracy(1511,11)一样，用的是*da-中common people的那层意思，对应释义中的people。
   related:
     - demographics
@@ -20721,38 +20719,184 @@
       - begins on a new line
     write:
       - writing
+- word: graphite
+  freq: 11490
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Graphite is a soft black substance that is a form of carbon. It is used in pencils and electrical equipment.
+  roots: graph[=-graph:to write]<--[=*gerbh-:to scratch, carve] + ite[=-ite]
+- word: bibliography
+  freq: 14534
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A bibliography is a list of books on a particular subject.
+  sent: At the end of this chapter there is a select bibliography of useful books.
+  roots: biblio[=biblio-:book] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve] + y[=-y]
+  connect:
+    book:
+      - books
+    write:
+      - list
+- word: monograph
+  freq: 14860
+  use: -1
+  pos: NOUN
+  meaning: A monograph is a book which is a detailed study of only one subject.
+  sent: '...a monograph on her favorite author, John Updike.'
+  roots: mono[=mono-:single] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    single:
+      - detailed
+    write:
+      - study
+- word: telegraph
+  freq: 16148
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: Telegraph is a system of sending messages over long distances, either by means of electricity or by radio signals. Telegraph was used more often before the invention of telephones.
+  roots: tele[=tele-:far] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    far:
+      - long distance
+    write:
+      - messages
+- word: historiography
+  freq: 17984
+  use: -1
+  pos: NOUN
+  meaning: the writing of history
+  roots: historio[=historical<1480>] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    historical:
+      - history
+    write:
+      - writing
+- word: tomography
+  freq: 18778
+  use: -1
+  pos: NOUN
+  meaning: a process for producing an image of a single plane of an object excluding all other planes, as by using CT scan or , ultrasound, in diagnostic medicine, seismic surveys, etc.
+  roots: tom[=*tem-:to cut] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    cut:
+      - plane
+    write:
+      - image
+  exp: 这里可以将plane理解为"切(cut)面"。
+- word: mammography
+  freq: 19681
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Mammography is the use of X-rays to examine women's breasts in order to detect cancer.
+  sent: '...poorer countries, where mammography is not routinely available.'
+  roots: mammo[=mammo-:breast] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve] + y[=-y]
+  connect:
+    breast:
+      - breasts
+    write:
+      - X-rays
+      - examine
+- word: graffiti
+  freq: 8991
+  use: -1
+  pos: COLLECTIVE UNCOUNT NOUN
+  meaning: Graffiti is words or pictures that are written or drawn in public places, for example on walls or posters.
+  sent: Buildings old and new are thickly covered with graffiti.
+  roots: graf[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    write:
+      - written
+      - drawn
+- word: graft
+  freq: 14570
+  use: 10
+  pos: COUNTABLE NOUN
+  meaning: A graft is a piece of healthy skin or bone, or a healthy organ, which is attached to a damaged part of your body by a medical operation in order to replace it.
+  sent: I am having a skin graft on my arm soon.
+  roots: graft[=*gerbh-:to scratch, carve]
+  connect:
+    carve:
+      - medical operation
+  exp: 植物嫁接用的也是这个词。If a part of one plant or tree is grafted onto another plant or tree, they are joined together so that they will become one plant or tree, often in order to produce a new variety.
+- word: program
+  freq: 194
+  use: 64
+  pos: COUNTABLE NOUN
+  meaning: A program of actions or events is a series of actions or events that are planned to be done.
+  sent: The nation's largest training and education program for adults.
+  roots: pro[=pro-:forth] + gram[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    forth:
+      - planned
+    write:
+      - series
+      - planned
+  related:
+    - programming
+    - programmer
+    - programmatic
+- word: diagram
+  freq: 7458
+  use: 22
+  pos: COUNTABLE NOUN
+  meaning: A diagram is a simple drawing which consists mainly of lines and is used, for example, to explain how a machine works.
+  sent: '...a circuit diagram.'
+  roots: dia[=dia-:across, through] + gram[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    across, through:
+      - lines
+    write:
+      - drawing
+- word: grammar
+  freq: 8532
+  use: 22
+  pos: UNCOUNTABLE NOUN
+  meaning: Grammar is the ways that words can be put together in order to make sentences.
+  sent: He doesn't have mastery of the basic rules of grammar.
+  roots: gram[=-graph:to write]<--[=*gerbh-:to scratch, carve] + ar[=-ar]
+  connect:
+    write:
+      - words
+      - sentences
+  related:
+    - grammatical
+- word: mammogram
+  freq: 12420
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A mammogram is a test that uses x-rays to check for breast cancer.
+  roots: mammo[=mammo-:breast] + graph[=-graph:to write]<--[=*gerbh-:to scratch, carve] + y[=-y]
+  connect:
+    breast:
+      - breast
+    write:
+      - X-rays
+      - check
+- word: telegram
+  freq: 12583
+  use: -1
+  pos: NOUN
+  meaning: A telegram is a message that is sent by telegraph and then printed and delivered to someone's home or office.
+  sent: The president received a briefing by telegram.
+  roots: tele[=tele-:far] + gram[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    far:
+      - delivered
+    write:
+      - message
+- word: hologram
+  freq: 19341
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A hologram is a three-dimensional photographic image created by laser beams.
+  roots: holo[=*sol-:whole, well-kept] + gram[=-graph:to write]<--[=*gerbh-:to scratch, carve]
+  connect:
+    whole:
+      - three-dimensional
+    write:
+      - image
 
 
-
-*gerbh- "to scratch,"
-======
-
-demographic     4669    -1      *da-
-  demographics    8881    -1      *da-
-  demographer     18756   -1  *da-
-graphite        11490   -1
-bibliography    14534   -1
-monograph       14860   -1
-iconography     14929   -1
-ethnography     15097   -1
-  ethnographic    10042   -1
-  ethnographer    17565   -1
-telegraph       16148   -1      *kwel-
-historiography  17984   -1
-tomography      18778   -1      *tem-
-mammography     19681   -1
-graffiti        8991    -1
-graft   14570   10
-program 194     64
-  programming     4676    -1
-  programmer      8558    -1
-  programmatic    17663   -1
-diagram 7458    22
-grammar 8532    22
-  grammatical     19210   -1
-mammogram       12420   -1
-telegram        12583   -1      *kwel-
-hologram        19341   -1      *sol-
 
 
 
