@@ -20514,7 +20514,7 @@
   exp: 词根合起来表达skillful handling of persons。
   related:
     - manipulation
-    - muipulative
+    - manipulative
 - word: plenty
   freq: 2061
   use: -1
@@ -20685,7 +20685,7 @@
   pos: COUNTABLE NOUN
   meaning: A photograph is a picture that is made using a camera.
   sent: He wants to take some photographs of the house.
-  roots: photo[=photo-:light] + graph[=graph:to write]<--[=*gerbh-:to scratch, carve]
+  roots: photo[=photo-:light]<--[=*bha-(1):to shine] + graph[=graph:to write]<--[=*gerbh-:to scratch, carve]
   connect:
     light:
       - camera
@@ -20895,13 +20895,391 @@
       - three-dimensional
     write:
       - image
+- word: fable
+  freq: 12547
+  use: 46
+  pos: VARIABLE NOUN
+  meaning: A fable is a story which teaches a moral lesson. Fables sometimes have animals as the main characters.
+  sent: '...the fable of the tortoise and the hare.'
+  roots: fa[=*bha-(2):to speak, tell, say]
+  connect:
+    speak, tell, say:
+      - story
+      - teaches
+  related:
+    - fabulous
+    - fabled
+- word: banner
+  freq: 5403
+  use: 119
+  pos: COUNTABLE NOUN
+  meaning: A banner is a long strip of cloth with something written on it. Banners are usually attached to two poles and carried during a protest or rally.
+  sent: A large crowd of students followed the coffin, carrying banners and shouting slogans denouncing the government.
+  roots: ban[=*bha-(1):to shine] + er[=-er]
+  connect:
+    shine:
+      - long strip of cloth
+- word: ban
+  freq: 3301
+  use: 160
+  pos: TRANSITIVE VERB
+  meaning: To ban something means to state officially that it must not be done, shown, or used.
+  sent: Canada will ban smoking in all offices later this year.
+  roots: ban[=*bha-(2):to speak, tell, say]
+  connect:
+    speak, tell, say:
+      - state
+  related:
+    - banish
+- word: fame
+  freq: 4646
+  use: 50
+  pos: UNCOUNTABLE NOUN
+  meaning: If you achieve fame, you become very well-known.
+  sent: At the height of his fame, his every word was valued.
+  roots: fame[=*bha-(2):to speak, tell, say]
+  connect:
+    speak, tell, say:
+      - well-known
+  exp: well-known意味着people talk about it all the time.
+  related:
+    - famed
+    - famously
+  guess:
+    - infamous
+    - defamation
+- word: boon
+  freq: 11736
+  use: 127
+  pos: COUNTABLE NOUN
+  meaning: You can describe something as a boon when it makes life better or easier for someone.
+  sent: It is for this reason that television proves such a boon to so many people.
+  roots: boon[=*bha-(2):to speak, tell, say]
+  exp: 词根表示"thing asked for"，之后引申出"a good thing received, a benefit enjoyed"的意思。
+- word: fate
+  freq: 2941
+  use: 107
+  pos: COUNTABLE NOUN
+  meaning: Fate is a power that some people believe controls and decides everything that happens, in a way that cannot be prevented or changed. You can also refer to the fates.
+  sent: I see no use arguing with fate.
+  roots: fate[=*bha-(2):to speak, tell, say]
+  exp: 词根表示"thing spoken (by the gods)"——也就是神一说，这事儿算是躲不过去了。从这个词可以一窥造词者的小迷信。
+  related:
+    - fatal
+    - fatality
+    - fatally
+    - fateful
+    - ill-fated
+- word: nefarious
+  freq: 19872
+  use: 95
+  pos: ADJECTIVE
+  meaning: If you describe an activity as nefarious, you mean that it is wicked and immoral.
+  sent: Why make a whole village prisoner if it was not to some nefarious purpose?
+  roots: ne[=*ne-:not] + far[=*bha-(2):to speak, tell, say] + ous[=-ous]
+  exp: 词根合起来表示not divinely spoken。表达的意思是"神没说的事你也敢干？"——那肯定wicked, immoral。
+- word: affable
+  freq: 16846
+  use: 87
+  pos: ADJECTIVE
+  meaning: Someone who is affable is pleasant and friendly.
+  sent: Mr. Brooke is an extremely affable and approachable man.
+  roots: af[=ad-:to] + fa[=*bha-(2):to speak, tell, say] + (a)ble[=-able]
+  exp: 用*bha-(2)表达who can be (easily) spoken to的感觉。
+  connect:
+    speak, tell, say:
+      - pleasant
+      - friendly
+- word: confess
+  freq: 3987
+  use: 68
+  meaning: If someone confesses to doing something wrong, they admit that they did it.
+  sent: He had confessed to seventeen murders.
+  roots: con[=con-:together] + fess[=*bha-(2):to speak, tell, say]
+  connect:
+    speak, tell, say:
+      - admit
+  related:
+    - confession
+    - confessional
+- word: emphasis
+  freq: 2367
+  use: -1
+  pos: VARIABLE NOUN
+  meaning: Emphasis is special or extra importance that is given to an activity or to a part or aspect of something.
+  sent: Too much emphasis is placed on research.
+  roots: em[=en-(2):in] + pha[=*bha-(1):to shine]
+  related:
+    - emphasize
+- word: symphony
+  freq: 8922
+  use: 34
+  pos: NOUN
+  meaning: A symphony is a piece of music written to be played by an orchestra. Symphonies are usually made up of four separate sections called movements.
+  sent: '...Beethoven''s Ninth Symphony.'
+  roots: sym[=syn-:together] + phon[=*bha-(2):to speak, tell, say] + y[=-y]
+  connect:
+    together:
+      - made up of four separate sections
+    speak, tell, say:
+      - music
+  exp: 词根合起来表示harmonious, agreeing in sound。
+- word: fantasy
+  freq: 2989
+  use: 70
+  pos: COUNTABLE NOUN
+  meaning: A fantasy is a pleasant situation or event that you think about and that you want to happen, especially one that is unlikely to happen.
+  sent: '...fantasies of romance and true love.'
+  roots: fan[=*bha-(1):to shine]
+  exp: 用shine表达to imagine, have visions的意思。
+  related:
+    - fantasize
+- word: infant
+  freq: 3063
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: An infant is a baby or very young child.
+  sent: '...holding the infant in his arms.'
+  roots: in[=*in-(1):not, opposite of] + fant[=*bha-(2):to speak, tell, say]
+  connect:
+    not:
+      - baby
+      - very young child
+    speak:
+      - baby
+      - very young child
+  exp: 词根合起来表示"not able to speak"。related words中的infantry<9685>的本意是"a youth"，之后引申出"foot soldiers, force composed of those too inexperienced or low in rank to be cavalry"的意思。
+  related:
+    - infancy
+    - infantry
+- word: prophet
+  freq: 7642
+  use: 23
+  pos: COUNTABLE NOUN
+  meaning: A prophet is a person who is believed to be chosen by God to say the things that God wants to tell people.
+  sent: '...the sacred name of the Holy Prophet of Islam.'
+  roots: pro[=pro-:before] + phet[=*bha-(2):to speak, tell, say]
+  connect:
+    speak, tell, say:
+      - tell
+  exp: 词根合起来表达"person who speaks for God; one who foretells"的意思，因为God号称总是先知的嘛。
+  related:
+    - prophecy
+    - prophetic
+- word: preface
+  freq: 13755
+  use: 22
+  pos: COUNTABLE NOUN
+  meaning: A preface is an introduction at the beginning of a book that explains what the book is about or why it was written.
+  sent: '...the preface to Kelman''s novel.'
+  roots: pre[=pre-:before] + face[=*bha-(2):to speak, tell, say]
+  connect:
+    before:
+      - beginning
+    speak, tell, say:
+      - explains
+- word: beckon
+  freq: 8964
+  use: 14
+  pos: INTRANSITIVE VERB
+  meaning: If you beckon to someone, you signal to them to come to you.
+  sent: He beckoned to the waiter.
+  roots: beck[=*bha-(1):to shine]
+  connect:
+    shine:
+      - signal
+  exp: 可以想像一下向一个人眨眨眼(shine)，示意(signal)其过来的画面。
+- word: bandit
+  freq: 12121
+  use: 12
+  pos: COUNTABLE NOUN
+  meaning: Robbers are sometimes called bandits, especially if they are found in areas where the law has broken down.
+  sent: This is real bandit country.
+  roots: band[=ban<3301>]
+  connect:
+    ban:
+      - law has broken down
+- word: phone
+  freq: 558
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: The phone is an electrical system that you use to talk to someone else in another place, by dialing a number on a piece of equipment and speaking into it.
+  sent: '"I didn''t tell you over the phone," she said. "I didn''t know who might be listening."'
+  roots: phone[=*bha-(2):to speak, tell, say]
+  connect:
+    speak, tell, say:
+      - talk
+      - speaking
+  guess:
+    - telephone
+    - microphone
+- word: epiphany
+  freq: 13080
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: An epiphany is a moment of sudden insight or understanding.
+  sent: '...Isaac Newton''s epiphany about gravity and a falling apple.'
+  roots: epi[=epi-:on, to] + phan[=*bha-(1):to shine]
+  connect:
+    shine:
+      - insight
+      - understanding
+- word: fairy
+  freq: 6461
+  use: 7
+  pos: COUNTABLE NOUN
+  meaning: A fairy is an imaginary creature with magical powers. Fairies are often represented as small people with wings.
+  roots: fair[=*bha-(2):to speak, tell, say] + y[=-y]
+  connect:
+    speak, tell, say:
+      - imaginary
+  exp: 用*bha-(2)表达"传说"的感觉。
+- word: abandon
+  freq: 2201
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you abandon a place, thing, or person, you leave the place, thing, or person permanently or for a long time, especially when you should not do so.
+  sent: He claimed that his parents had abandoned him.
+  roots: a[=ad-:to] + band[=ban<3301>]
+  connect:
+    ban:
+      - leave
+  related:
+    - abandoned
+    - abandonment
+- word: phase
+  freq: 2264
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A phase is a particular stage in a process or in the gradual development of something.
+  sent: This fall, 6000 residents will participate in the first phase of the project.
+  roots: phase[=*bha(1)-:to shine]
+  exp: 从shine引申出了to show, to make appear的意思，本来表示phase of the moon, particular recurrent appearance presented by the moon。
+- word: phenomenon
+  freq: 2488
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A phenomenon is something that is observed to happen or exist.
+  sent: '...scientific explanations of natural phenomena.'
+  roots: phen[=*bha-(1):to shine]
+  connect:
+    shine:
+      - observed
+- word: photon
+  freq: 10153
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A photon is a particle of light.
+  roots: photo[=photo-:light] + (o)n[=-on:unit]
+  connect:
+    light:
+      - light
+    unit:
+      - particle
+- word: beacon
+  freq: 10691
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A beacon is a light or a fire, usually on a hill or tower, that acts as a signal or a warning.
+  sent: '...a huge office tower with aircraft warning beacons on the roof.'
+  roots: beac[=*bha-(1):to shine]
+  connect:
+    shine:
+      - light
+      - fire
+- word: profess
+  freq: 10588
+  use: -1
+  pos: TRANSITIVE VERB
+  meaning: If you profess a feeling, opinion, or belief, you express it.
+  sent: He professed to be content with the arrangement.
+  roots: pro[=pro-:forth] + fess[=*bha-(2):to speak, tell, say]
+  connect:
+    speak, tell, say:
+      - express
+  exp: 词根合起来表示"declare openly, make public statement of"。
+  related:
+    - professor
+    - profession
+    - professional
+    - professionalism
+- word: phosphorus
+  freq: 14826
+  use: -1
+  pos: UNCOUNTABLE NOUN
+  meaning: Phosphorus is a poisonous yellowish-white chemical element. It glows slightly, and burns when air touches it.
+  roots: phos[=*bha-(1):to shine] + phor[=*bher-(1):to carry]
+  connect:
+    shine:
+      - glows
+      - burns
+  exp: 词根合起来表示light-bringing。中文一般提到phosphorus就是"鬼火磷光"，反正也算是和shine相关。
+- word: euphemism
+  freq: 15612
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A euphemism is a polite word or expression that is used to refer to things that people may find upsetting or embarrassing to talk about, for example sex, the human body, or death.
+  sent: The term "early retirement" is nearly always a euphemism for layoffs nowadays.
+  roots: eu[=eu-:good, well] + phem[=*bha-(2):to speak, tell, say] + ism[=-ism]
+  connect:
+    good, well:
+      - polite
+    speak, tell, say:
+      - word
+      - expression
+- word: phantom
+  freq: 15987
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A phantom is a ghost.
+  sent: They vanished down the stairs like two phantoms.
+  roots: phan[=*bha-(1):to shine]
+  connect:
+    shine:
+      - ghost
+- word: synthesis
+  freq: 8423
+  use: 31
+  pos: COUNTABLE NOUN
+  meaning: A synthesis of different ideas or styles is a mixture or combination of these ideas or styles.
+  sent: His novels are a rich synthesis of Balkan history and mythology.
+  roots: syn[=syn-:together] + thes[=*dhe-:to set, put]
+  connect:
+    together:
+      - mixture
+      - combination
+    put:
+      - mixture
+      - combination
+  guess:
+    - photosynthesis
+- word: photocopy
+  freq: 19299
+  use: -1
+  pos: COUNTABLE NOUN
+  meaning: A photocopy is a copy of a document made using a photocopier.
+  sent: He was shown a photocopy of the certificate.
+  roots: photo[=photo-:photographic] + copy[=copy<1941>]
+  connect:
+    photographic:
+      - photocopier
+    copy:
+      - copy
+- word: banal
+  freq: 16845
+  use: 88
+  pos: ADJECTIVE
+  meaning: If you describe something as banal, you do not like it because you think it is so ordinary that it is not at all effective or interesting.
+  sent: The text is banal.
+  roots: ban[=*bha-(2):to speak, tell, say] + al[=-al]
+  exp: 词根表示to speak publicly, open to everyone，因此才引申出了commonplace, ordinary的感觉。
 
 
 
 
-
-## TODO: finish all "related" tabs in root.yml
 # TODO: *kar-
+# (27, '*mag-'),
+# (32, '*apo-'),
 # (34, '*ambhi-'),
 # (39, '*skel-'),
 # (45, '*ne-'),
@@ -20915,12 +21293,9 @@
 # (61, '*med-'),
 # (63, '*al-'),
 # (74, '*man-'),
-# (83, '*bha-'),
 # (87, '*bher-'),
 # (103, '*ag-'),
 # (127, '*men-'),
 # (199, '*sta-'),
 # (228, '*dhe-'),
 # (437, '*per-')]
-# (27, '*mag-'),
-# (32, '*apo-'),
